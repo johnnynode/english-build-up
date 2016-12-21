@@ -1,10 +1,8 @@
 > 每天十个单词，本博客收集整理自《考研英语词汇》，仅供学习和个人积累。
 >
-> [新东方单词在线阅读地址](http://download.dogwood.com.cn/online/kychlx/iPhone.html) ，希望这个链接一直都有效 ：）
+> [新东方单词在线阅读地址](http://download.dogwood.com.cn/online/kychlx/iPhone.html) ，希望这个链接一直都有效 :)
 
----------
 ### 2016年12月20日 22:18:58
-
 
 - challenge
   * 词义： n. 挑战，艰巨任务 vt. 向...挑战
