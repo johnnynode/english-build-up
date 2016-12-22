@@ -2,4 +2,4 @@
 
 > English learning and progress
 
-- [wordList1](./wordList1.md)
+- [wordList1](./words/wordList1.md)
