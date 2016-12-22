@@ -123,3 +123,61 @@
   * 例句：  Those people pledge their allegiance to the flag of the United States Of America.
   * 翻译：  那些人对着美利坚合众国国旗宣誓效忠。
   * 同义：  loyalty (n.忠诚); devotion (n. 奉献;忠诚)
+  
+---------
+### 2016年12月22日 12:49:09
+
+- edition
+  * 词义：  n. 版本,版次,版
+  * 例句：  They are bringing out a new edition of the dictionary.
+  * 翻译：  他们正要出版这部词典的新版本.
+  
+- triumph
+  * 词义：  n. 胜利,成功  
+  * 例句：  We expected our army could return in triumph.
+  * 翻译：  我们盼望军队凯旋
+  * 考点：  triumph over 得胜, 战胜
+  
+- hostage
+  * 词义：  n. 人质  
+  * 例句：  The gunman told the police to back off or he would shoot a hostage.
+  * 翻译：  持枪歹徒要求警方退后,否则他就要枪杀一名人质.
+  * 同义：  pawn (n. 抵押品,人质)
+  
+- loaf
+  * 词义：  n. 一条面包 vi. 游荡,闲逛
+  * 例句：  The base of the loaf is overcooked, black and dirty.
+  * 翻译：  这条面包的底部烤的太过了, 又黑又脏
+  
+- applicable
+  * 词义：  a. (to) 能应用的,试用的
+  * 例句：  That regulation is not applicable to foreigners.
+  * 翻译：  那条规定不适用于外国人.
+  
+- motion
+  * 词义：  n. 运动,动 ; 提议 vt. 像...示意 
+  * 例句：  Last week, the faderal government endorsed a motion on social assistance.
+  * 翻译：  上个星期,联邦政府签署一项关于社会援助的提议
+  * 参考：  emotion (n. 情感,情绪)  promotion (n. 促进,发扬) 
+  
+- diploma
+  * 词义：  n. 文凭,学位证书  
+  * 例句：  Jim took a diploma from the University of London. 
+  * 翻译：  吉姆取得了伦敦大学的文凭.
+  
+- dragon
+  * 词义：  n. 龙
+  * 例句：  No one came into Dragon King Temple without breaking into a cold sweat.
+  * 翻译：  谁进龙王庙不捏一把冷汗?
+  * 参考：  dragonfly (n. 蜻蜓)
+  
+- contrast
+  * 词义：  vt. 使与...对照 vi.(with) 和...形成对照 n. 对照,对比,差异
+  * 例句：  The young man's black jacket contrasted sharply with his white pants.
+  * 翻译：  那个年轻男子的黑夹克和白裤子形成了鲜明的对比
+  * 考点：  by contrast 对比之下;  in contrast with/to 与...对比
+  
+- trend
+  * 词义：  n. 倾向,趋势 vi. 伸向; 倾向  
+  * 例句：  The price of the shares trend to go down.
+  * 翻译：  股票价格趋于低迷.
