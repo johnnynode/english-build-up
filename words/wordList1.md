@@ -181,3 +181,63 @@
   * 词义：  n. 倾向,趋势 vi. 伸向; 倾向  
   * 例句：  The price of the shares trend to go down.
   * 翻译：  股票价格趋于低迷.
+  
+---------
+### 2016年12月23日 12:51:13
+
+- honorable , honourable
+  * 词义：  a. 可敬的; 荣誉的,光荣的
+  * 例句：  The general did honorable service to his nation. 
+  * 翻译：  这位将军为祖国作出了接触的贡献
+  
+- freelance
+  * 词义：  a. 自由职业的
+  * 例句：  She became a freelance journalist after ten years.
+  * 翻译：  10年后,她成为了一名自由撰稿人.
+
+- appendix
+  * 词义：  n. 附属, 附属物 
+  * 例句：  Tom always brags that woman is a mere appendix to man.
+  * 翻译：  汤姆总是夸夸其谈,说女人只不过是男人的附属品.
+  
+- objection
+  * 词义：  n. 反对,异议
+  * 例句：  I have no objection to your proposal.
+  * 翻译：  我对你的提议没有异议.
+
+- inflation
+  * 词义：  n. 通货膨胀
+  * 例句：  In Britain, inflation is running half a percentage point below the rate predicted at the end of last year.
+  * 翻译：  英国的通货屏障率比去年年底预测的低0.5个百分点.
+  * 考点:   inflation rate 通货膨胀率 ; inflationary(a. 膨胀的;通货膨胀的)
+  * 派生:   inflationary (a. 膨胀的,通货膨胀的)
+  
+- substantial
+  * 词义：  a. 实质的,真实的 ; 坚固的,结实的; 富裕的,可观的
+  * 例句：  Corson observed the castle, a substantial 17th century mansion.
+  * 翻译：  柯森注视着这座城堡 -- 一栋坚固的17世纪的官邸
+  * 派生:   substantially(ad. 主要地, 实质上, 重大地)
+
+- hasty
+  * 词义：  a. 匆忙的,仓促的,草率的  
+  * 例句：  Yet again we can see the results of hasty decision-making.
+  * 翻译：  我们可以再次看到仓促做出决定的后果
+  * 同义:   cursory (a.草率的,匆匆忙忙的) rushed (a. 贸然的) fleet(a.快速的,敏捷的) expeditious(a. 迅速的,敏捷的) prompt(a. 迅速的) 
+  * 反义:   careful (a. 小心的,仔细的) leisurely (a.不慌不忙的,从容的)
+  
+- interpret
+  * 词义：  vt. 解释,说明 ; 了解,认为 ; 口译 ; vi.做口译
+  * 例句：  I interpreted Lucy's answer as a refusal. 
+  * 翻译：  我把露西的回答理解为是一种拒绝.
+  * 派生:   interpretation (n. 解释, 口译) interpreter (n. 口译者)
+
+- fraction
+  * 词义：  n. 碎片,小部分,一点儿 ; 分数
+  * 例句：  Only a fraction of my friends have cars.
+  * 翻译：  我朋友中只有小部分有车
+  * 考点:   a fraction of 一小部分
+  
+- romance
+  * 词义：  n. 传奇, 爱情故事  
+  * 例句：  This movie is a beautiful romance about a girl and a boy who met on the Internet.
+  * 翻译：  这部电影讲述的是一个女孩和一个男孩在网上邂逅的故事.
