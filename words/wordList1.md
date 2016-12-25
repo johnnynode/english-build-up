@@ -347,3 +347,73 @@
     * 例句：  Today is Mother's Day and all the jewellery is on sale at Rich's
     * 翻译：  今天是母亲节，瑞奇店里的所有首饰都打折。
     <br>
+
+---
+### 2016年12月25日 11:21:54
+
+-  dictate
+    * 词义：  v. 口述，(使)听写; 命令
+    * 例句：  The heir of the company always dictated his orders to the management.
+    * 翻译：  改公司的继承人，总是对企业的管理者指手画脚。
+    <br>
+
+-  lame
+    * 词义：  a. 跛的，站不住脚的；有缺陷的
+    * 例句：  The lame man always uses a stick when he walks.
+    * 翻译：  这个跛脚的男人走路时总是拄着一根拐杖。
+    * 同义：  disabled (a. 肢体有残疾的) handicapped (a. 有生理缺陷的)
+    <br>
+
+-  exhaust
+    * 词义：  vt. 使精疲力尽，耗尽 ；抽完，汲干 n. 排气装置；废气
+    * 例句：  The long war exhausted the strength of both countries.
+    * 翻译：  这场持久战耗尽了两国的国力。
+    * 考点：  be exhausted from (因..而十分匮乏) exhaust pipe 排气管
+    * 派生：  exhausted (耗尽的，疲惫的); exhausting (a.使精疲力尽的); exhaustive(a.彻底的；详尽的)
+    <br>
+
+-  stiff
+    * 词义：  a. 硬的，僵直的; 拘谨的，呆板的; 艰难的，费劲的
+    * 例句：  GRE is a stiff examination for me.
+    * 翻译：  GRE 考试堵我来说难度很大。
+    * 派生：  stiffness (n. 僵硬， 坚硬)
+    <br>
+
+-  pinch
+    * 词义：  n. 一撮，微量 ; 捏，掐； 紧缺，短缺。 vt. 捏，掐，拧
+    * 例句：  Ruth put a pinch of pepper into the dish.
+    * 翻译：  鲁思往菜里加了一撮胡椒粉。
+    * 考点：  energy pinch 能源紧缺
+    <br>
+
+-  pants
+    * 词义：  n. 长裤，便裤
+    * 例句：  Tom just wrote a little stretchy pants after bath.
+    * 翻译：  洗完澡后，汤姆只穿了一条弹力小裤衩。
+    <br>
+
+-  remnant
+    * 词义：  n.残余物； 零头布料，遗迹
+    * 例句：  The archaeologists are looking for the remnant of an old city.
+    * 翻译：  那些考古学家在寻找一座古城的遗迹。
+    * 同义：  remains (n. 残余，遗迹) leftover (n. 剩余物，残留物)
+    <br>
+
+-  projector
+    * 词义：  放映机，幻灯机，投影仪
+    * 例句：  None of the villagers knew how to operate the projector.
+    * 翻译：  村中没有人知道怎样操作放映机。
+    <br>
+
+-  torrent
+    * 词义：  n. 激流，山洪
+    * 例句：  The torrent destroyed the whole village in seconds.
+    * 翻译：  眨眼间，山洪吞噬了整个村子。
+    * 关联：  .torrent (bt 下载的种子文件)
+    <br>
+
+-  crisp
+    * 词义：  a. 脆的，易碎的
+    * 例句：  I love crisp biscuit.
+    * 翻译：  我喜欢吃脆饼。
+    <br>
