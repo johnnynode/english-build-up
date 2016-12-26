@@ -417,3 +417,86 @@
     * 例句：  I love crisp biscuit.
     * 翻译：  我喜欢吃脆饼。
     <br>
+    
+---
+### 2016年12月26日 12:43:02
+
+-  tag
+    * 词义：  n. 标签,货签 vt. 贴标签于
+    * 例句：  They tend to tag our group as antiscience.
+    * 翻译：  他们想给我们组织贴上反科学的标签.
+    <br>
+    
+-  duration  
+    * 词义：  n. 期间,持久,持续时间
+    * 例句：  We had to stay indoors for the duration of the SARS.
+    * 翻译：  "非典"持续期间,我们不得不呆在室内.
+    <br>
+    
+-  dealer
+    * 词义：  n. 商人,贩子
+    * 例句：  The dealer is just a cheap crook.
+    * 翻译：  那个商人不过是个卑鄙的骗子.
+    * 派生:   dealership n. 代理权
+    <br>
+    
+-  incident
+    * 词义：  n. 事件,事变  
+    * 短语：  a. touching incident  
+    * 翻译：  感人的事件
+    * 考点:   tragic incident (惨剧) 
+    <br>
+    
+-  zeal
+    * 词义：  n. 热情,热忱 
+    * 例句：  Emily entered with great zeal upon this task.
+    * 翻译：  埃米莉满怀热情地投入了这项工作.
+    <br>
+    
+-  rhythm
+    * 词义：  n. 节奏,韵律  
+    * 例句：  This music is written in a rhythm of three beats to a bar.
+    * 翻译：  这段音乐是以一小节三节拍的节奏写成的.
+    <br>
+    
+-  educate
+    * 词义：  vt.教育,培养,训练  
+    * 例句：  It may be said that the teacher has done his very best to educate and help him.
+    * 翻译：  老师对他的教育可谓是尽心尽力.
+    <br>
+    
+-  overlook
+    * 词义：  vt.漏看,忽略 ; 俯瞰,眺望; 宽容,放任
+    * 例句：  Mr.Richards is a perfectionist. He won't overlook even the slightest mistake.
+    * 翻译：  理查兹先生是个完美主义者,无论多小的错误他都不会放过.
+    * 派生:   overlooked (a. 被忽视的)
+    <br>
+    
+-  shear
+    * 词义：  vt. 剪,修剪 
+    * 例句：  They usually start shearing the sheep at the beginning of July.
+    * 翻译：  他们通常在7月初开始剪羊毛.
+    <br>
+    
+-  kidnap
+    * 词义：  vt. 绑架
+    * 例句：  The mother was worried about whether her daughter had been kidnapped.
+    * 翻译：  那位母亲很担心自己的女儿是否被绑架了.
+    <br>
+    
+-  propaganda
+    * 词义：  n. 宣传
+    * 例句：  There is much propaganda against smoking nowadays.
+    * 翻译：  现在有很多反对吸烟的宣传.
+    <br>
+    
+-  prescribe
+    * 词义：  vt. 指示,规定; 开处方,开(药) 
+    * 例句：  As long as a doctor prescribes a drug for a legitimate medical purpose,the doctor has done nothing illegal even if the patient uses the drug to hasten death.
+    * 翻译：  只要医生依据合法的医药用途开药,就不算做了什么违法的事,即时病人拿这种药来加速死亡.
+    <br>
+    
+-  cape
+    * 词义：  n. 斗篷,披肩; 海角 
+    * 例句：  In 1978,Naomi James became the first woman to sail solo around the world via Cape Horn.
+    * 翻译：  1978年,娜奥米·詹姆斯成为第一个肚子驾船绕过合恩角环游世界的女子.
