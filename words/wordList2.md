@@ -77,7 +77,7 @@
   <br>
   
 ---
-### 2016年12月28日12:44:24
+### 2016年12月28日 12:44:24
 
 - sane
 
@@ -158,4 +158,84 @@
   * 词义：  v. 刺,刺痛 n. 刺,刺痛,剧痛 
   * 例句：  As I walked in the park, a bee stung me.
   * 翻译：  我在公园散步的时候,被蜜蜂蛰了一下.
+  <br>
+  
+---
+### 2016年12月29日 12:52:32
+
+- linguistic
+
+  * 词义：  a. 语言的,语言学的
+  * 例句：  I'm not interested in this linguistic problem.
+  * 翻译：  我对这个语言学问题不感兴趣.
+  * 参考:   linguist (n.语言学家)
+  <br>
+  
+- outbreak
+
+  * 词义：  n. 爆发 
+  * 例句：  We didn't understand Jack's sudden outbreak of anger.
+  * 翻译：  我们不知道杰克为什么突然大怒.
+  <br>
+  
+- phrase
+
+  * 词义：  n.短语,词语,习语  
+  * 例句：  He used a phrase I hate: 'You have to be cruel to be kind.'
+  * 翻译：  他说了我讨厌的话: "要想善良,就得残忍". 
+  * 参考:   paraphrase (n./v. 解释)
+  
+  <br>
+  
+- brochure
+
+  * 词义：  n. 小册子 
+  * 例句：  We need a holiday brochure for reference.
+  * 翻译：  我们需要一本假日指南作参考.
+  * 参考:   pamphlet (n. 小册子)
+  <br>
+  
+- enormous
+
+  * 词义：  a. 巨大的,庞大的 
+  * 例句：  They overlooked the enormous risks involved.
+  * 翻译：  他们忽略了暗含着的巨大危险.
+  * 派生:   enormously (ad. 巨大地, 非常)
+  <br>
+  
+- exclude
+
+  * 词义：  vt. 拒绝, 把...排除在外,排斥  
+  * 例句：  We should not exclude the possibility of negotiation.
+  * 翻译：  我们不应该排除谈判的可能性.
+  * 派生:   exclusion (n. 排除,除外)
+  <br>
+  
+- spin
+
+  * 词义：  v. 旋转, 纺纱; 织网,吐丝  n. 旋转; 自转
+  * 例句：  Cotton is spun into thread at the factory.
+  * 翻译：  棉花在工厂被纺成了棉线.
+  <br>
+  
+- brutal
+
+  * 词义：  a. 残忍的, 严峻的, 严酷的  
+  * 例句：  The weather bureau forecast a winter of brutal cold this year. 
+  * 翻译：  气象局预测今年将是个寒冬.
+  <br>
+  
+- howl
+
+  * 词义：  vi. (狼,狗等) 嗥叫, (风等) 呼啸 vt.(因愤怒,痛苦等) 吼叫,哀号 n. 嗥叫; 吼叫,哀号
+  * 例句：  The crowd howled its displeasure.
+  * 翻译：  人们怒吼着标识不满.
+  * 同义:   wail (vi. 悲叹, 哀号 n.哀诉,恸哭) bellow (vi. 怒吼,咆哮 n.喊声,咆哮) yowl (n./vi. 嚎叫,恸哭)
+  <br>
+  
+- network
+
+  * 词义：  n. 网状物 ,广播网 ,网络  
+  * 例句：  Anti-hacker software will be used on the most common computer network platforms in China. 
+  * 翻译：  反黑客软件将用于中国最常见的计算机网络平台.
   <br>
