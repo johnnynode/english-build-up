@@ -239,3 +239,81 @@
   * 例句：  Anti-hacker software will be used on the most common computer network platforms in China. 
   * 翻译：  反黑客软件将用于中国最常见的计算机网络平台.
   <br>
+  
+---
+### 2016年12月30日 12:39:22
+
+- evident
+
+  * 词义：  a.明显的,明白的  
+  * 例句：  But as the storm passes, the USD weakness becomes even more evident.
+  * 翻译：  然而随着风暴过去了,美元的疲软变得更加明显
+  <br>
+  
+- dynamic (dynamical)
+
+  * 词义：  a. 动力的,电动的; 有生气的
+  * 例句：  The dynamic loudspeaker is of high quality.
+  * 翻译：  这个电喇叭的质量很好.
+  * 派生:   dynamics (n. 动力学)
+  <br>
+  
+- swan
+
+  * 词义：  n. 天鹅
+  * 例句：  The voice of the seagull and the wild swan sounds like a symphony.
+  * 翻译：  海鸥和野天鹅的鸣叫声听起来像一曲交响乐.
+  <br>
+  
+- rigorous
+
+  * 词义：  a. 严密的,缜密的 ; 严格的,严厉的; 严峻的 
+  * 例句：  The scientist's report was very rigorous.
+  * 翻译：  这位科学家的报告非常严谨.
+  * 同义:   meticulous (a.谨小慎微的) rigid (a. 严格的)
+  * 反义:   careless (a.粗心的,草率的)
+  <br>
+  
+- technology
+
+  * 词义：  n. 工艺,技术
+  * 例句：  Science has contributed much to modern technology.
+  * 翻译：  科学对现代技术作出了巨大贡献
+  * 派生:   technological (a.科技的) technologist (n. 工艺家,技术专家)  biotechnology (n. 生物科技)
+  <br>
+  
+- wax
+
+  * 词义：  n. 蜡,蜂蜡 v. 打蜡 
+  * 例句：  Tom swept, mopped, and then waxed the floor.
+  * 翻译：  汤姆扫地,拖地,还给地上了蜡
+  <br>
+  
+- pillow
+
+  * 词义：  n. 枕头 
+  * 例句：  Jane buried her head beneath a pillow and cried with heartbreaking sobs.  
+  * 翻译：  简把头埋在枕头里,哭得伤心欲绝.
+  <br>
+  
+- solidarity
+
+  * 词义：  n. 团结,一直
+  * 例句：  The country show solidarity in face of tsunami
+  * 翻译：  在海啸面前,全国团结一心.
+  <br>
+  
+- slaughter
+
+  * 词义：  vt. 屠杀, 杀戮, 屠宰 n. 屠杀,杀戮
+  * 例句：  The workers slaughter thousands of cows each day.
+  * 翻译：  工人们每天屠宰上千头牛.
+  * 同义:   carnage (n.残杀, 大屠杀) massacre(n/v 大屠杀)
+  <br>
+  
+- pit
+
+  * 词义：  n. 坑,陷阱 ; 煤矿, 矿井 
+  * 例句：  The collapse of the pit killed 14 men working in it.
+  * 翻译：  这次矿井坍塌事故导致14名在场工作的矿工死亡.
+  <br>
