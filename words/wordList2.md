@@ -299,8 +299,10 @@
 - solidarity
 
   * 词义：  n. 团结,一直
-  * 例句：  The country show solidarity in face of tsunami
+  * 例句：  The country show solidarity in face of tsunami .
   * 翻译：  在海啸面前,全国团结一心.
+  * 同义:   unity (n. 团结,一致) concord(n. 一致; 和谐)
+  * 反义:   split (n. 分裂)
   <br>
   
 - slaughter
