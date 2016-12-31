@@ -319,3 +319,78 @@
   * 例句：  The collapse of the pit killed 14 men working in it.
   * 翻译：  这次矿井坍塌事故导致14名在场工作的矿工死亡.
   <br>
+
+---
+### 2016年12月31日 23:44:03
+
+- decay
+
+  * 词义：   vt. 使腐朽，腐烂 n. 腐朽，腐烂； 衰减，衰退
+  * 例句：   I have to drill enough to prevent from decay.
+  * 翻译：   为了防止衰老，我必须充分锻炼。
+  <br>
+
+- pray
+
+  * 词义：   vt. 请求，恳求 ； 祈祷，祈求
+  * 例句：   I pray that my baby is healthy.
+  * 翻译：   我为我孩子的健康祈祷。
+  <br>
+
+- grand
+
+  * 词义：   a. 盛大的，豪华的; 重大的，主要的
+  * 例句：   The concert will be put on in that grand theatre.
+  * 翻译：   音乐会将在那家豪华剧院举行。
+  * 参考:    prey (n. 猎物)
+  <br>
+
+-  booth
+
+  * 词义：  n. 电话亭， 摊位
+  * 例句：  We asked a booth owner the way to the castle.
+  * 翻译：  我们向货摊老板打听去城堡的路。
+  <br>
+
+-  beware
+
+  * 词义：  vi. 当心，谨防
+  * 例句：  Motorists were warned to beware of slippery conditions.
+  * 翻译：  汽车驾驶员被提醒注意湿滑路况。
+  <br>
+
+-  occasion
+
+  * 词义：  n. 场合，时节，时刻，时机，机会
+  * 例句：  The boss decided to take advantage of this occasion to make great profits.
+  * 翻译：  老板决定用这词机会大赚一笔。
+  * 考点:   on occasion 有时，不时； by occasion of 由于
+  <br>
+
+- numerous
+
+  * 词义：  a. 众多的，许多的，大批的
+  * 例句：  Numerous enterprises bring better and more efficient services to consumers through the use of computers.
+  * 翻译：  许多公司通过电脑给顾客带来更好，更高效的服务。
+  <br>
+
+- element
+
+  * 词义：  n. 元素 ； 组成部分
+  * 例句：  Words are the elements of a sentence.
+  * 翻译：  词是句子的组成部分。
+  <br>
+
+-  nursery
+
+  * 词义：  n. 托儿所
+  * 例句：  Children in this nursery are taken good care of.
+  * 翻译：  这个托儿所的孩子受到很好的照顾。
+  <br>
+
+-  worship
+
+  * 词义：  n. 礼拜，礼拜仪式； 崇拜，敬仰 v. 崇拜，尊敬，做礼拜
+  * 例句：  Anna worships at the church down the street.
+  * 翻译：  安娜在沿街的那座教堂做礼拜。
+  <br>
