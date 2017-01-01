@@ -208,7 +208,7 @@
   * 词义：  vt. 拒绝, 把...排除在外,排斥
   * 例句：  We should not exclude the possibility of negotiation.
   * 翻译：  我们不应该排除谈判的可能性.
-  * 派生:   exclusion (n. 排除,除外)
+  * 派生：  exclusion (n. 排除,除外)
   <br>
 
 - spin
@@ -279,7 +279,7 @@
   * 词义：  n. 工艺,技术
   * 例句：  Science has contributed much to modern technology.
   * 翻译：  科学对现代技术作出了巨大贡献
-  * 派生:   technological (a.科技的) technologist (n. 工艺家,技术专家)  biotechnology (n. 生物科技)
+  * 派生：  technological (a.科技的) technologist (n. 工艺家,技术专家)  biotechnology (n. 生物科技)
   <br>
 
 - wax
@@ -393,4 +393,79 @@
   * 词义：  n. 礼拜，礼拜仪式； 崇拜，敬仰 v. 崇拜，尊敬，做礼拜
   * 例句：  Anna worships at the church down the street.
   * 翻译：  安娜在沿街的那座教堂做礼拜。
+  <br>
+
+---
+### 2017年1月1日 12:54:56
+
+-  dental
+
+  * 词义：  a. 牙齿的，牙科的
+  * 例句：  My cousin Mike has some dental problems.
+  * 翻译：  我的堂兄迈克牙有些毛病
+  <br>
+
+-  dense
+
+  * 词义：  a. 浓密的，密集的，稠密的
+  * 例句：  The colonists' first glimpse of the new land was a sight of dense woods.
+  * 翻译：  殖民者最先看到的是新大陆上一片茂密的森林。
+  <br>
+
+-  productivity
+
+  * 词义：  n. 生产率
+  * 例句：  Reforms are essential for the increase of productivity.
+  * 翻译：  改革对提高生产率来说至关重要。
+  * 考点：  productivity revolution 生产率的变革
+  <br>
+
+-  value
+
+  * 词义：  n. 阀; 电子管，真空管
+  * 例句：  The fireman opens the value, sending out a huge flume of water towards the fire.
+  * 翻译：  消防员打开阀门让大股的水柱喷向火苗。
+  <br>
+
+-  abuse
+
+  * 词义：  vt. 滥用， 虐待， 谩骂 n. 滥用
+  * 例句：  Mary was abused by her stepfather.
+  * 翻译：  玛丽被继父虐待
+  * 考点：  drug abuse 滥用药物  child abuse 虐待儿童
+  <br>
+
+-  circular
+
+  * 词义：  a. 圆形的，环形的 ； 循环的 n. 传单，通报
+  * 例句：  The students have known the content of the circular.
+  * 翻译：  学生们已经知道了通报的内容。
+  <br>
+
+-  classic
+
+  * 词义：  n. 杰作，名著 a. 第一流的，不朽的，典型的
+  * 例句：  Susan displayed the classic symptoms of depression.
+  * 翻译：  苏珊显现出忧郁症的典型症状
+  <br>
+
+-  revive
+
+  * 词义：  v. 恢复，使复苏
+  * 例句：  Peter slaps the girl in coma lightly in the face to revive her.
+  * 翻译：  彼得轻拍这个昏迷女孩的脸，使她苏醒过来。
+  <br>
+
+-  disguise
+
+  * 词义：  n. 假装，伪装 vt.假装，伪装
+  * 例句：  Betty cannot disguise her disappointment as no mail from her friend.
+  * 翻译：  因为没有收到朋友的邮件，贝蒂难掩心中的失望。
+  <br>
+
+-  deny
+
+  * 词义：  vt. 否认，否定 ；拒绝
+  * 例句：  One thing you should never deny your child is your time.
+  * 翻译：  有一样东西你永远都不要拒绝孩子，那就是你的时间。
   <br>
