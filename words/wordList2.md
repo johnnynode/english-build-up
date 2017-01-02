@@ -469,3 +469,118 @@
   * 例句：  One thing you should never deny your child is your time.
   * 翻译：  有一样东西你永远都不要拒绝孩子，那就是你的时间。
   <br>
+
+---
+### 2017年1月1日 13:17:24
+
+-  huddle
+
+  * 词义：  v. 聚集在一起，挤作一团
+  * 例句：  Tom was cold so he huddled up against the radiator.
+  * 翻译：  汤姆感到冷，便缩成一团靠在电暖炉旁。
+  * 考点：  huddle up (against/to sb./sth.) 把身体蜷作一团。
+  <br>
+
+-  cheat
+
+  * 词义：  v. 欺骗；作弊  n. 骗子 ， 欺诈，欺骗行为。
+  * 例句：  The company's financial activity turned out to be a cheat.
+  * 翻译：  这家公司的财务活动原来是欺诈行为。
+  <br>
+
+-  cellar
+
+  * 词义：  n. 地窖， 地下室
+  * 例句：  The cellar seems even older than the house.
+  * 翻译：  地窖看上去比那栋房子还古老。
+  * 同义：  basement (n. 地下室)
+  * 参考：  collar(n. 衣领)
+  <br>
+
+-  court
+
+  * 词义：  n. 法院，法庭； 宫廷，朝廷 ； 院子； 球场
+  * 例句：  The door at the end of the court opened and two men walked in.
+  * 翻译：  院子尽头的那扇门开了，走进来两个人。
+  <br>
+
+-  namely
+
+  * 词义：  ad. 即， 也就是。
+  * 例句：  Only one boy was absent, namely Tom.
+  * 翻译：  只有一个男孩缺席，那就是汤姆
+  <br>
+
+-  paw
+
+  * 词义：  n. 爪，手, <俚语> 笔迹 vt.用爪抓，艰难行走 vi. 用爪子抓，翻找
+  * 例句：  The kitten was black with white front paws and a white splotch on her chest.
+  * 翻译：  那只黑色小猫长着前爪，胸口上有一块白斑。
+  <br>
+
+-  undertake
+
+  * 词义：  vt. 承担，单人； 许诺，保证；
+  * 例句：  Mary will undertake the project of renovating her house on Saturday.
+  * 翻译：  玛丽将在星期六着手翻新她的房子。
+  * 派生：  undertaking (n. 企业，承诺)
+  <br>
+
+-  instrumental
+
+  * 词义：  a. 起作用的，有帮助的； 乐器的
+  * 例句：  The witness's information was instrumental in catching the criminal.
+  * 翻译：  目击证人提供的消息有助于捉拿那名罪犯。
+  <br>
+
+-  generate
+
+  * 词义：  vt. 产生， 发生
+  * 例句：  We can generate electric power by splitting atoms.
+  * 翻译：  我们可以利用原子核裂变来发电。
+  * 考点：  generate electricity 发电
+  <br>
+
+-  threat
+
+  * 词义：  n. 恐吓， 威胁； 坏兆头，危险迹象。
+  * 例句：  The black clouds are the threat of rain.
+  * 翻译：  乌云是要下雨的征兆。
+  <br>
+
+-  manual
+
+  * 词义：  a. 手工的，手工做的，体力的  n. 手册，指南
+  * 例句：  They have no reservations about taking factory or manual jobs.
+  * 翻译：  他们对在工厂做工人或者干体力活都没有意见。
+  <br>
+
+-  hamburger
+
+  * 词义：  n. 汉堡包， 牛肉饼
+  * 例句：  When we were poor in the past, our meager diet only consisted of a hamburger.
+  * 翻译：  过去我们很穷，食物少的可怜，每餐只有一个汉堡包。
+  <br>
+
+-  converge
+
+  * 词义：  vi. (在一点上会合)；互相靠拢； 聚集，集中； 趋近。
+  * 例句：  There is a tree where the two rivers converge.
+  * 翻译：  两条河会合的地方有一棵树。
+  <br>
+
+-  default
+
+  * 词义：  n. 违约， 拖欠， 弃权拖欠； [计] 缺省，默认 vi. 不履行义务，拖欠
+  * 例句：  He committed suicide because he defaulted on a lot of debt which he can't pay.
+  * 翻译：  他因无法偿还拖欠的大笔债务自杀了
+  <br>
+
+> 名言：
+> The world won't care about your self-esteem.
+> The world will expect you to accomplish something befoe you feel good about yourself.
+> -- Bill Gates
+
+> 这世界并不会在意你的自尊。
+> 这世界指望你在自我感觉良好之前先要有所成就。
+> -- 比尔·盖茨
