@@ -103,7 +103,7 @@
 - tentative
 
   * 词义：  a. 尝试的,实验性的
-  * 例句：  All the throries are tentative and are subject to criticism.
+  * 例句：  All the theories are tentative and are subject to criticism.
   * 翻译：  所有这些理论都是尝试性的,很容易受到批评.
   <br>
 
@@ -420,10 +420,10 @@
   * 考点：  productivity revolution 生产率的变革
   <br>
 
--  value
+-  valve
 
   * 词义：  n. 阀; 电子管，真空管
-  * 例句：  The fireman opens the value, sending out a huge flume of water towards the fire.
+  * 例句：  The fireman opens the valve, sending out a huge flume of water towards the fire.
   * 翻译：  消防员打开阀门让大股的水柱喷向火苗。
   <br>
 
