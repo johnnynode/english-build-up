@@ -81,3 +81,83 @@
   * 例句：  You must blend the flour and eggs and sugar together before you make cakes.
   * 翻译：  做蛋糕前,要先把面粉,鸡蛋和糖和在一起.
   <br>
+  
+### 没写完,晚上继续.
+
+- crab
+
+  * 词义：  n. 螃蟹, 蟹肉
+  * 例句：  The contaminants included emissions from small factories and crab farms along the shore.
+  * 翻译：  污染物包括湖边的小工厂和螃蟹养殖场的排放物
+  <br>
+  
+- ample
+
+  * 词义：  a. 充分的,富裕的 ; 宽敞的,宽大的  
+  * 例句：  The children in poverty mountain area are eager for an ample and bright classroom.
+  * 翻译：  贫困山区的孩子都渴望有一间又宽敞又明亮的教室.
+  * 同义:   spacious (a. 广大的) plentiful (a. 大量的)
+  * 反义:   insufficient (a. 不足的,不够的)
+  * 参考:   amble (vi. 缓行) trample (n./v. 踩踏)
+  <br>
+  
+- urban
+
+  * 词义：  a. 城市的
+  * 例句：  Most of the population is an urban population
+  * 翻译：  绝大多数人口都是城镇居民.
+  * 派生:   urbanization (n. 都市化,城市化) suburban (a.郊外的, 偏远的)
+  <br>
+  
+- preside
+
+  * 词义：  vi. 主持  
+  * 例句：  The old professor had presided over a seminar for theoretical physicists.
+  * 翻译：  老教授主持了一次理论物理学家的研讨会.
+  * 派生:   president (n. 总统)
+  <br>
+  
+- psychology
+
+  * 词义：  n. 心理学 ,心理
+  * 例句：  This is an exercise in market psychology, not science.
+  * 翻译：  这是一场市场心理演练,而非科学实验.
+  * 派生:   psychologist (n. 心理学者,心理学家) psychological (a.心理的) 
+  * 参考:   psychoanalyst (n. 心理分析学者) psychoactive (a. 作用于精神的)
+  <br>
+  
+- rash
+
+  * 词义：  n. 疹,皮疹 ; 一连串令人不快的事物. a. 鲁莽的,轻率的  
+  * 例句：  It's  stupid of you to make such rash decision.
+  * 翻译：  这么轻率的做决定,你真是太鲁莽了.
+  <br>
+  
+- radical
+
+  * 词义：  a. 基本的, 重要的,根本的; 激进的,极端的  
+  * 例句：  He took up a radical position on this issue.
+  * 翻译：  他对这个问题抱着激进的态度.
+  * 派生:   radically (ad. 根本上, 根本地)
+  <br>
+  
+- document
+
+  * 词义：  n. 公文,文件,文献 
+  * 例句：  It was an important document and he was weighting his words.
+  * 翻译：  那是一份重要文件,他正在推敲用词.
+  <br>
+  
+- 
+
+  * 词义：  
+  * 例句：  
+  * 翻译：  
+  <br>
+  
+- 
+
+  * 词义：  
+  * 例句：  
+  * 翻译：  
+  <br>
