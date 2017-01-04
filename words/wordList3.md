@@ -82,7 +82,7 @@
   * 翻译：  做蛋糕前,要先把面粉,鸡蛋和糖和在一起.
   <br>
   
-### 没写完,晚上继续.
+### 2017年1月4日 20:32:14
 
 - crab
 
@@ -148,16 +148,16 @@
   * 翻译：  那是一份重要文件,他正在推敲用词.
   <br>
   
-- 
+- inventory
 
-  * 词义：  
-  * 例句：  
-  * 翻译：  
+  * 词义：  n. 详细目录 ； 存货清单，物品清单，库存物品
+  * 例句：  We only have medium in stock right now, but we have new inventories coming in shortly.
+  * 翻译：  我们现在库存只有中号的，但是我们马上就会有新货进来。
   <br>
   
-- 
+- pillar
 
-  * 词义：  
-  * 例句：  
-  * 翻译：  
+  * 词义：  n. 柱， 台柱， 栋梁
+  * 例句：  He had been the pillar of the club all his life.
+  * 翻译：  他一生都是这家俱乐部的台柱。
   <br>
