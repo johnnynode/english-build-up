@@ -115,7 +115,7 @@
   * 词义：  n. 纪律，规定； 学科；训练
   * 例句：  Without discipline, there is no method.
   * 翻译：  没有规矩，不成方圆。
-  * 派生：  disciplined a. 受过训练的 ，遵守记录的。
+  * 派生：  disciplined a. 受过训练的 ，遵守纪律的。
   <br>
 
 - terrific
@@ -273,7 +273,7 @@
   * 词义：  n. 碎片,小部分,一点儿 ; 分数
   * 例句：  Only a fraction of my friends have cars.
   * 翻译：  我朋友中只有小部分有车
-  * 考点:   a fraction of 一小部分
+  * 考点：  a fraction of 一小部分
   <br>
 
 - romance
@@ -442,9 +442,9 @@
     
 -  incident
     * 词义：  n. 事件,事变  
-    * 短语：  a. touching incident  
+    * 短语：  a touching incident
     * 翻译：  感人的事件
-    * 考点:   tragic incident (惨剧) 
+    * 考点：  tragic incident (惨剧)
     <br>
     
 -  zeal
