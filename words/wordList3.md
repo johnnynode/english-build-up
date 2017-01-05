@@ -161,3 +161,78 @@
   * 例句：  He had been the pillar of the club all his life.
   * 翻译：  他一生都是这家俱乐部的台柱。
   <br>
+
+### 2017年01月05日 20:55:49
+
+- harm
+
+  * 词义：  n. (to) 伤害，损害，危害。 vt. 伤害， 损害， 危害
+  * 例句：  Can you discern that your enemies are doing harm to you ?
+  * 翻译：  你能觉察到你的敌人正在伤害你吗？
+  * 派生：  harmful (a. 有害的) unharmful (a. 无害的) harmfully (ad. 有害地， 伤害地)
+  <br>
+
+- grip
+
+  * 词义：  v.紧握， 抓紧 n. 握，抓紧
+  * 例句：  She tried to disengage her hands from his grip.
+  * 翻译：  她企图挣脱被他牢牢握住的手。
+  <br>
+
+- antenna
+
+  * 词义：  n. 天线
+  * 例句：  They erected a television antenna on the roof.
+  * 翻译：  他们在屋顶上架起了电视天线。
+  <br>
+
+-  sip
+
+  * 词义：  v. 啜饮 抿，呷  n. 小口喝，一小口的量
+  * 例句：  Anne sipped at the coffee because it was hot.
+  * 翻译：  安妮只抿了一小口咖啡，因为太烫了。
+  <br>
+
+-  devise
+
+  * 词义：  vi. 设计，想出，发明
+  * 例句：  The government devised a scheme for redeveloping the city center.
+  * 翻译：  政府制订了市中心重建计划。
+  <br>
+
+-  bold
+
+  * 词义：  a. 大胆的，勇敢的。 冒失的，冒昧的。 黑体的，粗体的。
+  * 例句：  The headwords in this dictionary are in bold type.
+  * 翻译：  本词典的词条用的是粗体字。
+  <br>
+
+-  highly
+
+  * 词义：  ad. 高度地， 很， 非常 ； 赞许地
+  * 例句：  He spoke hightly of the novel and he almost worshipped the ground the author trod on.
+  * 翻译：  他高度赞扬了这部小说，并且对作者简直崇拜得五体投地。
+  <br>
+
+-  stadium
+
+  * 词义：  n. 体育场
+  * 例句：  The pop concert was mounted in a sports stadium.
+  * 翻译：  流行歌曲演唱会是在体育场举行的。
+  <br>
+
+-  diffuse
+
+  * 词义：  vi. 扩散 vt. 传播，散步  a. (文章等)冗长的，漫无边际的 ； 四散的，弥散的。
+  * 例句：  The printing press helped diffuse scientific knowledge.
+  * 翻译：  印刷术有助于传播科学知识。
+  * 派生：  diffusion (n. 扩散，传播)
+  <br>
+
+-  globe
+
+  * 词义：  n. 球体， 地球仪； 地球，世界
+  * 例句：  From space the earth looks like a huge water covered globe.
+  * 翻译：  从太空观看，地球就像一个巨大的被水覆盖着的球体。
+  * 考点：  across/around globe. 全球，全世界
+  <br>
