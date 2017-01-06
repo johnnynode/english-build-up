@@ -236,3 +236,79 @@
   * 翻译：  从太空观看，地球就像一个巨大的被水覆盖着的球体。
   * 考点：  across/around globe. 全球，全世界
   <br>
+
+### 2017年1月6日 23:31:26
+
+-  negligible
+
+  * 词义：  a.可以忽略的，微不足道的
+  * 例句：  I don't see any ground for you to crow your head off like that when the achievement in your work is negligible.
+  * 翻译：  我认为你在工作上取得的进步是微不足道的，没有任何理由值得这样大吹大擂。
+  <br>
+
+-  mostly
+
+  * 词义：  ad. 主要的，大部分，通常
+  * 例句：  This newspaper circulates mostly in the commercial districts.
+  * 翻译：  这份报纸主要在商业区内销售。
+  <br>
+
+-  dine
+
+  * 词义：  vi. 吃饭，进餐
+  * 例句：  As I was finishing my meal, an older couple came in to dine.
+  * 翻译：  就在我快吃完的时候，一对年长的夫妇走进来用餐。
+  <br>
+
+-  graph
+
+  * 词义：  n. 图表，曲线图
+  * 例句：  As you can see from this steep falling graph, our market share is sliding.
+  * 翻译：  由这张直线下降的曲线图你可以看出，我们的市场份额正在下滑。
+  <br>
+
+-  tile
+
+  * 词义：  n. 瓦片，瓷砖
+  * 例句：  The building is old, with scuffed tile floors and aged metal shelves.
+  * 翻译：  房子很旧，地面上的瓷砖已经磨坏了， 金属货架也有年头了。
+  * 参考：  fertile (a. 肥沃的) hostile (a. 敌对的) textile (n. 纺织品)
+  <br>
+
+-  gaol/jail
+
+  * 词义：  n. 监狱，拘留所 vt.监禁某人
+  * 例句：  If you break the law, you can go to gaol.
+  * 翻译：  如果你犯了法，就得进监狱。
+  <br>
+
+-  segregate
+
+  * 词义：  vt. 隔离，分开
+  * 例句：  Oils segregate out of water becaus the oil-oil interaction is more favorable than the oil-water interaction.
+  * 翻译：  油能和水分开，是因为油分子之间的作用比油水分子简的作用强。
+  * 同义：  isolate (vt. 使故里，使独立) separate (分开，隔离)
+  * 反义：  unite (v. 联合)
+  <br>
+
+-  spider
+
+  * 词义：  n. 蜘蛛
+  * 例句：  The whole house was riddled with spider webs.
+  * 翻译：  整间屋子都挂满了蜘蛛网。
+  <br>
+
+-  invasion
+
+  * 词义：  n. 侵入，侵略
+  * 例句：  Since the invasion of the German, my teacher would never teach German for anything.
+  * 翻译：  自从德国人入侵后，我的老师再也不肯教德文了。
+  <br>
+
+-  precedent
+
+  * 词义：  n. 先例，范例，惯例
+  * 例句：  Is there a precedent for what you want me todo?
+  * 翻译：  你要我做的事有前例可援吗？
+  * 派生：  precedable (a. 可能被超前的，可能先发生的)。
+  <br>
