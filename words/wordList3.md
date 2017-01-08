@@ -312,3 +312,84 @@
   * 翻译：  你要我做的事有前例可援吗？
   * 派生：  precedable (a. 可能被超前的，可能先发生的)。
   <br>
+
+### 2017年1月6日 23:31:26
+
+-  critical
+
+  * 词义：  a. 批评的，评论的; 危急的，紧要的; 挑剔的
+  * 例句：  Bill grew tired of his critical girlfriend.
+  * 翻译：  比尔越来越烦他那个爱挑剔的女友了。
+  * 考点：  be critical of 爱挑毛病的，批评的。
+  * 派生：  critically (ad. 批评地，挑剔地)
+  * 同义：  crucial (a. 至关紧要的) captious (a. 吹毛求疵的)
+  * 反义：  uncritical (不加批判的，不严厉的)
+  <br>
+
+-  excursion
+
+  * 词义：  n. 短途旅行，游览
+  * 例句：  The whole excursion took eight hours.
+  * 翻译：  整个短途旅行花了八个小时。
+  <br>
+
+-  commit
+
+  * 词义：  vt. 把...交托给 ； 犯（错误）， 干 （坏事）
+  * 例句：  The novelist makes his heroine commit suicide at the end of the book.
+  * 翻译：  那本小说的作者在书的结尾让女主人公自杀了。
+  * 考点：  commit crimes 犯罪， commit suicide 自杀。
+  <br>
+
+-  integrate
+
+  * 词义：  v (into,with) （使）成为一体， （使）结合在一起， （使）合并
+  * 例句：  Some countries want to integrate into this organization.
+  * 翻译：  一些国家想加入这一组织。
+  * 派生：  disintegrate (vt. 使分裂，使分解) integrated (a. 综合的，完整的) integration (n. 一体化)
+  <br>
+
+-  message
+
+  * 词义：  n. 消息， 信息， 通讯； 启示，要旨
+  * 例句：  This is a film with a profound message.
+  * 翻译：  这是一部寓意深刻的影片。
+  * 参考：  messenger (n. 送信者， 使者)
+  <br>
+
+-  crash
+
+  * 词义：  v. 碰撞，坠落，崩溃 n. 碰撞，坠落，摔坏; 失败，瓦解，崩溃；撞击声，爆裂声
+  * 例句：  Jane's thought was interrupted by a loud crash outside.'
+  * 翻译：  简的思绪被外面一声巨大的爆裂声打断了。
+  <br>
+
+-  environment
+
+  * 词义：  n. 环境，外界
+  * 例句：  They assimilated their customs and behavior to the new environment.
+  * 翻译：  他们改变了他们的风俗和行为以适应新环境。
+  * 派生：  environmental (a. 环境的，周围的) environmentalist (n. 环保主义者)
+  <br>
+
+-  cosy/cozy
+
+  * 词义：  a. 温暖而舒适的
+  * 例句：  I felt all cosy tucked up in bed.
+  * 翻译：  我钻进被窝里，感觉舒适又温暖。
+  * 同义：  comfortable (a. 舒适的)
+  <br>
+
+-  boundary
+
+  * 词义：  n. 分界线，边界
+  * 例句：  The river determines the natural boundary between the two countries.
+  * 翻译：  这条河流成为这两国间的天然边界线。
+  <br>
+
+-  peep
+
+  * 词义：  vi. 偷看，窥视
+  * 例句：  Jim peeped through the keyhole to see whether his friend was in.
+  * 翻译：  吉姆透过钥匙孔看看朋友是否在家。
+  <br>
