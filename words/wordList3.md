@@ -393,3 +393,77 @@
   * 例句：  Jim peeped through the keyhole to see whether his friend was in.
   * 翻译：  吉姆透过钥匙孔看看朋友是否在家。
   <br>
+
+
+### 2017年1月6日 23:31:26
+
+-  toast
+
+  * 词义：  n. 烤面包， 吐司，祝酒（词） v. 烤，烘烤， 向（...）祝酒
+  * 例句：  My boss offered a toast in honor of my wedding.
+  * 翻译：  这位面包师把面包烤成了金黄色。
+  <br>
+
+-  conductor
+
+  * 词义：  n. 领队， （乐队）指挥 ； （电车等的）公共汽车售票员； 导体，导线。
+  * 例句：  Wood is a poor conductor of heat and electricity.
+  * 翻译：  木头是热和电的不良导体。
+  * 派生：  semiconductor (n. 半导体)
+  <br>
+
+-  neighborhood (neighbourhood)
+
+  * 词义：  n. 邻居，四邻，街道，住宅区
+  * 例句：  Everyone in the neighborhood lamented the death of my Uncle Robert.
+  * 翻译：  附近的每个人都对罗伯特叔叔的死表示哀悼。
+  <br>
+
+-  halt
+
+  * 词义：  n. 止步，停步，停止前进  v. 止步， （使）停止
+  * 例句：  He agreed to halt research into muclear and chemical weapons.
+  * 翻译：  他同意停止核武器和化学武器的研究
+  <br>
+
+-  isle
+
+  * 词义：  n. 小岛，岛
+  * 例句：  Ireland is something called the "Emerald Isle"
+  * 翻译：  爱尔兰有时被称为“翡翠岛”。
+  <br>
+
+-  intrigue
+
+  * 词义：  vi. 密谋， 施诡计 vt. 引起极大兴趣   n. 阴谋
+  * 例句：  They're intriguing against the government.'
+  * 翻译：  他们正密谋反对政府。
+  <br>
+
+-  character
+
+  * 词义：  n. 性格， 品质， 特性，特征 ； 人物，角色； 字符， 字
+  * 例句：  The book is written in Chinese characters.
+  * 翻译：  这本书是用汉字写的。
+  <br>
+
+-  stoop
+
+  * 词义：  vi. 弯腰，俯身 n. 弯腰，曲背
+  * 例句：  We have to stoop all the way down the tunnel.
+  * 翻译：  穿过这条隧道时，我们得一直弯着腰。
+  <br>
+
+-  cater
+
+  * 词义：  vi. 迎合； 提供饮食及服务
+  * 例句：  The restaurant caters for vegetarians and those with a sweet tooth.
+  * 翻译：  这家餐馆为素食主义者和喜爱甜食的人提供餐饮服务。
+  <br>
+
+-  inertia
+
+  * 词义：  n. 不活动，惰性； 惯性
+  * 例句：  Inertia is the tendency of a body to resist acceleration.
+  * 翻译：  惯性是物体抗拒加速度的倾向。
+  <br>
