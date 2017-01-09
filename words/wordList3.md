@@ -467,3 +467,111 @@
   * 例句：  Inertia is the tendency of a body to resist acceleration.
   * 翻译：  惯性是物体抗拒加速度的倾向。
   <br>
+
+### 2017年01月08日 23:08:21
+
+-  deviate
+
+  * 词义：  vi. 背离， 偏离
+  * 例句：  As a reporter, there is no licence for his news to deviate from teh truth.
+  * 翻译：  记者所报道的新闻，绝不允许偏离事实。
+  * 考点：  deviate from 偏离， 不按... 办
+  * 同义：  swerve （v. 突然转向）
+  <br>
+
+-  drawer
+
+  * 词义：  n. 画家，抽屉
+  * 例句：  My drawer is full of old papers and other rubbish.
+  * 翻译：  我的抽屉里净是些旧文件和其他没用的东西。
+  <br>
+
+-  closet
+
+  * 词义：  a. 私下的，隐蔽的  n. 橱，壁橱 vt. 把... 引进密室会谈
+  * 例句：  My boss has been closeted with the police for several hours.
+  * 翻译：  我的老板被警察叫到密室里谈话已经有几个小时了。
+  <br>
+
+-  deadly
+
+  * 词义：  a. 致命的， 致死的
+  * 例句：  The accident subjected her to a deadly blow.
+  * 翻译：  这次意外使她受到致命的打击。
+  <br>
+
+-  luggage
+
+  * 词义：  n. 行李
+  * 例句：  Please carry the luggage upsgtairs while I book the guests in.
+  * 翻译：  我为客人登记，请你把行李拿到楼上去。
+  <br>
+
+-  plausible
+
+  * 词义：  a. 似乎合理的，似乎可信的。
+  * 例句：  They jury believed the witness's plausible testimony.'
+  * 翻译：  陪审团相信了证人看似可信的证词。
+  <br>
+
+-  vice
+
+  * 词义：  n. 邪恶，坏事 ； 恶习  a. 副的
+  * 例句：  I can't bear his vise of untidiness
+  * 翻译：  我无法忍受他不讲卫生的恶习。
+  * 考点：  vice versa 反之亦然
+  <br>
+
+-  repay
+
+  * 词义：  vt. 付还，偿还； 报答，回报
+  * 例句：  We repay his friendship with sympathy and kindness.
+  * 翻译：  我们以同情和亲切来回报他的友谊。
+  * 派生：  repayment (n.偿还款项；报答)
+  <br>
+
+-  underneath
+
+  * 词义：  prep. 在...下面 ad. 在下面 ， 在底下
+  * 例句：  On the sidewalk, I could hear the subway as it passed underneath.
+  * 翻译：  在人行道上，我能听到脚下地铁通过的声音。
+  <br>
+
+- blur
+
+  * 词义：  n. 模糊不清的事物， 污点 v.(使) 模糊，污损
+  * 例句：  The hot oil made a blur on the clothes.
+  * 翻译：  热油在衣服上留下了污点。
+  <br>
+
+- percentage
+
+  * 词义：  n. 百分数， 百分率， 百分比
+  * 例句：  The salesmen get a percentage on everything they sell.
+  * 翻译：  推销员可以从他们卖掉的商品中获得一定百分比的提成。
+  <br>
+
+- nucleus
+
+  * 词义：  n. 核，原子核 ； 核心
+  * 例句：  The President was at the nucleus of the press conference.
+  * 翻译：  总统是这次记者招待会的核心。
+  <br>
+
+- ambiguous
+
+  * 词义：  a. 模棱两可的
+  * 例句：  The story purposely portrayed the protagonist in an ambiguous way.
+  * 翻译：  这个故事故意用这样一种模棱两可的方式来描绘主人公。
+  * 派生：  unambiguous a. 明确的
+  * 同义：  obscure (a. 模糊的)   inexplicable  a. 无法解释的
+  <br>
+
+> 名言：
+>
+> One way overcome a thousand men in battle ,but he who conquers himself is the greatest victor.<br>
+> --- Nehru
+>
+> 一个人能够在战场上制胜千军，但只有战胜自己才是最伟大的胜利者。<br>
+> --- 尼赫鲁
+
