@@ -65,3 +65,79 @@
   * 例句： It does grieve me to see you going into trouble again.
   * 翻译： 看到你再次陷入麻烦，真是令我伤心。
   <br>
+
+---
+### 2017年01月11日 23:12:33
+
+- provision
+  * 词义：  n.供应，供应品； 准备，预备； 条款，规定； 给养，口粮
+  * 例句：  The couple spent all their money and made no provision for the future.
+  * 翻译：  那对夫妻花光了他们呢所有的钱，没有为将来做准备。
+  <br>
+
+
+- contradict
+  * 词义：  v. 反驳; 同...矛盾， 同...抵触
+  * 例句：  Their actions contradict their principles.
+  * 翻译：  他们的行为与他们的原则相矛盾。
+  * 派生：  contradictory (a. 反驳的， 反对的)
+  * 同义：  deny (vt. 驳斥， 反对)
+  <br>
+
+
+- infectious
+  * 词义：  a. 传染的，传染性的； 有感染力的
+  * 例句：  SARS is considered an infectious disease.
+  * 翻译：  "非典" 被认为是一种传染性疾病。
+  <br>
+
+
+- mat
+  * 词义：  n. 席子，垫子
+  * 例句：  Put the hot dish down on the mat, so you won't spoil the table.'
+  * 翻译：  把热菜盘放在小垫子上，这样就不会烫坏桌面了。
+  * 参考：  doormat (n. 擦鞋垫)
+  <br>
+
+
+- union
+  * 词义：  n. 协会，工会，同盟 ； 联合，合并； 一致，融洽
+  * 例句：  The union of the two companies resulted in a powerful corporation.
+  * 翻译：  这两家公司合并后形成了一个实力强大的公司。
+  <br>
+
+- intelligible
+  * 词义：  a. 可理解的，易领悟的； 清楚的
+  * 例句：  The word pronunciation in this tape is not intelligible.
+  * 翻译：  这盘磁带里的单词发音不清楚。
+  * 同义：  clear （a.清除的，明白的） distinct (a. 清楚的，明显的)
+  * 反义：  unintelligible (a. 难解的，无法了解的) incomprehensible (a. 不能理解的，难以领悟的)
+  <br>
+
+
+- supplement
+  * 词义：  n. 增补，补充； 增刊； 增补，补充
+  * 例句：  I like reading the colorful supplements of the newspaper.
+  * 翻译：  我喜欢看报纸的彩色副刊。
+  <br>
+
+
+- propel
+  * 词义：  vt. 推进，推动； 激励，驱使
+  * 例句：  Jack's greed propelled him towards a path of crime.
+  * 翻译：  贪婪使杰克走上犯罪的道路。
+  <br>
+
+
+- torch
+  * 词义：  n. 手电筒； 火炬， 火把
+  * 例句：  The Olympics torch was lighted on Mount Olympus by the sun's rays.'
+  * 翻译：  奥运火炬是由奥林匹亚山上的阳光点燃的。
+  <br>
+
+
+- appal (appall)
+  * 词义：  vt. 使惊骇， 使恐怖
+  * 例句：  The punk funs were appalled by the sudden suicide of their favorite singer.
+  * 翻译：  这些朋克迷对他们最喜爱的歌手突然自杀感到惊骇。
+  <br>
