@@ -141,3 +141,70 @@
   * 例句：  The punk funs were appalled by the sudden suicide of their favorite singer.
   * 翻译：  这些朋克迷对他们最喜爱的歌手突然自杀感到惊骇。
   <br>
+
+---
+### 2017年01月12日 23:33:16
+
+- snowstorm
+  * 词义：   n. 暴风雪
+  * 例句：   All flights have been canceled because of the snowstorm.
+  * 翻译：   因为暴风雪，所有的航班都已被取消。
+  * 参考：   (a. 暴风雨的)
+  <br>
+
+- dormitory
+  * 词义：  n.(也作 dorm) (集体)宿舍
+  * 例句：  The latest refugees were housed in makeshift dormitories.
+  * 翻译：  新来的难民被安置在临时的集体寝室里。
+  <br>
+
+- drain
+  * 词义：  n.排水沟， 阴沟； 流出，消耗； v. (使液体) 排去，放干
+  * 例句：  The doctor drained fluid from the wound.
+  * 翻译：  医生放干净了伤口里的脓液。
+  * 考点：  drain away 渐渐枯竭
+  <br>
+
+- portrait
+  * 词义：  n. 肖像，画像
+  * 例句：  I'll paint you a beautiful portrait as your birthday present.
+  * 翻译：  我要为你画一幅漂亮的肖像画作为你的生日礼物。
+  <br>
+
+- stationery
+  * 词义：  n. 文具
+  * 例句：  The store near the school mainly sells stationery.
+  * 翻译：  学校附近的那家商店主要经营文具。
+  <br>
+
+- expand
+  * 词义：  v. (使)膨胀，(使)扩张； 张开，展开
+  * 例句：  The wheelchair expands to form a litter.
+  * 翻译：  轮椅打开后变成了一副担架。
+  <br>
+
+-  spade
+  * 词义：  n. 铁锹，铲子
+  * 例句：  The gardener bought a new garden spade.
+  * 翻译：  园丁买了一把新的园艺铲。
+  <br>
+
+-  visual
+  * 词义：  a. 看的，视觉的
+  * 例句：  The visual impact of the movie is striking.
+  * 翻译：  这部电影的视觉冲击很强。
+  * 派生：  visualize (v. 形象化，想象)
+  <br>
+
+- vocal
+  * 词义：  a. 噪音的，发声的； 直言不讳的  n.声乐节目
+  * 例句：  Mr. Thomas was vocal in his criticisms of that economic policy.
+  * 翻译：  托马斯先生在批评那项经济政策时直言不讳。
+  * 同义：  outspoken (a. 坦率的直言的)
+  <br>
+
+- attribute
+  * 词义：  n. 属性，品质，特征 vt.（to） 把...归于； 认为..是...所为
+  * 例句：  Marilyn had inheited all her mother's beautiful attributes and was so pretty.
+  * 翻译：  玛丽莲继承了她妈妈所有美丽的特征，十分漂亮。
+  <br>
