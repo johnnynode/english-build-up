@@ -385,7 +385,7 @@
 
   * 词义：  n. 托儿所
   * 例句：  Children in this nursery are taken good care of.
-  * 翻译:   这个托儿所的孩子受到很好的照顾。
+  * 翻译：  这个托儿所的孩子受到很好的照顾。
   <br>
 
 -  worship
@@ -579,7 +579,7 @@
 > 名言：
 >
 > The world won't care about your self-esteem.
-> The world will expect you to accomplish something befoe you feel good about yourself.
+> The world will expect you to accomplish something before you feel good about yourself.
 > -- Bill Gates
 
 > 这世界并不会在意你的自尊。
