@@ -16,7 +16,7 @@
   * 用法： furnish ..with 向...提供 , furnish sth. to sb. 为某人提供某物
   * 例句： We furnished the house with expensive furniture.
   * 翻译： 我们用昂贵的家具来布置房子。
-  * 辨：   furnish,supply,provide
+  * 辨别： furnish,supply,provide
   <br>
 
 - establish
@@ -243,30 +243,30 @@
   * 词义：  n. 通货膨胀
   * 例句：  In Britain, inflation is running half a percentage point below the rate predicted at the end of last year.
   * 翻译：  英国的通货屏障率比去年年底预测的低0.5个百分点.
-  * 考点:   inflation rate 通货膨胀率 ; inflationary(a. 膨胀的;通货膨胀的)
-  * 派生:   inflationary (a. 膨胀的,通货膨胀的)
+  * 考点：  inflation rate 通货膨胀率 ; inflationary(a. 膨胀的;通货膨胀的)
+  * 派生：  inflationary (a. 膨胀的,通货膨胀的)
   <br>
 
 - substantial
   * 词义：  a. 实质的,真实的 ; 坚固的,结实的; 富裕的,可观的
   * 例句：  Corson observed the castle, a substantial 17th century mansion.
   * 翻译：  柯森注视着这座城堡 -- 一栋坚固的17世纪的官邸
-  * 派生:   substantially(ad. 主要地, 实质上, 重大地)
+  * 派生：  substantially(ad. 主要地, 实质上, 重大地)
   <br>
 
 - hasty
   * 词义：  a. 匆忙的,仓促的,草率的
   * 例句：  Yet again we can see the results of hasty decision-making.
   * 翻译：  我们可以再次看到仓促做出决定的后果
-  * 同义:   cursory (a.草率的,匆匆忙忙的) rushed (a. 贸然的) fleet(a.快速的,敏捷的) expeditious(a. 迅速的,敏捷的) prompt(a. 迅速的)
-  * 反义:   careful (a. 小心的,仔细的) leisurely (a.不慌不忙的,从容的)
+  * 同义：  cursory (a.草率的,匆匆忙忙的) rushed (a. 贸然的) fleet(a.快速的,敏捷的) expeditious(a. 迅速的,敏捷的) prompt(a. 迅速的)
+  * 反义：  careful (a. 小心的,仔细的) leisurely (a.不慌不忙的,从容的)
   <br>
 
 - interpret
   * 词义：  vt. 解释,说明 ; 了解,认为 ; 口译 ; vi.做口译
   * 例句：  I interpreted Lucy's answer as a refusal.
   * 翻译：  我把露西的回答理解为是一种拒绝.
-  * 派生:   interpretation (n. 解释, 口译) interpreter (n. 口译者)
+  * 派生：  interpretation (n. 解释, 口译) interpreter (n. 口译者)
   <br>
 
 - fraction
@@ -437,7 +437,7 @@
     * 词义：  n. 商人,贩子
     * 例句：  The dealer is just a cheap crook.
     * 翻译：  那个商人不过是个卑鄙的骗子.
-    * 派生:   dealership n. 代理权
+    * 派生：  dealership n. 代理权
     <br>
     
 -  incident
@@ -469,7 +469,7 @@
     * 词义：  vt.漏看,忽略 ; 俯瞰,眺望; 宽容,放任
     * 例句：  Mr.Richards is a perfectionist. He won't overlook even the slightest mistake.
     * 翻译：  理查兹先生是个完美主义者,无论多小的错误他都不会放过.
-    * 派生:   overlooked (a. 被忽视的)
+    * 派生：  overlooked (a. 被忽视的)
     <br>
     
 -  shear
