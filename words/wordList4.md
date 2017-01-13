@@ -94,7 +94,7 @@
 
 - mat
   * 词义：  n. 席子，垫子
-  * 例句：  Put the hot dish down on the mat, so you won't spoil the table.'
+  * 例句：  Put the hot dish down on the mat, so you won't spoil the table.
   * 翻译：  把热菜盘放在小垫子上，这样就不会烫坏桌面了。
   * 参考：  doormat (n. 擦鞋垫)
   <br>
@@ -131,7 +131,7 @@
 
 - torch
   * 词义：  n. 手电筒； 火炬， 火把
-  * 例句：  The Olympics torch was lighted on Mount Olympus by the sun's rays.'
+  * 例句：  The Olympics torch was lighted on Mount Olympus by the sun's rays.
   * 翻译：  奥运火炬是由奥林匹亚山上的阳光点燃的。
   <br>
 
