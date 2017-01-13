@@ -208,3 +208,73 @@
   * 例句：  Marilyn had inheited all her mother's beautiful attributes and was so pretty.
   * 翻译：  玛丽莲继承了她妈妈所有美丽的特征，十分漂亮。
   <br>
+
+---
+### 2017年01月13日 23:32:52
+
+- occurrence
+  * 词义：  n. 发生，出现； 时间，事故，发生的事情。
+  * 例句：  All flights have been canceled because of the snowstorm.
+  * 翻译：  因为暴风雪，所有的航班都已被取消。
+  * 参考：  (a. 暴风雨的)
+  <br>
+
+- laptop
+  * 词义：  n. 便携式电脑
+  * 例句：  Sarah's father bought a laptop for her.
+  * 翻译：  萨拉的爸爸给她买了一台便携电脑。
+  <br>
+
+- attach
+  * 词义：  vt. 敷上，系上，贴上
+  * 例句：  Please attach this tag to the shoes before selling.
+  * 翻译：  请在出售前把这个标签贴在鞋上。
+  * 考点：  attach importance to 重视； 使依附，使隶属， 使依恋。 attach oneself to 使成为一份子，使附属。
+  * 同义：  fasten (vt. 使固定，系) adhere (vi.粘贴)
+  <br>
+
+- arch
+  * 词义：  n. 拱门，弓形结构，桥拱洞 vt. 拱起，使变成弓形
+  * 例句：  The overbridge arched the wide road.
+  * 翻译：  过街天桥横跨这条宽阔的马路
+  <br>
+
+- available
+  * 词义：  a. 可用的，可得到的； 可以见到的，随时可来的。
+  * 例句：  The Human Resources manager is not available at the moment. Please call later.
+  * 翻译：  人力资源经理现在不在，请稍后再打。
+  * 派生：  availability (n. 可用性，实用性)
+  <br>
+
+- compound
+  * 词义：  n. 混合物，化合物 a.混合的，化合的，复合的
+  * 例句：  We can join simple statements together to make compound statements.
+  * 翻译：  我们可以把简单的陈述合在一起做综述。
+  <br>
+
+- data
+  * 词义：  n. 数据，资料
+  * 例句：  The experts sounded a river and noted down the data.
+  * 翻译：  专家们测量了喝水的深度并记录下了数据。
+  * 参考：
+  <br>
+
+- gown
+  * 词义：  n. 女式礼服， 女裙服  (外科手术医生的)罩衣，(法官等的)长袍
+  * 例句：  The doctor put on gown and prepared for the coming operation.
+  * 翻译：  医生穿好罩衣为即将开始的手术做准备。
+  <br>
+
+- underestimate
+  * 词义：  vt. 低估
+  * 例句：  I underestimated the capital we needed by 20%;
+  * 翻译：  我把我们需要的资金少估算20%
+  * 同义：  underrate (v. 低估,看清)
+  * 反义：  overestimate (v. 估计过高) overrate (v. 高估)
+  <br>
+
+- vague
+  * 词义：  a. 不明确的，含糊的，暧昧的
+  * 例句：  a vague answer
+  * 翻译：  含糊其辞的回答
+  <br>
