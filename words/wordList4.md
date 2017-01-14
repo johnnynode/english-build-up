@@ -278,3 +278,71 @@
   * 例句：  a vague answer
   * 翻译：  含糊其辞的回答
   <br>
+
+---
+### 2017年01月14日 23:55:04
+
+- locomotive
+  * 词义：  a. 运动的，移动的，运载的 n.机车，火车头
+  * 例句：  The train has fifteen to twenty carriages and a locomotive.
+  * 翻译：  这列火车由15节到20节车厢和一个火车头组成。
+  <br>
+
+- tremendous
+  * 词义：  a. 巨大的，极大的
+  * 例句：  The earth has a tremendous amount of water, but almost all of it is in the ocean.
+  * 翻译：  地球上有大量的水，但绝大部分都在海洋里。
+  <br>
+
+- deprive
+  * 词义：  vt. 夺取，使丧失
+  * 例句：  Nobody can deprive a child of his innocent heart.
+  * 翻译：  没人能剥夺孩子天真无邪的童心。
+  * 派生：  deprivation (n. 剥夺)
+  * 同义：  remove (vt. 开除，移交)
+  <br>
+
+- rape
+  * 词义：  vt. 强奸 n. 强奸
+  * 例句：  The rape had a profound effect on the young girl.
+  * 翻译：  被强奸这件事给那个年轻的女孩儿造成了极深的伤害。
+  <br>
+
+- preparation
+  * 词义：  n. 准备，预备； 制剂，制备品
+  * 例句：  Some women began to use a new preparation for cleaning their skin.
+  * 翻译：  一些女性还是使用一种新的制剂来清洁皮肤。
+  <br>
+
+- affirm
+  * 词义：  vt. 断言，肯定； 证实， 宣誓说实话。
+  * 例句：  The witness's testimony affirmed the innocence of the suspect.'
+  * 翻译：  证人的证词证实了这名嫌疑人无罪。
+  <br>
+
+- petrol
+  * 词义：  n. 汽油
+  * 例句：  I had filled my car up with petrol before I deove to Beijing.
+  * 翻译：  在驾车去北京之前，我给油箱加满了油。
+  <br>
+
+- seal
+  * 词义：  n. 海豹， 印，图章； 封铅，封条 . vt. 封，密封
+  * 例句：  I put the cucumbers in a jar and sealed the lid tightly.
+  * 翻译：  我把黄瓜放进一个广口瓶里，然后用盖子密封上。
+  <br>
+
+- confidence
+  * 词义：  n. 信任； 信心， 自信； 秘密，机密
+  * 例句：  A friend indeed does not betray confidences.
+  * 翻译：  真正的朋友是不会泄露秘密的。
+  <br>
+
+- simultaneous
+  * 词义：  a. 同时的，同时存在的
+  * 例句：  As American skies become busier, simultaneous use of intersecting runways for landing and takeoff is risky.
+  * 翻译：  由于美国的领空变得比以前更加繁忙，同时使用交叉跑到起降飞机是非常危险的。
+  * 派生：  simultaneously (ad. 同时地)
+  * 同义：  coinstantaneous (a. 同时发生的，同时的)
+  * 参考：  同根词： spontaneous (a. 自发的)
+  <br>
