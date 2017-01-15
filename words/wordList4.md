@@ -346,3 +346,67 @@
   * 同义：  coinstantaneous (a. 同时发生的，同时的)
   * 参考：  同根词： spontaneous (a. 自发的)
   <br>
+
+---
+### 2017年01月15日 22:35:32
+
+- specimen
+  * 词义：  n. 标本，样本
+  * 例句：  Anton is observing the biological specimen with a magnifying glass.
+  * 翻译：  安东正在用放大镜观察这个生物标本。
+  <br>
+
+- audience
+  * 词义：  n. 听众，观众，读者； 会见
+  * 例句：  John will have an audience with the former headmaster next week.
+  * 翻译：  约翰将于下周拜会前任校长。
+  <br>
+
+- collision
+  * 词义：  n. 碰撞，冲突
+  * 短语：  a collision of interests
+  * 翻译：  利益冲突
+  <br>
+
+- constitute
+  * 词义：  vt. 组成，构成
+  * 例句：  One hundred and fifty islands constitute this country.
+  * 翻译：  这个国家由150个岛屿组成。
+  * 参考：  institute (n. 学会) substitute (n. 代用品)
+  <br>
+
+- defer
+  * 词义：  v. 推迟，延期
+  * 例句：  Jessica had applied for a deferred admission due to her grandmother's death.
+  * 翻译：  杰西卡因祖母去世申请了延期入学。
+  <br>
+
+- headquarters
+  * 词义：  n. 司令部，指挥部； 总部，总局
+  * 例句：  Several companies have their headquarters in the area.
+  * 翻译：  有几家公司总部设在这个地区
+  <br>
+
+- alert
+  * 词义：  a. 警惕的； 机灵的
+  * 例句：  We all have to stay alert.
+  * 翻译：  我们都必须保持警惕。
+  <br>
+
+- plentiful
+  * 词义：  a. 富裕的，丰富的
+  * 例句：  The host supplied plentiful food and drink for the guests.
+  * 翻译：  主人为客人们准备了丰盛的食物和饮料。
+  <br>
+
+- congress
+  * 词义：  n.(代表)大会； 国会，议会
+  * 例句：  There are three parties in Congress of this country.
+  * 翻译：  该国国会内部分为三个党派。
+  <br>
+
+- foremost
+  * 词义：  a. 最重要的，ad. 首先，第一
+  * 例句：  First and foremost, I'd like to thank John for his help.'
+  * 翻译：  首先我要感谢约翰的帮助。
+  <br>
