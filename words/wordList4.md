@@ -214,9 +214,8 @@
 
 - occurrence
   * 词义：  n. 发生，出现； 时间，事故，发生的事情。
-  * 例句：  All flights have been canceled because of the snowstorm.
-  * 翻译：  因为暴风雪，所有的航班都已被取消。
-  * 参考：  (a. 暴风雨的)
+  * 例句：  Satellites have extended the power of communications to report events at the instant of occurrence.
+  * 翻译：  卫星的使用扩大了通讯能力，可以对事件进行现场直播
   <br>
 
 - laptop
@@ -256,7 +255,6 @@
   * 词义：  n. 数据，资料
   * 例句：  The experts sounded a river and noted down the data.
   * 翻译：  专家们测量了喝水的深度并记录下了数据。
-  * 参考：
   <br>
 
 - gown
@@ -316,7 +314,7 @@
 
 - affirm
   * 词义：  vt. 断言，肯定； 证实， 宣誓说实话。
-  * 例句：  The witness's testimony affirmed the innocence of the suspect.'
+  * 例句：  The witness's testimony affirmed the innocence of the suspect.
   * 翻译：  证人的证词证实了这名嫌疑人无罪。
   <br>
 
@@ -384,7 +382,7 @@
 - headquarters
   * 词义：  n. 司令部，指挥部； 总部，总局
   * 例句：  Several companies have their headquarters in the area.
-  * 翻译：  有几家公司总部设在这个地区
+  * 翻译：  有几家公司总部设在这个地区。
   <br>
 
 - alert
@@ -409,4 +407,87 @@
   * 词义：  a. 最重要的，ad. 首先，第一
   * 例句：  First and foremost, I'd like to thank John for his help.'
   * 翻译：  首先我要感谢约翰的帮助。
+  <br>
+
+---
+###  2017年01月16日 21:39:27
+
+- arouse
+  * 词义：  vt. 唤醒，唤起；激起，引起
+  * 例句：  The alarm clock arouses me at 6.am.every morning.
+  * 翻译：  闹钟每天早晨6点把我叫醒。
+  <br>
+
+- interact
+  * 词义：  vi.(with)  互相作用，互相影响
+  * 例句：  We can't yet give a robot enough common sense to reliably interact with a dynamic world.
+  * 翻译：  我们还无法给机器人足够的“常识”， 使他们安全可靠地与动态世界进行互动。
+  <br>
+
+- utter
+  * 词义：  vt. 说，发出(声音) a.彻底的，完全的
+  * 例句：  The utter naturalness of my partner at once set me at ease.
+  * 翻译：  搭档十分自然的状态让我立刻自在了起来。
+  <br>
+
+- chill
+  * 词义：  n. 寒冷， 寒气，寒战 vt. 使寒冷
+  * 例句：  Chill the beer in the fridge before supper.
+  * 翻译：  晚饭前把啤酒放到冰箱里冰镇一下。
+  <br>
+
+- salad
+  * 词义：  n. 色拉，凉拌菜
+  * 短语：  salad dressing // salad oil
+  * 翻译：  色拉酱 // 色拉油
+  <br>
+
+- yell
+  * 词义：  vi. 叫喊
+  * 例句：  The workers have to yell to be heard over the din of the engines.
+  * 翻译：  工人们在发动机的嘈杂声中要大喊着才能让别人听见自己的话。
+  * 同义：  shout (v. 呼喊，呼叫)
+  <br>
+
+- tomb
+  * 词义：  n. 坟，冢
+  * 例句：  We visited the bomb of the unknown soldier yesterday.
+  * 翻译：  昨天，我们祭拜了那位无名烈士的墓。
+  <br>
+
+- keen
+  * 词义：  a. 热心的，渴望的； 敏锐的，头脑敏捷的； 锋利的
+  * 例句：  The detective's keen eyes discovered the lie.
+  * 翻译：  侦探敏锐的眼睛看穿了这个谎言。
+  <br>
+
+- topic
+  * 词义：  n. 话题，主题，题目
+  * 例句：  There is no interesting topic is the meeting to talk about.
+  * 翻译：  这次会议上没有什么有趣的话题可以讨论。
+  <br>
+
+- growth
+  * 词义：  n. 生长， 增长， 发展
+  * 例句：  The reformers believed the new policies would promote economic growth.
+  * 翻译：  改革开放者们认为这些新政策将促进经济增长。
+  <br>
+
+- aboard
+  * 词义：  ad. 在船(飞机，车)上， 上车(船，飞机)  prep. 在(船，飞机，车)上， 上(船，飞机，车)
+  * 例句：  There were more than 1,500 prople aboard the Titanic at that time.
+  * 翻译：  当时泰坦尼克号上有1500多名乘客。
+  <br>
+
+- describe
+  * 词义：  v. 描述，形容
+  * 例句：  Not everyone experiences the kinds of severe chronic stresses Alvarez describes.
+  * 翻译：  并不是每个人都精力了阿尔瓦雷茨描述的那种严重的持续性压力。
+  <br>
+
+- aware
+  * 词义：  a.(of) 知道的，意识到的
+  * 例句：  Teachers need to be aware of the emotional, intellectual， and physical changes that young adults experience.
+  * 翻译：  教师们应该了解青少年所经历的情感上、智力上以及身体上的变化。
+  * 派生：  awareness (n. 察觉，意识) unaware (a. 不知道的，没察觉到的)
   <br>
