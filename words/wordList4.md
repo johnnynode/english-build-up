@@ -149,7 +149,7 @@
   * 词义：   n. 暴风雪
   * 例句：   All flights have been canceled because of the snowstorm.
   * 翻译：   因为暴风雪，所有的航班都已被取消。
-  * 参考：   (a. 暴风雨的)
+  * 参考：   stormy (a. 暴风雨的)
   <br>
 
 - dormitory
@@ -405,7 +405,7 @@
 
 - foremost
   * 词义：  a. 最重要的，ad. 首先，第一
-  * 例句：  First and foremost, I'd like to thank John for his help.'
+  * 例句：  First and foremost, I'd like to thank John for his help.
   * 翻译：  首先我要感谢约翰的帮助。
   <br>
 
@@ -487,7 +487,7 @@
 
 - aware
   * 词义：  a.(of) 知道的，意识到的
-  * 例句：  Teachers need to be aware of the emotional, intellectual， and physical changes that young adults experience.
+  * 例句：  Teachers need to be aware of the emotional, intellectual, and physical changes that young adults experience.
   * 翻译：  教师们应该了解青少年所经历的情感上、智力上以及身体上的变化。
   * 派生：  awareness (n. 察觉，意识) unaware (a. 不知道的，没察觉到的)
   <br>
