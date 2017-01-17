@@ -6,3 +6,4 @@
 - [wordList2](./words/wordList2.md)
 - [wordList3](./words/wordList3.md)
 - [wordList4](./words/wordList4.md)
+- [wordList5](./words/wordList5.md)
