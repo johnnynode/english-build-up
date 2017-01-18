@@ -215,7 +215,7 @@
 - occurrence
   * 词义：  n. 发生，出现； 时间，事故，发生的事情。
   * 例句：  Satellites have extended the power of communications to report events at the instant of occurrence.
-  * 翻译：  卫星的使用扩大了通讯能力，可以对事件进行现场直播
+  * 翻译：  卫星的使用扩大了通讯能力，可以对事件进行现场直播。
   <br>
 
 - laptop
@@ -235,7 +235,7 @@
 - arch
   * 词义：  n. 拱门，弓形结构，桥拱洞 vt. 拱起，使变成弓形
   * 例句：  The overbridge arched the wide road.
-  * 翻译：  过街天桥横跨这条宽阔的马路
+  * 翻译：  过街天桥横跨这条宽阔的马路。
   <br>
 
 - available
@@ -266,7 +266,7 @@
 - underestimate
   * 词义：  vt. 低估
   * 例句：  I underestimated the capital we needed by 20%;
-  * 翻译：  我把我们需要的资金少估算20%
+  * 翻译：  我把我们需要的资金少估算20%。
   * 同义：  underrate (v. 低估,看清)
   * 反义：  overestimate (v. 估计过高) overrate (v. 高估)
   <br>

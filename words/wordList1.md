@@ -8,7 +8,7 @@
   * 词义： n. 挑战，艰巨任务 vt. 向...挑战
   * 例句： Tom challenged me to play another tennis game.
   * 翻译： 汤姆向我挑战要我再和他打一场网球。
-  * 派生： challenging
+  * 派生： challenging (a. 具有挑战性的) unchallenged (a. 未受到挑战的，未引起争议的)
   <br>
 
 - furnish
@@ -16,7 +16,7 @@
   * 用法： furnish ..with 向...提供 , furnish sth. to sb. 为某人提供某物
   * 例句： We furnished the house with expensive furniture.
   * 翻译： 我们用昂贵的家具来布置房子。
-  * 辨别： furnish,supply,provide
+  * 辨别： furnish ( vt. 陈设，布置;提供，供应;装修房屋) supply( v.供给，提供 n. 供给物, vi. 暂代他人职务) provide (vt./vi.提供，供给，供应，装备，预备，抚养)
   <br>
 
 - establish
@@ -150,46 +150,46 @@
 - edition
   * 词义：  n. 版本,版次,版
   * 例句：  They are bringing out a new edition of the dictionary.
-  * 翻译：  他们正要出版这部词典的新版本.
+  * 翻译：  他们正要出版这部词典的新版本。
   <br>
 
 - triumph
   * 词义：  n. 胜利,成功
   * 例句：  We expected our army could return in triumph.
-  * 翻译：  我们盼望军队凯旋
+  * 翻译：  我们盼望军队凯旋。
   * 考点：  triumph over 得胜, 战胜
   <br>
 
 - hostage
   * 词义：  n. 人质
   * 例句：  The gunman told the police to back off or he would shoot a hostage.
-  * 翻译：  持枪歹徒要求警方退后,否则他就要枪杀一名人质.
+  * 翻译：  持枪歹徒要求警方退后,否则他就要枪杀一名人质。
   * 同义：  pawn (n. 抵押品,人质)
   <br>
 
 - loaf
   * 词义：  n. 一条面包 vi. 游荡,闲逛
   * 例句：  The base of the loaf is overcooked, black and dirty.
-  * 翻译：  这条面包的底部烤的太过了, 又黑又脏
+  * 翻译：  这条面包的底部烤的太过了, 又黑又脏。
   <br>
 
 - applicable
   * 词义：  a. (to) 能应用的,试用的
   * 例句：  That regulation is not applicable to foreigners.
-  * 翻译：  那条规定不适用于外国人.
+  * 翻译：  那条规定不适用于外国人。
   <br>
 
 - motion
   * 词义：  n. 运动,动 ; 提议 vt. 像...示意
   * 例句：  Last week, the faderal government endorsed a motion on social assistance.
-  * 翻译：  上个星期,联邦政府签署一项关于社会援助的提议
+  * 翻译：  上个星期,联邦政府签署一项关于社会援助的提议。
   * 参考：  emotion (n. 情感,情绪)  promotion (n. 促进,发扬)
   <br>
 
 - diploma
   * 词义：  n. 文凭,学位证书
   * 例句：  Jim took a diploma from the University of London.
-  * 翻译：  吉姆取得了伦敦大学的文凭.
+  * 翻译：  吉姆取得了伦敦大学的文凭。
   <br>
 
 - dragon
@@ -202,14 +202,14 @@
 - contrast
   * 词义：  vt. 使与...对照 vi.(with) 和...形成对照 n. 对照,对比,差异
   * 例句：  The young man's black jacket contrasted sharply with his white pants.
-  * 翻译：  那个年轻男子的黑夹克和白裤子形成了鲜明的对比
+  * 翻译：  那个年轻男子的黑夹克和白裤子形成了鲜明的对比。
   * 考点：  by contrast 对比之下;  in contrast with/to 与...对比
   <br>
 
 - trend
   * 词义：  n. 倾向,趋势 vi. 伸向; 倾向
   * 例句：  The price of the shares trend to go down.
-  * 翻译：  股票价格趋于低迷.
+  * 翻译：  股票价格趋于低迷。
   <br>
 
 ---
@@ -218,31 +218,31 @@
 - honorable , honourable
   * 词义：  a. 可敬的; 荣誉的,光荣的
   * 例句：  The general did honorable service to his nation.
-  * 翻译：  这位将军为祖国作出了接触的贡献
+  * 翻译：  这位将军为祖国作出了接触的贡献。
   <br>
 
 - freelance
   * 词义：  a. 自由职业的
   * 例句：  She became a freelance journalist after ten years.
-  * 翻译：  10年后,她成为了一名自由撰稿人.
+  * 翻译：  10年后,她成为了一名自由撰稿人。
   <br>
 
 - appendix
   * 词义：  n. 附属, 附属物
   * 例句：  Tom always brags that woman is a mere appendix to man.
-  * 翻译：  汤姆总是夸夸其谈,说女人只不过是男人的附属品.
+  * 翻译：  汤姆总是夸夸其谈,说女人只不过是男人的附属品。
   <br>
 
 - objection
   * 词义：  n. 反对,异议
   * 例句：  I have no objection to your proposal.
-  * 翻译：  我对你的提议没有异议.
+  * 翻译：  我对你的提议没有异议。
   <br>
 
 - inflation
   * 词义：  n. 通货膨胀
   * 例句：  In Britain, inflation is running half a percentage point below the rate predicted at the end of last year.
-  * 翻译：  英国的通货屏障率比去年年底预测的低0.5个百分点.
+  * 翻译：  英国的通货屏障率比去年年底预测的低0.5个百分点。
   * 考点：  inflation rate 通货膨胀率 ; inflationary(a. 膨胀的;通货膨胀的)
   * 派生：  inflationary (a. 膨胀的,通货膨胀的)
   <br>
@@ -250,14 +250,14 @@
 - substantial
   * 词义：  a. 实质的,真实的 ; 坚固的,结实的; 富裕的,可观的
   * 例句：  Corson observed the castle, a substantial 17th century mansion.
-  * 翻译：  柯森注视着这座城堡 -- 一栋坚固的17世纪的官邸
+  * 翻译：  柯森注视着这座城堡 -- 一栋坚固的17世纪的官邸。
   * 派生：  substantially(ad. 主要地, 实质上, 重大地)
   <br>
 
 - hasty
   * 词义：  a. 匆忙的,仓促的,草率的
   * 例句：  Yet again we can see the results of hasty decision-making.
-  * 翻译：  我们可以再次看到仓促做出决定的后果
+  * 翻译：  我们可以再次看到仓促做出决定的后果。
   * 同义：  cursory (a.草率的,匆匆忙忙的) rushed (a. 贸然的) fleet(a.快速的,敏捷的) expeditious(a. 迅速的,敏捷的) prompt(a. 迅速的)
   * 反义：  careful (a. 小心的,仔细的) leisurely (a.不慌不忙的,从容的)
   <br>
@@ -265,21 +265,21 @@
 - interpret
   * 词义：  vt. 解释,说明 ; 了解,认为 ; 口译 ; vi.做口译
   * 例句：  I interpreted Lucy's answer as a refusal.
-  * 翻译：  我把露西的回答理解为是一种拒绝.
+  * 翻译：  我把露西的回答理解为是一种拒绝。
   * 派生：  interpretation (n. 解释, 口译) interpreter (n. 口译者)
   <br>
 
 - fraction
   * 词义：  n. 碎片,小部分,一点儿 ; 分数
   * 例句：  Only a fraction of my friends have cars.
-  * 翻译：  我朋友中只有小部分有车
+  * 翻译：  我朋友中只有小部分有车。
   * 考点：  a fraction of 一小部分
   <br>
 
 - romance
   * 词义：  n. 传奇, 爱情故事
   * 例句：  This movie is a beautiful romance about a girl and a boy who met on the Internet.
-  * 翻译：  这部电影讲述的是一个女孩和一个男孩在网上邂逅的故事.
+  * 翻译：  这部电影讲述的是一个女孩和一个男孩在网上邂逅的故事。
   <br>
 
 ---
@@ -288,7 +288,7 @@
 - rectangle
  * 词义：   n. 长方形，矩形
  * 例句：   Each angle of a rectangle is 90 degrees.
- * 翻译：   矩形的每一个角都是90°
+ * 翻译：   矩形的每一个角都是90°。
  <br>
 
 - owl
@@ -344,7 +344,7 @@
 
 -  jewelry (jewellery)
     * 词义：  n. 珠宝，手饰
-    * 例句：  Today is Mother's Day and all the jewellery is on sale at Rich's
+    * 例句：  Today is Mother's Day and all the jewellery is on sale at Rich's.
     * 翻译：  今天是母亲节，瑞奇店里的所有首饰都打折。
     <br>
 
@@ -424,19 +424,19 @@
 -  tag
     * 词义：  n. 标签,货签 vt. 贴标签于
     * 例句：  They tend to tag our group as antiscience.
-    * 翻译：  他们想给我们组织贴上反科学的标签.
+    * 翻译：  他们想给我们组织贴上反科学的标签。
     <br>
     
 -  duration  
     * 词义：  n. 期间,持久,持续时间
     * 例句：  We had to stay indoors for the duration of the SARS.
-    * 翻译：  "非典"持续期间,我们不得不呆在室内.
+    * 翻译：  "非典"持续期间,我们不得不呆在室内。
     <br>
     
 -  dealer
     * 词义：  n. 商人,贩子
     * 例句：  The dealer is just a cheap crook.
-    * 翻译：  那个商人不过是个卑鄙的骗子.
+    * 翻译：  那个商人不过是个卑鄙的骗子。
     * 派生：  dealership n. 代理权
     <br>
     
@@ -450,53 +450,53 @@
 -  zeal
     * 词义：  n. 热情,热忱 
     * 例句：  Emily entered with great zeal upon this task.
-    * 翻译：  埃米莉满怀热情地投入了这项工作.
+    * 翻译：  埃米莉满怀热情地投入了这项工作。
     <br>
     
 -  rhythm
     * 词义：  n. 节奏,韵律  
     * 例句：  This music is written in a rhythm of three beats to a bar.
-    * 翻译：  这段音乐是以一小节三节拍的节奏写成的.
+    * 翻译：  这段音乐是以一小节三节拍的节奏写成的。
     <br>
     
 -  educate
     * 词义：  vt.教育,培养,训练  
     * 例句：  It may be said that the teacher has done his very best to educate and help him.
-    * 翻译：  老师对他的教育可谓是尽心尽力.
+    * 翻译：  老师对他的教育可谓是尽心尽力。
     <br>
     
 -  overlook
     * 词义：  vt.漏看,忽略 ; 俯瞰,眺望; 宽容,放任
     * 例句：  Mr.Richards is a perfectionist. He won't overlook even the slightest mistake.
-    * 翻译：  理查兹先生是个完美主义者,无论多小的错误他都不会放过.
+    * 翻译：  理查兹先生是个完美主义者,无论多小的错误他都不会放过。
     * 派生：  overlooked (a. 被忽视的)
     <br>
     
 -  shear
     * 词义：  vt. 剪,修剪 
     * 例句：  They usually start shearing the sheep at the beginning of July.
-    * 翻译：  他们通常在7月初开始剪羊毛.
+    * 翻译：  他们通常在7月初开始剪羊毛。
     <br>
     
 -  kidnap
     * 词义：  vt. 绑架
     * 例句：  The mother was worried about whether her daughter had been kidnapped.
-    * 翻译：  那位母亲很担心自己的女儿是否被绑架了.
+    * 翻译：  那位母亲很担心自己的女儿是否被绑架了。
     <br>
     
 -  propaganda
     * 词义：  n. 宣传
     * 例句：  There is much propaganda against smoking nowadays.
-    * 翻译：  现在有很多反对吸烟的宣传.
+    * 翻译：  现在有很多反对吸烟的宣传。
     <br>
     
 -  prescribe
     * 词义：  vt. 指示,规定; 开处方,开(药) 
     * 例句：  As long as a doctor prescribes a drug for a legitimate medical purpose,the doctor has done nothing illegal even if the patient uses the drug to hasten death.
-    * 翻译：  只要医生依据合法的医药用途开药,就不算做了什么违法的事,即时病人拿这种药来加速死亡.
+    * 翻译：  只要医生依据合法的医药用途开药,就不算做了什么违法的事,即时病人拿这种药来加速死亡。
     <br>
     
 -  cape
     * 词义：  n. 斗篷,披肩; 海角 
     * 例句：  In 1978,Naomi James became the first woman to sail solo around the world via Cape Horn.
-    * 翻译：  1978年,娜奥米·詹姆斯成为第一个肚子驾船绕过合恩角环游世界的女子.
+    * 翻译：  1978年,娜奥米·詹姆斯成为第一个肚子驾船绕过合恩角环游世界的女子。
