@@ -51,7 +51,7 @@
 
 - resign
   * 词义：  v. 辞去，辞职
-  * 例句：  The Prime Minister refused to comment on the rumeor that he had planned to resign.
+  * 例句：  The Prime Minister refused to comment on the rumor that he had planned to resign.
   * 翻译：  总理对其打算辞职的谣言拒绝做出任何评论。
   * 派生：  resignation (n. 辞职； 放弃)
   <br>
@@ -72,4 +72,70 @@
   * 词义：  n. 王家，王族
   * 例句：  As a member of the royalty,Tony is always in the news.
   * 翻译：  作为王室成员，托尼一向是新闻任务。
+  <br>
+
+### 2017年01月18日 21:27:25
+
+- innumerable
+  * 词义：  a. 无数的，数不清的
+  * 例句：  The last trail of the UFO has vanished, leaving innumerable unanswered questions.
+  * 翻译：  那个不明飞行物最后的痕迹也消失了，留下了无数个未解之谜。
+  <br>
+
+- verge
+  * 词义：  n. 边, 边缘
+  * 例句：  John's eyes are half closed and it looks like he's on the verge of falling asleep.
+  * 翻译：  约翰双眼半闭着，看上去好像快睡着了。
+  * 考点：  on the verge of 接近于，濒于  verge on 接近，频临
+  <br>
+
+- community
+  * 词义：  n. 同一地区的全体居民; 社会，社区； 共同体
+  * 例句：  The EU now is a large regional community.
+  * 翻译：  如今的欧盟是一个很大的区域共同体。
+  * 参考：  communal (a. 公共的)
+  <br>
+- prosperous
+  * 词义：  a. 繁荣的，兴旺的
+  * 例句：  Edna conducted a drug store which enjoyed a steady and prosperous trade.
+  * 翻译：  艾德娜经营一家药店，生意稳定且兴隆。
+  <br>
+
+- foam
+  * 词义：  vi. 起泡沫 n. 泡沫
+  * 例句：  The dirty dished sat in the sink under the soapy foam.
+  * 翻译：  那些脏盘子放在水池里，上面满是肥皂泡。
+  * 参考：  roam (n.v. 漫步，徘徊)
+  <br>
+
+- veteran
+  * 词义：  n. 老手，老兵 a. 经验丰富的
+  * 例句：  It is not strange that veteran drivers would commit some mistakes.
+  * 翻译：  经验丰富的司机也会犯错，这并不奇怪。
+  <br>
+
+- feature
+  * 词义：  n. 特征，特色； 特写 v. 以..为特点 (或特征)
+  * 例句：  The latest model features alloy wheels and and electronic alarm.
+  * 翻译：  最新款式的特色是合金车轮和电子报警器。
+  <br>
+
+- monarch
+  * 词义：  n. 君主，帝王
+  * 例句：  The revolution overthrew the monarch.
+  * 翻译：  这场革命推翻了君主。
+  <br>
+
+- novelty
+  * 词义：  n. 新奇，新颖
+  * 例句：  The novelty of new subject matter and of the distinctive methods of foreign-language presentation awakens the student's curiosity.
+  * 翻译：  外语演讲的新话题及特别方法的新颖性激发了学生们的好奇心。
+  <br>
+
+- junction
+  * 词义：  n. 连接， 接合
+  * 例句：  The power statio was built at the junction of two rivers.
+  * 翻译：  那个发电厂建在两条河的交汇处。
+  * 派生：  disjunction (n. 分离，折断) conjunction (联合，连词)
+  * 同义：  juncture (n.接合，接合处)
   <br>
