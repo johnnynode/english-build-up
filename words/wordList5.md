@@ -74,6 +74,7 @@
   * 翻译：  作为王室成员，托尼一向是新闻任务。
   <br>
 
+---
 ### 2017年01月18日 21:27:25
 
 - innumerable
@@ -138,4 +139,76 @@
   * 翻译：  那个发电厂建在两条河的交汇处。
   * 派生：  disjunction (n. 分离，折断) conjunction (联合，连词)
   * 同义：  juncture (n.接合，接合处)
+  <br>
+
+---
+### 2017年01月19日 20:55:22
+
+- principle
+  * 词义：  n. 原理，原则； 主义，信念
+  * 例句：  By using the first draft as a means of thinking about what you want to say, you will very likely discovery more than your notes originally suggested.
+            Plenty of good writers don't use outlines at all but discover ordering principles as they write.
+  * 翻译：  把初稿作为思考你想要说什么的一种方式，你能发现比最初的笔记提示多得多的东西。许多好作家不写提纲，而是在写作过程中发现排序的原理。
+  <br>
+
+- thrive
+  * 词义：  vi. 兴旺，繁荣
+  * 例句：  A business cannot thrive without investment.
+  * 翻译：  一个缺少投资的企业无法兴旺起来。
+  <br>
+
+- combination
+  * 词义：  n. 结合，联合，合并； 化合物
+  * 例句：  David smelt the combination of hot moist breath and freshly baked cookies in the kitchen.
+  * 翻译：  戴维闻到厨房里湿热的空气和新考好的饼干的混合气味。
+  <br>
+
+- splash
+  * 词义：  vt. 溅湿某人，泼 n.溅，飞溅声； 引人注目的事物
+  * 例句：  The artist made a splash in artistic circles with his new painting.
+  * 翻译：  那位画家的新作在艺术界引起了轰动。
+  * 考点：  make a splash 引入注目
+  * 同义：  splatter （v. 飞溅）
+  <br>
+
+- synthesis
+  * 词义：  n.综合，合成
+  * 例句：  Her novels are an odd synthesis of English reserve and Welsh emotionalism.
+  * 翻译：  她的小说把英格兰人的拘谨和威尔士人的情感外露很独特地结合在一起。
+  <br>
+
+- deteriorate
+  * 词义：  vi. 恶化， 变坏
+  * 例句：  The moist air may cause leather to deteriorate.
+  * 翻译：  潮湿的空气会导致皮革的变质。
+  * 派生：  deterioration (n. 退化，恶化，变坏)
+  <br>
+
+- confer
+  * 词义：  vi. 商谈，商议； vt. 授予，赋予
+  * 例句：  The engineers and technicians are still conferring on the unexpected accident.
+  * 翻译：  工程师和技术员们还在讨论这次意外事故。
+  * 考点：  confer sth. upon/on sb. 把...赋予某人
+  * 同义：　consult (vi. 商量，商议)
+  * 参考：  infer (v. 推断)
+  <br>
+
+- miracle
+  * 词义：  n. 奇迹，令人惊奇的人(或事)
+  * 例句：  The recovery of the patient with cancer was a miracle.
+  * 翻译：  这位癌症病人的康复是个奇迹。
+  <br>
+
+- limp
+  * 词义：  a. 柔然的，易曲的，无力的  n/vi. 蹒跚，跛行
+  * 例句：  The veteran walks with a bad limp.
+  * 翻译：  那位老兵走路时跛的很厉害。
+  <br>
+
+- consent
+  * 词义：  vi. 同意，赞成，答应  n. 同意，赞成，答应
+  * 例句：  I refuse to consent to your absurd request!
+  * 翻译：  我绝不答应你的无理要求！
+  * 考点：  with the consent of sb./ with one's consent 经某人的同意
+  * 辩词：  consent, agree
   <br>
