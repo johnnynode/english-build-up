@@ -212,3 +212,72 @@
   * 考点：  with the consent of sb./ with one's consent 经某人的同意
   * 辩词：  consent, agree
   <br>
+
+---
+### 2017年01月20日 20:01:20
+
+- abnormal
+  * 词义：  a. 反常的，不正常的
+  * 短语：  an abnormal phenomenon
+  * 翻译：  反常现象
+  * 派生：  abnormality (n. 异常，变态，畸形)
+  * 同义：  unusual (a. 不平常的)； exceptional (a. 异常的)
+  * 反义：  normal (a. 正常的)
+  <br>
+
+- mischief
+  * 词义：  n. 损害， 伤害， 危害； 恶作剧， 捣蛋， 胡闹
+  * 例句：  The storm did a lot of mischief to the crops.
+  * 翻译：  这场暴风雨对庄稼造成了很大的危害。
+  <br>
+
+- introduction
+  * 词义：  n. (to, about) 介绍； (of) 传入， 引进； 导言，导论
+  * 例句：  The introduction of gunpowder gradually made the bow and arrow obsolete.
+  * 翻译：  火药的传入逐渐废弃了对弓箭的使用。
+  <br>
+
+- colonial
+  * 词义：  a. 殖民(地)的
+  * 例句：  Of necessity, colonial America was a projection of Europe.
+  * 翻译：  不可避免地，殖民地时期的美国体现着欧洲的特点。
+  <br>
+
+- efficient
+  * 词义：  a. 有效的，效率高的； 有能力的，能胜任的
+  * 例句：  Harry's a very efficient young man though a little proud.
+  * 翻译：  尽管有些骄傲，但哈里还算是个很有能力的年轻人。
+  <br>
+
+- benefit
+  * 词义：  n. 利益，好处，恩惠 vt.有益于，使受益 vi. 受益，得益
+  * 例句：  This book is of great benefit to me.
+  * 翻译：  这本书使我受益匪浅。
+  * 考点：  benefit from/by 从...受益
+  <br>
+
+- bosom
+  * 词义：  n. (心)胸
+  * 例句：  I have a big circle of friends, but no bosom friends.
+  * 翻译：  我的朋友圈子很大，但没有知心朋友。
+  <br>
+
+- solar
+  * 词义：  a. 太阳的，日光的
+  * 短语：  a solar stove
+  * 翻译：  太阳灶
+  * 考点：  solar system 太阳系； solar energy 太阳能
+  <br>
+
+- dissolve
+  * 词义：  vt. 使溶解， 使融化 vi. 解散，取消
+  * 例句：  The nurse dissolved the pill in a glass of water for the little girl.
+  * 翻译：  护士帮小女孩把药丸放入一杯水里溶解
+  <br>
+
+- fisherman
+  * 词义：  n. 渔民，渔夫
+  * 例句：  The fisherman threw his lance at the shark.
+  * 翻译：  渔夫将鱼叉掷向了那条鲨鱼。
+  * 参考：  fishing (n.钓鱼，捕鱼) overfishing (n. 过度，捕捞)
+  <br>
