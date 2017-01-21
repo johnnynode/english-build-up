@@ -281,3 +281,64 @@
   * 翻译：  渔夫将鱼叉掷向了那条鲨鱼。
   * 参考：  fishing (n.钓鱼，捕鱼) overfishing (n. 过度，捕捞)
   <br>
+
+---
+### 2017年01月21日 22:25:37
+
+- semiconductor
+  * 词义：  n.半导体
+  * 短语：  Semiconductor is an technology.
+  * 翻译：  半导体是一项技术
+  <br>
+
+- arrange
+  * 词义：  vt. 整理，排列，布置； 安排，筹备
+  * 短语：  Would you like to arrange an exploration tour to Alaska for us?
+  * 翻译：  你能为我们安排一次去阿拉斯加的考察旅行吗?
+  <br>
+
+- orderly
+  * 词义：  a. 整理的，有秩序的，有条理的 n. 勤务兵
+  * 短语：  The officer scolded the medical orderly for being late.
+  * 翻译：  长官批评卫生勤务兵迟到了.
+  <br>
+
+- meantime
+  * 词义：  n.其间，其时; ad. 同时，当时
+  * 短语：  I continued working. Meantime, my partner went out shopping.
+  * 翻译：  我继续工作，同时，我的搭档出去买东西。
+  <br>
+
+- reptile
+  * 词义：  n. 爬行动物
+  * 短语：  Being reptiles, dinosaurs are generally believed to be cold-blooded.
+  * 翻译：  恐龙作为爬行动物，通常被认为是冷血的。
+  <br>
+
+- rag
+  * 词义：  n. 破布， 碎布
+  * 短语：  The baggar was in a pile of rags and almost starved.
+  * 翻译：  那个乞丐衣衫褴褛，几乎要饿死了。
+  * 参考：  drag (v.拉，拖) rage(n./vi. 大怒); rug (n.地毯，垫子)
+  <br>
+
+- tuition
+  * 词义：  n. 学费
+  * 短语：  tuition charges/fees
+  * 翻译：  学费
+  <br>
+
+- heave
+  * 词义：  vt. (用力)举起，提起; 扔 (尤指重物)
+  * 短语：  The captain ordered the sailors to heave these burdens overboard.
+  * 翻译：  船长命令船员们把这些重物抛出船外。
+  <br>
+
+- enthusiasm
+  * 词义：  n. 热情，热心
+  * 短语：  Young people would lose their enthusiasm if they were confined everywhere.
+  * 翻译：  如果处处受到限制，年轻人就会失去热情。
+  <br>
+
+- pope
+  * 词义：  n. (天主教)教皇，罗马主教
