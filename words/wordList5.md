@@ -342,3 +342,76 @@
 
 - pope
   * 词义：  n. (天主教)教皇，罗马主教
+
+---
+### 2017年01月22日 08:04:39
+
+- defendant
+  * 词义：  n.被告
+  * 短语：  Finally the plaintiff was found guilty and was sentenced to three years in prison instead of the defendant.
+  * 翻译：  最后原告被发现有罪并被判入狱三年。
+  * 反义：  plaintiff (n. 原告)
+  <br>
+
+- edible
+  * 词义：  a.可以吃的，可食用的
+  * 短语：  The fridge contains almost nothing edible.
+  * 翻译：  冰箱里几乎没什么可吃的。
+  * 派生：  inedible (a.不能吃的，不能食用的)
+  * 同义：  eatable (a. 可以吃的)
+  <br>
+
+- supervise
+  * 词义：  v.管理,监督
+  * 短语：  The crew hurries about the small stage as Ed energetically supervises.
+  * 翻译：  在爱德精力充沛的领导下，所有的工作人员都围着那个小舞台忙活。
+  * 派生：  supervision (n.管理，监督); supervisor (n.管理者，监督者)
+  * 同义：  administer (v.管理) superintend (v.管理，监督)
+  <br>
+
+- likewise
+  * 词义：  ad. 同样地， 照样地； 又，也，而且
+  * 短语：  I'll help you if you need me. Likewise, I hope you'll help me.
+  * 翻译：  如果你需要，我会帮助你，同样，我希望你也会帮助我。
+  <br>
+
+- plea
+  * 词义：  n.恳求，请求; 抗辩，答辩，辩护； 借口， 托辞。
+  * 短语：  Paul left the party early with the plea of a headache.
+  * 翻译：  保罗以头疼为借口， 提前离开了晚会。
+  <br>
+
+- reclaim
+  * 词义：  vt. 要求归还，收回； 开垦
+  * 短语：  The Netherlands has reclaimed large tracts of land from the sea.
+  * 翻译：  荷兰人依靠填海开垦出了大片的土地。
+  <br>
+
+- thorough
+  * 词义：  a. 彻底的，完全的； 细心的，认真的，周到的。
+  * 短语：  You must be more thorough with your assignment since I have found a lot of mistakes.
+  * 翻译：  你做功课需再认真点，因为我已经发现了许多错误。
+  * 派生：  thoroughly (ad. 十分，彻底地)； thorough-ness (n. 完全，十分)
+  <br>
+
+- trunk
+  * 词义：  n. 大衣箱， 皮箱， 行李箱 ； 树干，躯干
+  * 短语：  Trees have annual growth rings in their trunks to tell their ages.
+  * 翻译：  树干上有年轮，能说明树的年龄。
+  <br>
+
+- historic
+  * 词义：  a. 有历史意义的 ; 历史的
+  * 短语：  It is a historic meeting between the two leaders.
+  * 翻译：  这是两位领导人之间一次具有历史意义的会晤。
+  * 考点：  historic site 古迹
+  * 派生：  prehistoric (a. 史前的)
+  * 辩词：  historic, historical
+  <br>
+
+- fitting
+  * 词义：  a. 适当的，恰当的； n. 配件，附件； 装配，安装
+  * 短语：  The workers finished the gas fitting of the building.
+  * 翻译：  工人们完成了大楼的煤气安装。
+  * 参考：  fitness （n.适当）
+  <br>
