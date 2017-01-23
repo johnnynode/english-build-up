@@ -415,3 +415,102 @@
   * 翻译：  工人们完成了大楼的煤气安装。
   * 参考：  fitness （n.适当）
   <br>
+
+---
+### 2017年1月23日18:08:59
+
+- cashier
+  * 词义：  n.收银员，出纳员
+  * 短语：  A cashier takes and gives out money in a bank or shop.
+  * 翻译：  出纳员在银行或商店里收付钱款。
+  <br>
+
+- sober
+  * 词义：  a. 清醒的，冷静的； 适度的，严肃的
+  * 短语：  The husband opened the box with a sober expression on his face.
+  * 翻译：  丈夫面色凝重地打开了盒子。
+  * 同义：  moderate (a.适度的，适中的) solemn (严肃的，庄严的)
+  <br>
+
+- obsolete
+  * 词义：  a.已废弃的，过时的
+  * 短语：  The computer I bought ten years ago is now obsolete.
+  * 翻译：  我十年前买的电脑，现在早就过时了。
+  <br>
+
+- navy
+  * 词义：  n.海军
+  * 短语：  This country has cut spending on the navy and the coast guard.
+  * 翻译：  该国削减了海军和海岸警卫队的开支。
+  <br>
+
+- rural
+  * 词义：  n.农村的
+  * 短语：  Only three percent of the rural population remained impoverished in this country.
+  * 翻译：  在这个国家，只有3%的人口还处于贫穷状态。
+  * 考点：  rural area 农村地区
+  <br>
+
+- indulge
+  * 词义：  vt. (in) 沉溺， 纵容自己，肆意从事； 允许(某人)延期付款
+  * 短语：  The bank inulge Mario to pay the arrearage in a year.
+  * 翻译：  银行允许马里奥在一年内还清贷款。
+  <br>
+
+- funeral
+  * 词义：  n. 丧葬，葬礼
+  * 短语：  Hundreds of people attended the hero's funeral.
+  * 翻译：  数百人参加了这位英雄的葬礼。
+  <br>
+
+- mobilise / mobilize
+  * 词义：  vt. 动员
+  * 短语：  The government mobilized millions of people to build th dam.
+  * 翻译：  政府动员几百万人来修建水坝。
+  <br>
+
+- feminine
+  * 词义：  a. 女性的，娇柔的
+  * 短语：  Tracy was my standard of feminine loveliness.
+  * 翻译：  特雷西在我眼中是女性魅力的典范。
+  * 同义：  womanly (a. 像女人的，女性的)  effeminate (a.柔弱的，女子气的)
+  * 反义：  masculine (a. 男子的，男子气概的)； macho (a. 男子气的，大男子气的)
+  <br>
+
+- combat
+  * 词义：  v. 战斗，搏斗，格斗
+  * 短语：  My rival in love challenged me to single combat.
+  * 翻译：  我的情敌向我挑战，要跟我单挑。
+  <br>
+
+- style
+  * 词义：  n. 风格，文体； 式样，类型
+  * 短语：  This is a wonderful example of Spanish-style architecture.
+  * 翻译：  这是一栋很棒的典型西班牙式建筑。
+  <br>
+
+- cottage
+  * 词义：  n. 村舍，小屋； 小别墅
+  * 短语：  The cottage on the sea coast was charming.
+  * 翻译：  那间海滨小屋很迷人。
+  <br>
+
+- embryo
+  * 词义：  n. 胚，胚胎； 事物的萌芽期
+  * 短语：  The idea already existed in embryo in his earlier works.
+  * 翻译：  这一想法已经在他早期的作品中初具雏形。
+  <br>
+
+- herald
+  * 词义：  n. 预告，先兆； 传令官；vt. 预示...的来临。
+  * 短语：  It is a common sense that a flash of lightning herralds torrential rain.
+  * 翻译：  有闪电划过预示着将会有倾盆大雨，这是常识。
+  <br>
+
+> 名言：
+> If you wish to succeed, you should use persistence as your good friend, experience as your reference, prudence as your brother
+> and hope as your sentry.
+> -- Thomas Edison
+
+> 如果你希望成功，当恒心为良友，以经验为参谋，以谨慎为兄弟，以希望为哨兵。
+> -- 爱迪生.T.
