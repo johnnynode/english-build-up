@@ -2,7 +2,7 @@
 >
 > [新东方单词在线阅读地址](http://download.dogwood.com.cn/online/kychlx/iPhone.html) ，希望这个链接一直都有效 :)
 
-### 2017年01月24日08:10:35
+### 2017年01月24日 08:10:35
 
 - scorn
   * 词义：  vt. 轻蔑，蔑视； n. 轻蔑，蔑视
@@ -13,7 +13,7 @@
 - princess
   * 词义：  n. 公主，王妃
   * 例句：  The law of the country says a princess must be married to a prince.
-  * 翻译：  改国的法律规定，公主必须嫁给王子。
+  * 翻译：  该国的法律规定，公主必须嫁给王子。
   <br>
 
 - tragedy
@@ -39,14 +39,14 @@
 
 - mode
   * 词义：  n. 方式； 式样
-  * 例句：  The educators are worried that children that children will be trapped in a certain mode of thinking.
+  * 例句：  The educators are worried that children will be trapped in a certain mode of thinking.
   * 翻译：  这些教育学家担心孩子们会陷入一种固定的思维模式。
   * 考点：  production mode 生产方式
   <br>
 
 - institute
   * 词义：  vt. 设立，建立，制定； n.学会，研究所，学院
-  * 例句：  Wood established an Institte of Midwestern Art in his home state.
+  * 例句：  Wood established an Institute of Midwestern Art in his home state.
   * 翻译：  伍德在他家乡所在的州建立了一个中西部艺术学院。
   * 考点：  financial institute 金融研究所
   <br>
@@ -74,7 +74,7 @@
 
 - reckless
   * 词义：  a.轻率的，鲁莽的，不考虑后果的
-  * 例句：  The reackless driver drove above the speed limit and got fined.
+  * 例句：  The reckless driver drove above the speed limit and got fined.
   * 翻译：  鲁莽的司机超速驾驶，被罚了款。
   * 同义：  rash(a.鲁莽的，轻率的); impetuous(a. 冲动的，鲁莽的)
   * 反义：  careful(a.小心的，仔细的); prudent (a. 谨慎的)
@@ -136,4 +136,78 @@
   * 例句：  That mysterious island had a dormant volcano.
   * 翻译：  那座神秘的岛上有一座休眠火山。
   * 派生：  volcanic (a. 火山的，火山引起的)
+  <br>
+
+---
+### 2017年01月26日 07:19:36
+
+- relationship
+  * 词义：  n.关系，联系
+  * 例句：  There is a definite relationship between inflation and interest rates.
+  * 翻译：  通货膨胀和利率有一定的关系。
+  * 派生：  interrelationship (n.相互关系，相互联系)
+  <br>
+
+- flourish
+  * 词义：  vi.繁荣，茂盛，兴旺
+  * 例句：  Plants will not flourish without water.
+  * 翻译：  没有水，职务就不会长得茂盛。
+  <br>
+
+- previous
+  * 词义：  a.早先的，在前的； ad.(to) 在...之前
+  * 例句：  Previous to our being there, there was an earthquake in the area.
+  * 翻译：  在我们去那儿之前，该地区曾经发生过一场地震。
+  * 派生：  previously (ad. 先前，以前)
+  <br>
+
+- positive
+  * 词义：  a.积极的，肯定的，正电的，阳性的；十足的，完全的； n.(射影) 正片
+  * 例句：  Positive progress has been achieved during the negotiation.
+  * 翻译：  谈判已经取得了积极的进展。
+  * 考点：  positive role 积极作用 positive example 积极的榜样
+  * 派生：  positively (ad. 断然地，肯定地，确实地)
+  <br>
+
+- string
+  * 词义：  n. 弦, 线, 细绳； 一串，一行 vt. 缚，捆，悬挂
+  * 例句：  That is a real string of pearls.
+  * 翻译：  那串珍珠是真的。
+  <br>
+
+- frost
+  * 词义：  n. 霜，霜冻，严寒
+  * 例句：  We covered the tomato plants to protest them from frost.
+  * 翻译：  我们把西红柿秧盖上，以保护它们不受霜冻的侵袭。
+  <br>
+
+- plateau
+  * 词义：  n.高原
+  <br>
+
+- abide
+  * 词义：  vi. 坚持，遵守
+  * 例句：  If we join a club, we have to abide by its rules.
+  * 翻译：  如果我们加入一个俱乐部，就得遵守它的规章。
+  <br>
+
+- personnel
+  * 词义：  n. 全体人员，全体职员； 人事(部门)
+  * 例句：  Airline personnel can buy flight tickets at reduced prices.
+  * 翻译：  航空公司职员购买飞机票可享受价格上的优惠。
+  * 词组：  personnel department (人事部) personnel manager (人事经理)
+  <br>
+
+- fee
+  * 词义：  n.(费，会费，学费等); 酬金
+  * 例句：  The accuser spent $1,000 in legal fees.
+  * 翻译：  原告花了1000美元诉讼费。
+  * 考点：  licence fee 许可费
+  * 辨别：  fee，cost
+  <br>
+
+- telegraph
+  * 词义：  n.电报机，电报； v.打电报传达(消息)，电告
+  * 例句：  Jack has no telephone so I will telegraph him.
+  * 翻译：  杰克没有电话，所以我们给他发电报。
   <br>
