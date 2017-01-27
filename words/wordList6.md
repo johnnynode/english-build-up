@@ -278,3 +278,70 @@
   * 翻译：  国外游客游览了气势宏伟的故宫。
   * 同义：  magnificence (n. 壮丽，宏伟)
   <br>
+
+---
+### 2017年01月28日07:49:29
+
+- global
+  * 词义：  a.全球的，世界的
+  * 短语：  global warming
+  * 翻译：  全球变暖
+  * 派生：  globally (ad.全球地，世界性地) globalization (n. 全球化)
+  <br>
+
+- repertoire
+  * 词义：  n. (剧团等) 常备剧目，全部节目
+  * 例句：  This tune is not in the troupe's repertoire.
+  * 翻译：  该剧团的常备曲目中没有这支曲子。
+  <br>
+
+- aggressive
+  * 词义：  a.侵略的，好斗的；敢作敢为的，有进取心的，积极的；强有力的
+  * 例句：  A salesman must be aggressive if he wants to succeed.
+  * 翻译：  要想成为一名成功的推销员就必须有进取心。
+  <br>
+
+- compensate
+  * 词义：  v.(for) 补偿，赔偿，弥补
+  * 例句：  Bruce was compensated by the insurance company for his incidental injury.
+  * 翻译：  布鲁斯受到意外伤害后得到了保险公司的赔偿。
+  <br>
+
+- oppose
+  * 词义：  vt. 反对，反抗
+  * 例句：  The Supreme Court strongly opposes physician-assisted suicide.
+  * 翻译：  最高法院强烈反对安乐死。
+  <br>
+
+- crew
+  * 词义：  n.(船上，飞机上的)工作人员
+  * 例句：  The rescue crew is still looking for survivors.
+  * 翻译：  救援队员仍在寻找生还者。
+  <br>
+
+- sake
+  * 词义：  n.缘故
+  * 例句：  Anthony had loved poetry for the sake of getting the beauty.
+  * 翻译：  为了赢得美人归，安东尼迷上了诗歌。
+  * 考点：  for the sake of 为了...起见，看在...的份上
+  * 参考：  bake (v. 烘，烤) brake (n.闸) fake (a.假的) rake(n.耙子)
+  * 派生：  uninterrupted (a.连续的，未受干扰的) interruption (n.中断，打断)
+  <br>
+
+- obstruction
+  * 词义：  n. 阻碍，妨碍；障碍物
+  * 例句：  Perjury is an obstruction of justice.
+  * 翻译：  作伪证是一种妨碍司法的行为。
+  <br>
+
+- fragile
+  * 词义：  a. 易碎的，易损的； 脆弱的，易受伤害的
+  * 例句：  You must cushion the fragile objects carefully when you pack them.
+  * 翻译：
+  <br>
+
+- cautious
+  * 词义：  a. 小心的，谨慎的
+  * 例句：  Lin Daiyu was cautious of committing mistakes in Daguanyuan.
+  * 翻译：  林黛玉在大观园里处处小心，惟恐出错。
+  <br>
