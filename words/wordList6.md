@@ -211,3 +211,70 @@
   * 例句：  Jack has no telephone so I will telegraph him.
   * 翻译：  杰克没有电话，所以我们给他发电报。
   <br>
+
+---
+### 2017年01月27日 09:55:02
+
+- dome
+  * 词义：  n.圆屋顶，拱顶
+  * 例句：  I like the dome of the great cathedral very much.
+  * 翻译：  我非常喜欢那座大教堂的拱顶。
+  <br>
+
+- encounter
+  * 词义：  n. 遇到，遭遇； vt. 遇到，遭遇
+  * 例句：  It seemed more like a casual encounter between old friends than a formal negotiation session.
+  * 翻译：  与其说这是一次正式的谈判会议，还不如说它更像是老朋友间的偶遇。
+  <br>
+
+- patron
+  * 词义：  n.赞助人，保护人
+  * 例句：  The poor artist got financial aid from a wealthy patron.
+  * 翻译：  穷困潦倒的艺术家得到了一位富有的赞助人的资助。
+  * 派生：  patronage (n.赞助，资助)
+  <br>
+
+- scheme
+  * 词义：  n. 计划，方案，阴谋； 配置，安排； v. 计划，谋划，阴谋
+  * 例句：  The gambler scheed to recoup his losses.
+  * 翻译：  赌徒算计着怎么把输掉的东西补回来。
+  <br>
+
+- thermal
+  * 词义：  a.热的，由热造成的；保暖的
+  * 例句：  My grandpa had to wear thermal underwear to keep warm in cold winter.
+  * 翻译：  我爷爷冬天的时候必须穿保暖内衣来御寒。
+  <br>
+
+- pursue
+  * 词义：  vt. 追赶，追踪； 继续，从事
+  * 例句：  The student didn't have time to pursue his interests.
+  * 翻译：  那名学生没有时间去做自己感兴趣的事情。
+  <br>
+
+- acquaint
+  * 词义：  vt. 使认识，使了解
+  * 例句：  I wonder if you are acquainted with your daughter-in-law.
+  * 翻译：  我想知道你是否了解自己的儿媳妇。
+  * 派生：  acquainted (a. 知道的；有知识的)
+  * 同义：  inform (vt. 通知，告诉)
+  <br>
+
+- worthwhile
+  * 词义：  a. 值得(做)的
+  * 例句：  A visit to London will always be worthwhile.
+  * 翻译：  无论如何伦敦值得去看一下。
+  <br>
+
+- lumber
+  * 词义：  n. 木料，木材
+  * 例句：  The chopped lumber is enough to fuel a thousand hearths for a year.
+  * 翻译：  这些劈好的木材足以供1000个炉灶烧一年。
+  <br>
+
+- majesty
+  * 词义：  n. 陛下； 雄伟，壮丽，庄严
+  * 例句：  The foreigners visited the Forbidden City in all its majesty.
+  * 翻译：  国外游客游览了气势宏伟的故宫。
+  * 同义：  magnificence (n. 壮丽，宏伟)
+  <br>
