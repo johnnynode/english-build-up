@@ -345,3 +345,69 @@
   * 例句：  Lin Daiyu was cautious of committing mistakes in Daguanyuan.
   * 翻译：  林黛玉在大观园里处处小心，惟恐出错。
   <br>
+
+---
+### 2017年01月29日08:05:05
+
+- echo
+  * 词义：  vi. 产生回声，产生回响； n. 回声，反响；共鸣
+  * 短语：  The door slammed behind him with a thunderous echo.
+  * 翻译：  门在他身后砰的医生关上了，发出了巨大的回音。
+  <br>
+
+- agony
+  * 词义：  n. 苦恼，痛苦
+  * 短语：  Mary was in an agony of deciding to marry or not.
+  * 翻译：  玛丽正为结不结婚的事而苦恼。
+  <br>
+
+- negotiate
+  * 词义：  vi. 谈判，交涉，商议
+  * 短语：  Tom represented the workers to negotiate with the boss for a higher salary.
+  * 翻译：  汤姆代表工人就加薪一事与老板进行谈判。
+  * 派生：  negotiation (n. 商议，谈判) negotiator (n.谈判代表)
+  <br>
+
+- propose
+  * 词义：  vt. 提议，建议；提名，推荐 vi.(向某人)求婚
+  * 短语：  I was proposed for chairman of the club.
+  * 翻译：  我被推荐为俱乐部的主席。
+  <br>
+
+- immigrant
+  * 词义：  a. (从国外) 移来的，移民的； n.移民，侨民
+  * 短语：  Tom was sometimes a little ashamed of his immigrant origin.
+  * 翻译：  汤姆有时会为自己的移民出身感到些许羞耻。
+  * 参考：  同根： emigrant (n.移居外国的人)； immigration (n.移居，移民入境)
+  <br>
+
+- invade
+  * 词义：  v. 侵入，侵略，侵害
+  * 短语：  There is no sign that civilization ever invaded the place.
+  * 翻译：  这里没有被文明入侵过的迹象。
+  <br>
+
+- confident
+  * 词义：  a. (about) 确信的，自信的
+  * 考点：  self confident 自信的； over confident 过于自信的； be confident of/in 有信心
+  * 参考：  比较： confidant (n.知己)； confide (v. 倾诉，委托)
+  <br>
+
+- nominate
+  * 词义：  vt. 提名，任命
+  * 短语：  I was nominated to the Research & Development department.
+  * 翻译：  我被指派到研发部门工作。
+  <br>
+
+- wisdom
+  * 词义：  n.智慧，明智； 名言，格言
+  * 短语：  The wisdom passed down from generation to generation.
+  * 翻译：  这一格言代代相传。
+  <br>
+
+- phase
+  * 词义：  n. 阶段，状态，时期； 相，相位
+  * 短语：  The scientist wrote an article to explain the phases of the moon.
+  * 翻译：  这位科学家写了一篇解释月相的文章
+  * 参考：  phrase (n.短语)
+  <br>
