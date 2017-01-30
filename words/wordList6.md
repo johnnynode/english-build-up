@@ -417,7 +417,7 @@
 
 - specialist
   * 词义：  n.专家
-  * 短语：  Mary's fatheris a heart specialist.
+  * 短语：  Mary's father is a heart specialist.
   * 翻译：  玛丽的父亲是一位心脏病专家。
   * 派生：  non-specialist (n. 非专家，业外人士)
   <br>
