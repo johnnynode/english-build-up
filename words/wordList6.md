@@ -280,7 +280,7 @@
   <br>
 
 ---
-### 2017年01月28日07:49:29
+### 2017年01月28日 07:49:29
 
 - global
   * 词义：  a.全球的，世界的
@@ -347,7 +347,7 @@
   <br>
 
 ---
-### 2017年01月29日08:05:05
+### 2017年01月29日 08:05:05
 
 - echo
   * 词义：  vi. 产生回声，产生回响； n. 回声，反响；共鸣
@@ -411,3 +411,86 @@
   * 翻译：  这位科学家写了一篇解释月相的文章
   * 参考：  phrase (n.短语)
   <br>
+
+---
+### 2017年01月30日 08:59:27
+
+- specialist
+  * 词义：  n.专家
+  * 短语：  Mary's fatheris a heart specialist.
+  * 翻译：  玛丽的父亲是一位心脏病专家。
+  * 派生：  non-specialist (n. 非专家，业外人士)
+  <br>
+
+- definite
+  * 词义：  a. 明确的，肯定的，限定的
+  * 短语：  There are defiite limits  to what the official media will say.
+  * 翻译：  官方媒体的报道是有明确限制的。
+  * 派生：  indefinite (a.不确定的，模糊的) definitely (ad. 明确地，肯定地)
+  * 参考：  比较： infinite (a. 无穷的，无限的)
+  <br>
+
+- somehow
+  * 词义：  ad. 不知怎么地； 设法，以某种方式
+  * 短语：  She looked different somehow.
+  * 翻译：  不知怎么地，她看上去变了。
+  <br>
+
+- subscribe
+  * 词义：  vi. 订购，订阅，预订； 赞成
+  * 短语：  It's a theory to which many economists subscribe, but in practice it often leaves railroads in the
+            position of determining which companies will flourish and which will fail.
+  * 翻译：  这种理论得到了经济学家的认同，但实际上它常常使铁路公司获得了决定哪家公司生意兴隆哪家公司倒闭的权利。
+  <br>
+
+- carbohydrate
+  * 词义：  n. 碳水化合物
+  * 短语：  Sugars and starches are rwo kinds of carbohydrates.
+  * 翻译：  糖和淀粉是两种碳水化合物。
+  <br>
+
+- discourse
+  * 词义：  n. 演讲，讲话，论文  vi. 演讲，讲话
+  * 短语：  I felt at home in this sort of discourse.
+  * 翻译：  我对这类演讲得心应手。
+  <br>
+
+- complicate
+  * 词义：  v.(使)变复杂
+  * 短语：  Don't complicate matters by making excuses.
+  * 翻译：  别越解释，越说不清楚。
+  <br>
+
+- contrary
+  * 词义：  a. (to) 相反的，矛盾的，对抗的； n. 矛盾，反对，相反，反面； 对立物，对立面
+  * 短语：  The boat was sailing in a direction contrary to the current.
+  * 翻译：  小船逆流而上。
+  * 考点：  on the contrary 反之，正相反
+  * 派生：  contrarily (ad. 反之，相反地)
+  * 辨别：  contrary, contradictory, conflicting, opposite
+  <br>
+
+- numerical
+  * 词义：  a. 数字的，用数字表示的
+  * 短语：  Nowadays, the numerical skills of children develop very early.
+  * 翻译：  如今，孩子们的数学能力开发得很早。
+  * 派生：  numerically (ad. 用数字；在数字上)
+  <br>
+
+- junior
+  * 词义：  a. 年少的，年幼的；低年级的；后进的，下级的；三年级的；年少者，低班生； 下级，晚辈。三年级学生
+  * 短语：  Mike is a junior in Harvard University.
+  * 翻译：  迈克是哈佛大学三年级学生。
+  <br>
+
+- overhaul
+  * 词义：  n. 彻底检修； 改革； vt. 彻底检修； 赶上，超过(赛跑对手)
+  * 短语：  Does anyone believe we will overhaul them in the remaining games?
+  * 翻译：  有没有人相信我们将在余下的几场比赛中赶上他们？
+  <br>
+
+> A man can fail many times, but he isn't failure until he begins to blames somebody else
+> -J.Burroughs
+
+> 一个人可以失败很多次，但是只要他没有开始责怪旁人，他还不是一个失败者。
+> - 巴勒斯
