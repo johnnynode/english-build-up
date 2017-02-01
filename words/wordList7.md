@@ -66,3 +66,64 @@
   * 例句：  Even a simple toy can mirror the artistic tastes of the time.
   * 翻译：  哪怕一个简易的玩具都可以反映出一个时代的艺术品味。
   <br>
+
+---
+### 2017年02月1日 08:53:52
+
+- purchase
+  * 词义：  vt. 买，购买； n. 购买的物品
+  * 例句：  People uses money to purchase goods and services.
+  * 翻译：  人们用货币来购买商品和服务。
+  <br>
+
+- permeate
+  * 词义：  vi. 扩散，弥漫； 渗透，渗入
+  * 例句：  The rain has permeated into the soil.
+  * 翻译：  雨水浸透了大地。
+  <br>
+
+- steep
+  * 词义：  a. 陡峭的，险峻的
+  * 例句：  It's very steep here and the surface is a little slippery.
+  * 翻译：  这儿很陡，地面还有点滑。
+  <br>
+
+- calendar
+  * 词义：  n. 日历，月历
+  <br>
+
+- dam
+  * 词义：  n.水坝，水闸
+  * 例句：  The government mobilized millions of people to build the dam.
+  * 翻译：  政府动员了数百万人来建这个水坝。
+  <br>
+
+- narrative
+  * 词义：  n.叙述，记叙文 a.叙述的，有故事性的
+  * 例句：  The writer was good at the narrative treatment of historical events.
+  * 翻译：  该作家擅长将历史事件做故事化处理。
+  <br>
+
+- worldwide
+  * 词义：  a.全世界的，世界范围的 ; ad. 遍及全世界
+  * 例句：  The deadly virus spread worldwide.
+  * 翻译：  这种致命病毒蔓延到世界各地。
+  <br>
+
+- altitude
+  * 词义：  n.高度，海拔
+  * 例句：  The pilot announced that our altitude was 30,000 feet.
+  * 翻译：  飞行员告诉我们现在的高度是3万英尺。
+  <br>
+
+- vulgar
+  * 词义：  a. 粗野的，下流的；庸俗的，苏粗的； 普通的，通俗的
+  * 例句：  The studetns laughed when Jimmy told a vulgar joke.
+  * 翻译：  吉姆讲了一个粗俗的笑话，学生们都笑了。
+  <br>
+
+- cripple
+  * 词义：  n.跛子，残疾人 vt.使跛，使残疾
+  * 例句：  The traffic accident crippled the driver for his whole life.
+  * 翻译：  交通事故使得这位司机终身残废。
+  <br>
