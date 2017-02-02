@@ -127,3 +127,74 @@
   * 例句：  The traffic accident crippled the driver for his whole life.
   * 翻译：  交通事故使得这位司机终身残废。
   <br>
+
+---
+### 2017年02月02日 11:09:44
+
+- liable
+  * 词义：  a. 有责任的，有义务的； 有...倾向于，易于...的
+  * 例句：  Without careful investigation, you are liable to come to wrong conclusions.
+  * 翻译：  不经过仔细地调查研究，你容易得出错误的结论。
+  * 考点：  be liable to 易于...的
+  * 参考：  reliable (a. 可靠的，可信赖的)
+  <br>
+
+- farewell
+  * 词义：  int. 再会，别了  n.告别
+  * 例句：  Farewell, my dear friend.
+  * 翻译：  再见我亲爱的朋友。
+  <br>
+
+- equality
+  * 词义：  n.同等，平等
+  * 例句：  Women demonstrated for equality in employment.
+  * 翻译：  妇女们为争取平等就业举行了示威游行。
+  * 派生：  inequality (n.不平等；不等式)
+  <br>
+
+- panel
+  * 词义：  n.面，板；控制板，仪表盘；专门小组
+  * 例句：  A panel fell down from the ceiling yesterday.
+  * 翻译：  昨天一块板从天花板上掉了下来。
+  <br>
+
+- immune
+  * 词义：  a. 免疫的，有免疫力的； 不受影响的，免除的，豁免的
+  * 例句：  Phoebe was immune to persuasion for she was very stubborn.
+  * 翻译：  菲比很固执，很难被说服。
+  * 考点：  immune from 免除，豁免
+  * 派生：  immunization (n.免除，免疫)
+  <br>
+
+- pamphlet
+  * 词义：  n. 小册子
+  * 例句：  The student made the notes into a pamphlet.
+  * 翻译：  这个学生把笔记整理成了一本小册子。
+  * 参考：  booklet (n.小册子)
+  <br>
+
+- federal
+  * 词义：  a. 联邦的
+  * 例句：  The U.S. is a federal organization of states.
+  * 翻译：  美国是一个联邦制国家。
+  * 派生：  federally (ad. 联邦地，联邦政府地)
+  * 参考：  federation (n.联邦，联盟)
+  <br>
+
+- snap
+  * 词义：  vi. 咔嚓折断，啪地崩断，猛咬，猛然断裂，厉声说话，怒声责骂 vt.给...拍快照 n. 吧嗒声，快照；a. 仓促的，突然的
+  * 例句：  His snap appearing surprised me.
+  * 翻译：  他的突然出现让我很惊讶。
+  <br>
+
+- indifferent
+  * 词义：  a. 冷漠的，不关心的，不积极的
+  * 例句：  May is so indifferent to her old friends.
+  * 翻译：  梅对待老朋友非常冷漠。
+  <br>
+
+- fairy
+  * 词义：  n. 小仙子，小精灵
+  * 例句：  The good fairy made Cinderella's coach come by magic.
+  * 翻译：  善良的仙女使用魔力赶来了灰姑娘的马车。
+  <br>
