@@ -198,3 +198,70 @@
   * 例句：  The good fairy made Cinderella's coach come by magic.
   * 翻译：  善良的仙女使用魔力赶来了灰姑娘的马车。
   <br>
+
+---
+### 2017年02月03日 11:40:17
+
+- transistor
+  * 词义：  n.晶体管，晶体管收音机
+  * 考点：  transistor circuit 晶体管电路
+  <br>
+
+- whatsoever
+  * 词义：  ad.(用于否定句中以加强语气) 任何
+  * 例句：  Harry will not be assigned to the job since he has no experience whatsoever.
+  * 翻译：  哈里没有任何经验，所以他得不到那份工作。
+  <br>
+
+- fancy
+  * 词义：  n.爱好，喜爱，迷恋，想象，设想 vt.想象，幻想 a.花式的，奇特的，异样的
+  * 例句：  That was a very fancy pair of shoes.
+  * 翻译：  那双鞋风格独特。
+  * 派生：  fanciful (a.空想的，奇怪的)
+  <br>
+
+- recur
+  * 词义：  vi. 再发生，重现； 重新提起
+  * 例句：  I will recur with this problem at the end of our meeting.
+  * 翻译：  我会在我们的会议结束时，重新提起这个问题。
+  <br>
+
+- surroundings
+  * 词义：  n. 周围的事物，环境
+  * 例句：  Social surroundings are vital to the healthy growth of children.
+  * 翻译：  社会环境对孩子的健康成长至关重要。
+  <br>
+
+- slender
+  * 词义：  a. 修长的，苗条的，细长的； 微小的，微薄的
+  * 例句：  This candidate only got slender public support.
+  * 翻译：  这位候选人只得到了少数民众的支持。
+  * 参考：  slander (n./v. 诽谤)
+  * 辨别：  slender , slim, thin, skinny
+  <br>
+
+- linger
+  * 词义：  vi. 逗留，闲荡，徘徊， 磨蹭，拖延
+  * 例句：  My son lingered over his breakfast, regardless of being late for school.
+  * 翻译：  我儿子磨磨蹭蹭的吃着早饭，全然不顾上学会迟到。
+  <br>
+
+- classical
+  * 词义：  a.经典的，古典(文学)的
+  * 例句：  Music, whether classical or rock, helps improve your memory.
+  * 翻译：  无论是古典音乐还是摇滚音乐都有助于增强人的记忆力。
+  <br>
+
+- rein
+  * 词义：  n. 缰绳， 控制；
+  * 例句：  My parents kept a tight rein on me.
+  * 翻译：  我父母对我管教很严。
+  <br>
+
+- scale
+  * 词义：  n.刻度，标度； 天平，磅秤；比例尺；规模；音阶；鱼鳞 v.(down) 缩减，缩小
+  * 例句：  The fish is covered with colorful scales.
+  * 翻译：  这种鱼长满了彩色的鳞片。
+  * 考点：  scale back/down 缩减
+  * 派生：  upscale (a.高消费阶层的)
+  <br>
