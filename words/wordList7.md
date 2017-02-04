@@ -265,3 +265,68 @@
   * 考点：  scale back/down 缩减
   * 派生：  upscale (a.高消费阶层的)
   <br>
+
+
+---
+### 2017年02月04日 18:00:31
+
+- suspend
+  * 词义：  vt. 吊，悬挂； 推迟，暂停
+  * 例句：  The oil price was given another push up this week when Iraq suspended oil exports.
+  * 翻译：  由于伊拉克暂停了石油出口，油价本周再次攀升。
+  <br>
+
+- exert
+  * 词义：  vt. 尽(力); 施加(压力等)
+  * 短语：  exert ... on ... 对... 施加...
+  * 例句：  You must exert yourself to pass your exam.
+  * 翻译：  你必须竭尽全力去通过考试。
+  * 考点：  exert oneself to do sth. 努力，使劲
+  <br>
+
+- lamb
+  * 词义：  n. 羔羊，小羊; 羔羊肉
+  * 例句：  We had some roasted lamb chops in the outdoor barbecue.
+  * 翻译：  我们在户外烧烤会上吃了些烤羊排。
+  <br>
+
+- target
+  * 词义：  n.目标，对象，靶子； vt. 把...作为目标
+  * 例句：  Our revenue was targeted for 60 million dollars last year.
+  * 翻译：  我们去年的收入指标为6千万美元。
+  <br>
+
+- butterfly
+  * 词义：  n.蝴蝶
+  * 例句：  That boy shows us his butterfly collection.
+  * 翻译：  那个男孩向我们展示了他收集的蝴蝶。
+  <br>
+
+- librarian
+  * 词义：  n. 图书管理员
+  * 例句：  With the librarian's help, Joe found the book he wanted in a short time.
+  * 翻译：  在图书管理员的帮助下，乔很快找到了他想要的那本书。
+  <br>
+
+- supreme
+  * 词义：  a.极度的，最重要的； 至高的，最高的
+  * 例句：  Supreme authority of our society rests with the people.
+  * 翻译：  我们社会的最高权力属于人民。
+  * 考点：  the Supreme Court 最高法院
+  <br>
+
+- conservative
+  * 词义：  a. 保守的，守旧的； n.保守主义者
+  * 例句：  The conservatives cling to old patterns of life.
+  * 翻译：  保守主义者坚持旧的生活模式。
+  <br>
+
+- liberal
+  * 词义：  a.自由的，思想开明的； 丰富的，富足的； 慷慨的，大方的
+  * 例句：  It was very strange that the mean man's son was quite liberal.
+  * 翻译：  那个吝啬鬼的儿子非常大方，这真是很奇怪。
+  <br>
+
+- peanut
+  * 词义：  n.花生
+  <br>
