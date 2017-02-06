@@ -397,3 +397,89 @@
   * 例句：  The king named his son heir to throne.
   * 翻译：  国王指定他的儿子为王位继承人。
   <br>
+
+---
+### 2017年02月06日 23:52:58
+
+- intervene
+  * 词义：  vi.(in) 插手，干预，调停； 插入，介入
+  * 例句：  You can't see the lake from there because the building intervenes.
+  * 翻译：  你在那儿看不到湖是因为有幢楼挡在中间
+  * 派生：  intervention (n.干涉，介入)
+  * 同义：  interfere (vi. 介入，干涉，干扰) interpose(vi. 置于...之间，介入)
+  <br>
+
+- vacuum
+  * 词义：  n.真空，真空吸尘器 v.收集
+  * 例句：  The information firm was busy vacuuming up data from the far corners of the world.
+  * 翻译：  信息公司忙于收集来自世界各地的数据。
+  <br>
+
+- ancient
+  * 词义：  a.古代的，古老的
+  * 例句：  The foreigners were amazed at the ancient civilization of China.
+  * 翻译：  这些外国人对中国的古代文明惊叹不已。
+  <br>
+
+- literacy
+  * 词义：  n. 识字，有文化，读写能力
+  * 例句：  The female education program resulted in increased female literacy.
+  * 翻译：  妇女教育计划增强了妇女的读写能力
+  * 参考：  literate (a. 有文化的) literary (a.文艺的) literal (a. 文字的)
+  <br>
+
+- module
+  * 词义：  n. 建筑部件； 家具组件； 模块； 航空器中的舱
+  * 例句：  The astronaut came out from the lunar module and started to walk on the moon.
+  * 翻译：  宇航员从登月舱中出来，开始在月球上行走。
+  <br>
+
+- swear
+  * 词义：   vi.(at) 诅咒，骂人； v.宣誓，发誓
+  * 例句：   The witness swore before giving his testimony.
+  * 翻译：   证人在提供证词前宣了誓。
+  <br>
+
+- sensitive
+  * 词义：  a.(to) 敏感的，灵敏的； 易受伤害的
+  * 例句：  Dogs are more sensitive to odors than people are.
+  * 翻译：  狗的嗅觉比人的嗅觉灵敏。
+  * 派生：  sensitivity (n.敏感，灵敏度) insensitivity (n.麻木，无感觉) insensitive (a.感觉迟钝的)
+  <br>
+
+- domestic
+  * 词义：  a. 家的，家庭的； 本国的； 驯养的
+  * 例句：  North American bison differ from domestic cattle in the number of their ribs.
+  * 翻译：  北美野牛和驯养牛的肋骨数目不一样。
+  <br>
+
+- brand
+  * 词义：  n.商标，标记，牌子；vt.使铭记； 打火印；打烙印
+  * 例句：  The old farmer has branded his cattle.
+  * 翻译：  这位老农给自己的牛打上了记号。
+  <br>
+
+- speculate
+  * 词义：  v.(about,on) 预测，推断；投机
+  * 例句：  I wouldn't like to speculate on the reasons for her resignation.
+  * 翻译：  我不愿意猜测她辞职的原因。
+  <br>
+
+- persecute
+  * 词义：  vt. 迫害
+  * 例句：  Millions of Jews were persecuted during World War II.
+  * 翻译：  二战期间数百万犹太人遭到了迫害。
+  <br>
+
+- numb
+  * 词义：  a.麻木的，失去感觉的 vt.使麻木
+  * 例句：  We numb the body and the mind with the hard work.
+  * 翻译：  繁重的工作使我们的肉体和精神都麻木了。
+  <br>
+
+> As fruit needs not only sunshine but cold nights and chilling showers to ripen it,
+> so character needs not only joy but trial and difficulty to mellow it.
+> -- Hugh Black
+
+> 水果不仅需要阳光，也需要凉夜。寒冷的雨水能使其成熟。人的性格陶冶不仅需要欢乐，也需要考验和困难。
+> 布莱克.H.
