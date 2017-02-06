@@ -330,3 +330,70 @@
 - peanut
   * 词义：  n.花生
   <br>
+
+---
+### 2017年02月06日 23:23:52
+
+- biology
+  * 词义：  n.生物学
+  * 例句：  I major in biology,which is my favourite subject.
+  * 翻译：  我主修生物学，这是我最喜欢的学科。
+  * 派生：  biological (a. 生物学的) biologist(n.生物学家) microbiologist (n.微生物学家)
+  <br>
+
+- satisfactory
+  * 词义：  n.令人满意的
+  * 例句：  The present situation is far from satisfactory though some progress has been made.
+  * 翻译：  尽管有了一些进步，但现状还是远不能令人满意。
+  * 参考：  satisfied (a.感到满意的) dissatisfaction (n.不满)
+  <br>
+
+- wink
+  * 词义：  vi. 眨眼，闪烁 n.眨眼，眨眼示意
+  * 例句：  Tonight so many stars are winking on and off in the sky.
+  * 翻译：  今夜星空灿烂。
+  <br>
+
+- multiple
+  * 词义：  a.多样的，多重的 n.倍数
+  * 例句：  Yao planned to establish a multiple neighborhood service center.
+  * 翻译：  姚计划建立一个多功能社区服务中心。
+  * 参考：  multicultural (a. 多文化的)
+  <br>
+
+- trumpet
+  * 词义：  n.喇叭，小号
+  * 例句：  I played the trumpet in a band.
+  * 翻译：  我在一个乐队里吹小号。
+  <br>
+
+- hijack / highjack
+  * 词义：  vt. 劫持
+  * 例句：  They're going to hijack the vessel.
+  * 翻译：  他们打算劫持这条船。
+  <br>
+
+- sensible
+  * 词义：  a.明智的，打理的 ； (of) 可察觉的，察觉到的
+  * 例句：  We found a sensible change in the attitude of the irector after his promotion.
+  * 翻译：  我们发现主任升职后态度有了明显的变化。
+  <br>
+
+- nurture
+  * 词义：  vt. 抚育，教养，给...营养物 n.营养物，食物，养育
+  * 例句：  Nothing could replace the mother's nurture.
+  * 翻译：  没什么能替代母亲的养育之恩。
+  <br>
+
+- selection
+  * 词义：  n.选择，挑选 ； 选集，精选物
+  * 例句：  Dating is a very important part of the mate selection.
+  * 翻译：  约会是选择伴侣中一个非常重要的部分。
+  * 考点：  natural selection 自然选择
+  <br>
+
+- heir
+  * 词义：  n.继承人
+  * 例句：  The king named his son heir to throne.
+  * 翻译：  国王指定他的儿子为王位继承人。
+  <br>
