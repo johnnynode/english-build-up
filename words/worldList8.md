@@ -129,3 +129,67 @@
   * 例句：  That cat curled up because of cold.
   * 翻译：  因为冷，那只猫蜷成一团。
   <br>
+
+---
+### 2017年02月09日 21:29:38
+
+- pastime
+  * 词义：  n. 消遣，娱乐
+  * 例句：  Bicycling is a great pastime and a good way to work out.
+  * 翻译：  骑自行车是种不错的消遣，也是运动的好方式。
+  <br>
+
+- disappear
+  * 词义：  vi. 不见，消失
+  * 例句：  Diana's beautiful face will never disappear in Tony's mind.
+  * 翻译：  戴安娜美丽的容颜在托尼心中将永不消逝。
+  <br>
+
+- prototype
+  * 词义：  n.原型，蓝本
+  * 例句：  We may find the prototype of the main character of the film around us.
+  * 翻译：  我们可以在自己身边找到电影主人公的原型。
+  <br>
+
+- pact
+  * 词义：  n.协定，条约，公约
+  * 例句：  We have made a pact not to tell anyone our plan.
+  * 翻译：  我们已经约定好不把我们的计划告诉任何人。
+  <br>
+
+- wander
+  * 词义：  vi. 漫步，徘徊 ; 迷路，迷失方向； 离题
+  * 例句：  Peter wandered from the topic in his talk at the meeting.
+  * 翻译：  彼得在会上的发言离题了。
+  <br>
+
+- campus
+  * 词义：  n. (大学) 校园
+  * 例句：  Those part-time students expected to be offered some jobs on campus during the coming summer
+            vacation.
+  * 翻译：  想做兼职的学生希望在即将来临的暑假里能在校内找到一些工作。
+  <br>
+
+- compartment
+  * 词义：  n. 卧车包房， 隔间
+  * 例句：  People in the entire compartment burst into laughter.
+  * 翻译：  整间包房的人都爆发出笑声。
+  <br>
+
+- comic
+  * 词义：  a. 可笑的，喜剧的 ; n. 喜剧演员
+  * 例句：  Mary got a signature of this popular comic.
+  * 翻译：  玛莉得到了喜剧演员的签名。
+  <br>
+
+- imaginative
+  * 词义：  a.富有想象力的；爱想象的
+  * 例句：  Susan writes very imaginative science-fiction stories.
+  * 翻译：  苏珊写的科幻小说机具想象力。
+  <br>
+
+- spectrum
+  * 词义：  n.(物)谱 ； 光谱； (电信) 频谱； 范围， 幅度
+  * 例句：  Mary's spectrum of scientific knowledge ranged from astronomy to geography.
+  * 翻译：  说到玛丽的科学知识面，真可谓是上知天文，下知地理。
+  <br>
