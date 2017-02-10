@@ -193,3 +193,69 @@
   * 例句：  Mary's spectrum of scientific knowledge ranged from astronomy to geography.
   * 翻译：  说到玛丽的科学知识面，真可谓是上知天文，下知地理。
   <br>
+
+---
+### 2017年2月10日 22:43:57
+
+- inland
+  * 词义：  a. 国内的，内地的，内陆的 ad. 在国内，在内地，在内陆
+  * 例句：  The criminal headed inland for some place of hiding.
+  * 翻译：  罪犯跑到内陆去寻找藏身之处。
+  <br>
+
+- dash
+  * 词义：  vi. 冲，猛冲，突进 ； 破折号
+  * 例句：  Here should be a dash to indicate a pause.
+  * 翻译：  这儿应该有个破折号来表示停顿。
+  * 参考：  rush (vi. 冲，闯) rash (a.轻率的，匆忙的)
+  <br>
+
+- symmetry
+  * 词义：  n. 对称(性) ； 匀称；整齐
+  * 例句：  The Taj Mahal is a rival to the Parthenon in sheer symmetry and beauty.
+  * 翻译：  从对称和美学角度来看，泰姬陵和帕台农神庙不相上下。
+  * 同义：  uniformity (n.一致，均匀)
+  <br>
+
+- bail
+  * 词义：  n.保释 ； vt. 保释， 帮助(某人)脱离困境
+  * 例句：  Tom committed another offence while he was out on bail.
+  * 翻译：  汤姆在保释期间又犯下另一罪行。
+  <br>
+
+- instability
+  * 词义：  n.不稳定(性)
+  * 例句：  Political instability caused consumption to drop.
+  * 翻译：  政治不稳定导致了消费量的下滑。
+  <br>
+
+- hay
+  * 词义：  n. 干草
+  * 例句：  Pile the hay in the corner of the kitchen.
+  * 翻译：  把干草堆到厨房的角落里。
+  <br>
+
+- embassy
+  * 词义：  n. 大使馆
+  * 例句：  My elder brother is with the French Embassy.
+  * 翻译：  我哥哥在大使馆工作。
+  <br>
+
+- besides
+  * 词义：  prep. 除...之外 ad.而且，还有
+  * 例句：  What ingredients go into my apple pie besides apples?
+  * 翻译：  除了苹果，我的苹果派里还放了哪些配料?
+  <br>
+
+- tar
+  * 词义：  n.柏油，焦油
+  * 例句：  The house's roof was covered with tar to proof water.
+  * 翻译：  这间房顶刷有柏油以防水。
+  <br>
+
+- quote
+  * 词义：  v.引用，援引
+  * 例句：  Frank wanted his quote included in his thesis.
+  * 翻译：  弗兰克想把这段引文写进他的论文。
+  * 派生：  quotation (n.引用；引证； 引用语)
+  <br>
