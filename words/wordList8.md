@@ -259,3 +259,73 @@
   * 翻译：  弗兰克想把这段引文写进他的论文。
   * 派生：  quotation (n.引用；引证； 引用语)
   <br>
+
+---
+### 2017年02月11日 23:49:10
+
+- distill
+  * 词义：  vt. 蒸馏，用蒸馏法提取 ； 西区，提炼
+  * 例句：  My father gave me his useful advice distilled from his lifetime experience.
+  * 翻译：  父亲将其毕生历经中的有益经验都传授给了我。
+  <br>
+
+- await
+  * 词义：  vt. 等候，期待
+  * 例句：  We were awaiting Bill's decision to buy the house.
+  * 翻译：  我们在等比尔做决定购买那栋房子。
+  <br>
+
+- harsh
+  * 词义：  a.严厉的，刻薄的；粗糙的，毛糙的；严酷的，恶劣的；刺耳的，刺目的
+  * 例句：  The report has harsh words for the countries that sold these weapons.
+  * 翻译：  改报道严厉谴责了出售这些武器的国家。
+  * 考点：  harsh remarks 尖刻的评论  harsh realities 严酷的现实
+  * 派生：  harshness (n. 严酷)
+  <br>
+
+- ambitious
+  * 词义：  a.有雄心的，野心勃勃的
+  * 例句：  They were intensely ambitious for their children.
+  * 翻译：  他们对自己的孩子有着很高的期望。
+  * 同义：  aspiring (a.积极地，有抱负的)
+  <br>
+
+- betray
+  * 词义：  vt. 背叛，出卖； 暴露，流露，泄露
+  * 例句：  Do not betray the truth about Jackson.
+  * 翻译：  不要泄露有关杰克逊的实情。
+  <br>
+
+- drawback
+  * 词义：  n.欠缺，缺点
+  * 例句：  The only drawback to your plan is the expense.
+  * 翻译：  你的计划的唯一缺点就是费用问题。
+  <br>
+
+- revise
+  * 词义：  vt. 修订，校订；修正，修改
+  * 例句：  You will revise your paper and hand it in on the following Monday.
+  * 翻译：  你要把论文修改一下，下周一交上来。
+  * 派生：  revision (n.修订，校订，修正)
+  <br>
+
+- norm
+  * 词义：  n.规范； 准则
+  * 例句：  The political candidate adhered closely to all of the norms of the community.
+  * 翻译：  这位政治候选人严格遵守所有的社会准则。
+  * 考点：  norms of conduct 行为准则
+  * 派生：  normal (a.正规的，正常的)
+  <br>
+
+- psychiatry
+  * 词义：  n. 精神病学； 精神病治疗法
+  * 例句：  People with degrees in psychiatry can prescribe medicine.
+  * 翻译：  获得精神病学学会的人可以给病人开药。
+  <br>
+
+- compulsory
+  * 词义：  a.强制的；义务的；必修的
+  * 短语：  compulsory course 必修课
+  * 考点：  compulsory education 义务教育
+  * 同义：  mandatory (a. 命令的， 强制的) enforced (a.强迫的)
+  <br>
