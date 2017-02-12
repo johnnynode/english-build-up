@@ -329,3 +329,71 @@
   * 考点：  compulsory education 义务教育
   * 同义：  mandatory (a. 命令的， 强制的) enforced (a.强迫的)
   <br>
+
+---
+### 2017年02月12日 22:00:43
+
+- thirst
+  * 词义：  n. 渴，口渴； (for) 渴望，热望
+  * 例句：  Harry quenched his thirst with a tall glass of cold water.
+  * 翻译：  哈里喝了一大杯凉水解渴
+  <br>
+
+- migrate
+  * 词义：  vi. 迁移，移居(国外)
+  * 例句：  Large numbers migrated from California, mostly to other parts of the West.
+  * 翻译：  大量人口迁出了加利福尼亚州，其中大部分转向了西部的其他地区。
+  * 派生：  migration (n.移民，移往)
+  <br>
+
+- absence
+  * 词义：   n.缺席，不在场； 缺乏，没有
+  * 例句：  I will take the place of  Marry during her absence.
+  * 翻译：  玛丽不在时，我将代替她。
+  * 考点：  absence of mind. 心不在焉  in the absence of 由于缺乏...
+  <br>
+
+- error
+  * 词义：  n.错误，过时，误差
+  * 例句：  There are far too many spelling errors and your writing is illegible in your work.
+  * 翻译：  你作业中的错误拼写太多，字迹也难以辨认。
+  <br>
+
+- bound
+  * 词义：  vi. 跳跃 n. 跳跃 a.受约束的，有义务的； 注定的，肯定的; 准备到...去的, 开往 ... 的
+  * 例句：  The young sheep were bounding about the field.
+  * 翻译：  那些小羊在田野里又蹦又跳。
+  * 考点：  be bound up with 与...有密切关系 be bound to 必定，一定
+  * 派生：  rebound (n./vi. 回弹)
+  <br>
+
+- withdraw
+  * 词义：  vt. 收回，撤销 ； 缩回，退出 ； 提取(钱)
+  * 短语：  withdraw one's promise 收回诺言  // a withdrawn letter 撤回的信函
+  * 派生：  withdrawal (n.收回，撤退，消沉)
+  <br>
+
+- selfish
+  * 词义：  a. 自私的，利己的
+  * 例句：  Bob is too selfish to think of lending me his new bike.
+  * 翻译：  鲍勃很自私，不想把他的新自行车借给我。
+  * 派生：  unselfishness (n. 无私，慷慨)
+  <br>
+
+- casualty
+  * 词义：  n.伤亡人员；受害人
+  * 例句：  Every casualty of the accident was compensated with a large amount of money.
+  * 翻译：  这次事故中的所有伤员都获得了一大笔赔偿金。
+  <br>
+
+- blunder
+  * 词义：  vi. 踉踉跄跄的走；乱闯 ； (因无知和粗心)犯错 n.大错
+  * 例句：  Tom blundered in not carrying a raincoat for his trip to England.
+  * 翻译：  汤姆去英国旅行没有带雨伞真是失误。
+  <br>
+
+- incentive
+  * 词义：  n.刺激，鼓励，动机
+  * 例句：  As an incentive, the workers were promised a bonus if they finished the project ahead of schedule.
+  * 翻译：  老板曾许诺，如果工人们提前完成这个项目，就给他们发放奖金以资鼓励。
+  <br>
