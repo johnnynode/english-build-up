@@ -397,3 +397,90 @@
   * 例句：  As an incentive, the workers were promised a bonus if they finished the project ahead of schedule.
   * 翻译：  老板曾许诺，如果工人们提前完成这个项目，就给他们发放奖金以资鼓励。
   <br>
+
+---
+### 2017年02月13日 23:54:27
+
+- mold / mould
+  * 词义：  n.模型，铸型 vt.浇筑，造型，塑造，形成
+  * 例句：  The clay mold clipped off in transit.
+  * 翻译：  黏土造型在运输过程中碎掉了。
+  * 派生：  remold (vt. 该铸；改造)
+  <br>
+
+- drift
+  * 词义：  vi.漂，漂流
+  * 例句：  The frift of the current slowly flowed into the sea.
+  * 翻译：  水流缓缓汇入了大海。
+  * 派生：  drifting (a.漂流的)
+  * 参考：  draft (n.草稿) rift (n.裂缝，不和)
+  <br>
+
+- spacious
+  * 词义：  a. 宽广的，宽敞的，广阔的
+  * 例句：  The new attic is bright and spacious.
+  * 翻译：  这间新阁楼明亮而宽敞。
+  * 同义：  capacious (a. 容量大的；宽敞的) roomy (a.有很多空间的，宽敞的)
+  * 反义：  confined (a. 被限制的；狭窄的)
+  <br>
+
+- precious
+  * 词义：  a.珍贵的； 贵重的
+  * 例句：  Here rare and precious cultural relics are kept.
+  * 翻译：  这里保存着珍贵的文化遗迹。
+  <br>
+
+- grind
+  * 词义：  vt. 磨碎， 碾碎
+  * 例句：  Sue often grins her teeth while sleeping.
+  * 翻译：  Sue睡觉时时常磨牙。
+  <br>
+
+- recycle
+  * 词义：  vt. 回收利用(废物等)，再应用
+  * 例句：  These empty glass bottles can be recycled.
+  * 翻译：  这些空玻璃可以回收再利用。
+  <br>
+
+- vessel
+  * 词义：  n. 容器，器皿； 船，舰； 管，血管
+  * 例句：  The servant brought fresh water in a large vessel.
+  * 翻译：  仆人用一个大容器装了清水，送了进来。
+  <br>
+
+- representative
+  * 词义：  n. 代表，代理人 a.(of) 典型的，有代表性的
+  * 例句：  I wrote a letter to my representative introducing our new products.
+  * 翻译：  我给代理人写了一封信介绍我们的新产品。
+  <br>
+
+- detain
+  * 词义：  vt. 扣留，拘留；耽搁
+  * 例句：  My brother has been detained for 44hours.
+  * 翻译：  我弟弟已经被拘留了44个小时。
+  * 参考：  attain (vt. 达到；获得) retain(vt.保持，保留) contain(vt.包含；容忍) maintain (vt.维持，使继续)
+  <br>
+
+- literary
+  * 词义：  a. 文学(上)的 ； 精通文学的；从事写作的
+  * 例句：  Dumas is a great literary man.
+  * 翻译：  大仲马是一位伟大的作家。
+  <br>
+
+- setback
+  * 词义：  n.挫折；倒退；失败
+  * 例句：  Failure in the job interview was a setback for the graduate.
+  * 翻译：  工作面试的失败对毕业生来说是一种挫折。
+  <br>
+
+- moreover
+  * 词义：  ad. 再者，加之，而且
+  * 例句：  Sam won the championship in the race. Moreover, he received $1000.
+  * 翻译：  萨姆在赛跑中获得了冠军，还赢得了一千美元。
+  <br>
+
+- cannon
+  * 词义：  n.加农炮，大炮
+  * 例句：  The soldiers were mending a fighter plane armed with cannon.
+  * 翻译：  士兵们正在修理一架装有机关炮的战斗机。
+  <br>
