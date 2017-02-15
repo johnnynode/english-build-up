@@ -2,7 +2,7 @@
 >
 > [新东方单词在线阅读地址](http://download.dogwood.com.cn/online/kychlx/iPhone.html) ，希望这个链接一直都有效 :)
 
-### 2017年2月14日 21:39:05
+### 2017年02月14日 21:39:05
 
 - hormone
   * 词义：  n.激素，荷尔蒙
