@@ -190,8 +190,7 @@
 
 - scholar
   * 词义：  n. 学者
-  * 例句：  The newly described languages were often so strikingly different from the well studied languages of Europe and Southeast Asia that some
-            scholar even accused Boas and Sapir of fabricating their data.
+  * 例句：  The newly described languages were often so strikingly different from the well studied languages of Europe and Southeast Asia that some scholar even accused Boas and Sapir of fabricating their data.
   * 翻译：  这些新近被描述的语言与已经得到充分研究的欧洲和东南亚地区的语言往往差别显著，以至于有些学者甚至指责博厄斯和萨贝尔编造了数据材料。
   * 派生：  scholarly (a.学者气质的，学者风度的)
   <br>
