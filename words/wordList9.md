@@ -130,3 +130,74 @@
   * 例句：  The whole building was blazing all night.
   * 翻译：  整座大楼燃起的火烧了一夜。
   <br>
+
+---
+### 2017年02月16日 23:22:33
+
+- disable
+  * 词义：  vt.使残废; 使丧失能力
+  * 例句：  Tony disabled the boy with vicious street fighter moves.
+  * 翻译：  托尼在恶意的街斗中把那个男孩打残废了。
+  * 派生：  disabled (a.伤残的)
+  * 同义：  weaken v.削弱，(使)变弱
+  <br>
+
+- guitar
+  * 词义：  n.吉他，六弦琴
+  * 例句：  Susan liked the boy who used to play the guitar in the campus.
+  * 翻译：  苏珊喜欢那个常在校园里弹吉他的男孩。
+  <br>
+
+- conservation
+  * 词义：  n. 保存，保护，保守； 守恒，不灭
+  * 例句：  Our teacher is explaining the conservation of energy to us.
+  * 翻译：  老师正在给我们讲解能量守恒定律。
+  <br>
+
+- invalid
+  * 词义：  n. 病人，病弱者，伤残人，残疾人； a.有病的，伤残的，供病人用的，无效的，无根据的
+  * 例句：  Annie's mother, since she could remember , had been an invalid.
+  * 翻译：  自安妮记事起，她妈妈就一直是个病人。
+  * 派生：  invalidate (vt.无效；作废) invalidity(n.无效力)
+  <br>
+
+- intimate
+  * 词义：  a.亲密的；密切的
+  * 例句：  Mary told her mother about the intimate relationship between she and Joe.
+  * 翻译：  玛丽把她和乔的亲密关系告诉了妈妈。
+  * 派生：  intimacy (n. 亲密；密切)
+  <br>
+
+- vulnerable
+  * 词义：  a.易受攻击的
+  * 例句：  The potato is vulnerable to several pests.
+  * 翻译：  马铃薯易受几种害虫的侵害。
+  <br>
+
+- collective
+  * 词义：  n. 集体，团体； a.集体的，共同的
+  * 例句：  The past hard days remain in their collective memories forever.
+  * 翻译：  过去的艰苦岁月永远留在他们共同的记忆里。
+  * 派生：  collectivism (n.集体主义)
+  <br>
+
+- predict
+  * 词义：  vt. 预言，预测，预告
+  * 例句：  It's quite difficult to predict the stock market.
+  * 翻译：  要想预测股市的走向绝非易事。
+  * 派生：  prediction (n. 语言，预报) predictably(ad. 可预言地) unpredictable(ad.不可预知的) unpredictability (n.不可预言)
+  <br>
+
+- scholar
+  * 词义：  n. 学者
+  * 例句：  The newly described languages were often so strikingly different from the well studied languages of Europe and Southeast Asia that some
+            scholar even accused Boas and Sapir of fabricating their data.
+  * 翻译：  这些新近被描述的语言与已经得到充分研究的欧洲和东南亚地区的语言往往差别显著，以至于有些学者甚至指责博厄斯和萨贝尔编造了数据材料。
+  * 派生：  scholarly (a.学者气质的，学者风度的)
+  <br>
+
+- cliff
+  * 词义：  n.悬崖，峭壁
+  * 例句：  The calm of mountain and sky enthralled us as completely as the cliff that towered behind.
+  * 翻译：  宁静深远的高山和蓝天，亦如身后高耸的峭壁，令我们深深陶醉了。
+  <br>
