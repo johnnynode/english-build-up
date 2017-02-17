@@ -200,3 +200,71 @@
   * 例句：  The calm of mountain and sky enthralled us as completely as the cliff that towered behind.
   * 翻译：  宁静深远的高山和蓝天，亦如身后高耸的峭壁，令我们深深陶醉了。
   <br>
+
+---
+### 2017年2月17日 23:13:20
+
+- academy
+  * 词义：  n. 学院
+  * 例句：  John's daughter was studying in an academy of music.
+  * 翻译：  约翰的女儿在一所音乐学院学习。
+  <br>
+
+- illusion
+  * 词义：  n.幻想中的事物；错误的观念 ；错觉，幻觉，假象
+  * 例句：  We should have no illusions about our ability.
+  * 翻译：  我们应该对自己的能力有自知之明。
+  * 参考：  delusion (n.错觉) elusion(n.逃避)
+  <br>
+
+- sore
+  * 词义：  a.疼痛的，痛心的 n.痛处，疮口
+  * 例句：  The sore hurt like hell all the time.
+  * 翻译：  这个疮口一直疼的要命。
+  * 参考：  sour(a.酸的) soar(高飞，翱翔) bore(vt.使厌烦) score(n.得分)  core(n.果核，中心)
+  <br>
+
+- portfolio
+  * 词义：  n.公文包；文件夹；作品集；投资组合
+  * 例句：  He spent most of last year putting together a portfolio of his writing.
+  * 翻译：  他去年大部分时间都在整理他的作品集
+  <br>
+
+- dose
+  * 词义：  n. 剂量，一服，一剂  vt. (给...)服药
+  * 例句：  The nurse dosed the patient as directed by the doctor.
+  * 翻译：  护士按照医生的指示给病人服了药。
+  <br>
+
+- chart
+  * 词义：  n.图，图表
+  * 例句：  The manager has e-mailed me the oversea sales chart of this season.
+  * 翻译：  经理已经用电子邮件给我发来了本季度的海外销售图。
+  <br>
+
+- deposit
+  * 词义：  vt.(使) 沉淀； 付(保证金) 存放，储蓄 n.存款，保证金；沉积物
+  * 例句：  I was so poor that I had no money to deposit.
+  * 翻译：  我太穷了，根本没钱可存。
+  * 派生：  depositor (n.存款人)
+  <br>
+
+- grape
+  * 词义：  n.葡萄
+  * 例句：  The wine is brewed from grape.
+  * 翻译：  这种酒是由葡萄酿制而成。
+  <br>
+
+- displacement
+  * 词义：  n.转置，转移；取代
+  * 例句：  Tsunamis are formed by a displacement of water which can be caused by a land-slide,volcanic eruption and so on.
+  * 翻译：  海啸是因海水的移动而形成的，山崩，火山爆发等都可能引起这种移动。
+  <br>
+
+- obscure
+  * 词义：  vt. 使暗，使不明显 a.暗的，朦胧的；模糊的，晦涩的
+  * 例句：  The readers didn't appreciate the writer's obscure style of writing.
+  * 翻译：  读者们并不欣赏这位作家晦涩的写作风格。
+  * 同义：  vague(a.含糊的，不明确的) indistinct(a.不清楚的) confuse (vt.(使)迷惑)
+  * 反义：  expose (vt.(使)暴露，曝光 vi.揭露)
+  <br>
