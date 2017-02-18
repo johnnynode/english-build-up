@@ -268,3 +268,71 @@
   * 同义：  vague(a.含糊的，不明确的) indistinct(a.不清楚的) confuse (vt.(使)迷惑)
   * 反义：  expose (vt.(使)暴露，曝光 vi.揭露)
   <br>
+
+---
+### 2017年2月18日 10:35:46
+
+- mill
+  * 词义：  n.磨粉机，磨坊；作坊，工厂
+  * 参考：  windmill (n.风车，风车房)
+  <br>
+
+- hurl
+  * 词义：  vt.猛投，猛冲；大声叫骂
+  * 例句：  Jim gathered the letters and hurled them into the fire.
+  * 翻译：  吉姆把信件集中在一起，猛地扔进火里。
+  <br>
+
+- shatter
+  * 词义：  vt.使粉碎；使散开；使破灭，使震惊
+  * 例句：  The conflict between the two countries shatter the dream of peace.
+  * 翻译：  两国间的冲突使和平的梦想破灭了。
+  * 同义：  smash (vt.打碎；摧毁)
+  * 参考：  scatter (v.分散，散开); latter(a.后面的)
+  <br>
+
+- charity
+  * 词义：  n.清晰，明晰
+  * 例句：  I still remember Edward's handsome face with complete clarity.
+  * 翻译：  我仍然清晰地记得爱德华那张英俊的脸。
+  * 同义：  lucidity (n.清楚，明晰)
+  <br>
+
+- dispose
+  * 词义：  v. 处理，处置； 布置，安排
+  * 短语：  dispose sb to/towards sth. 使倾向于，使有意于 dispose of 处理
+  * 例句：  Everyone has to dispose of his property.
+  * 翻译：  每个人都有权利去处置自己的东西。
+  * 派生：  disposable (a.可任意处理的，可自由处置的)
+  <br>
+
+- hemisphere
+  * 词义：  n.半球
+  * 短语：  the right hemisphere of the brain 大脑右半球
+  * 考点：  the northern hemisphere 北半球
+  <br>
+
+- profound
+  * 词义：  a.深的，深刻的，意义深远的；渊博的，造诣深的
+  * 例句：  Our parents expect us to acquire profound knowledge in school.
+  * 翻译：  父母期望我们能在学校里学到渊博的知识。
+  <br>
+
+- source
+  * 词义：  n.来源，出处；源泉
+  * 例句：  The source of this information is very reliable.
+  * 翻译：  这条信息的来源非常可靠。
+  <br>
+
+- restrict
+  * 词义：  vt. 限制，约束
+  * 短语：  restrict...to... 把...限制于...
+  * 例句：  These teaching methods will restrict personal creativity.
+  * 翻译：  这些教学法会限制个人的创造力。
+  <br>
+
+- formal
+  * 词义：  a.正式的， 形式的
+  * 例句：  Critics have concentrated too much on the formal elements of Linda's poetry, without really looking at what it is saying.
+  * 翻译：  评论家过多地集中评论琳达的诗歌的形式，而没有真正的看内容。
+  <br>
