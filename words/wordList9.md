@@ -336,3 +336,75 @@
   * 例句：  Critics have concentrated too much on the formal elements of Linda's poetry, without really looking at what it is saying.
   * 翻译：  评论家过多地集中评论琳达的诗歌的形式，而没有真正的看内容。
   <br>
+
+---
+### 2017年2月19日 15:45:32
+
+- formal
+  * 词义：  a.正式的；形式的
+  * 例句：  Everyone was wearing formal suits or gowns in the party.
+  * 翻译：  晚会上每个人都穿着正式的西服或礼服
+  * 派生：  formally (ad. 正式地；形式上地) informal(a.非正式的) informally(ad.非正式地)
+  <br>
+
+- deem
+  * 词义：  vt. 认为，相信
+  * 例句：  Mark deemed himself a favored and happy man.
+  * 翻译：  马克认为自己是一个既幸运又幸福的人。
+  * 同义：  assume(vt.假定，设想) consider(vt.认为) believe(v.认为，想)
+  <br>
+
+- twist
+  * 词义：  vi.捻，搓，拧 vt.歪曲，曲解 n.拧，搓 ； 新手法，窍门。
+  * 例句：  A snake twisted up the fawn's legs.
+  * 翻译：  一条蛇缠在小路的腿上。
+  <br>
+
+- constitution
+  * 词义：  n.构成，构造，成分；体格，体质 ； 宪法
+  * 例句：  The biologists are studying the plant's natural constitution.
+  * 翻译：  生物学家们正在研究这种植物的自然构造。
+  * 考点：  physical constitution 体质，身体素质
+  * 派生：  constitutional (a.宪法的，本质的，体质上的)
+  <br>
+
+- qualitative
+  * 词义：  a.相纸上的，定性的
+  * 例句：  Some qualitative changes are taking place in our society.
+  * 翻译：  我们的社会正在发生某些质上的变化。
+  <br>
+
+- reservoir
+  * 词义：  n.水库，储水池
+  * 例句：  Swimming is prohibited in the reservoir.
+  * 翻译：  禁止在水库游泳。
+  <br>
+
+- absorb
+  * 词义：  vt.吸收； 吸引，使专心； 承受，忍受
+  * 例句：  Plants absorb useful chemicals to promote their growth.
+  * 翻译：  植物以吸收有用的化学物质以促进自身的生长。
+  * 考点：  be absorbed in 专心于
+  * 派生：  absorbed (a.专心的，全神贯注的) absorption (n.吸收；专心)
+  <br>
+
+- shutter
+  * 词义：  n.百叶窗； (照相机)快门
+  * 例句：  The sunlight filtered through the slots in the shutters.
+  * 翻译：  阳光透过百叶窗的缝隙射进来。
+  * 短语：  press the shutter 按下快门
+  <br>
+
+- staff
+  * 词义：  n.全体职工，全体人员；杆，棒；参谋部 vt.配备工作人员
+  * 例句：  The charitable agency was staffed by trained counselors.
+  * 翻译：  这家慈善机构配备了经过专门训练的法律顾问。
+  * 派生：  staffing (a.安置职工的)
+  <br>
+
+- retention
+  * 词义：  n.保留，保持
+  * 例句：  Most people are against the retention of the nuclear bomb.
+  * 翻译：  大多数人反对保留核弹。
+  * 同义：  maintenance (n.维持，保持)
+  <br>
