@@ -408,3 +408,97 @@
   * 翻译：  大多数人反对保留核弹。
   * 同义：  maintenance (n.维持，保持)
   <br>
+
+---
+### 2017年02月20日 08:01:01
+
+- radiant
+  * 词义：  a.荣光焕发的，喜形于色的；光芒四射的，光辉灿烂的；辐射的
+  * 例句：  The engineer's whole body is wrapped in the radiant heat.
+  * 翻译：  工程师的整个身体都被笼罩在辐射热中。
+  <br>
+
+- briefcase
+  * 词义：  n.公文包，公事包
+  * 例句：  David left his briefcase in his office.
+  * 翻译：  戴维把公文包落在了办公室。
+  <br>
+
+- lavatory
+  * 词义：  n.厕所，盥洗室
+  * 短语：  a public lavatory 公共厕所
+  <br>
+
+- resemble
+  * 词义：  vt. 像，类似
+  * 例句：  But the result was a new social pattern which, although it resembled European society in many ways,  had a character that was distinctly American.
+  * 翻译：  但结果是形成一个新的社会模式，尽管它在许多方面与欧洲社会相像，但却带着鲜明的美国特色。
+  * 参考：  assemble (v.参考)
+  <br>
+
+- necklace
+  * 词义：  n.项链
+  * 例句：  That necklace was the one and only legacy my grandmother left me.
+  * 翻译：  那条项链是奶奶留给我的唯一遗物。
+  <br>
+
+- moist
+  * 词义：  a.潮湿的，湿润的
+  * 例句：  The earthworm live in moist and warm soil.
+  * 翻译：  蚯蚓生活在潮湿温暖的土壤里。
+  <br>
+
+- climax
+  * 词义：  n.顶点，高潮
+  * 例句：  They left no doubt that this was not the climax of their campaign for equality but merely the beginning.
+  * 翻译：  他们确信自己争取平等的运动仍未达到高潮，而仅仅是个开始。
+  * 同义：  culmination (n.顶点)
+  <br>
+
+- mud
+  * 词义：  n.泥，泥浆
+  * 例句：  The tank was bogged down in the mud.
+  * 翻译：  坦克陷入了泥沼之中。
+  <br>
+
+- enrich
+  * 词义：  vt.使富足；使肥沃；使充足；使更有意义。
+  * 例句：  An appreciation of art will enrich your life.
+  * 翻译：  欣赏艺术会使你的生活丰富多彩。
+  <br>
+
+- velocity
+  * 词义：  n.速度，速率
+  * 例句：  Mercury's velocity is much greater than the Earth's.
+  * 翻译：  水星的速度要比地球的快得多。
+  * 考点：  wind velocity 风速
+  * 同义：  speed(n.迅速，速度，速率) rapidity(n.速度，迅速)
+  <br>
+
+- loyalty
+  * 词义：  n.衷心，忠诚
+  * 例句：  Penny never questioned her husband's loyalty.
+  * 翻译：  彭尼从未怀疑过她丈夫的忠诚。
+  <br>
+
+- authority
+  * 词义：  n.权利，威信，权威； 学术权威，专家；权威的典籍 ；[pl.]当局，官方
+  * 例句：  As a language authority, his favorite language is French.
+  * 翻译：  作为语言方面的权威，他最喜欢的语种是法语。
+  * 考点：  in authority 持有权利的地位。
+  * 派生：  authorize (vt.批准)
+  <br>
+
+- gram / gramme
+  * 词义：  n. 克
+  * 例句：  Experts recommend that adults consume 20 to 35 grams of fibre a day.
+  * 翻译：  专家建议成人每人每天摄取20至35克的纤维素
+  * 参考：  program(n.节目，程序)
+  <br>
+
+
+> A centain amount of care or pain or trouble is necessary for every man at all times. A ship without ballast is unstable and will not go straight.
+> - Arthur Schopenhauer
+>
+> 一定的忧愁，痛苦活烦恼，对每个人都是时时必需的。一艘船如果没有压舱物，便不会稳定，不能朝着目的地一直前进。
+> - 亚瑟·叔本华
