@@ -11,3 +11,4 @@
 - [wordList7](./words/wordList7.md)
 - [wordList8](./words/wordList8.md)
 - [wordList9](./words/wordList9.md)
+- [wordList10](./words/wordList10.md)
