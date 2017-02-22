@@ -2,7 +2,7 @@
 >
 > [新东方单词在线阅读地址](http://download.dogwood.com.cn/online/kychlx/iPhone.html) ，希望这个链接一直都有效 :)
 
-### 2017年2月21日 21:03:54
+### 2017年02月21日 21:03:54
 
 - hunt
   * 词义：  v.打猎，猎取； (for) 搜索，寻找； n.打猎，猎取； (for) 搜索；寻找
@@ -67,4 +67,73 @@
   * 词义：  n.维修，保养； 维持，保持
   * 例句：  The maintenance of good relations between countries is very important.
   * 翻译：  保持国家之间的友好关系很重要。
+  <br>
+
+---
+### 2017年02月22日22:23:03
+
+- cab
+  * 词义：  n. 出租汽车，轻便马车；司机室，驾驶室
+  * 例句：  The exam to become a cab driver is so tough.
+  * 翻译：  出租司机考试非常难
+  <br>
+
+- allocate
+  * 词义：  v.分配，分派； 把...拨给
+  * 例句：  The donation of money has been allocated to the disaster areas.
+  * 翻译：  捐款已分发到灾区。
+  <br>
+
+- ashamed
+  * 词义：  a.(of) 羞耻的，惭愧的，害臊的
+  * 例句：  I felt ashamed of my own cowardice.
+  * 翻译：  我为自己的怯懦感到羞愧。
+  <br>
+
+- series
+  * 词义：  n.一系列，连续 ； 丛书
+  * 例句：  The comic strip stories are a series of art works.
+  * 翻译：  连环画由一系列美术作品构成。
+  * 考点：  a series of (一系列，一连串)
+  <br>
+
+- rib
+  * 词义：  n. 肋骨，肋状物
+  * 例句：  Tom suffered three cracked ribs in the accident.
+  * 翻译：  汤姆在事故中断了三根肋骨。
+  <br>
+
+- stern
+  * 词义：  a.严厉的；苛刻的；难以忍受的； 坚决的，坚定的 n. 船尾，舟尾
+  * 例句：  Morris has a stern resolve to conquer any problem.
+  * 翻译：  莫里斯下定决心克服任何困难。
+  * 同义：  strict (a. 严格的，严厉的)  severe (a.严厉的，严格的)
+  * 反义：  indulgent (a.纵容的)
+  <br>
+
+- demonstrate
+  * 词义：  vt.论证，证实；展示，说明
+  * 例句：  I thought that generosity would demonstrate your greatness.
+  * 翻译：  我认为宽宏大量将会显示出你的伟大。
+  * 派生：  demonstration (n.表示，证明，示范)
+  * 同义：  display （vt.展览，显示） show（v.说明，显示） illustrate（vt.举例说明，阐明）
+  <br>
+
+- mechanical
+  * 词义：  a.机械的，机械制的 ； 机械的，呆板的
+  * 例句：  My work has become mechanical - I could do it in my sleep.
+  * 翻译：  我的工作已变成机械化的了，我睡着了都能做。
+  <br>
+
+- slam
+  * 词义：  v. 砰地关上； 猛力拉；砰地放下；猛烈抨击； n. 砰地一声
+  * 例句：  Local media slammed plans to build a prison in the area.
+  * 翻译：  当地媒体猛烈抨击在该地区建一座监狱的计划。
+  <br>
+
+- flap
+  * 词义：  n.垂下物； 帽檐； 袋盖； 慌乱，紧张； 拍打，拍动
+  * 例句：  The bird flapped its wings and flew away.
+  * 翻译：  鸟儿拍打着翅膀飞走了。
+  * 同义：  agitation (n.骚动，不安) commotion (n. 骚动，动乱) flutter(vi. (鸟等) 振翼；飘动)
   <br>
