@@ -12,7 +12,7 @@
   <br>
 
 - balcony
-  * 词义：  n.阳台,(电影院等的)楼厅，楼座
+  * 词义：  n.阳台； (电影院等的)楼厅，楼座
   * 例句：  Richard was smoking on the balcony.
   * 翻译：  理查德正在阳台上抽烟。
   <br>
@@ -75,7 +75,7 @@
 - cab
   * 词义：  n. 出租汽车，轻便马车；司机室，驾驶室
   * 例句：  The exam to become a cab driver is so tough.
-  * 翻译：  出租司机考试非常难
+  * 翻译：  出租司机考试非常难。
   <br>
 
 - allocate
@@ -136,4 +136,73 @@
   * 例句：  The bird flapped its wings and flew away.
   * 翻译：  鸟儿拍打着翅膀飞走了。
   * 同义：  agitation (n.骚动，不安) commotion (n. 骚动，动乱) flutter(vi. (鸟等) 振翼；飘动)
+  <br>
+
+---
+### 2017年02月23日 22:39:47
+
+- deserve
+  * 词义：  vt. 应受，值得
+  * 例句：  The lovely girl deserves happiness and love.
+  * 翻译：  这个可爱的女孩，应该得到幸福和爱情。
+  * 参考：  desert (n.沙漠)
+  <br>
+
+- levy
+  * 词义：  vt.征收(税等) n.征税，税款； 征兵
+  * 例句：  To levy an environmental protection tax on enterprises will increase their costs.
+  * 翻译：  对企业征收环境保护税将会增加企业的成本。
+  * 同义：  impose (vt.征(税等)) tax(n.所得税) duty (n.税，关税)
+  <br>
+
+- plural
+  * 词义：  a.复数的； n.复数
+  * 例句：  Sometimes a noun has the irregular plural.
+  * 翻译：  有时，名词会有不规则的复数形式。
+  <br>
+
+- former
+  * 词义：  a.以前的，在前的 ； pron.前者
+  * 例句：  The English, the Germans, and the French were investing in Britain's former colony.
+  * 翻译：  英国人、德国人和法国人都在英国以前的殖民地进行投资。
+  * 考点：  the former 前者
+  * 派生：  formerly (ad.从前，原来)
+  * 辨别：  former, previous, preceding, foregoing, prior
+  <br>
+
+- quantitative
+  * 词义：  a.数量的，定量的
+  * 例句：  There is a quantitative difference between our jobs.
+  * 翻译：  我们的工作有量的差别。
+  <br>
+
+- erroneous
+  * 词义：  a.错误的，定量的
+  * 例句：  There is a quantitative difference between our jobs.
+  * 翻译：  我们的工作有量的差别。
+  <br>
+
+- erroneous
+  * 词义：  a.错误的，不正确的
+  * 来自：  error (n.错误)
+  <br>
+
+- privilege
+  * 词义：  n.特权，优惠，特许； vt.给予优惠，给予特权
+  * 例句：  Education is not a privilege but a right.
+  * 翻译：  受教育不是一种特权，而是一种权力。
+  * 派生：  underprivileged (a. 穷困的； 下层社会的)
+  <br>
+
+- astronomy
+  * 词义：  n.天文学
+  * 例句：  Peter claims to be an expert in astronomy, but in actual fact he is quite ignorant on the subject.
+  * 翻译：  彼得自称是天文学家，但事实上他对这门学科一无所知。
+  * 参考：  astronomer (n.天文学家)
+  <br>
+
+- cassette
+  * 词义：  n.盒子； 盒式磁带
+  * 例句：  Mary put all her jewellery in a cassette.
+  * 翻译：  玛丽将她所有的首饰都放在了一个盒子里。
   <br>
