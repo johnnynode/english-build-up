@@ -206,3 +206,69 @@
   * 例句：  Mary put all her jewellery in a cassette.
   * 翻译：  玛丽将她所有的首饰都放在了一个盒子里。
   <br>
+
+---
+### 2017年02月24日 22:14:51
+
+- gene
+  * 词义：  n. 基因
+  * 例句：  About a hundred thousand genes make up human DNA.
+  * 翻译：  人体内的DNA大约由十万个基因组成。
+  <r>
+
+- deficit
+  * 词义：  n.赤子，逆差
+  * 短语：  a budget deficit (赤字预算) // a trade deficit 贸易逆差
+  <br>
+
+- obstacle
+  * 词义：  n.障碍，妨碍，干扰
+  * 短语：  obstacle race 障碍赛跑 // overcome obstacles 克服障碍
+  <br>
+
+- coarse
+  * 词义：  a.粗糙的，粗劣的； 粗鲁的，粗俗的
+  * 例句：  The film was coarse and vulgar.
+  * 翻译：  这部电影很粗俗。
+  * 参考：  hoarse (a.嘶哑的)
+  <br>
+
+- digest
+  * 词义：  vt.吸收，领悟 n.摘要，文摘
+  * 例句：  I can't digest most of what you are saying.
+  * 翻译：  你说的大部分话我都理解不了。
+  * 短语：  Read's Digest 《读者文摘》
+  * 派生：  digestive (a.消化的，助消化的)
+  * 同义：  absorb(vt.吸收，吸引) comprehend(vt.领会，理解)
+  <br>
+
+- leak
+  * 词义：  v. 漏； 泄露， n.漏洞，漏缝； 泄露，漏出
+  * 例句：  There was a leak in the gas line.
+  * 翻译：  煤气管道上有一道裂缝。
+  <br>
+
+- backward
+  * 词义：  a. 向后的，落后的，倒行的； 迟钝的； ad.(=backwards) 向后，朝反方向
+  * 例句：  The frustrated graduate sighted and fell backward onto his bed.
+  * 翻译：  受挫的毕业生叹了口气，向后倒在自己的床上。
+  * 短语：  backward(s) and forward(s) 来回地
+  <br>
+
+- pedal
+  * 词义：  n.踏板 vt.踩踏板，骑自行车
+  * 例句：  The riders pedaled their bicycles slowly up the hill.
+  * 翻译：  车手们骑着自行车，缓缓上山。
+  <br>
+
+- stream
+  * 词义：  n.小河，溪流； 流，一股，一串 vi.流出，涌
+  * 例句：  The rain streams down the windows.
+  * 翻译：  雨水顺着窗户留了下来。
+  <br>
+
+- communication
+  * 词义：  n.通讯，传达；传送；交流； 通信系统，交通(工具)
+  * 例句：  All communications were stopped by snowstorms.
+  * 翻译：  所有的交通工具都因为暴风雪而瘫痪了。
+  <br>
