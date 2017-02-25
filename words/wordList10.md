@@ -214,7 +214,7 @@
   * 词义：  n. 基因
   * 例句：  About a hundred thousand genes make up human DNA.
   * 翻译：  人体内的DNA大约由十万个基因组成。
-  <r>
+  <br>
 
 - deficit
   * 词义：  n.赤子，逆差
@@ -271,4 +271,69 @@
   * 词义：  n.通讯，传达；传送；交流； 通信系统，交通(工具)
   * 例句：  All communications were stopped by snowstorms.
   * 翻译：  所有的交通工具都因为暴风雪而瘫痪了。
+  <br>
+
+---
+### 2017年02月25日 16:42:51
+
+- galaxy
+  * 词义：  n.星系，银河系  ；一群(杰出或著名的人物)
+  * 例句：  A galaxy is a giant family of many millions of stars.
+  * 翻译：  星系就是由数百万颗星星组成的大家庭。
+  <br>
+
+- warehouse
+  * 词义：  n.仓库，货栈
+  * 短语：  warehouse stock 仓库存货
+  <br>
+
+- scissors
+  * 词义：  n.剪子
+  * 例句：  Don't let the child play with scissors in case he cuts himself.
+  * 翻译：  别让小孩玩剪刀，以免他划伤自己。
+  <br>
+
+- skim
+  * 词义：  v. 撇(去) ； 掠过，擦过；浏览，略读
+  * 例句：  If you have nothing todo, you can skim the news of the day.
+  * 翻译：  要是没事干，你可以浏览一下今天的新闻。
+  <br>
+
+- misfortune
+  * 词义：  n.不幸，灾祸， 灾难
+  * 例句：  Misfortune followed the unlucky man wherever he went.
+  * 翻译：  这个不幸的男人无论去哪里，灾难都跟随者他。
+  * 参考：  fortunately (ad.幸运地)
+  <br>
+
+- landlord
+  * 词义：  n.房东，地主
+  * 例句：  The mean landlord urged us to pay the rent right now.
+  * 翻译：  吝啬的房东非要我们马上交房租不可。
+  * 参考：  landmark (n. 地标)
+  <br>
+
+- means
+  * 词义：  n. 方法，手段
+  * 考点：  by all means 无论如何，必定  by means of 借助于，用 ; by no means 决不
+  <br>
+
+- pilgrim
+  * 词义：  n.朝圣者，香客
+  * 例句：  My pilgrims travel to the cathedral in France every year.
+  * 翻译：  每年有许多朝圣者到法国的那座大教堂朝拜。
+  <br>
+
+- esteem
+  * 词义：  vt. 尊重，尊敬； n.尊重，尊敬
+  * 例句：  My esteem for your family is very sincere.
+  * 翻译：  我对你们家人的尊敬是非常诚挚的。
+  * 同义：  regard (n./vt. 尊敬，尊重)
+  * 反义：  disesteem (n./vt. 轻视)
+  <br>
+
+- humid
+  * 词义：  a.湿的， 湿气重的
+  * 例句：  The greenhouse is humid, with plants all around.
+  * 翻译：  温室湿气很重，周围全是植物。
   <br>
