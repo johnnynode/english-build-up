@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/johnnynode/English-Build-Up.git"
+    "url": "git+https://github.com/johnnynode/english-build-up.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/johnnynode/English-Build-Up/issues"
+    "url": "https://github.com/johnnynode/english-build-up/issues"
   },
-  "homepage": "https://github.com/johnnynode/English-Build-Up#readme"
+  "homepage": "https://github.com/johnnynode/english-build-up#readme"
 }
