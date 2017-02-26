@@ -337,3 +337,73 @@
   * 例句：  The greenhouse is humid, with plants all around.
   * 翻译：  温室湿气很重，周围全是植物。
   <br>
+
+---
+### 2017年02月26日 12:45:07
+
+- kindergarten
+  * 词义：  n. 幼儿园
+  * 例句：  Kindergarten can improve the young minds.
+  * 翻译：  幼儿园可以提高儿童的智力水平。
+  <br>
+
+- ally
+  * 词义：  n. 同盟国，同盟者； 支持者； v.(使) 结盟
+  * 例句：  During World War II, Great Britain allied with the United States.
+  * 翻译：  二战期间，英美两国结盟。
+  <br>
+
+- rouse
+  * 词义：  vt. 惊起； 唤起， 唤醒
+  * 例句：  Harry shakes Peter's bed to rouse him.
+  * 翻译：  哈里摇晃彼得的床想把他唤醒。
+  * 参考：  arouse (vt.唤起，鼓励，引起)
+  <br>
+
+- theory
+  * 词义：  n.理论；原理，学说 ； 见解，看法
+  * 例句：  Your skills are good, but your knowledge of theory is weak.
+  * 翻译：  你的技术很好，但理论知识还有所欠缺。
+  * 考点：  evolutionary theory 进化论
+  * 派生：  theorize (v.理论化，学说化) theoretical(a.理论的，理论上的)
+  <br>
+
+- manufacture
+  * 词义：  vt.制造，加工 n.制造，制造业，产品
+  * 短语：  goods of home/foreign manufacture 国产(外国)货 // steel manufactures 钢铁制品
+  * 例句：  Our company manufactures bath oils,soaps,hand lotions and shampoo.
+  * 翻译：  我们公司生产沐浴油、肥皂、护手霜、洗发香波
+  <br>
+
+- detach
+  * 词义：  vt. 分开，拆开
+  * 例句：  The campers detached their trailer and set up the camp.
+  * 翻译：  那几个露营者拆下拖车，支起了帐篷。
+  * 派生：  detached (a.分开的，分离的)
+  * 同义：  disconnect (v.拆开，分离) separate(v.分开；分别)
+  * 反义：  attach (vt.缚上，系上)
+  <br>
+
+- administration
+  * 词义：  n.管理，经营； 行政， 政府
+  * 短语：  public administration 公共管理
+  <br>
+
+- inherit
+  * 词义：  vt.继承
+  * 例句：  Jim has been living in the lap of luxury since he inherited his father's money.
+  * 翻译：  自从继承了父亲的钱之后，吉姆一直过着极其奢华的生活。
+  <br>
+
+- justify
+  * 词义：  vt.证明...是正当的，认为有理
+  * 例句：  To justify this claim, the arguer provided a lot of evidence.
+  * 翻译：  为了证明该主张是有道理的，争辩者提供了大量的证据。
+  <br>
+
+
+- phenomenon
+  * 词义：  n.现象
+  * 例句：  Bankruptcy is a common phenomenon in an economic recession.
+  * 翻译：  破产在经济萧条期是一种常见现象。
+  <br>
