@@ -477,6 +477,9 @@
   * 翻译：  繁重的工作使我们的肉体和精神都麻木了。
   <br>
 
+
+> 名言：
+>
 > As fruit needs not only sunshine but cold nights and chilling showers to ripen it,
 > so character needs not only joy but trial and difficulty to mellow it.
 > -- Hugh Black

@@ -401,9 +401,114 @@
   * 翻译：  为了证明该主张是有道理的，争辩者提供了大量的证据。
   <br>
 
-
 - phenomenon
   * 词义：  n.现象
   * 例句：  Bankruptcy is a common phenomenon in an economic recession.
   * 翻译：  破产在经济萧条期是一种常见现象。
   <br>
+
+---
+### 2017年02月27日 22:37:16
+
+- shortage
+  * 词义：  n.不足，缺少
+  * 例句：  The Iraqi war has not led to a shortage of oil on the world's markets.'
+  * 翻译：  伊拉克战争还没有导致国际市场的石油短缺。
+  <br>
+
+- insult
+  * 词义：  vt. 侮辱，凌辱 n. 侮辱，凌辱
+  * 例句：  You had no license to insult anybody.
+  * 翻译：  你无权侮辱任何人。
+  * 派生：  insulting (a. 侮辱的； 无礼的)
+  <br>
+
+- orientation
+  * 词义：  n.方向，方位，定位； 熟悉，适应 ；(迎新) 情况介绍
+  * 例句：  The manager provided an orientation of the company for colleagues from out of London.
+  * 翻译：  经理给来自伦敦以外的同事做了一下公司简介。
+  <br>
+
+- guidance
+  * 词义：  n.引导，指导
+  * 例句：  If you are willing to put yourself under my guidance, I shall do my utmost to help you.
+  * 翻译：  如果你愿意服从我的知道，我将尽自己最大的努力来帮你。
+  * 考点：  moral guidance 精神指导
+  <br>
+
+- schedule
+  * 词义：  n. 时间表，进度表  vt.安排，预定
+  * 例句：  The purpose of the call was to schedule a job interview.
+  * 翻译：  打这个电话的目的是安排一次招聘面试。
+  * 短语：  a train (flight) schedule 火车(航班)时刻表  on schedule 按时，准时 behind schedule 落后　　
+  * 考点：  ahead of schedule 提前
+  * 派生：  scheduled (a.安排好的，预定的)
+  <br>
+
+- vein
+  * 词义：  n.静脉，血管；叶脉；纹理；纹路；方式，风格
+  * 例句：  The despairing patient cut his vein to commit suicide.
+  * 翻译：  那个绝望的病人各买自杀了。
+  <br>
+
+- jury
+  * 词义：  n.陪审团
+  * 例句：  The plaintiff made detailed statements to the grand jury.
+  * 翻译：  原告向大陪审团做了详尽的陈述。
+  <br>
+
+- void
+  * 词义：  a.空的，空虚的； (of) 没有的，缺乏的； 无效的
+  * 例句：  The boring speech was void of novel ideas.
+  * 翻译：  这次枯燥的演讲缺乏新意。
+  * 短语：  a void space 空位  a void agreement 无效的协议
+  * 参考：  avoid (vt.避免，消除)
+  <br>
+
+- offspring
+  * 词义：  n.子孙，后代； 结果，产物
+  * 例句：  The atomic bomb is the offspring of the 20th century physics.
+  * 翻译：  原子弹是20世纪物理学的产物。
+  <br>
+
+- explode
+  * 词义：  v. (使) 爆炸， (使)爆发
+  * 例句：  The police gave the residents two minutes to complete evacuation before the bomb exploded.
+  * 翻译：  炸弹爆炸之前，警方给居民两分钟时间全部撤离。
+  <br>
+
+- friction
+  * 词义：  n.摩擦；摩擦力
+  * 例句：  Matches are lighted by friction.
+  * 翻译：  火柴通过摩擦被点燃。
+  <br>
+
+- loosen
+  * 词义：  v.解开，放松
+  * 例句：  Regular physical activity helps loosen your muscles.
+  * 翻译：  经常参加体育活动有助于放松肌肉。
+  <br>
+
+- accurate
+  * 词义：  a.精确的，准确的
+  * 例句：  This ruler is much more accurate in its measurement that that one.
+  * 翻译：  这把尺子比那把要精确的多。
+  * 派生：  accurately (ad.精确的) inaccurate(a.不准确的)
+  * 辨别：  accurate, exact, precise
+  <br>
+
+
+- surplus
+  * 词义：  n.过剩，剩余 a. 过剩的，剩余的
+  * 例句：  If no surplus is available, farmers will not be able to buy their daily articles.
+  * 翻译：  如果农民没有盈余，那么他们就没法购置日常用品。
+  * 短语：  surplus labor 剩余劳动力
+  <br>
+
+> 名言：
+>
+> Fear not that the life shall come to an end, but rather fear that it shall never have a beginning.
+> - J.H.Newman
+
+> 不要担心你的生活将要结束，应该担心你的生活永远不会真正开始。
+> - 纽曼
