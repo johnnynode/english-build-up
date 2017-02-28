@@ -66,3 +66,69 @@
   * 例句：  My family gather together on Thanksgiving every year.
   * 翻译：  每年的感恩节，我们全家都会聚在一起。
   <br>
+
+---
+### 2017年03月1日 07:26:46
+
+- bias
+  * 词义：  n.偏见，偏心，偏袒 vt.使有偏见，偏心，偏袒
+  * 例句：  The jury was biased towards the defendant by the false testimony.
+  * 翻译：  伪造的证词使陪审团偏向了被告。
+  <br>
+
+- curious
+  * 词义：  a. 好奇的， 稀奇的
+  * 例句：  Newton had been curious for years about the cause of the orbital motion of the Moon and planets.
+  * 翻译：  多年来牛顿一直对月亮和行星的轨道运动感到好奇。
+  * 派生：  curiously (ad.好奇地；奇怪地)
+  <br>
+
+- emphasise / emphasize
+  * 词义：  vt.强调，着重
+  * 例句：  The manager emphasized the need for hard work.
+  * 翻译：  经理强调了努力工作的必要性。
+  * 参考：  emphatically (ad.强调地，有力地)
+  <br>
+
+- bibliography
+  * 词义：  n.(有关某一专题的)书目； 参考书目
+  * 短语：  universal bibliography 世界文献目录 classified bibliography 分类书目
+  <br>
+
+- inward
+  * 词义：  ad (=inwards) 向内，在内 a.在内的，里面的，内心的
+  * 例句：  I moved inward because I was blocking the doorway.
+  * 翻译：  我向里面挪了挪，因为我堵着门口了。
+  <br>
+
+- stocking
+  * 词义：  n.长(统)袜
+  * 例句：  Eva was wearing three-inch heels with black fishnet stockings.
+  * 翻译：  伊娃穿着三英寸高的高跟鞋，配以黑色的网袜。
+  <br>
+
+- folk
+  * 词义：  n.人们  a.民间的
+  * 例句：  Folks usually believe everything they are told.
+  * 翻译：  人们通常相信他们所听到的一切。
+  <br>
+
+- tribute
+  * 词义：  n.贡品，(表示敬意的)礼物 ；颂词，称赞
+  * 例句：  The colonists commanded each Indian to pay an annual tribute.
+  * 翻译：  殖民者命令每个印第安人都要交年贡。
+  * 同义：  compliment (n.称赞，恭维) praise(n.赞扬)
+  * 参考：  contribute(v.贡献，捐献) attribute(vt.归结于) distribute(vt.分配)
+  <br>
+
+- exquisite
+  * 词义：  a.优美的，优雅的，精致的； (指感情)强烈的，剧烈的； (指感觉、感受) 敏锐的，敏感的
+  * 例句：  A musician needs a pair of exquisite ears for music.
+  * 翻译：  音乐家需要对音乐有非常敏锐的听觉。
+  <br>
+
+- senator
+  * 词义：  n.参议员
+  * 例句：  Senator Smith spoke at length about the proposed legislation.
+  * 翻译：  史密斯参议员就所提立法议案做了详细的发言。
+  <br>
