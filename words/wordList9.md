@@ -20,7 +20,7 @@
   * 词义：  n./vi. 反抗，起义
   * 例句：  The workers rose in revolt against the terrible labor conditions.
   * 翻译：  工人们起来反抗恶劣的劳动环境。
-  * 参考：  revolve (v. (使)旋转)
+  * 参考：  revolve [v. (使)旋转]
   <br>
 
 - disclose

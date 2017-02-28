@@ -412,7 +412,7 @@
 
 - shortage
   * 词义：  n.不足，缺少
-  * 例句：  The Iraqi war has not led to a shortage of oil on the world's markets.'
+  * 例句：  The Iraqi war has not led to a shortage of oil on the world's markets.
   * 翻译：  伊拉克战争还没有导致国际市场的石油短缺。
   <br>
 
@@ -432,7 +432,7 @@
 - guidance
   * 词义：  n.引导，指导
   * 例句：  If you are willing to put yourself under my guidance, I shall do my utmost to help you.
-  * 翻译：  如果你愿意服从我的知道，我将尽自己最大的努力来帮你。
+  * 翻译：  如果你愿意服从我的指导，我将尽自己最大的努力来帮你。
   * 考点：  moral guidance 精神指导
   <br>
 
