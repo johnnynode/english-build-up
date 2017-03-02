@@ -132,3 +132,72 @@
   * 例句：  Senator Smith spoke at length about the proposed legislation.
   * 翻译：  史密斯参议员就所提立法议案做了详细的发言。
   <br>
+
+---
+### 2017年03月02日 20:41:44
+
+- pant
+  * 词义：  n.喘气；vi气喘
+  * 例句：  David panted for several minutes after running up the stairs.
+  * 翻译：  跑上楼后，戴维喘了好几分钟。
+  * 考点：  pant out 喘着气说。
+  <br>
+
+- appreciate
+  * 词义：  vt. 感谢，赶集；正确评价，欣赏，赏识
+  * 例句：  Anyone can appreciate our music.
+  * 翻译：  任何人都能欣赏我们的音乐。
+  * 参考：  depreciate (vt.折旧)
+  <br>
+
+- wit
+  * 词义：  n.智力，才智
+  * 例句：  Mike was at his wits' end what to do.
+  * 翻译：  迈克束手无策
+  * 派生：  witted a.有(某种)智力的
+  * 考点：  at one's wits' end 手足无措
+  <br>
+
+- contract
+  * 词义：  n. 契约，合同，包工； vi.缩小，收缩； 订(约)
+  * 例句：  You have to contract with us for this business.
+  * 翻译：  为了这笔交易，你必须和我们签订合约。
+  <br>
+
+- dim
+  * 词义：  a. 暗淡的； 模糊的
+  * 例句：  a dim room.
+  * 翻译：  光线暗淡的房间。
+  * 参考：  dime (n.一角硬币)
+  <br>
+
+- hardship
+  * 词义：  n.艰难，困苦
+  * 例句：  No matter what hardships we face, we will endure.
+  * 翻译：  不管我们面临什么样的困难，我们都将忍受。
+  <br>
+
+- residence
+  * 词义：  n. 住宅，住处
+  * 例句：  Jack and Mary live in a lovely stone residence.
+  * 翻译：  杰克和玛丽住在一栋漂亮的石砌房子里。
+  <br>
+
+- inspect
+  * 词义：  vt. 检查，调查，视察
+  * 例句：  When the engine would not start, the mechanic inspected all the parts to find what was at fault.
+  * 翻译：  引擎发动不了时，技工通过检查所有部件来找出故障。
+  * 派生：  inspector (n.检查员，巡视员)
+  <br>
+
+- heel
+  * 词义：  n. 脚后跟；鞋跟
+  * 例句：  I got my heel hurt when I jumped down the wall.
+  * 翻译：  我从墙上跳下来时弄上了脚后跟。
+  <br>
+
+- package
+  * 词义：  n.包装，包裹，箱
+  * 例句：  There is a package for you from Canada.
+  * 翻译：  你有一个从加拿大寄来的包裹。
+  <br>
