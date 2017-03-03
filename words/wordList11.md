@@ -201,3 +201,75 @@
   * 例句：  There is a package for you from Canada.
   * 翻译：  你有一个从加拿大寄来的包裹。
   <br>
+
+---
+### 2017年03月03日 20:53:09
+
+- undergraduate
+  * 词义：  n.大学生； 大学肄业生
+  * 例句：  Tina received her undergraduate degree from Barnard in 1923.
+  * 翻译：  蒂娜于1923年从巴德纳大学毕业。
+  <br>
+
+- rim
+  * 词义：  n.(圆物的) 边， 轮缘， 边界
+  * 例句：  Jim stuck a piece of gum on the rim of the wastebasket.
+  * 翻译：  吉姆在废纸篓边上粘了一块口香糖。
+  * 同义：  edge (n.边缘) fringe(n.边缘，边) margin (n.边缘)
+  <br>
+
+- accord
+  * 词义：  n.一致，符合；协议，条约； vi(with) 相符合，相一致  vt.授予，赠与
+  * 例句：  I wished to see whether Mary's appearance accorded with their description.
+  * 翻译：  我想看看玛丽长得是不是跟他们描述的一样。
+  * 参考：  out of one's accord with 同...不一致 of one's own accord 出于自愿  with one accord 一致地
+  * 派生：  according (ad.依照)
+  * 参考：  concord (n.和谐)
+  <br>
+
+- signature
+  * 词义：  n.签名，署名，签字
+  * 例句：  Corbett scribbled his signature on the note book.
+  * 翻译：  科比特在笔记簿上潦草的签上了自己的名字。
+  <br>
+
+- trace
+  * 词义：  n.痕迹，踪迹 ； 极少量，微量  vt.描绘，跟踪，追踪
+  * 例句：  Mary put a trace of pepper into the soup.
+  * 翻译：  玛丽往汤里加了少许胡椒粉。
+  * 考点：  trace sth. back to... 某事可追溯到。
+  <br>
+
+- transparent
+  * 词义：  a.透明的； 显然的，明显的
+  * 例句：  The walls and the ceiling of the hall were transparent crystal.
+  * 翻译：  大厅的墙和天花板都是用透明水晶做的。
+  <br>
+
+- meditation
+  * 词义：  n.沉思，冥想，默念
+  * 例句：  Meditation is practiced by some eastern religions.
+  * 翻译：  东方某些宗教行冥想之道。
+  <br>
+
+- statement
+  * 词义：  n.声明；陈述
+  * 例句：  To achieve the desired result, humorous stories should be deliered in exaggerated statements.
+  * 翻译：  为达到预期的效果，将幽默故事时应使用夸张的表述。
+  * 派生：  understatement (n.保守的陈述，低调说法)
+  <br>
+
+- beneath
+  * 词义：  prep. 在...下边，在...之上  ad.在下方
+  * 例句：  The professor conceals depths of benevolence and affection beneath his stern exterior.
+  * 翻译：  教授严厉的外表下深藏着仁慈和关爱。
+  <br>
+
+- substitute
+  * 词义：  n.(for) 代用品，代替品 vt.代替，替换
+  * 例句：  Vitamin pills are no substitute for healthy eating.
+  * 翻译：  维生素片不能替代健康饮食。
+  * 考点：  substitute...for.. 以...代替...
+  * 派生：  substitution (n.代替，取代)
+  * 参考：  institute (n.学会， 学院)
+  <br>
