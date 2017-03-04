@@ -273,3 +273,72 @@
   * 派生：  substitution (n.代替，取代)
   * 参考：  institute (n.学会， 学院)
   <br>
+
+---
+### 2017年03月04日 20:51:21
+
+- typist
+  * 词义：  n. 打字员
+  * 例句：  Lucia worked as a part-time typist to earn some pocket money in her high school.
+  * 翻译：  露西娅高中时做兼职打字员来挣一些零花钱。
+  <br>
+
+- bureau
+  * 词义：  n.署，局，司，处
+  * 例句：  I've never known that my uncle is an investigator for the Confidential Bureau.
+  * 翻译：  我一直不知道自己的叔叔是机要局的调查员。
+  <br>
+
+- compute
+  * 词义：  n./vt 计算，估计
+  * 例句：  The teach asked students to compute the distance between the two objects.
+  * 翻译：  老师让学生们计算那两个物体之间的距离。
+  * 派生：  computation (n. 计算，估算) computerized (a.计算机化的)
+  <br>
+
+- whistle
+  * 词义：  n.口哨，汽笛； 口哨声；汽笛声
+  * 例句：  Henry puts his fingers in his mouth, letting out a sharp whistle.
+  * 翻译：  亨利把手指放进嘴里，吹出一声刺耳的口哨声。
+  <br>
+
+- irony
+  * 词义：  n. 反话， 讽刺，嘲弄； 出乎意料的事情或者情况； 具有讽刺意味的事。
+  * 例句：  The irony was that it rained the whole time wen we were on vacation.
+  * 翻译：  出乎意料的是，我们度假的整个期间都在下雨。
+  * 派生：  ironically (ad.说反话地，讽刺地)
+  <br>
+
+- indication
+  * 词义：  n.指出，指示； 迹象，暗示
+  * 例句：  Jessica never gave any indication where she might go.
+  * 翻译：  杰西卡对她可能去哪里从未给过任何暗示。
+  <br>
+
+- extensive
+  * 词义：  a.广大的，广泛的
+  * 例句：  Anthropology is a field-study oriented discipline which makes extensive use of the comparative method in analysis.
+  * 翻译：  人类学是一门以实地调查为导向的学科，它广泛地使用了的比较分析法。
+  * 派生：  extensively (ad. 广大地，广阔地)
+  <br>
+
+- procedure
+  * 词义：  n.程序，手续，步骤
+  * 例句：  The current emphasis on standardized testing highlights analysis and procedure,
+            meaning that few of us inherently use our innovative and collaborative modes of thought.
+  * 翻译：  现在对标准化测试的重视突出了分析和步骤，这意味着我们中极少有人会自然而然地使用创新合作的思维模式。
+  <br>
+
+- dazzle
+  * 词义：  vt. 使惊奇，使颠倒 ； 使炫目，耀眼  n. 耀眼的光； 令人眼花缭乱的东西(或特性)
+  * 例句：  The orator dazzled the crowd with is speech.
+  * 翻译：  那位演说家的演讲让人拍案叫绝。
+  * 派生：  dazzlingly (ad. 灿烂地，辉煌地，非凡地)
+  * 同义：  shine (v.照耀，发光) glare (v. 闪耀)
+  <br>
+
+- curriculum / curricula
+  * 词义：  n. 课程，全部课程
+  * 例句：  The dean expects that the curriculum will be successful in attracting students.
+  * 翻译：  系主任希望这门课程能够成功吸引学生们的注意。
+  <br>
