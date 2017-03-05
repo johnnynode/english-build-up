@@ -342,3 +342,70 @@
   * 例句：  The dean expects that the curriculum will be successful in attracting students.
   * 翻译：  系主任希望这门课程能够成功吸引学生们的注意。
   <br>
+
+---
+### 2017年03月05日 22:15:20
+
+- fantasy
+  * 词义：  n.想象，幻想 n.幻想的产物
+  * 例句：  What fantasy would you like to live out the most?
+  * 翻译：  你最希望什么幻想能够变为现实？
+  <br>
+
+- expertise
+  * 词义：  n. 专门知识(或技能等)，专长
+  * 例句：  You must have expertise to achieve our goal.
+  * 翻译：  你必须具备专业技能才能实现我们的目标
+  * 短语：  managerial expertise 管理方法，管理技能
+  <br>
+
+- mild
+  * 词义：  a. 温和的，暖和的； 温和的，轻微的；(烟酒等)味淡的
+  * 例句：  I have to eat mild food because I have an ulcer in my mouth.
+  * 翻译：  我得吃清淡的食物，因为我患了口腔溃疡。
+  <br>
+
+- fade
+  * 词义：  v.褪色； 衰减，消失
+  * 例句：  Victor's smile faded as he heard the bad news.
+  * 翻译：  听到这则坏消息时，维克托脸上的笑容消失了。
+  <br>
+
+- intuition
+  * 词义：  n.直觉
+  * 例句：  The physicist had intuition but not the laws of thermodynamics to guide him.
+  * 翻译：  那位物理学家凭直觉而不是热力学定律来引导自己。
+  <br>
+
+- evil
+  * 词义：  a.邪恶的，罪恶的； n.邪恶，罪恶
+  * 例句：  The path down to evil is easy.
+  * 翻译：  走上罪恶的道路是很容易的.
+  <br>
+
+- fraud
+  * 词义：  n.诈骗，欺骗； 骗子，冒名顶替者
+  * 例句：  The senator was charged with fraud.
+  * 翻译：  那位参议员被指控诈骗。
+  * 同义：  deception (n.欺骗) trickery (n.欺骗，诡计) imposter / impostor (n.冒名顶替者，江湖骗子)
+  <br>
+
+- illustration
+  * 词义：  n.说明，例证； 插图，图解
+  * 例句：  It's not a very good novel, but I like the illustrations.
+  * 翻译：  这本小说并不是很好，但我喜欢里面的插图。
+  <br>
+
+- advent
+  * 词义：  n. 到来，来临，出现
+  * 例句：  Our life had changed greatly since the advent of computer.
+  * 翻译：  自从电脑出现，我们的生活大大改变了。
+  <br>
+
+- aural
+  * 词义：  a.听觉的；
+  * 例句：  Our music is all about aural entertainment.
+  * 翻译：  我们的音乐完全是一种听觉上的享受。
+  * 短语：  aural skills 听力技巧
+  * 参考：  oral (a.口头的)
+  <br>
