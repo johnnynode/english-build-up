@@ -409,3 +409,84 @@
   * 短语：  aural skills 听力技巧
   * 参考：  oral (a.口头的)
   <br>
+
+---
+### 2017年03月06日 20:57:10
+
+- fame
+  * 词义：  n.名声
+  * 例句：  The scientist cares very little for fame and gain.
+  * 翻译：  这位科学家对名利很淡薄。
+  * 短语：  everlasting fame 不朽的名声。
+  <br>
+
+- harden
+  * 词义：  v.(使)变硬
+  * 例句：  The deposit harden under conditions of heat and pressure.
+  * 翻译：  沉淀物会在加热和加压的条件下变硬。
+  <br>
+
+- shuttle
+  * 词义：  n.航天飞机； (织机的)梭子； 短程穿梭运行的飞机(或火车、汽车) v.(使某物)穿梭般来回，短程穿梭运送。
+  * 例句：  The shuttle can carry devices for scientific inquiry.
+  * 翻译：  航天飞机能携带拱科学探测用的装置。
+  <br>
+
+- intermittent
+  * 词义：  a.间歇的，断断续续的
+  * 例句：  The crowd cheered and there were intermittent shouts.
+  * 翻译：  人群欢呼雀跃，间或有人尖叫。
+  <br>
+
+- tunnel
+  * 词义：  n.隧道；山洞
+  * 例句：  It took the workers three years to dig this tunnel.
+  * 翻译：  工人们花了三年时间挖掘这条隧道。
+  <br>
+
+- medal
+  * 词义：  n. 奖章，勋章，纪念章
+  * 派生：  medalist (n.获得奖章者)
+  <br>
+
+- wealthy
+  * 词义：  a.富裕的，丰富的
+  * 短语：  a wealthy land 富饶的土地 a wealthy family 富裕的家庭
+  <br>
+
+- reproduce
+  * 词义：  vi. 生殖，繁殖； vt.翻版，复制，仿造
+  * 例句：  The script is copyright of Disney and is reproduced without Disney's permission.
+  * 翻译：  这个剧本的版权属于迪斯尼，但未经迪斯尼许可就被翻版了。
+  <br>
+
+- flour
+  * 词义：  n. 面粉
+  * 例句：  The bread is made from whole-wheat flour.
+  * 翻译：  这种面包是用全麦面粉做成的。
+  <br>
+
+- leadership
+  * 词义：  n.领导
+  * 例句：  Gary lived up to his ideals of leadership.
+  * 翻译：  加里如愿以偿地当上了领导。
+  <br>
+
+- cosmic
+  * 词义：  a. 宇宙的
+  * 例句：  It is difficult for ordinary people understand cosmic laws.
+  * 翻译：  一般人很难理解宇宙法则。
+  * 参考：  cosmology (n.宇宙论) cosmos (n.宇宙)
+  <br>
+
+- motel
+  * 词义：  n.汽车旅馆
+  * 例句：  There aren't any vacancies at the motels near the beach.
+  * 翻译：  海滩附近的汽车旅馆已经没有空房了。
+  <br>
+
+- apartment
+  * 词义：  n.房间，套房； 公寓
+  * 例句：  The secretary called to reserve an apartment in the hotel.
+  * 翻译：  秘书打电话在宾馆预定了一间房。
+  <br>
