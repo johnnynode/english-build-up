@@ -66,6 +66,74 @@
 
 - dye
   * 词义：  n. 染料； vt.染，染色
-  * 例句：  The old woma n dyed her hair black.
+  * 例句：  The old woman n dyed her hair black.
   * 翻译：  那位老妇人把头发染成了黑色。
+  <br>
+
+### 2017年03月08日 07:38:10
+
+- skull
+  * 词义：  n.颅骨，脑壳
+  * 例句：  The anthropologist unearthed the skull of an ancient human at the site.
+  * 翻译：  人类学家在这个遗址挖掘出了一个远古人的颅骨。
+  * 脑壳：  brain (n.脑壳)
+  <br>
+
+- accordingly
+  * 词义：  ad. 因此，从而； 相应地，照着(办)
+  * 例句：  The patient was tried out; accordingly, the nurses sent him to bed.
+  * 翻译：  病人们非常疲倦，于是护士们送他上床休息。
+  <br>
+
+- herd
+  * 词义：  n.群，兽群，牛群
+  * 例句：  At dusk, the boy drove a large herd of cows and oxen home.
+  * 翻译：  黄昏时，男孩赶着一大群牛回家了。
+  * 参考：  sheepherder (n.牧羊人)
+  <br>
+
+- stride
+  * 词义：  vi. 大步走(过), 迈进， 跨过 n.迈步，阔步
+  * 例句：  I am only two strides from you now.
+  * 翻译：  我现在离你只有两大步远了。
+  <br>
+
+- impose
+  * 词义：  vt. 征(税) ;处以(罚款，监禁等); (on) 把...强加给
+  * 例句：  The commission proposed to impose a new tax on food and medicines as part of government efforts to increase revenue for new years' budget.
+  * 翻译：  该委员会提议，对食物和药品征收新税，作为政府提高来年预算的一种手段。
+  <br>
+
+- discourage
+  * 词义：  vt.使泄气，使失去信心； 阻碍
+  * 例句：  My husband always discouraged me from trying to travel.
+  * 翻译：  丈夫总是打击我去旅游的积极性。
+  <br>
+
+- penalty
+  * 词义：  n.处罚，惩罚
+  * 例句：  The penalty for speeding is a $100 fine in this city.
+  * 翻译：  该市对超速行驶除以100美元的罚款。
+  * 考点：  penalty for 对...处罚，罚金
+  * 派生：  penalize (v.处罚)
+  <br>
+
+- charity
+  * 词义：  n.慈善(团体)，仁慈， 施舍
+  * 例句：  Many charities sent money to help the children unable to go to school.
+  * 翻译：  许多慈善团体都捐款帮助那些失学儿童。
+  * 派生：  charitable (a.仁慈的)
+  <br>
+
+- translation
+  * 词义：  n.翻译； 译文， 译本
+  * 例句：  The translation was made by our English teacher some years ago.
+  * 翻译：  这个译本是我们英语老师几年前完成的。
+  * 辨别：  translation, interpretation
+  <br>
+
+- rabbit
+  * 词义：  n.兔子
+  * 例句：  A rabbit can become a good companion to human beings with proper training.
+  * 翻译：  经过适当的训练，兔子可以成为人类的好伙伴。
   <br>
