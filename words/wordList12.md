@@ -76,7 +76,7 @@
   * 词义：  n.颅骨，脑壳
   * 例句：  The anthropologist unearthed the skull of an ancient human at the site.
   * 翻译：  人类学家在这个遗址挖掘出了一个远古人的颅骨。
-  * 脑壳：  brain (n.脑壳)
+  * 参考：  brain (n.脑壳)
   <br>
 
 - accordingly
@@ -136,4 +136,70 @@
   * 词义：  n.兔子
   * 例句：  A rabbit can become a good companion to human beings with proper training.
   * 翻译：  经过适当的训练，兔子可以成为人类的好伙伴。
+  <br>
+
+### 2017年03月09日 07:43:59
+
+- fatigued
+  * 词义：  a.疲乏的
+  * 例句：  We felt very fatigued after exercising.
+  * 翻译：  运动之后我们感到疲乏。
+  <br>
+
+- crack
+  * 词义：  n.纹裂，裂缝，缝隙；破裂声，爆裂声； v.破裂，砸开； (使)发出爆裂声；
+  * 例句：  In the 20th day of the hatch, the eggs began to crack.
+  * 翻译：  在孵化的第二十天里，这些卵开始破裂。
+  * 派生：  cracked (a.破碎的，破裂的)
+  * 参考：  crush (vt.压碎) craft(n.工艺)
+  <br>
+
+- agent
+  * 词义：  n.代理商，代理人，代表
+  * 短语：  agent bank 代理银行
+  <br>
+
+- transfer
+  * 词义：  vt. 转移，转让，过户； vi.换车，专业，转学；调动，转职 n.转变
+  * 例句：  China is undergoing the transfer from agricultural power to industrial power.
+  * 翻译：  中国正在从农业大国到工业大国转变。
+  * 派生：  transferable (a.可转移的； 可转换的)
+  <br>
+
+- outlook
+  * 词义：  n. 景色，风光； 观点，见解；展望，前景
+  * 例句：  The analyzed their company's outlook over the next 10 years at the meeting.
+  * 翻译：  会后他们分析了公司以后10年的发展前景。
+  * 考点：  world outlook 世界前景
+  <br>
+
+- deceit
+  * 词义：  n.欺骗，谎言
+  * 例句：  The politician's scandal would erupt if the deceit was detected.
+  * 翻译：  谎言一旦被揭穿，那位政治家的丑闻就曝光了。
+  <br>
+
+- irrigate
+  * 词义：  vt.灌溉，冲洗(伤口等)
+  * 例句：  The doctor irrigated the wound with the medicated fluid.
+  * 翻译：  医生用药液冲洗了伤口。
+  * 派生：  irrigation (n. 灌溉，冲洗)
+  <br>
+
+- grease
+  * 词义：  n.动物脂；油脂；润滑油 vt.抹油，润滑
+  * 例句：  The soldiers grease their guns frequently.
+  * 翻译：  士兵们经常给自己的枪上油。
+  <br>
+
+- pistol
+  * 词义：  n.手枪
+  * 例句：  Tom was fined for carrying a pistol without a permit.
+  * 翻译：  汤姆因无证持枪被罚款。
+  <br>
+
+- ski
+  * 词义：  n.雪橇； vi.滑雪
+  * 例句：  Max can ski with the best of them.
+  * 翻译：  马克斯是他们中滑雪滑的最好的。
   <br>
