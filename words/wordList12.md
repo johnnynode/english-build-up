@@ -70,6 +70,7 @@
   * 翻译：  那位老妇人把头发染成了黑色。
   <br>
 
+---
 ### 2017年03月08日 07:38:10
 
 - skull
@@ -138,6 +139,7 @@
   * 翻译：  经过适当的训练，兔子可以成为人类的好伙伴。
   <br>
 
+---
 ### 2017年03月09日 07:43:59
 
 - fatigued
@@ -202,4 +204,75 @@
   * 词义：  n.雪橇； vi.滑雪
   * 例句：  Max can ski with the best of them.
   * 翻译：  马克斯是他们中滑雪滑的最好的。
+  <br>
+
+---
+### 2017年03月10日 06:21:44
+
+- reverse
+  * 词义：  n.相反，反转，颠倒； 背面，后面。 a.相反的，倒转的。 v.颠倒，倒转； (使)倒退
+  * 例句：  I reversed the car through the gate.
+  * 翻译：  我倒车出了大门。
+  * 派生：  reversal (n.倒转，使转化) reversely (ad.反方向地)
+  * 同义：  invert (v.使颠倒；使转化) converse(n.相反的事物 a.相反的，颠倒的)
+  <br>
+
+- jungle
+  * 词义：  n.(热带) 丛林，密林 ; 乱七八糟的一堆
+  * 例句：  A jungle of wrecked automobiles were deserted in the clearing.
+  * 翻译：  空地上有一堆被遗弃的破汽车。
+  <br>
+
+- definition
+  * 词义：  n.定义，解释
+  * 例句：  The definition of adulthood status may change in a given society as social and economic conditions change.
+  * 翻译：  在特定的社会中，当社会和经济状况发生改变时，有关成年人身份的定义也随之改变。
+  <br>
+
+- curiosity
+  * 词义：  n. 好奇心；求知欲； 古董，古玩。
+  * 例句：  These curiosities are the old man's favorites.
+  * 翻译：  这些古董是老人家的最爱。
+  * 考点：  curiosity about 对...好奇
+  <br>
+
+- earthquake
+  * 词义：  n.地震
+  * 例句：  Experts have discounted the possibility of an earthquake in this area.
+  * 翻译：  专家对该地区发生地震的可能性持怀疑态度。
+  <br>
+
+- devil
+  * 词义：  n. 魔鬼，恶棍
+  * 例句：  The devil finally came with the bill.
+  * 翻译：  恶有恶报。
+  * 参考：  evil (a.邪恶的)
+  <br>
+
+- escort
+  * 词义：  vt.护卫，护送； n.护卫者，护送着
+  * 例句：  The gaoler opened the heavy door with armed escorts.
+  * 翻译：  监狱看守和荷枪实弹的护卫者一起打开了那扇厚重的门。
+  * 同义：  accompany(vt.陪伴) squire(v.随侍，护卫)
+  <br>
+
+- vital
+  * 词义：  a. 生死攸关的，重大的； 生命的，生机的；
+  * 例句：  I breathed ,and felt my vital energy return.
+  * 翻译：  我吸了一口气，觉得自己又恢复了活力。
+  * 派生：  vitality (n.活力，生动性) revitalize (vt.使(某物)恢复生机)
+  * 辨别：  vital, significant, important, serious
+  <br>
+
+- purse
+  * 词义：  n.钱包
+  * 例句：  The robber took her purse away in the street.
+  * 翻译：  强盗在大街上抢走了她的钱包。
+  <br>
+
+- associate
+  * 词义：  vt.使联系，使联合 vi.交往，结合 ； n.合伙人，伙伴，同事，同行； a.副的
+  * 例句：  I don't like you associating with those people.
+  * 翻译：  我不喜欢你与那些人交往。
+  * 考点：  associate professor 副教授
   <br>
