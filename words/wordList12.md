@@ -276,3 +276,75 @@
   * 翻译：  我不喜欢你与那些人交往。
   * 考点：  associate professor 副教授
   <br>
+
+---
+### 2017年03月11日 23:12:14
+
+- inference
+  * 词义：  n.推理，推论，推断；推断结果，结论
+  * 例句：  From his manner, we drew the inference that Jim was satisfied with the exam.
+  * 翻译：  我们从吉姆的态度推断出，他对这次考试很满意。
+  * 考点：  accurate inference 正确的推断 by inference 根据推断
+  * 辨别：  inference, deduction, reasoning, induction
+  <br>
+
+- fragment
+  * 词义：  n.碎片，小部分，片段；
+  * 例句：  Fragments of the surfboard were washed up onto the wet sand.
+  * 翻译：  冲浪板的碎片被冲到了潮湿的沙滩上。
+  <br>
+
+- flesh
+  * 词义：  n.肉
+  * 例句：  The cook removed the chicken's flesh from its bones.
+  * 翻译：  厨师将鸡肉从骨头上剔了下来。
+  <br>
+
+- embed
+  * 词义：  vt. 把...嵌入(或插入)
+  * 例句：  The arrow embedded itself in the wall.
+  * 翻译：  那支箭牢牢地插进了墙里。
+  <br>
+
+- token
+  * 词义：  n.表示，象征，标志，记号； 礼券，代金券； 信物，纪念品，筹码； a.象征性的
+  * 例句：  If you buy this coat,you will get a $10 token.
+  * 翻译：  如果你买这件外套，就会得到一张10美元的代金券。
+  * 考点：  by the same token 由于同样的原因, 同样地  in token of 作为...的标志
+  * 同义：  symbol (n.标志，象征) souvenir (n.纪念品)
+  <br>
+
+- swamp
+  * 词义：  n.沼泽，沼地 v.(以繁多的事情) 压倒某人
+  * 例句：  We've been swamped with phone calls since the advert appeared.
+  * 翻译：  自从打了广告以后，我们的电话就多的应接不暇了。
+  * 同义：  marsh (n.湿地，沼泽) overwhelm (v.淹没，压倒)
+  <br>
+
+- feat
+  * 词义：  n.功绩， 壮举
+  * 例句：  The Long March by China's red army was an extraordinary feat.
+  * 翻译：  中国红军长征是一次非凡的壮举。
+  <br>
+
+- robust
+  * 词义：  a. 健壮的， 强壮的， 健康的
+  * 例句：  If you want to be healthy and robust ,get lots of exercise.
+  * 翻译：  如果你想拥有健康，强壮的身体就要多锻炼。
+  * 同义：  sturdy (a.强健的) healthy (a.健康的)
+  * 反义：  delicate (a.病弱的；脆弱的)
+  <br>
+
+- stake
+  * 词义：  n.桩，标桩，棍子； 赌注； 利害关系，风险
+  * 例句：  I cast my last stake, so I mustn't lose.
+  * 翻译：  我孤注一掷，所以绝对不能输。
+  * 考点：  at stake 在危险中； 利害攸关。
+  * 参考：  stakeholder (n. 赌金保管者)
+  <br>
+
+- vanish
+  * 词义：  v.消失，消散
+  * 例句：  Wonderful dreams may come true or may vanish into thin air.
+  * 翻译：  美梦也许会成真，也许会成为泡影。
+  <br>
