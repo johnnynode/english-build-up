@@ -348,3 +348,69 @@
   * 例句：  Wonderful dreams may come true or may vanish into thin air.
   * 翻译：  美梦也许会成真，也许会成为泡影。
   <br>
+
+---
+### 2017年03月12日 07:33:33
+
+- centimeter / centimetre
+  * 词义：  n. 厘米
+  * 例句：  One centimeter is equal to 10 millimetres.
+  * 翻译：  一厘米等于10毫米。
+  <br>
+
+- sudden
+  * 词义：  a. 突然的，意外的； n.突然发生的事
+  * 考点：  all of a sudden 突然
+  * 派生：  suddenly 突然地
+  <br>
+
+- surrender
+  * 词义：  v.投降；放弃
+  * 例句：  I'd rather make the gravest mistakes than surrender my plan.
+  * 翻译：  我宁可酿成大错，也不愿放弃自己的计划。
+  <br>
+
+- endurance
+  * 词义：  n. 忍耐(力)； 持久(力)； 耐久(性)
+  * 例句：  The patient showed remarkable endurance throughout his illness.
+  * 翻译：  生病期间， 这位病人表现出了非凡的忍耐力。
+  <br>
+
+- jolly
+  * 词义：  a. 欢乐的，高兴的； ad 非常
+  * 例句：  We had a jolly good time on the beach.
+  * 翻译：  我们再海滩上度过了一段非常美好的时光。
+  <br>
+
+- stripe
+  * 词义：  n. 条纹
+  * 例句：  The bodies of the local people were marked with yellow and black stripes.
+  * 翻译：  当地人的身上都涂着黄黑条纹。
+  <br>
+
+- forehead
+  * 词义：  n.额
+  * 例句：  I wiped the sweat from my forehead.
+  * 翻译：  我擦了擦额头上的汗。
+  <br>
+
+- accomplish
+  * 词义：  vt. 完成，实现
+  * 例句：  It took us three days to accomplish this tough task.
+  * 翻译：  我们花了三天时间来完成这项艰巨的任务。
+  * 考点：  accomplish  one's purpose 达到目的
+  * 派生：  accomplishment (n.完成，成就)
+  * 辨别：  accomplish, achieve, fulfill, finish
+  <br>
+
+- bloody
+  * 词义：  a.流血的，血腥的
+  * 例句：  Thousands of people died in this bloody war.
+  * 翻译：  成千上万的人在这场血腥的战争中丧生。
+  <br>
+
+- piston
+  * 词义：  n.活塞
+  * 例句：  The piston choked the mouth of the bore of the cylinder.
+  * 翻译：  活塞堵住了汽缸筒。
+  <br>
