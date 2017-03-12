@@ -414,3 +414,97 @@
   * 例句：  The piston choked the mouth of the bore of the cylinder.
   * 翻译：  活塞堵住了汽缸筒。
   <br>
+
+---
+### 2017年03月13日 07:42:42
+
+- verbal
+  * 词义：  a.用言辞的；用文字的； 口头的； 动词的
+  * 例句：  Read the verbal instructions before you enter the laboratory.
+  * 翻译：  进入实验室前请先阅读文字说明。
+  * 考点：  verbal symbols 文字符号； verbal signals 文字信号。 verbal descriptions 口头描述
+  * 派生：  verbally (ad.用言辞地；口头地) nonverbal (a.非动词的)
+  * 反义：  written (a.书面的)
+  <br>
+
+- submit
+  * 词义：  vi.服从，屈服； vt.(to)呈送， 提交
+  * 例句：  A sketch of the long report by the budget committee was submitted to the mayor.
+  * 翻译：  预算委员会向市长递交了一份长篇报告的梗概。
+  * 派生：  submissiveness (n.柔顺；服从)
+  <br>
+
+- rally
+  * 词义：  n.集会； 公路汽车赛； v.集合，团结； (使)恢复(健康等)，重新振作
+  * 例句：  We heard a lot of speeches at the political rally.
+  * 翻译：  我们在这场政治集会上听到了很多演讲。
+  <br>
+
+- thigh
+  * 词义：  n. 大腿
+  * 例句：  The doctor took a bullet out of the soldier's thigh.
+  * 翻译：  医生从士兵的大腿里取出一颗子弹。
+  <br>
+
+- rotary
+  * 词义：  a.旋转的
+  * 例句：  The machine stopped its rotary motion because of the failure of power.
+  * 翻译：  机器由于断电而停止了运动。
+  <br>
+
+- division
+  * 词义：  n.分；分割； 部门，科，处； 除法
+  * 例句：  I was in charge of our division when the manager was out.
+  * 翻译：  经理不在的时候由我们来管理我们的部门。
+  * 考点：  division of labor 分工
+  <br>
+
+- mobile
+  * 词义：  a.可动的， 活动的， 运动的
+  * 考点：  mobile phone 手机
+  * 派生：  mobility (n.运动，移动，活动)
+  <br>
+
+- switch
+  * 词义：  n.开关，电闸； 转换； 枝条；鞭子； v.转换； (on,off) 打开或关掉...的开关
+  * 例句：  Dave switched the computer off and went to bed.
+  * 翻译：  戴夫关上电脑，上床睡觉了。
+  <br>
+
+- mixture
+  * 词义：  n.混合， 混合物； 混合剂
+  * 例句：  The concrete is a mixture of sand, broken stone and so on.
+  * 翻译：  混凝土是沙子，碎石等的混合物。
+  <br>
+
+- passerby
+  * 词义：  n.过路人， 行人
+  * 例句：  A passerby was knocked down by  Tom's car.
+  * 翻译：  一个行人被汤姆的车撞到了。
+  <br>
+
+- imperative
+  * 词义：  a. 必要的； 紧急的； 极重要的； 命令的； n.必要的的事，必须完成的事； 祈使语气
+  * 例句：  "Leave!" is an example of an imperative.
+  * 翻译：  “离开！” 是一个祈使语气的例子。
+  <br>
+
+- canteen
+  * 词义：  n.食堂；小卖部
+  * 例句：  Our canteen is the best one among all the university canteens.
+  * 翻译：  我们的食堂是所有大学里最好的一个。
+  <br>
+
+- wrench
+  * 词义：  vt. 猛拧，猛拉； 摆脱；挣脱； 使扭伤； n.扳手； (离别等的痛苦，难受)
+  * 例句：  Every farewell returned a more wrench.
+  * 翻译：  每一次的离别都会带来更多的痛苦。
+  * 参考：  wench (vi.通奸) trench (n.沟渠) quench (v.熄灭)
+  <br>
+
+- vaccine
+  * 词义：  n. 疫苗
+  * 例句：  The vaccine can prevent the three main types of influenza.
+  * 翻译：  改疫苗可预防三种类型的流行感冒。
+  * 派生：  vaccination (n. 接种疫苗， 种痘)
+  <br>
