@@ -479,7 +479,7 @@
 
 - passerby
   * 词义：  n.过路人， 行人
-  * 例句：  A passerby was knocked down by  Tom's car.
+  * 例句：  A passerby was knocked down by Tom's car.
   * 翻译：  一个行人被汤姆的车撞到了。
   <br>
 
