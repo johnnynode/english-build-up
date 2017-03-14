@@ -66,3 +66,71 @@
   * 翻译：  战争期间，戴维被捕了，被送进了越南的一个集中营。
   * 派生：  recapture (n./vt. 取回，拿回)
   <br>
+
+----
+### 2017年03月15日 06:32:06
+
+- focus
+  * 词义：  n.焦点，(活动，兴趣等的)中心； vi.聚集，集中；
+  * 例句：  All the social sciences focus upon the study of humanity.
+  * 翻译：  所有的社会科学都重点研究人性。
+  * 考点：  focus sth. on 使聚集，集中
+  <br>
+
+- concept
+  * 词义：  n.概念，观念； 思想
+  * 例句：  The teacher explained the concept of the term by drawing a sketch.
+  * 翻译：  老师画一个草图来解释这个专业术语的概念。
+  * 参考：  precept (n.规则)
+  <br>
+
+- injure
+  * 词义：  vt.损害，损伤，伤害
+  * 例句：  Anne injured her leg in a car accident.
+  * 翻译：  安妮的腿在一次车祸中受了伤。
+  * 派生：  injured (a.受伤的； 受到损伤的)
+  <br>
+
+- spray
+  * 词义：  n.喷雾，飞沫； 浪花，水花； vt.喷洒，喷射
+  * 例句：  The window exploded outward in a spray of glass.
+  * 翻译：  窗户向外炸开，玻璃飞溅。
+  <br>
+
+- property
+  * 词义：  n. 财产，资产，所有物； 性质，特性
+  * 例句：  Certain plants have medicinal properties.
+  * 翻译：  某些植物具有药用性。
+  <br>
+
+- lofty
+  * 词义：  a.高耸的; 崇高的； 高傲的
+  * 例句：  Carter is lofty, looking down upon everything.
+  * 翻译：  卡特很傲慢，目空一切。
+  * 同义：  towering (a.极高的；高耸的); arrogant (a.傲慢的，自大的) elevated (a.高尚的，崇高的)
+  <br>
+
+- staple
+  * 词义：  n.订书钉； U形钉； 主食，主要产品. vt.用订书钉订， 把...订起来。 a.主要的；经常需要(或使用)的
+  * 例句：  Rice is a staple of most Chinese.
+  * 翻译：  米饭是大多数中国人的主食。
+  <br>
+
+- domain
+  * 词义：  n.(活动、思想等的)领域，范围
+  * 例句：  The chemist's theory gained recognition in the domain of chemistry.
+  * 翻译：  这位化学家的离婚在化学领域得到了认可。
+  * 同义：  realm (n.领域) field(n.领域，域)
+  <br>
+
+- desolate
+  * 词义：  a.荒凉的； 孤独凄凉的； vt.使荒芜
+  * 例句：  Antarctica is the coldest and most desolate region on Earth.
+  * 翻译：  南极洲是地球上最寒冷，最荒凉的地区。
+  <br>
+
+- coach
+  * 词义：  n.(铁路)客车，长途汽车，大客车； 教练，辅导员，私人教师 vt.辅导，指导
+  * 例句：  I'll coach you at home if you like.
+  * 翻译：  如果你愿意，我可以在家里给你辅导。
+  <br>

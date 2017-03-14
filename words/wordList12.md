@@ -66,7 +66,7 @@
 
 - dye
   * 词义：  n. 染料； vt.染，染色
-  * 例句：  The old woman n dyed her hair black.
+  * 例句：  The old woman dyed her hair black.
   * 翻译：  那位老妇人把头发染成了黑色。
   <br>
 
