@@ -203,3 +203,72 @@
   * 例句：  Reservoir will create a prefect habitat for snails.
   * 翻译：  水库将为蜗牛创造一个理想的栖息地。
   <br>
+
+----
+### 2017年3月17日 07:56:34
+
+- opponent
+  * 词义：  n.对手，反对者，敌手； a.对立的，对抗的
+  * 例句：  The two countries were opponent in World War II.
+  * 翻译：  这两个国家在二战时是对立国。
+  <br>
+
+- congratulation
+  * 词义：  n. (on) 祝贺 ； 祝贺词
+  * 例句：  Jane framed a few congratulations before writing these cards.
+  * 翻译：  简在写这些卡片前，先构思了一下贺词。
+  <br>
+
+- retrospect
+  * 词义：  n.回顾，回想；
+  * 例句：  In retrospect I must admit we made one big mistake.
+  * 翻译：  回想起来，我必须承认，我们犯了一个大错误。
+  * 同义：  recollection (n.回忆，回想) remembrance (n.回忆)
+  * 反义：  prospect (n.前景)
+  <br>
+
+- tone
+  * 词义：  n.音调，音色，色调； 风气，气氛； 腔调，语气
+  * 例句：  We don't like the tone of the teacher when she gives her speech.
+  * 翻译：  我们不喜欢那位女老师讲话的语气。
+  <br>
+
+- smuggle
+  * 词义：  vt.走私，偷运
+  * 例句：  That man tried to smuggle something valuable through the Customs.
+  * 翻译：  那名男子企图把一些贵重物品偷运出海关。
+  * 同义：  traffic (vi.非法买卖)
+  <br>
+
+- shrewd
+  * 词义：  a.机灵的，敏锐的； 精明的
+  * 例句：  Charlie is a quiet shrewd and thoughtful companion.
+  * 翻译：  查理是一个温和，机灵，深谋远虑的共事者。
+  * 同义：  smart (a.聪明的) keen （a.敏锐的，聪明的)
+  * 反义：  dull (a.迟钝的)
+  <br>
+
+- terminal
+  * 词义：  n.终点站 ；终端，换线端； 计算机终端
+  * 例句：  Every PC is a terminal of the Internet.
+  * 翻译：  每一台个人电脑都是互联网的一个终端。
+  * 派生：  terminally (ad.终端地，末尾)
+  <br>
+
+- swell
+  * 词义：  v.(使)膨胀，增大，隆起
+  * 例句：  My face was swollen with toothache.
+  * 翻译：  我的脸因牙痛肿了起来。
+  <br>
+
+- soar
+  * 词义：  vi. 猛增， 剧增； 高飞，翱翔； (情绪，期望等)高涨； 高耸，屹立
+  * 例句：  At the good news from the Olympic Games, our spirit soared.
+  * 翻译：  听到从奥运会上传来的好消息，我们情绪高涨。
+  <br>
+
+- torment
+  * 词义：  n.痛苦，折磨； 令人痛苦的东西； 折磨者； 纠缠，戏弄，烦扰(某人) vt. 折磨，使痛苦，纠缠，戏弄，烦扰(某人)
+  * 例句：  Jack suffered torments from his stomachache.
+  * 翻译：  杰克经受着胃痛的折磨。
+  <br>
