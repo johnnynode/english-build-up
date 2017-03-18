@@ -272,3 +272,74 @@
   * 例句：  Jack suffered torments from his stomachache.
   * 翻译：  杰克经受着胃痛的折磨。
   <br>
+
+----
+###
+
+- reality
+  * 词义：  n.现实，实际； 真实；
+  * 例句：  Do you want to know what the reality of the situation is ?
+  * 翻译：  你想知道事情的真实情况是怎样的吗？
+  * 考点：  in reality 事实上
+  * 参考：  realization (n.实现)
+  <br>
+
+- architecture
+  * 词义：  n. 建筑(式样，风格)； 建筑学
+  * 例句：  This villa is the architecture of the eighteenth century.
+  * 翻译：  这栋别墅属于18世纪的建筑风格。
+  <br>
+
+- cabbage
+  * 词义：  n.洋白菜，卷心菜
+  * 例句：  Cut the cabbage into fine long shreds.
+  * 翻译：  将卷心菜切成又细又长的丝。
+  <br>
+
+- historical
+  * 词义：  a.历史的，有关历史的
+  * 例句：  The professor loved historical research about the pilgrims.
+  * 翻译：  这位教授非常喜欢有关朝圣者的历史研究。
+  * 短语：  a historical event 历史事件
+  * 派生：  historically (ad.在历史上，从历史的角度)
+  <br>
+
+- construct
+  * 词义：  vt.建造，构造； 创立； 解释，说明； n.构想；概念
+  * 例句：  Nobody can construct the theory clearly.
+  * 翻译：  没人能把这个理论解释清楚。
+  * 短语：  construct a modal 制作模型 // construct an argument 建立论点
+  * 派生：  constructive (a.建设性的；积极的) //  constructively(ad.建设性地；积极地) //  construction (n.建筑；建筑业；构造)
+  * 辨别：  construct, establish, build ,erect, setup
+  <br>
+
+- promising
+  * 词义：  a.有希望的，有前途的
+  * 例句：  We thought that Tom was a promising pianist.
+  * 翻译：  我们认为汤姆是一个有前途的钢琴家。
+  <br>
+
+- liter/ litre
+  * 词义：  n. 升
+  * 例句：  The thirsty boy drank a liter of water without stopping.
+  * 翻译：  那个口渴的男孩，一口气喝了一升水。
+  <br>
+
+- moss
+  * 词义：  n.苔藓，地衣
+  * 例句：  The historian is trying to decipher the moss-grown inscriptions.
+  * 翻译：  这位历史学家正在视图破解那些爬满青苔的碑文。
+  <br>
+
+- view
+  * 词义：  n.景象，风景； 视点，见解；观察，观看； 眼界，视野； vt.看待，考虑； 观看，观察
+  * 例句：  John viewed the accident from his apartment window.
+  * 翻译：  约翰从自己公寓的窗户看到了这场事故。
+  * 派生：  viewer (n.观察者，观测仪)
+  <br>
+
+- cognitive
+  * 词义：  a.认知的，认识的，有感知能力的
+  * 例句：  This exercise will help improve your cognitive abilities.
+  * 翻译：  这项练习将有助于提高你的认知能力。
+  <br>
