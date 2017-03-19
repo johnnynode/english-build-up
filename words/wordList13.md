@@ -412,3 +412,98 @@
   * 例句：  You should treat people with decent attitude.
   * 翻译：  你应该宽以待人。
   <br>
+
+----
+### 2017年03月20日 06:31:50
+
+- provoke
+  * 词义：  vt.挑衅，激怒，招惹
+  * 例句：  John's classmates provoked him by calling his nickname.
+  * 翻译：  同学们叫约翰的绰号，把他给激怒了。
+  <br>
+
+- adult
+  * 词义：  n.成年人； a.成年人，已成熟的
+  * 例句：  Dolly was cloned from an adult sheep.
+  * 翻译：  多莉是从一只成年的绵羊克隆而来的。
+  <br>
+
+- whereas
+  * 词义：  conj.而，却，反之
+  * 例句：  Stimulants speed up the central nervous system. whereas depressants slow it down.
+  * 翻译：  兴奋剂会加速中枢神经系统的运动，而镇静剂却起减缓作用。
+  <br>
+
+- tissue
+  * 词义：  n.(动，植的)组织 ； 织物，薄娟，纸巾
+  * 短语：  nervous tissue 神经组织 // facial tissue 面巾纸
+  <br>
+
+- vision
+  * 词义：  n.视觉，实力； 眼光，洞察力
+  * 例句：  It is because of the manager's vision that the company remained competitive.
+  * 翻译：  正因为经理很有远见，公司才能一直保持竞争力。
+  * 短语：  a man of great vision 极有远见的人。
+  * 参考：  version (n.译本) division(n.分开，除法) revision (n.修订)
+  <br>
+
+- originate
+  * 词义：  vi.起源，产生； 首创，创造
+  * 例句：  Folklore usually originates from some real life incidents.
+  * 翻译：  民间故事通常来源于现实生活中的某些事件。
+  * 考点：  originate in/from 起源于,由...引起
+  * 同义：  initiate (vt.开始，创造，发起) generate (vt.生成，产生)
+  <br>
+
+- temple
+  * 词义：  n.庙宇，神殿，寺； 太阳穴
+  * 例句：  The victim was died of a shot in the temple.
+  * 翻译：  受害人因太阳穴遭到枪击而死亡。
+  <br>
+
+- urge
+  * 词义：  vt.力劝，催促； 强烈希望； 鼓励，促进； n.强烈欲望，迫切要求。
+  * 例句：  I urged the chairman to reconsider him strong decision.
+  * 翻译：  我强烈希望主席考虑他强硬的决定。
+  * 考点：  urge sb. to do sth. 敦促某人做某事 //  urge sb. on 鼓励，促进 // a sudden urge 一股冲动
+  <br>
+
+- planet
+  * 词义：  n.行星
+  * 例句：  The plant venus is only slightly smaller than the earth.
+  * 翻译：  金星只比地球小一点。
+  <br>
+
+- bind
+  * 词义：  vt.捆，包扎，束缚；
+  * 例句：  The laws must bind everyone.
+  * 翻译：  人人需受到法律的约束。
+  * 派生：  binding (a.有约束力的)
+  <br>
+
+- hinge
+  * 词义：  n.合页， 铰链
+  * 例句：  Ross was pounding out the hinge pins on the closet door to get it open.
+  * 翻译：  罗斯使劲砸壁橱门上的铰链栓，想把门打开。
+  <br>
+
+- slack
+  * 词义：  a.懈怠的，懒散的； 松弛的，不紧的； n.淡季，萧条(期间) pl.便裤，运动裤
+  * 例句：  The girls at the private school weren't allowed to wear slacks.
+  * 翻译：  那家私立学校不允许女生穿便裤。
+  * 同义：  loose (a.松弛的)
+  <br>
+
+- chaos
+  * 词义：  n.混乱，杂乱的一团。
+  * 例句：  My room was caused chaos by the children.
+  * 翻译：  我的房间被孩子们弄得凌乱不堪。
+  <br>
+
+> 名言：
+>
+> We must accept finite disappointment, but we must never lose infinite hope.
+> - Martin Luther King
+>
+> 我们必须接受失望，因为它是有限的，但千万不可失去希望，因为它是无穷的。
+> - 马丁·路德·金
