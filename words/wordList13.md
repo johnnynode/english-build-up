@@ -343,3 +343,72 @@
   * 例句：  This exercise will help improve your cognitive abilities.
   * 翻译：  这项练习将有助于提高你的认知能力。
   <br>
+
+----
+### 2017年03月19日 09:31:00
+
+- detective
+  * 词义：  n.侦探
+  * 例句：  The detective just solved a jewelry store robbery.
+  * 翻译：  那名侦探刚刚侦破了一起珠宝店抢劫案。
+  <br>
+
+- barrel
+  * 词义：  n.桶； 枪管，炮管
+  * 例句：  Smoke was rising from the gun barrel.
+  * 翻译：  枪管还在冒烟。
+  <br>
+
+- fertilizer / fertiliser
+  * 词义：  n.肥料
+  * 例句：  The need for artificial fertilizer will be reduced in the future.
+  * 翻译：  将来人造化肥的需求量会减少。
+  <br>
+
+- reception
+  * 词义：  n.接待；招待会； 接受，接受，接受效果。
+  * 例句：  The radio got better reception when I moved the antenna.
+  * 翻译：  当我移动天线时，收音机的效果变好了。
+  <br>
+
+- extend
+  * 词义：  vt.延长，延伸； 提供，给予
+  * 例句：  I wonder if it is possible for me to extend my stay here for two more days.
+  * 翻译：  我想知道我是否能在这里多呆两天。
+  * 考点：  extended family 三世或四室同堂的家庭。 life-extending technology 延长生命的技术。
+  * 派生：  extended (a.扩大；延伸的)
+  * 参考：  extent(n.长度，范围) extant (a.现存的，未毁的)
+  <br>
+
+- exempt
+  * 词义：  vt.使...免除 (或豁免) a.被免除的，被豁免的
+  * 例句：  Children under 16 are exempt from prescription charges.
+  * 翻译：  16岁以下的儿童免付处方费。
+  <br>
+
+- grief
+  * 词义：  n.悲伤，悲痛；悲伤的事；悲痛的缘由
+  * 例句：  They were able to share their common joys and griefs.
+  * 翻译：  他们做到了同甘共苦。
+  * 同义：  anguish (n.极度痛苦) sorrow(n.悲痛，悲哀) heartache(n.悲痛，伤心) woe(悲哀，悲痛) misery(n.痛苦，苦恼)
+  <br>
+
+- enforce
+  * 词义：  vt.实施，执行；强制；
+  * 例句：  The mother always enforced her will on children.
+  * 翻译：  那位母亲总是把自己的意愿强加给孩子们。
+  * 短语：  enforce laws 执法 // enforce a demand 竭力要求
+  * 派生：  enforcement (n.执行，强制)
+  <br>
+
+- female
+  * 词义：  a.女的；雌的
+  * 例句：  The female should learn to protect themselves from harm.
+  * 翻译：  女性要学会保护自己免受伤害。
+  <br>
+
+- decent
+  * 词义：  a.体面的，像样的； 正派的，宽厚的
+  * 例句：  You should treat people with decent attitude.
+  * 翻译：  你应该宽以待人。
+  <br>
