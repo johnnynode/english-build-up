@@ -75,3 +75,73 @@
   * 例句：  There is no limitation in the game, and you can use anything you want.
   * 翻译：  比赛没有什么限制，你可以使用任何你想用的东西。
   <br>
+
+---
+### 2017年3月22日 23:03:54
+
+- prime
+  * 词义：  a.首要的，主要的； 最好的，第一流的 n.青春，青壮年时期，全盛时期
+  * 例句：  Winning is not the prime objective in this sport.
+  * 翻译：  获胜不是这项体育运动的主要目的。
+  * 考点：  Prime Minister 首相
+  * 参考：  primeval (a.原始的)
+  <br>
+
+- jazz
+  * 词义：  爵士乐
+  * 例句：  The jazz festival drew artists from all over the world.
+  * 翻译：  本届爵士音乐节吸引了来自世界各地的艺术家。
+  <br>
+
+- envisage
+  * 词义：  vt. 展望，想象； 正视
+  * 例句：  Let's envisage realities and do something.
+  * 翻译：  让我们正视现实，做点实事吧。
+  * 同义：  imagine (vt.想象，设想)； fancy (vt.想象，设想)
+  <br>
+
+- dioxide
+  * 词义：  n.二氧化物
+  * 例句：  These organisms can absorb carbon dioxide from the atmosphere.
+  * 翻译：  这些有机体能够吸收大气中的二氧化碳。
+  <br>
+
+- agreeable
+  * 词义：  a.惬意的，令人愉快的； 易相处的； 同意的
+  * 例句：  The proposal was not universally agreeable.
+  * 翻译：  该提议未得到普遍同意。
+  <br>
+
+- dive
+  * 词义：  v.潜水，跳水，俯冲 n.潜水，跳水，俯冲
+  * 例句：  The policeman dived into the pond as the bomb exploded.
+  * 翻译：  那名警察在炸弹爆炸时跳入了池塘。
+  <br>
+
+- authentic
+  * 词义：  a.真正的，真实的； 可靠的
+  * 例句：  According to the authentic news, the grafter has been arrested.
+  * 翻译：  据可靠消息，那名贪污犯已被捉拿归案。
+  * 同义：  real (a.真实的) actual (a.实际的) genuine (a.真实的)
+  * 反义：  artificial (a.人造的，假的) fake (a.假的)
+  <br>
+
+- highlight
+  * 词义：  vt.使显著，使突出，强调； n.最精彩的部分；最重要的事件。
+  * 例句：  You just missed the highlight of the general's legend.
+  * 翻译：  你正好漏掉了将军故事中最精彩的部分。
+  <br>
+
+- ventilate
+  * 词义：  vt.使通风，换气； 给...装通风设备
+  * 例句：  The workers spent a week ventilating the factory.
+  * 翻译：  这些工人花了一个星期的时间为工厂安装通风设备。
+  * 派生：  ventilation (n.通风，空气流通) ventilated(a.通风的)
+  <br>
+
+- automation
+  * 词义：  n.自动(化)
+  * 例句：  Over the years our life has changed a lot with automation.
+  * 翻译：  多年来，自动化给我们的生活带来了很大变化。
+  * 参考：  automate (vt.使自动化；自动操作)
+  <br>
