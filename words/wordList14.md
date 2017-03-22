@@ -145,3 +145,68 @@
   * 翻译：  多年来，自动化给我们的生活带来了很大变化。
   * 参考：  automate (vt.使自动化；自动操作)
   <br>
+
+---
+### 2017年03月23日 07:30:31
+
+- overturn
+  * 词义：  vi.翻倒，倾覆 vt.推翻 n.翻倒，倾覆
+  * 例句：  Few survived after the overturn of the ship
+  * 翻译：  船翻了，几乎无人幸免
+  * 参考：  overtake 赶上，超过，压制
+  <br>
+
+- durable
+  * 词义：  a.持久的，耐久的； n.耐用品
+  * 短语：  a durable friendship 永恒的友谊 // consumer durables 耐用消费品
+  <br>
+
+- pulse
+  * 词义：  n.脉搏，脉冲； 意向，动向，情绪
+  * 例句：  The President knew the pulse of the people well.
+  * 翻译：  总统深知民意。
+  <br>
+
+- biography
+  * 词义：  n.传记
+  * 例句：  I spent the whole weekend totally being absorbed in the biography of Bill Clinton.
+  * 翻译：  我花了整个周末的时间全神贯注地阅读比尔•克林顿的传记。
+  * 派生：  biographical (n.传记的)
+  <br>
+
+- provided
+  * 词义：  conj. 倘若，只要，假如
+  * 例句：  Provided you have the courage to admit your mistakes, I will forgive you.
+  * 翻译：  若是你有勇气承认自己的错误，我就会原谅你。
+  <br>
+
+- designate
+  * 词义：  vt.指明，指定
+  * 例句：  These rooms have been designated a no-smoking area.
+  * 翻译：  这些房间被指定为非吸烟区。
+  <br>
+
+- plaintiff
+  * 词义：  n.原告
+  * 例句：  The evidence was proved valid so the plaintiff had clear grounds for compensation.
+  * 翻译：  证据被证明是有效的，因此原告有足够的理由要求获得赔偿。
+  * 反义：  defendant (n.被告)
+  <br>
+
+- avert
+  * 词义：  vt.防止，避免； 转移(目光，注意力等)
+  * 例句：  Mike could not avert his eyes from that beautiful girl.
+  * 翻译：  迈克无法将目光从那个漂亮的女孩身上移开。
+  <br>
+
+- hover
+  * 词义：  vi. (鸟等)翱翔，盘旋； 逗留在近旁；徘徊，仿徨，犹豫
+  * 例句：  The patient's hovering between life and death.
+  * 翻译：  病人在生死间徘徊。
+  <br>
+
+- vivid
+  * 词义：  a.鲜艳的； 生动的，栩栩如生的。
+  * 例句：  Jack and Mary described their journey in vivid detail.
+  * 翻译：  杰克和玛丽以生动的细节阐述了他们的旅行。
+  <br>
