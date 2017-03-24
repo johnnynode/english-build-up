@@ -210,3 +210,71 @@
   * 例句：  Jack and Mary described their journey in vivid detail.
   * 翻译：  杰克和玛丽以生动的细节阐述了他们的旅行。
   <br>
+
+---
+### 2017年03月24日 23:50:51
+
+- overthrow
+  * 词义：  vt. 推翻，颠覆； n.推翻，颠覆
+  * 例句：  The government was overthrown by the revolting army.
+  * 翻译：  那个政府被叛军推翻了。
+  <br>
+
+- purple
+  * 词义：  a.紫的；紫红的； n.紫色的
+  * 例句：  Purple is my favorite color.
+  * 翻译：  紫色是我最喜欢的颜色。
+  <br>
+
+- display
+  * 词义：  vt. 陈列，展览；显示； n.陈列；展览；展示
+  * 例句：  Many elegant clothes are on display in the Milan fashion shows.
+  * 翻译：  米兰时装表演上展出了许多雅致的服饰。
+  <br>
+
+- theme
+  * 词义：  n.题目，主题；
+  * 例句：  The theme of the politician's speech was democracy.
+  * 翻译：  这位政治家演说的题目是民主。
+  <br>
+
+- cube
+  * 词义：  n.立方形，立方体； 立方，三次幂
+  * 例句：  Would you like a cube of sugar in your tea?
+  * 翻译：  你需要在茶里加块方糖吗？
+  * 派生：  cubic (a.立方体的，立方的)
+  <br>
+
+- offensive
+  * 词义：  a.冒犯的，攻击的，讨厌的 n.攻势，进攻
+  * 例句：  The enemies launched a new offensive.
+  * 翻译：  敌人发起了新一轮攻势。
+  * 短语：  offensive manner 无礼的态度 // offensive weapons 进攻性武器
+  <br>
+
+- amend
+  * 词义：  vt.修改，修正
+  * 例句：  We amended our reports before we turned them in.
+  * 翻译：  我们修改完报告之后再上交。
+  * 派生：  amendment (n.修改，改正)
+  * 参考：  emend (vt.修正，校勘)
+  <br>
+
+- pirate
+  * 词义：  n.海盗；盗版； vt.盗版
+  * 例句：  The tool may be used to pirate copyrighted materials.
+  * 翻译：  这种工具可能被用于非法复制有版权的资料。
+  <br>
+
+- fume
+  * 词义：  vi.发怒；冒烟； n.烟，气，汽
+  * 例句：  The fumes from the factory coated the nearby buildings with soot.
+  * 翻译：  工厂排除的烟给附近的建筑物蒙上一层烟灰。
+  <br>
+
+- amaze
+  * 词义：  vt.使惊奇，使惊愕，使惊讶
+  * 例句：  Mrs.Black believed her son had genius that would amaze the world.
+  * 翻译：  布莱克夫人相信儿子的天赋可以震惊全世界。
+  * 派生：  amazed (a.吃惊，惊奇的) amazing (a.令人惊奇的)
+  <br>
