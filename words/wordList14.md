@@ -278,3 +278,79 @@
   * 翻译：  布莱克夫人相信儿子的天赋可以震惊全世界。
   * 派生：  amazed (a.吃惊，惊奇的) amazing (a.令人惊奇的)
   <br>
+
+---
+### 2017年03月25日 14:07:07
+
+- advantage
+  * 词义：  n.优点，长处；有利条件；利益，好处； v.有利于，有益于
+  * 例句：  What is the advantage of using  nuclear power?
+  * 翻译：  使用核能，有何好处？
+  * 考点：  take advantage of 利用
+  * 派生：  advantageous (a.有利的) disadvantage (n.不利条件)
+  <br>
+
+- click
+  * 词义：  v (使)发出滴答声；使发出咔擦声。 n.嘀嗒，咔嗒声，咔嚓声
+  * 例句：  The new part clicked into place.
+  * 翻译：  新零件咔嚓医生就装好了。
+  <br>
+
+- security
+  * 词义：  n.安全
+  * 例句：  There's security in traveling in pairs after dark.
+  * 翻译：  为安全起见，天黑后要结伴而行。
+  * 考点：  security alarms 安全警报
+  * 派生：  insecurity (n.不安全)
+  <br>
+
+- file
+  * 词义：  n.锉刀； 文件，档案。
+  * 例句：  Whoever loses these confidential files will surely be deposed.
+  * 翻译：  无论谁，要是弄丢这份机密文件肯定要被革职。
+  * 参考：  profile (n.外形，轮廓)
+  <br>
+
+- salesman
+  * 词义：  n.售货员，推销员
+  * 例句：  The salesman opened the coin machine and put some new products in it.
+  * 翻译：  售货员打开自动售货机并放入一些新商品。
+  * 参考：  salesgirl (n.女售货员)
+  <br>
+
+- forth
+  * 词义：  ad. 向前；向外
+  * 例句：  The soldiers marched forth into battle.
+  * 翻译：  战士们向前行军，投入战斗。
+  * 考点：  bring forth 提出 and so forth 等等 call forth 使产生，引起； back and forth 来回地
+  <br>
+
+- insure
+  * 词义：  vt. 给...上保险； 保证
+  * 例句：  The educators should insure that each student truly gains from their education.
+  * 翻译：  教育者们必须保证每一个学生都真正学有所获。
+  <br>
+
+- diminish
+  * 词义：  v.缩小，减少，递减
+  * 例句：  Unexpected expenses diminished the size of my bank account.
+  * 翻译：  意外的开支使我的银行存款额减少了。
+  * 派生：  diminishing (a.逐渐缩小的)
+  * 同义：  curtail (vt.缩减，减少(经费等)) decrease (v.减少)
+  * 反义：  increase (vt.增大，加大)
+  <br>
+
+- tempt
+  * 词义：  vt.诱惑，引诱； 吸引，使感兴趣
+  * 例句：  We refused the offer even thought it tempted us.
+  * 翻译：  尽管开除的条件让我们感兴趣，但我们还是拒绝了。
+  * 派生：  temptation (n.诱惑，引诱)
+  * 同义：  appeal (vi.吸引)； entice (vt.诱惑，引诱)
+  * 参考：  attempt (n./vt.尝试) contempt (n.轻视，蔑视)
+  <br>
+
+- saucer
+  * 词义：  n. 茶托，碟子
+  * 例句：  Give me a saucer of olives， please！
+  * 翻译：  请给我一碟橄榄！
+  <br>
