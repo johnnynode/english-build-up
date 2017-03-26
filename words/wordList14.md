@@ -423,3 +423,88 @@
   * 翻译：  抚养小孩确实是件麻烦事。
   * 同义：  annoyance (a.烦恼；使人烦恼的事情) plague (n.讨厌的人或事物)
   <br>
+
+---
+### 2017年03月27日07:56:53
+
+- claw
+  * 词义：  n.爪，脚爪； v.抓
+  * 例句：  Linda clawed her husband's cheeks in desperation when he claimed a divorce.
+  * 翻译：  当丈夫提出离婚时，琳达绝望地抓他的脸颊。
+  <br>
+
+- discount
+  * 词义：  n.折扣 vt.打折
+  * 例句：  The boss discounts his rate for his friends.
+  * 翻译：  老板给他的朋友打了一些折扣。
+  * 短语：  make a discount 打折 // discount store 廉价商店，折扣店 // at a discount 打折，不值钱，不受重视
+  * 考点：  discount ticket 打折券
+  <br>
+
+- issue
+  * 词义：  vi. 流出，放出； vt. 发行，发表，颁布； n.发行(物)， (报刊)期号； 问题，争论点，争端
+  * 例句：  The question is the point at issue.
+  * 翻译：  这个问题是争论的要点所在。
+  <br>
+
+- replace
+  * 词义：  vt.替换；取代； 放回；归还
+  * 例句：  Tom replaced the hammer in the tool kit after he'd used it.
+  * 翻译：  汤姆用完锤子后，把它放回了工具箱。
+  <br>
+
+- consistent
+  * 词义：  a.前后一致的，始终如一的
+  * 例句：  The evidence was consistent with the eyewitness's accounts.
+  * 翻译：  证据与目击证人的证词是相符的。
+  * 短语：  be consistent in 一贯的 // a consistent behavior 一贯的作风
+  * 考点：  consistent with 与...相符；一致
+  * 派生：  consistently (ad. 一贯地， 一向， 一致地)
+  <br>
+
+- veil
+  * 词义：  n.面纱，遮蔽物； v.用面纱掩盖，掩饰
+  * 例句：  In this country, all women are veiled.
+  * 翻译：  在这个国家，所有的妇女都用面纱遮住脸。
+  <br>
+
+- contrive
+  * 词义：  vt.设法做到； 谋划，策划
+  * 例句：  They had contrived some naughty plan of revenge.
+  * 翻译：  他们密谋了一个邪恶的复仇计划。
+  <br>
+
+- judicial
+  * 词义：  a.审判的，司法的额，法庭的，法官的；公正的，明断的
+  * 例句：  The judge is regarded as a man with a judicial mind.
+  * 翻译：  这位法官被认为是一个公正的。
+  <br>
+
+- tramp
+  * 词义：  n.流浪者； 步行； 跋涉； v.步行；跋涉
+  * 例句：  The specialists tramped off towards the wilderness.
+  * 翻译：  特种兵向茫茫荒野跋涉。
+  * 参考：  ample (a.充足的，丰富的)
+  <br>
+
+- sin
+  * 词义：  n.罪，罪恶； vi.犯罪
+  * 例句：  Sam sinned and then he prayed for forgiveness.
+  * 翻译：  汤姆犯了罪，之后祈求宽恕
+  <br>
+
+- legal
+  * 词义：  a.法律的；法定的； 合法的，正当的
+  * 例句：  Marijuana dealing is legal in some countries.
+  * 翻译：  在一些国家里，买卖大麻是合法的。
+  * 短语：  legal affairs 法律事务
+  * 派生：  legally (ad.法律上，合法地) illegal (a.违法的，非法的)
+  <br>
+
+- savings
+  * 词义：  n.储蓄；储蓄金；存款； a.节约的
+  * 例句：  Old-fashioned housewives were usually very saving.
+  * 翻译：  旧时的家庭主妇通常都很节俭。
+  * 考点：  bank savings 银行存款
+  * 参考：  laboursaving (a.节约劳力的)
+  <br>
