@@ -354,3 +354,72 @@
   * 例句：  Give me a saucer of olives， please！
   * 翻译：  请给我一碟橄榄！
   <br>
+
+---
+### 2017年03月26日 09:39:46
+
+- giggle
+  * 词义：  n./vi. 咯咯笑；傻笑
+  * 例句：  Once Tom starts to giggle, he can't stop;
+  * 翻译：  汤姆一旦傻笑起来，就没完没了。
+  <br>
+
+- mosaic
+  * 词义：  n.马赛克； 镶嵌画
+  * 例句：  Mosaic appears on the screen.
+  * 翻译：  屏幕上出现了马赛克。
+  <br>
+
+- throat
+  * 词义：  n.咽喉，嗓子
+  * 例句：  I had a sore throat yesterday.
+  * 翻译：  我昨天嗓子疼。
+  * 考点：  have sb. by the throat 有绝对优势
+  <br>
+
+- prevail
+  * 词义：  vi.(over) 取胜，占优势；流行，盛行
+  * 例句：  The custom prevails over the whole area.
+  * 翻译：  这一习俗在整个地区十分流行。
+  * 派生：  prevailing (a.普通的；盛行的)
+  <br>
+
+- transform
+  * 词义：  vt.改变，变换；使改观；变压；转化 ； 改造，改革
+  * 例句：  Since the open-door policy,things in China have been greatly transformed.
+  * 翻译：  改革开放以后中国发生了翻天覆地的变化。
+  * 派生：  transformation (n.改变，改造；转化)
+  <br>
+
+- amount
+  * 词义：  n.数量，总额； vi.(to) 合计，总共达； (to) 等于
+  * 例句：  The payment for the boy who works for you doesn't seem to amount to much.
+  * 翻译：  你付给那个为你工作的男孩的报酬似乎不太多。
+  <br>
+
+- author
+  * 词义：  n.作者；创始人
+  * 例句：  The author of the party died last week.
+  * 翻译：  该党的创始人于上周去世了。
+  <br>
+
+- cop
+  * 词义：  警察
+  * 例句：  The cop said I was speeding, but I wasn't.
+  * 翻译：  警察说我超速行驶了，但我没有。
+  <br>
+
+- enlighten
+  * 词义：  vt.启发，启蒙；教导
+  * 例句：  The past should enlighten us in the future.
+  * 翻译：  前车之鉴，后事之师。
+  * 派生：  enlighten (a.文明的)； unenlightened (a.无知的，愚昧的)；
+  * 同义：  illumine (vt.照明；启发)； instruct (vt.教导；命令)
+  <br>
+
+- nuisance
+  * 词义：  n. 讨厌的人(或东西)； 麻烦事
+  * 例句：  To raise a child is a real nuisance.
+  * 翻译：  抚养小孩确实是件麻烦事。
+  * 同义：  annoyance (a.烦恼；使人烦恼的事情) plague (n.讨厌的人或事物)
+  <br>
