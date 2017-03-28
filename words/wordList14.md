@@ -360,7 +360,7 @@
 
 - giggle
   * 词义：  n./vi. 咯咯笑；傻笑
-  * 例句：  Once Tom starts to giggle, he can't stop;
+  * 例句：  Once Tom starts to giggle, he can't stop.
   * 翻译：  汤姆一旦傻笑起来，就没完没了。
   <br>
 
