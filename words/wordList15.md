@@ -2,7 +2,7 @@
 >
 > [新东方单词在线阅读地址](http://download.dogwood.com.cn/online/kychlx/iPhone.html) ，希望这个链接一直都有效 :)
 
-### 2017年3月28日 08:08:29
+### 2017年03月28日 08:08:29
 
 - erosion
   * 词义：  n.腐蚀，磨损；削弱，减少
