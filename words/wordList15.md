@@ -67,3 +67,72 @@
   * 例句：  The underground begins at 5:15
   * 翻译：  地铁于早晨5点15分发首班车。
   <br>
+
+---
+### 2017年03月29日 08:15:25
+
+- bounce
+  * 词义：  v.跳起，弹起； n.(球)跳起，弹回
+  * 例句：  The rubber ball gave a high bounce.
+  * 翻译：  那个橡皮球弹得很高。
+  <br>
+
+- realm
+  * 词义：  n.王国，国土，领域
+  * 例句：  The king abandoned his realm and fled with his relatives.
+  * 翻译：  国王放弃了自己的王国，携带家眷逃跑了。
+  * 短语：  expand one's realm 扩大领域
+  <br>
+
+- bug
+  * 词义：  n.臭虫，小毛病，窃听器 vt.在...装窃听器
+  * 例句：  The whole building is bugged.
+  * 翻译：  整个大楼都装上了窃听器。
+  <br>
+
+- undermine
+  * 词义：  vt.暗中破坏，逐渐削弱；侵蚀...的基础。
+  * 例句：  The nation must never let any person undermine the rule of law.
+  * 翻译：  国家绝不允许任何人破坏法律。
+  * 同义：  weaken (v.削弱，(使)变弱)
+  * 反义：  strengthen (vt. 加强，巩固)； intensify (v.增强，加强) reinforce (vt.加强；修补，加固)
+  <br>
+
+- organise/organize
+  * 词义：  vt.组织，编组
+  * 例句：  When workers are organized in trade unions, employers find it hard to lay them off.
+  * 翻译：  雇主们发现一旦工人加入工会组织，就很难解雇他们。
+  * 派生：  disorganized (a.紊乱的；无组织的)
+  <br>
+
+- evidence
+  * 词义：  n.根据，证据； 形迹，迹象； v.证明，表明
+  * 例句：  The room bore evidence of a struggle.
+  * 翻译：  房间里有搏斗过的痕迹。
+  <br>
+
+- cardinal
+  * 词义：  a.最重要的  n.红衣主教
+  * 例句：  I've kept the Cardinal informed of the progress of rebuilding the church.
+  * 翻译：  我一直向红衣主教报告，教堂重建的进展情况。
+  * 同义：  main (a.主要的，重要的) chief (a.主要的，首要的) primary (a.第一位的，主要的)
+  <br>
+
+- costly
+  * 词义：  a.昂贵的； 价值高的； 豪华的
+  * 例句：  The diamond necklace was very costly.
+  * 翻译：  这条钻石项链非常昂贵。
+  <br>
+
+- priest
+  * 词义：  n.教士，神父
+  * 例句：  The priest read a psalm over the dead woman.
+  * 翻译：  神父对着那个死去的女人诵读了圣歌。
+  <br>
+
+- route
+  * 词义：  n.路线，路程
+  * 例句：  Being in no great hurry, we took the long scenic route towards the camps.
+  * 翻译：  因为不是很赶时间，我们选择了一条较长但风景很美的路线去营地。
+  * 辨别：  route, course, passage
+  <br>
