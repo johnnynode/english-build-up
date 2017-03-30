@@ -202,3 +202,71 @@
   * 例句：  Vaughan got a tattoo on his abdomen.
   * 翻译：  沃恩在腹部刺了个纹身。
   <br>
+
+---
+### 2017年03月31日 07:46:19
+
+- memorandum
+  * 词义：  n.备忘录
+  * 例句：  The two countries have already signed a memorandum of understanding aimed at ending the conflict.
+  * 翻译：  两国已签署了谅解备忘录，旨在结束冲突。
+  <br>
+
+- glove
+  * 词义：  n.手套；
+  * 例句：  I knitted Ben sweaters ,socks, hats and gloves for Christmas
+  * 翻译：  我为本织了毛衣、袜子、帽子和手套作为圣诞礼物。
+  * 考点：  take off the gloves (to sb.) (与某人)认真地或毫不客气地争辩。
+  <br>
+
+- foundation
+  * 词义：  n.基础，根本； 建立，创立； 地基； 基金，基金会
+  * 例句：  Amy's ambition is to set up a charity foundation.
+  * 翻译：  艾米的理想就是创建一个慈善基金会。
+  <br>
+
+- embarrass
+  * 词义：  vt.使窘迫，使为难
+  * 例句：  Bill's crude manners embarrassed everyone at the table.
+  * 翻译：  比尔粗鲁的举止，让在座的人都感到尴尬。
+  * 派生：  embarrassment (n.困窘；尴尬)
+  <br>
+
+- jar
+  * 词义：  罐，摊，广口瓶
+  * 例句：  Lily reached her hand into the cookie jar for a cookie.
+  * 翻译：  莉莉把手伸到曲奇罐里拿了一块曲奇饼。
+  <br>
+
+- approve
+  * 词义：  vi. (of) 赞成，同意，满意； vt.批准，审定，通过
+  * 例句：  I told my mother I wanted to leave school but she didn't approve.
+  * 翻译：  我告诉妈妈，我要退学，可是她不同意。
+  <br>
+
+- novel
+  * 词义：  n.(长篇) 小说 a.新奇的，新颖的
+  * 例句：  The student used a novel method to work out this problem.
+  * 翻译：  这个学生用一种新方法解答了这道题。
+  * 派生：  novelist (n.小说家)
+  <br>
+
+- involve
+  * 词义：  vt. 使某人卷入，陷入，连累； 包含，含有；涉及
+  * 例句：  It is absolutely not necessary for you to involve yourself in the disputes.
+  * 翻译：  你完全没有必要，让自己卷入这些纷争之中。
+  * 考点：  be involved 包含在内
+  * 派生：  involved (a.棘手的；有关的) involvement (n.卷入，涉及)
+  <br>
+
+- emperor
+  * 词义：  n.皇帝
+  * 例句：  It was here that the feudal emperors handled their daily affairs.
+  * 翻译：  这里曾经是封建帝王处理朝政的地方。
+  <br>
+
+- cathedral
+  * 词义：  n.大教堂
+  * 例句：  A few blocks ahead we'll see St.Patrick's Cathedral.
+  * 翻译：  向前再过几个街区，我们就可以在圣帕特里克大教堂了。
+  <br>
