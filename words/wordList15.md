@@ -136,3 +136,69 @@
   * 翻译：  因为不是很赶时间，我们选择了一条较长但风景很美的路线去营地。
   * 辨别：  route, course, passage
   <br>
+
+---
+### 2017年03月30日 08:30:19
+
+- lantern
+  * 词义：  n.提灯；灯笼
+  * 例句：  The lantern light glimmers in the darkness.
+  * 翻译：  灯笼在黑暗中发出闪烁的亮光。
+  * 考点：  lantern Festival 元宵节
+  <br>
+
+- log
+  * 词义：  n.原木，圆木； 航海日志
+  * 例句：  Maybe the ship's log will tell us the truth.
+  * 翻译：  或许这艘船的日志会告诉偶我们真想。
+  * 派生：  logging (n.伐木工作；伐木业)
+  <br>
+
+- concession
+  * 词义：  n.迁就，让步
+  * 例句：  About sovereignty issue, we will never make any concession.
+  * 翻译：  关于主权问题，我们绝不让步。
+  * 考点：  make concession to 对...作出让步
+  <br>
+
+- excitement
+  * 词义：  n.刺激；激动； 兴奋
+  * 例句：  It gave me a strange feelingofexcitement to see my name in the book.
+  * 翻译：  看到自己的名字在书中出现，我感到一种莫名的激动。
+  <br>
+
+- eclipse
+  * 词义：  n.(天体的)食
+  * 例句：  solar eclipse 日食
+  * 参考：  ellipse (n.椭圆)
+  <br>
+
+- loop
+  * 词义：  n.圈，环
+  * 例句：  The band's bass player's is bald and wears loop earrings.
+  * 翻译：  这个乐队的贝斯手是个光头，戴着圈形耳环。
+  <br>
+
+- fridge
+  * 词义：  n.(=refrigerator) 电冰箱
+  * 例句：  Mike found a hunk of fresh meat in the fridge.
+  * 翻译：  迈克在冰箱里找到了一大块鲜肉。
+  <br>
+
+- roar
+  * 词义：  vi.吼叫， 怒号； 轰鸣；咆哮
+  * 例句：  The door roared open and several strangers broke in.
+  * 翻译：  只听一声轰鸣，门开了，几个陌生人闯了进来。
+  <br>
+
+- ultraviolet
+  * 词义：  a.紫外线的  n.紫外线的
+  * 例句：  This sunblock protects your skin from ultraviolet.
+  * 翻译：  这种防晒霜可以保护你的皮肤免受紫外线的伤害。
+  <br>
+
+- abdomen
+  * 词义：  n.腹部
+  * 例句：  Vaughan got a tattoo on his abdomen.
+  * 翻译：  沃恩在腹部刺了个纹身。
+  <br>
