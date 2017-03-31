@@ -270,3 +270,69 @@
   * 例句：  A few blocks ahead we'll see St.Patrick's Cathedral.
   * 翻译：  向前再过几个街区，我们就可以在圣帕特里克大教堂了。
   <br>
+
+---
+### 2017年04月1日 07:59:16
+
+- analogy
+  * 词义：  n. 比拟，类比
+  * 例句：  The teacher made an analogy between the lens of a camera and the lens of telescope.
+  * 翻译：  老师把照相机的镜头和望远镜的镜头进行了类比。
+  * 考点：  by analogy 用类推的方法
+  <br>
+
+- texture
+  * 词义：  n.质地，纹理，结构
+  * 例句：  The texture of silk is smooth.
+  * 翻译：  丝绸质地光滑。
+  <br>
+
+- resist
+  * 词义：  v. 抵抗，反抗 ， 抗，忍得住， 抵制
+  * 例句：  We couldn't resist the enemy's attack.
+  * 翻译：  我们无法抵抗敌人的进攻。
+  * 考点：  resist of temptation 抵制诱惑。
+  <br>
+
+- illegal
+  * 词义：  不合法的，非法的
+  * 例句：  In some states, it is illegal to carry a concealed weapon.
+  * 翻译：  在某些州，携带藏匿的武器是违法的。
+  <br>
+
+- administer
+  * 词义：  vt. 掌管，料理...的事务。 v.实施，执行； 给予，投药
+  * 例句：  The nurse administered by a professional institute.
+  * 翻译：  这项考试是由专业机构施行的。
+  <br>
+
+- elaborate
+  * 词义：  a.精心制作的；详尽的；复杂的 vt.详细定制。 vi.(on)详细说明
+  * 例句：  The professor asked me to elaborate on my proposal.
+  * 翻译：  教授让我们详细说明我的提议。
+  <br>
+
+- deaf
+  * 词义：  a.聋的； 不愿听的
+  * 例句：  The blow to Lisa's head made her deaf.
+  * 翻译：  丽萨头部受到重击，使她失聪了。
+  <br>
+
+- hint
+  * 词义：  n.暗示，提示，线索 v. 暗示，示意
+  * 例句：  I don't know the answer. Please give me a hint.
+  * 翻译：  我不知道答案，请提示一下吧。
+  <br>
+
+- bronze
+  * 词义：  n. 青铜色，青铜制品
+  * 例句：  These are ancient Shang Dynasty bronzes, usually ritual vessels.
+  * 翻译：  这些是古代商朝的青铜器，一般是仪器上用的器皿。
+  <br>
+
+- scrape
+  * 词义：  v. 刮，擦去； 擦过，勉强通过
+  * 例句：  I just scraped through my exam this term.
+  * 翻译：  这学期，我勉强通过了考试。
+  * 短语：  scrape through 擦过，勉强通过。
+  <br>
