@@ -336,3 +336,64 @@
   * 翻译：  这学期，我勉强通过了考试。
   * 短语：  scrape through 擦过，勉强通过。
   <br>
+
+---
+### 2017年04月2日 08:08:59
+
+- missionary
+  * 词义：  n.传教士
+  <br>
+
+- illustrate
+  * 词义：  vt.举例说明，阐明；图解，加插图
+  * 例句：  Sean illustrates children's books with colorful pictures.'
+  * 翻译：  肖恩给少儿图书配上了色彩缤纷的插图。
+  <br>
+
+- being
+  * 词义：  n.生物 n.存在，生存
+  * 例句：  Every member of this body is opposed to cloning a human being.
+  * 翻译：  该机构的每个成员都反对克隆人。
+  <br>
+
+- quest
+  * 词义：  vi.(for) 搜寻，探求； n.搜寻，探求
+  * 例句：  The whole team are questing for improvements for the newly set up system.
+  * 翻译：  所有的成员都在为新建立的系统寻求改进方案。
+  * 同义：  search (n.搜寻) pursuit (n.追逐，追寻)
+  * 参考：  request (n./vt.请求，要求)
+  <br>
+
+- Catholic
+  * 词义：  a.天主教的 n.天主教徒
+  <br>
+
+- convey
+  * 词义：  vt. 运送，搬运，转运 ； 表达，传播
+  * 例句：  The musician's music conveyed a sense of sorrow.
+  * 翻译：  那位音乐家的音乐表达了一种悲伤的情绪。
+  <br>
+
+- recorder
+  * 词义：  n. 记录员； 录音机
+  * 例句：  She brought a type recorder for the interview.
+  * 翻译：  休为采访带来了一台磁带录音机。
+  <br>
+
+- watt
+  * 词义：  n.瓦， 瓦特
+  * 参考：  volt (n.伏特)
+  <br>
+
+- criticise / criticize
+  * 词义：  v. 批评，评论
+  * 例句：  Hold your tongue and don't criticize your elders.
+  * 翻译：  闭嘴，不许批评长辈。
+  <br>
+
+- dump
+  * 词义：  vt. 倾倒，倾卸 n.垃圾，堆存处
+  * 例句：  Stay away from that nuclear waste dump!
+  * 翻译：  离那个核肥料场远点！
+  * 短语：  refuse dump 垃圾场，垃圾堆
+  <br>
