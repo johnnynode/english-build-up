@@ -397,3 +397,68 @@
   * 翻译：  离那个核肥料场远点！
   * 短语：  refuse dump 垃圾场，垃圾堆
   <br>
+
+---
+### 2017年04月3日 10:16:49
+
+- assurance
+  * 词义：  n.确保，断言； 保证，担保
+  * 例句：  The student answered all the questions of his teacher with assurance.
+  * 翻译：  这个学生自信的回答了老师的所有问题。
+  * 考点：  with assurance 有把握的，自信的
+  * 同义：  confidence (n.自信)
+  <br>
+
+- metropolitan
+  * 词义：  a.首都的；大都市的
+  * 例句：  The county is quieter in comparison to metropolitan life.
+  * 翻译：  和都市生活相比，乡村生活要安静的多。
+  <br>
+
+- lubricate
+  * 词义：  vt.润滑；加润滑油于
+  * 例句：  We stopped the car to lubricate the wheels.
+  * 翻译：  我们停车给轮子加润滑油。
+  <br>
+
+- blush
+  * 词义：  n./vi. 脸红
+  * 例句：  Mary turned away to hide her blushes.
+  * 翻译：  玛丽转过头去，生怕别人看见她脸红。
+  <br>
+
+- cupboard
+  * 词义：  n.橱柜，小厨
+  * 例句：  The short servant can't reach the tea at the back of the cupboard.
+  * 翻译：  那个矮个子仆人够不着橱柜最里面的茶叶。
+  <br>
+
+- nightmare
+  * 词义：  n.噩梦； 无法摆脱的恐惧，可怕的事。
+  * 例句：  I had a nightmare about drowning in the sea.
+  * 翻译：  我做了一个梦，梦见我在海里淹死了。
+  <br>
+
+- database
+  * 词义：  n.数据库
+  * 例句：  The student should first set up a database for their research.
+  * 翻译：  学生们首先为他们的研究建立一个数据库。
+  <br>
+
+- compress
+  * 词义：  vt.压缩，浓缩
+  * 例句：  Our condensers can compress, cool and rarefy air, enabling travellers to obtain water and even ice from the atmosphere.
+  * 翻译：  我们的制冷装置可以通过压缩，冷却和稀释空气，使旅行者从大气中得到水，甚至是冰。
+  <br>
+
+- favorable / favourable
+  * 词义：  a.赞许； 有利的， 顺利的
+  * 例句：  Helen's attitude toward the plan is favorable.
+  * 翻译：  海伦对这项计划持赞成心态。
+  <br>
+
+- loose
+  * 词义：  a.松的，肥大的
+  * 例句：  I had to wear a belt because my pants were too loose.
+  * 翻译：  裤子太肥了，我不得不系腰带。
+  <br>
