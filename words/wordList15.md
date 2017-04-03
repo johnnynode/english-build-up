@@ -462,3 +462,36 @@
   * 例句：  I had to wear a belt because my pants were too loose.
   * 翻译：  裤子太肥了，我不得不系腰带。
   <br>
+
+- ornament
+  * 词义：  v.装饰，美化； n.装饰，装饰物
+  * 例句：  Blooming flowers ornament the staircases.
+  * 翻译：  楼梯上装饰着一些盛开的鲜花。
+  * 辨别：  ornament, decorate
+  <br>
+
+- overlap
+  * 词义：  v.重叠，与...交叠 n.重叠
+  * 例句：  There is a great deal of overlaps between the two approaches.
+  * 翻译：  这两套方案有很多重叠的地方。
+  <br>
+
+- senate
+  * 词义：  n. 参议员， 上院
+  * 例句：  Frank refused the United States Senate several times.
+  * 翻译：  弗兰克多次谢绝了美国参议院的邀请。
+  <br>
+
+- taboo
+  * 词义：  n.(文化或宗教习俗方面的)禁忌，忌讳； 禁止
+  * 例句：  And yet, after Hiroshima and Nagasaki, the taboo against nuclear use has held.
+  * 翻译：
+  <br>
+
+> 名言：
+>
+> Strength alone knows conflict, weakness is below even defeat, and is born vanquished.
+> - Swetchine
+>
+> 只有强者才懂得斗争；弱者甚至失败都不够资格，而是生来就是被征服的。
+> - 斯威特切尼
