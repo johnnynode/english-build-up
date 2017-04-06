@@ -139,3 +139,66 @@
   * 例句：  In my eyes, Mary is the loveliest maiden in the world.
   * 翻译：  在我眼里，玛丽是世界上最可爱的姑娘。
   <br>
+
+---
+### 2017年04月06日 23:07:57
+
+- gasoline / gasolene
+  * 词义：  n.汽油
+  * 例句：  My lawn mower is powered by gasoline.
+  * 翻译：  我的割草机靠汽油，提供动力。
+  <br>
+
+- auction
+  * 词义：  n./vi. 拍卖
+  * 例句：  I know little about online auction.
+  * 翻译：  我对网上拍卖知之甚少。
+  <br>
+
+- state
+  * 词义：  n.状态，情况；国，州 vt.陈述，说明，规定。
+  * 例句：  The price of such product was stated by the government.
+  * 翻译：  此类产品的价格是由政府规定的。
+  <br>
+
+- Bible
+  * 词义：  n.圣经.
+  <br>
+
+- equivalent
+  * 词义：  a.相等的，等价的，等值的。 n. 相等物，等价物，等值物，对应词。
+  * 例句：  Some American words have no British equivalent.
+  * 翻译：  美式英语中的一些词汇在英式英语中没有对应词。
+  <br>
+
+- pretext
+  * 词义：  n.借口，托辞
+  * 例句：  Mike came back home earlier, under the pretext of catching a cold.
+  * 翻译：  迈克以感冒为借口，提早回家了。
+  * 同义：  excuse (n.借口)
+  * 参考：  context (n.上下文)
+  <br>
+
+- chess
+  * 词义：  n.棋
+  * 例句：  The boy liked playing chess with his father very much.
+  * 翻译：  那个男孩非常喜欢和父亲下棋。
+  <br>
+
+- eligible
+  * 词义：  a.有条件被选中的，有资格当选的，合格的。
+  * 例句：  You are not eligible to be a contestant.
+  * 翻译：  你不符合当选手的条件。
+  <br>
+
+- liquor
+  * 词义：  n.酒， 烈性酒
+  * 例句：  David got hooked on hard liquor as a teenager.
+  * 翻译：  戴维在十几岁的时候就喝烈酒成瘾了。
+  <br>
+
+- hell
+  * 词义：  n. 地狱，阴间。苦境，极大痛苦。
+  * 例句：  Sam's life has been hell since his wife passed away.
+  * 翻译：  自从妻子过世后，萨姆的日子一直过得很苦。
+  <br>
