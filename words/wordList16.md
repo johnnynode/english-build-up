@@ -245,12 +245,12 @@
 
 - serial
   * 词义：  n.连续剧，连载故事 a.连续的，按顺序排列的。
-  * 例句：  The judege threw the book at the serial robber.
+  * 例句：  The judge threw the book at the serial robber.
   * 翻译：  法官宣布对那个连续作案的抢劫犯施以严惩。
   <br>
 
 - reward
-  * 词义：  n. (for) 报酬，赏金，奖赏； vt.酬劳，报答；奖赏
+  * 词义：  n.(for) 报酬，赏金，奖赏； vt.酬劳，报答；奖赏
   * 例句：  How can I reward your help?
   * 翻译：  我怎样才能报答你的帮助呢？
   * 派生：  rewarding (a.报答的；有益的；值得的)
