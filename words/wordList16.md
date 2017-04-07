@@ -202,3 +202,69 @@
   * 例句：  Sam's life has been hell since his wife passed away.
   * 翻译：  自从妻子过世后，萨姆的日子一直过得很苦。
   <br>
+
+---
+### 2017年04月07日 23:53:57
+
+- lid
+  * 词义：  盖，盖子
+  * 例句：  The lid of the pickle jar was screwed on tightly.
+  * 翻译：  腌菜罐的盖子拧的很紧。
+  <br>
+
+- characteristic
+  * 词义：  a.(of) 特有的，独特的； n.特性，特征
+  * 例句：  Kindness is one of Anna's characteristics.
+  * 翻译：  和善是安娜的特性之一。
+  <br>
+
+- literally
+  * 词义：  ad. 照字面意义；逐字地； 确实地，真正地
+  * 例句：  As a journalist, you should report every event literally.
+  * 翻译：  作为一名记者，你应该如实地报到每件事。
+  <br>
+
+- downward
+  * 词义：  a.向下的  ad. 向下，往下。
+  * 例句：  The downward movement of the stock averages worried the investors.
+  * 翻译：  不断下跌的股指让投资者们惴惴不安。
+  <br>
+
+- frontier
+  * 词义：  n.国境，边境，边陲； 尖端；新领域
+  * 例句：  The professors dedicated themselves to the research in frontiers of knowledge.
+  * 翻译：  教授们投身于知识新领域的研究。
+  * 考点：  the frontier 已开发地区的边缘地带。
+  <br>
+
+- dusk
+  * 词义：  n.薄暮，黄昏
+  * 例句：  I enjoy taking a walk along the beach at dusk.
+  * 翻译：  我喜欢在黄昏十分沿着海滩散步。
+  <br>
+
+- serial
+  * 词义：  n.连续剧，连载故事 a.连续的，按顺序排列的。
+  * 例句：  The judege threw the book at the serial robber.
+  * 翻译：  法官宣布对那个连续作案的抢劫犯施以严惩。
+  <br>
+
+- reward
+  * 词义：  n. (for) 报酬，赏金，奖赏； vt.酬劳，报答；奖赏
+  * 例句：  How can I reward your help?
+  * 翻译：  我怎样才能报答你的帮助呢？
+  * 派生：  rewarding (a.报答的；有益的；值得的)
+  * 参考：  award (n.奖品)
+  <br>
+
+- garment
+  * 词义：  n.(一件)衣服
+  * 例句：  I took my dirty garments to the laundromat.
+  * 翻译：  我把我的脏衣服拿到了自主洗衣店去洗。
+  <br>
+
+- grope
+  * 词义：  vi. 暗中摸； 搜索， 搜寻， 搜索
+  * 例句：  Robert's hand groped for the light switch.
+  * 翻译：  罗伯特用手摸索着寻找灯的开关。
+  <br>
