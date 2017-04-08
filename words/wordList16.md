@@ -268,3 +268,66 @@
   * 例句：  Robert's hand groped for the light switch.
   * 翻译：  罗伯特用手摸索着寻找灯的开关。
   <br>
+
+---
+### 2017年04月08日 11:06:38
+
+- candy
+  * 词义：  n.糖果
+  <br>
+
+- thereafter
+  * 词义：  ad. 此后，以后
+  * 例句：  If it rained now, the rain would fall on forty days thereafter.
+  * 翻译：  如果现在下雨，之后就会连续下四十天。
+  <br>
+
+- knot
+  * 词义：  n.(绳)结； (树)节； 群，簇； 节(海里/小时)； 难题，疙瘩  v.打结
+  * 例句：  Knot is a unit of speed ,about one nautical mile per hour.
+  * 翻译：  节是一种速度单位，约等于每小时1海里。
+  <br>
+
+- memo
+  * 词义：  n.备忘录
+  * 词组：  memo pad 记事本
+  <br>
+
+- interface
+  * 词义：  n.界面；分界面； 接口
+  * 例句：  They were trying to find the USB interface of this computer.
+  * 翻译：  他们正试图找到这台电脑的USB接口。
+  <br>
+
+- cordial
+  * 词义：  a.诚恳； 亲切的； 热忱的
+  * 例句：  The famous singer has received a cordial welcome from the fans.
+  * 翻译：  这位著名歌手收到了歌迷们的热烈欢迎。
+  * 同义：  gracious (a. 亲切的)
+  <br>
+
+- stale
+  * 词义：  a.变质的，不新鲜的；陈旧的，陈腐的
+  * 例句：  The editor criticized the journalist's stale style.
+  * 翻译：  编辑批评了那位新闻记者的陈词滥调。
+  <br>
+
+- brim
+  * 词义：  n. 边缘，帽檐
+  * 例句：  The young man brushed his hat brim with a fingertip.
+  * 翻译：  那个年轻人用之间弹了弹帽檐。
+  <br>
+
+- portable
+  * 词义：  n. 轻便的，便携式的
+  * 例句：  The next time I buy a TV set, I'm going to buy a portable model.
+  * 翻译：  下次买电视机时，我要买一台便携式的。
+  * 考点：  portable computer 手提电脑。
+  <br>
+
+- region
+  * 词义：  n.地区，区域，范围
+  * 例句：  The special local farm product in this region is corn.
+  * 翻译：  该地区的农业特产是玉米。
+  * 派生：  regional (a.地区的，地方的) regionally (ad. 地区性地)
+  <br>
