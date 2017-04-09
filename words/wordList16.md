@@ -331,3 +331,70 @@
   * 翻译：  该地区的农业特产是玉米。
   * 派生：  regional (a.地区的，地方的) regionally (ad. 地区性地)
   <br>
+
+---
+###  2017年04月09日10:17:07
+
+- bubble
+  * 词义：  n.泡，水泡，气泡； 泡沫；幻想的计划； vi.冒泡，气泡，沸腾
+  * 例句：  The water bubbled and foamed.
+  * 翻译：  水冒着泡。
+  <br>
+
+- certificate
+  * 词义：  n.证(明)书；执照
+  * 短语：  academic certificate 学历证书 birth certificate 出生证 marriage certificate 结婚证
+  <br>
+
+- imply
+  * 词义：  vt.意指， 含...意思， 暗示， 表明
+  * 例句：  The look of guilt on John's face implied that he committed the crime.
+  * 翻译：  约翰脸上内疚的表情表明他犯罪了。
+  * 参考：  simply (ad. 简单地)
+  <br>
+
+- hurricane
+  * 词义：  n.飓风
+  * 例句：  Strong winds may develop into a hurricane.
+  * 翻译：  强风可能会发展成为飓风。
+  <br>
+
+- spontaneous
+  * 词义：  a.自发的， 自然产生的
+  * 例句：  When the dance was over, the audience burst into spontaneous applause.
+  * 翻译：  舞蹈结束时，观众们自发地鼓起了掌。
+  <br>
+
+- title
+  * 词义：  n.书名； 标题； 头衔，称号
+  * 例句：  The title of the movie was changed twice during production.
+  * 翻译：  这部电影的名字在拍摄过程中被改了两次。
+  * 派生：  entitle (vt.给...权利(或资格)； 给...题名)
+  <br>
+
+- dilemma
+  * 词义：  n.(进退两难的) 窘境，困境
+  * 短语：  be (caught) in a dilemma 处于/陷于进退两难的境地
+  <br>
+
+- rage
+  * 词义：  n.愤怒；精神错乱
+  * 例句：  My father was in a wild rage for the result of my exam.
+  * 翻译：  我父亲为我的测验成绩大发雷霆。
+  <br>
+
+- select
+  * 词义：  vt.选择，挑选 a.精选的，选择的
+  * 例句：  A select group of wine critics will be given a taste.
+  * 翻译：  一批精挑细选出来的品酒师将过来品酒。
+  * 派生：  selective (a.选择的，选择性的) selected (a.挑选的)
+ <br>
+
+- obtain
+  * 词义：  vt.获得，得到
+  * 例句：  One difficulty in translation lies in obtaining a concept match.
+            By this is meant that a concept in one language is lost or changed in meaning in translation.
+  * 翻译：  翻译中的一个难点是获得一个相匹配的概念。这就意味着一种语言中的概念在翻译中含义缺失或变化了。
+  * 短语：  obtain a degree. 获得学位
+  * 短语：  obtainable (a.能得到的)
+  <br>
