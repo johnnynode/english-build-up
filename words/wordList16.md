@@ -100,7 +100,7 @@
 
 - compromise
   * 词义：  vi.妥协，折衷； n.妥协，折衷
-  * 例句：  Congress finally reached a compromise on anti-terrorism bill after several days's negotiation.
+  * 例句：  Congress finally reached a compromise on anti-terrorism bill after several days' negotiation.
   * 翻译：  经多日协商，国会最终就反恐议案达成妥协。
   * 考点：  reach a compromise over sth. 就某事达成妥协。
   * 参考：  comprise (vt.包含，包括)
@@ -284,7 +284,7 @@
 
 - knot
   * 词义：  n.(绳)结； (树)节； 群，簇； 节(海里/小时)； 难题，疙瘩  v.打结
-  * 例句：  Knot is a unit of speed ,about one nautical mile per hour.
+  * 例句：  Knot is a unit of speed, about one nautical mile per hour.
   * 翻译：  节是一种速度单位，约等于每小时1海里。
   <br>
 
