@@ -398,3 +398,88 @@
   * 短语：  obtain a degree. 获得学位
   * 短语：  obtainable (a.能得到的)
   <br>
+
+---
+### 2017年04月10日 22:42:59
+
+- argue
+  * 词义：  vi.争论，辩论； vt.坚持，主张，说服，劝说
+  * 例句：  Don't argue with George since he's so tough.
+  * 翻译：  既然乔治这么强硬，你就不要和他争辩了。
+  <br>
+
+- troop
+  * 词义：  n. 部队，军队； (一)群；(一)队
+  * 例句：  A troop of children were playing games under the big tree.
+  * 翻译：  一群孩子正在大树下做游戏。
+  <br>
+
+- notwithstanding
+  * 词义：  prep. 尽管； conj.尽管
+  * 例句：  Notwithstanding her friends were against the math, Nina married the poor tinker.
+  * 翻译：  尽管同学们都反对，尼娜还是嫁给那个贫穷的修补匠。
+  <br>
+
+- oak
+  * 词义：  n.栎树，橡树，橡木； a.橡木的
+  * 例句：  I bought a solid oak door for mhy house.
+  * 翻译：  我给家里买了一扇结实的橡木门。
+  * 参考：  soak (v.浸,泡)
+  <br>
+
+- sufficient
+  * 词义：  a.(for) 足够的，充分的；
+  * 例句：  Is $10 sufficient for your expenses?
+  * 翻译：  10美元够你花吗？
+  * 考点：  self-sufficient 自给自足
+  * 派生：  sufficiently(ad. 足够地，十分) insufficient (a.不足的) insufficiently (ad.不够地)
+  <br>
+
+- trim
+  * 词义：  a.整齐的，整洁的 vt.整理，修整；装饰 n.整理，修整，装饰
+  * 例句：  I joined my father in the trim of the trees last Friday.
+  * 翻译：  我上周五和爸爸一起修剪了树枝。
+  <br>
+
+- rebel
+  * 词义：  vi. 反抗，反叛，起义； n.叛逆者，起义者
+  * 例句：  The rebels killed the President and seized the capital.
+  * 翻译：  起义者杀死了总统，占领了首都。
+  <br>
+
+- slum
+  * 词义：  n.贫民窟，贫民区，陋巷
+  <br>
+
+- defy
+  * 词义：  vt.(公然) 违抗，反抗；蔑视；
+  * 例句：  If you defy the law, you may find yourself in prison.
+  * 翻译：  如果违抗法律，你可能会坐牢。
+  <br>
+
+- asset
+  * 词义：  n.资产，财产; 优点；有用的东西
+  * 例句：  Somethings imagination is a more valuable asset than experience.
+  * 翻译：  有时候，想象力比经验更有用。
+  <br>
+
+- mask
+  * 词义：  n.面具，面罩  vt. 掩饰，掩盖
+  * 例句：  The guests felt puzzled but masked their doubts as the host never appeared.
+  * 翻译：  主人没有出现，客人们感到困惑但掩饰着怀疑。
+  <br>
+
+- conference
+  * 词义：  n.会议，讨论会
+  * 例句：  More and more international conferences are held in China.
+  * 翻译：  越来越多的国际会议在中国举行。
+  * 派生：  teleconferencing (n.远程会议)
+  * 辨别：  conference, meeting, congress, council, assembly
+  <br>
+
+- powder
+  * 词义：  n.粉末； 药粉； 火药； 炸药
+  * 例句：  The introduction of powder gradually made the bow and arrow obsolete.
+  * 翻译：  火药的引进逐渐使弓箭成了过时的武器。
+  * 参考：  gunpowder (n.黑色火药)
+  <br>
