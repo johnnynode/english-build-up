@@ -69,3 +69,73 @@
   * 例句：  Your composition should be in four paragraphs.
   * 翻译：  你的作文应该分成四段。
   <br>
+
+---
+### 2017年04月12日 00:21:12
+
+- emotion
+  * 词义：  n.情绪；情感
+  * 例句：  It is difficult for babies to interpret emotions.
+  * 翻译：  让婴儿理解各种情感是很难的。
+  * 派生：  emotive (a.感情的；诉诸感情的) emotional (a.情绪的，情感的) emotionally (ad.在情感上；在情绪上)
+  <br>
+
+- hose
+  * 词义：  n.水龙带，软管； vt.用软管(淋浇、冲洗)
+  * 例句：  Will you hose down my bike? It's very dirty.
+  * 翻译：  你能用水管冲洗一下我的自行车吗？ 它太脏了。
+  <br>
+
+- deadline
+  * 词义：  n.最后期限
+  * 例句：  My tutor rejected extending the deadline to turn in the thesis.
+  * 翻译：  导师拒绝延长论文提交的最后期限。
+  <br>
+
+- stimulate
+  * 词义：  vt.刺激，使兴奋；激励，故里；
+  * 例句：  We can try massaging the feet to stimulate the flow.
+  * 翻译：  我们可以试着通过按摩双足来刺激血液的流动。
+  * 派生：  stimulation (n.刺激，鼓励，鼓舞) stimulant (n.刺激物)
+  * 辨别：  stimulate, arouse
+  <br>
+
+- competent
+  * 词义：  a.有能力的，胜任的
+  * 例句：  Young as he is, this new manager is really competent.
+  * 翻译：  这位新来的经理，尽管很年轻，但是非常有能力。
+  * 派生：  incompetent (a.不合格的，不胜任的) competently (ad.胜任地，适合地)
+  <br>
+
+- republican
+  * 词义：  a.共和整体的；共和国的； n.共和党人
+  * 例句：  The object of the patriots was to establish a republican government.
+  * 翻译：  这些爱国者的目标就是建立一些共和政体的政府。
+  <br>
+
+- excess
+  * 词义：  a.过量的，额外的； n.过量，过剩
+  * 例句：  There is an excess of carbon dioxide in the air.
+  * 翻译：  空气中的二氧化碳过量了。
+  * 考点：  in excess 过度地，过分  in excess of 超过
+  <br>
+
+- collaborate
+  * 词义：  vi.协作，合作
+  * 例句：  Annie collaborated on a book with her friends.
+  * 翻译：  安妮和她的朋友们合著了一本书。
+  <br>
+
+- cluster
+  * 词义：  n.丛，群，串； 星团； v.群集，丛生
+  * 例句：  Clusters of tiny insects were found on the underside of the leaves.
+  * 翻译：  在叶子下面发现了成群的小昆虫。
+  * 考点：  cluster (together) round 群集， 丛生
+  * 派生：  supercluster (n.超星系团)
+  <br>
+
+- stain
+  * 词义：  n.污点，瑕疵； vt.玷污，染污，玷污，败坏，染色
+  * 例句：  The stained cloths sold very well in the shop.
+  * 翻译：  这家商店里的染布卖的很好。
+  <br>
