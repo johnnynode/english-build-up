@@ -139,3 +139,76 @@
   * 例句：  The stained cloths sold very well in the shop.
   * 翻译：  这家商店里的染布卖的很好。
   <br>
+
+---
+### 2017年04月13日 00:51:00
+
+- reduction
+  * 词义：  n.减少，缩减
+  * 例句：  Experts foresee that our GDP is subject to 10% reduction next year.
+  * 翻译：  专家们预测我们明年的GDP国民生产总值会减少10%;
+  * 短语：  a 10% reduction 九折 // reductions in/of prices 降价
+  <br>
+
+- satire
+  * 词义：  n.讽刺，缝纫
+  * 例句：  The pity woman spent her whole life cooking, cleaning, mending and sewing.
+  * 翻译：  这个可怜的女人一生都在烧饭、洗刷和缝缝补补中渡过。
+  * 派生：  sewing (n.缝，缝纫)
+  <br>
+
+- suspicious
+  * 词义：  a.可疑的，多疑的，疑心的
+  * 例句：  I am suspicious of that woman; I think she may have stolen something from our shop.
+  * 翻译：  我怀疑那位妇女，我觉得她可能偷了我们商店里的东西。
+  * 派生：  suspiciously (ad. 可疑地，疑心地)
+  * 同义：  doubtful (a.可疑的，怀疑的) sceptical (a.怀疑的)
+  * 反义：  trusting (a.信任的，信赖的)
+  * 短语：  a suspicious nature 多疑的性格 // suspicious behavior 可疑的行为
+  * 考点：  be suspicious of 对...有疑心
+  <br>
+
+- surgeon
+  * 词义：  n.外科医生
+  * 例句：  Kate's father is a famous facial plastic surgeon.
+  * 翻译：  physician (n.内科医生)
+  <br>
+
+- static / statical
+  * 词义：  a.静态的；精力地
+  * 例句：  House prices have been static for several months in the city.
+  * 翻译：  几个月来本市的房价一直很稳定。
+  <br>
+
+- telescope
+  * 词义：  n.望远镜
+  * 例句：  The scientist studies the stars through an astronomical telescope.
+  * 翻译：  科学家通过天文望远镜来研究星星。
+  <br>
+
+- mushroom
+  * 词义：  n.蘑菇
+  * 例句：  We found many types of wild mushrooms in forests.
+  * 翻译：  我们在森林里发现了各种各样的野生蘑菇。
+  <br>
+
+- ego
+  * 词义：  n.自我，自负
+  * 例句：  "hubris" is too much self-confidence or ego.
+  * 翻译：  "狂妄自大"就是过于自信或过于自负。
+  <br>
+
+- temper
+  * 词义：  n.脾气，情绪； 韧度；回火度； vt.减缓；调和，调节
+  * 例句：  The temper of the steel is just right.
+  * 翻译：  这些钢的硬度正好合适。
+  * 短语：  Temper justice with mercy. 恩威并施 // keep/control one's temper 按耐住性子 // be in a good temper 心情好
+  * 考点：  lose one's temper 发怒，发脾气 // bad-tempered 坏脾气
+  * 派生：  tempered (a.有脾气的) temperature (n.温度)
+  <br>
+
+- ebb
+  * 词义：  vi. 退，退潮，落潮； 衰退 n.退潮，落潮
+  * 例句：  The suppression brought the workers'movement to a temporary ebb.
+  * 翻译：  镇压使得工人运动暂时陷入了低潮。
+  <br>
