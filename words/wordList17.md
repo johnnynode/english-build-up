@@ -212,3 +212,70 @@
   * 例句：  The suppression brought the workers'movement to a temporary ebb.
   * 翻译：  镇压使得工人运动暂时陷入了低潮。
   <br>
+
+---
+### 2017年04月14日00:35:07
+
+- bow
+  * 词义：  vi.鞠躬，点头； 弓(形) 蝴蝶结
+  * 例句：  Those who watched him found that he carried his bow and many arrows.
+  * 翻译：  那些观察他的人发现他背着弓，带着许多箭。
+  <br>
+
+- correspondent
+  * 词义：  n.记者，通讯员
+  * 例句：  Bill was present at the meeting both as a war correspondent and as a serving officer.
+  * 翻译：  比尔以战地记者和在职官员的双重身份初一了此次会议。
+  <br>
+
+- estimate
+  * 词义：  vt.估计 vi.估值，估算 n.看法，评价，判断
+  * 例句：  Now I've realized that my estimate of Helen's character was one-sided.
+  * 翻译：  现在我已经意识到自己对海伦性格的看法是片面的。
+  <br>
+
+- dependence
+  * 词义：  n.依靠，依赖，信任
+  * 考点：  substance dependence 药物依赖 // physical dependence on...身体对...的依赖
+  * 派生：  independence (n.独立，自主)
+  <br>
+
+- corrode
+  * 词义：  v.(受)腐蚀，侵蚀
+  * 例句：  Metal like iron corrodes easily.
+  * 翻译：  像铁这样的金属很容易受腐蚀。
+  <br>
+
+- analytic / analytical
+  * 词义：  a.分析的； 分解的
+  * 例句：  The scientist was carefully making an analytical study of the experiment.
+  * 翻译：  科学家正对这一实验做细致的分析性研究。
+  <br>
+
+- hatred
+  * 词义：  n.憎恨，憎恶，怨恨
+  * 例句：  Martin told Jack that his hatred of the magazines was rabid.
+  * 翻译：  马丁告诉杰克，他自己极度憎恶这些杂志。
+  <br>
+
+- nominal
+  * 词义：  a.名义上的； (金额、租金) 微不足道的
+  * 例句：  The bonus to employees is merely a nominal sum.
+  * 翻译：  雇员们只得到了一点儿可怜的奖金。
+  * 同义：  titular (a.有名无实的，名义上的) minor (a.较小的，较少的)
+  * 反义：  actual (a.实际的，真实的) genuine (a.真正的)
+  <br>
+
+- hypothesis
+  * 词义：  n. 假说，假设； (逻) 前提
+  * 例句：  Later, this idea became to be known as the Sapir-Whorf hypothesis, but this term is somewhat inappropriate.
+  * 翻译：  后来，这一观点发展成为著名的萨丕尔-沃尔夫假说，但是这一术语有点不恰当。
+  * 派生：  hypothetical (a.假设的，假定的)
+  * 同义：  supposition (n.假定，猜想) assumption (n.假定，臆断)
+  <br>
+
+- ballet
+  * 词义：  n.芭蕾舞；芭蕾舞剧；芭蕾舞团
+  * 例句：  Ballet training requires certain physical attributes.
+  * 翻译：  芭蕾舞训练要求具备一定的身体素质。
+  <br>
