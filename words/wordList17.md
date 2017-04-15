@@ -279,3 +279,70 @@
   * 例句：  Ballet training requires certain physical attributes.
   * 翻译：  芭蕾舞训练要求具备一定的身体素质。
   <br>
+
+---
+### 2017年04月15日 22:13:27
+
+- entity
+  * 词义：  n.实体，事物的存在
+  * 例句：  Persons and corporations are equivalent entities under the law.
+  * 翻译：  依照法律，个人和企业是对等的实体。
+  <br>
+
+- shrink
+  * 词义：  v.起皱；收缩； 退缩，畏缩
+  * 例句：  These shirts might shrink if you wash them.
+  * 翻译：  这些衬衣，洗后可能会脱水。
+  * 考点：  shrink away/back from 退缩，畏缩
+  * 派生：  shrinkage (n.收缩，缩水) shrinking (n.畏缩，减少)
+  <br>
+
+- intensive
+  * 词义：  a.加强的，集中的，深入细致的
+  * 短语：  intensive training 强化训练 // intensive readings 精读材料
+  * 考点：  energy-intensive 能源密集型的
+  <br>
+
+- kettle
+  * 词义：  n.水壶
+  * 例句：  The tea kettle starts to whistle when the water begins to boil.
+  * 翻译：  水烧开后，茶壶开始鸣叫起来。
+  <br>
+
+- handy
+  * 词义：  a.手边的，近便的，方便的
+  * 例句：  I keep the book handy just in case.
+  * 翻译：  我把这本书放在手边，仅仅是以备不时之需。
+  <br>
+
+- humidity
+  * 词义：  n.湿气，湿度
+  * 例句：  The high humidity made us uncomfortable.
+  * 翻译：  这么大的湿气让我们感觉不太舒服。
+  <br>
+
+- proceed
+  * 词义：  vi.进行，继续下去，发生
+  * 例句：  The student paused to consult her notes, and then proceeded with her questions.
+  * 翻译：  那名学生停下来看了看笔记，然后继续提问。
+  <br>
+
+- disposal
+  * 词义：  n.处理，处置； 布置，安排
+  * 例句：  The disposal of plants in your garden was quite pleasing.
+  * 翻译：  你花园里的植物布置的十分赏心悦目。
+  <br>
+
+- refine
+  * 词义：  vt.精炼，精致；提纯
+  * 例句：  The oil needed to be refined before it could be used.
+  * 翻译：  石油在能被使用之前需要经过提炼。
+  * 短语：  refine oil 炼油
+  * 派生：  refinement (n.精炼，精制，提炼) refinery (n.精炼厂)
+  <br>
+
+- episode
+  * 词义：  n.片段； (连续剧的)一集
+  * 例句：  The director decided to delete this episode from the film.
+  * 翻译：  导演决定从教片中减去这个片段。
+  <br>
