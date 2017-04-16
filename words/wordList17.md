@@ -346,3 +346,67 @@
   * 例句：  The director decided to delete this episode from the film.
   * 翻译：  导演决定从教片中减去这个片段。
   <br>
+
+---
+### 2017年04月16日 21:51:25
+
+- upgrade
+  * 词义：  vt.提升，使升级
+  * 例句：  The government is currently spending $300 million upgrading its airports.
+  * 翻译：  政府目前投资三亿美元改建机场。
+  * 短语：  upgrade an employee 提升雇员
+  <br>
+
+- relay
+  * 词义：  vt.中继，转播；接力传递 n.接替人员，替班
+  * 例句：  The Olymic Games are relayed all round the world.
+  * 翻译：  奥运会在全世界范围内进行实况转播。
+  <br>
+
+- liver
+  * 词义：  n.肝，肝脏
+  * 例句：  My grandfather died of liver cancer oin 1970.
+  * 翻译：  我的外祖父于1970年死于肝癌。
+  <br>
+
+- clarify
+  * 词义：  vt. 澄清，阐明
+  * 例句：  I hope that what I say will clarify the misunderstanding.
+  * 翻译：  我希望我所说的能够澄清这一点误会。
+  <br>
+
+- shabby
+  * 词义：  a.破旧的，破烂的； 衣衫褴褛的；卑鄙的，不公正的
+  * 例句：  Some candidates play a shabby trick in general election.
+  * 翻译：  一些候选人在大选中玩弄卑鄙的手段。
+  <br>
+
+- prohibit
+  * 词义：  vt.禁止，阻止，不准；使不可能
+  * 例句：  The budget agreement as prohibited any tax cuts.
+  * 翻译：  预算协定使任何减税计划都变得不可能。
+  <br>
+
+- handbook
+  * 词义：  n.手册，指南。
+  * 短语：  a tourist handbook. 旅游手册
+  <br>
+
+- mortal
+  * 词义：  a.致命的； 终有一死的；你死我活的，不共戴天的； n.凡人
+  * 例句：  Since we are all mortals, it is inevitably to make mistakes.
+  * 翻译：  既然我们都是凡人，那就难免会犯错误。
+  <br>
+
+- extinct
+  * 词义：  a.灭绝的；熄灭了的
+  * 例句：  If nothing is done to protect the environment, millions of species that are alive today will become extinct.
+  * 翻译：  如果不采取任何措施保护环境，那么现今存货的数百万物种都将灭绝。
+  * 同义：  vanished (a.消失的，不见的) thriving (a.兴旺的，兴盛的)
+  <br>
+
+- plumber
+  * 词义：  n.管子工，铅管工，水暖工。
+  * 例句：  I'm going to call a plumber to come to repair my heater this afternoon.
+  * 翻译：  下午我会打电话叫一个水暖工来修暖气。
+  <br>
