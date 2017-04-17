@@ -410,3 +410,83 @@
   * 例句：  I'm going to call a plumber to come to repair my heater this afternoon.
   * 翻译：  下午我会打电话叫一个水暖工来修暖气。
   <br>
+
+---
+### 2017年04月17日 08:04:18
+
+- quilt
+  * 词义：  n.被子
+  * 例句：  My mother stitched a quilt for my baby.
+  * 翻译：  母亲为我的孩子缝制了一床被子。
+  <br>
+
+- differentiate
+  * 词义：  vi.区分，区别
+  * 例句：  It's important to learn to differentiate between urgent goals and important goals in work.
+  * 翻译：  在工作中，学会区分紧急目标和重要目标非常重要。
+  * 派生：  differentiation (n.区别，划分)
+  * 同义：  discriminate (v.歧视，区别)
+  <br>
+
+- normalization
+  * 词义：  n.正常化，标准化
+  * 例句：  For now, the relation between the two countries trends toward normalization.
+  * 翻译：  目前，两国关系趋于正常化。
+  <br>
+
+- centigrade
+  * 词义：  n.设施温度计，百度分； a.摄氏温度计的，百分度的
+  * 例句：  Tom accidentally broke the centigrade themometer during the experiment.
+  * 翻译：  汤姆在做实验时，不小心打破了摄氏温度计。
+  <br>
+
+- preferable
+  * 词义：  n.(to) 更可取的，较适合的，更好的
+  * 例句：  I'm not sure if the cure is preferable to the disease.
+  * 翻译：  我不敢肯定该疗法是否更适合这种病。
+  * 派生：  preferable (ad.更适宜地)
+  * 参考：  preferred (a.首选的)
+  <br>
+
+- lane
+  * 词义：  n.小路，小巷，行车道
+  * 例句：  The driver drove on the fast lane while talking on the phone.
+  * 翻译：  那位司机一边打电话，一边在快车道上行驶。
+  <br>
+
+- eject
+  * 词义：  vt. 喷射，排出； 驱逐
+  * 例句：  A heckler was ejected from the meeting.
+  * 翻译：  一个滋事者被驱逐出了会场。
+  <br>
+
+- calcium
+  * 词义：  n.钙
+  * 例句：  Calcium is essential for developing healthy bones.
+  * 翻译：  钙对骨骼的正常发育至关重要。
+  <br>
+
+- shave
+  * 词义：  vt.剃，刮，刨，削 n.刮脸
+  * 例句：  How do you shave your beard so clean?
+  * 翻译：  你是怎样把胡子刮得如此干净的?
+  <br>
+
+- band
+  * 词义：  n.条，带；乐队，波段，一群，一伙  vt.缚，绑扎
+  * 例句：  A scruffy band of horsemen are crossing the desert.
+  * 翻译：  一群衣衫褴褛的赶马人正穿过沙漠。
+  <br>
+
+- calorie
+  * 词义：  n.卡路里(热量单位) 大卡(食物的热量)
+  * 例句：  Growth, which rarely continues beyond the age of 20, demands calories and nutrients notably, protein to feed expanding tissues.
+  * 翻译：  长高，很少持续到20多岁- 需要卡路里，营养物，特别是蛋白质，来为器官的增长，提供营养。
+  <br>
+
+> 名言
+>
+> Only those who have the patience to do simple things perfectly ever acquire the skill to do difficult things easily.
+> - Friedirch Schiller
+> 只有耐心圆满完成简单工作的人，才能够轻而易举的完成困难的事。
+> - 席勒.F.
