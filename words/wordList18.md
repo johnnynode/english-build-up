@@ -68,3 +68,70 @@
   * 词义：  a.明显的，显而易见的
   * 派生：  obviously (ad.明显地)
   <br>
+
+### 2017年04月19日 07:39:45
+
+- harmony
+  * 词义：  n.协调，和谐；融洽
+  * 例句：  The designer's aim is to produce a harmony of shape and texture.
+  * 翻译：  设计者的目的是要达到外观与质地的和谐。
+  * 考点：  in/out of harmony (with...) (与...)/不(与...)融洽相处
+  * 派生：  harmonious (a.协调的；和睦的) disharmony (n.不和谐；不协调)
+  <br>
+
+- depress
+  * 词义：  vt.压抑，降低，削弱； 使沮丧，使抑郁
+  * 例句：  Failing in the exam depressed Tom a lot.
+  * 翻译：  考试失败使汤姆非常沮丧。
+  * 派生：  depression (n.沮丧,经济萧条) depressant (n.镇静剂)
+  <br>
+
+- volume
+  * 词义：  n.容积，体积，容量； 卷，册，书； 音量，响度。
+  * 例句：  The volume of this container is 20 cubic meters.
+  * 翻译：  这个集装箱的体积是20立方米。
+  <br>
+
+- tense
+  * 词义：  a.拉紧，紧张的； 紧张的
+  * 例句：  The tense rope was on the brink of break.
+  * 翻译：  紧绷的绳子马上就要断了。
+  <br>
+
+- widespread
+  * 词义：  n.分布广的；普遍的
+  * 例句：  Many experts think we are on the edge of a widespread water crisis.
+  * 翻译：  许多专家认为，我们正面临着大范围的用水危机。
+  * 参考：  widely (ad.广泛地，普遍地) widen (vt.加宽，放宽)
+  <br>
+
+- bud
+  * 词义：  n.芽，花苞； vi.发芽，萌芽
+  * 例句：  The seed planted in the winter began to bud as the spring came on.
+  * 翻译：  春天来了，冬天播下的种子开始发芽。
+  <br>
+
+- colony
+  * 词义：  n.殖民地
+  * 例句：  Thousands of Indians were killed in North American colonies.
+  * 翻译：  在北美殖民地，成千上万的印第安人遭到了屠杀。
+  * 派生：  colonist (n.殖民者)
+  <br>
+
+- cloak
+  * 词义：  n.外套，斗篷； vt.掩盖，蒙蔽
+  * 例句：  The negotiation was cloaked in secrecy.
+  * 翻译：  谈判是秘密进行的。
+  <br>
+
+- corridor
+  * 词义：  n.走廊，狭长通道
+  * 例句：  There is no lighting in the corridor at night.
+  * 翻译：  晚上，这条走廊上没有灯。
+  <br>
+
+- tropical
+  * 词义：  a.热带的
+  * 例句：  Most bananas are grown in tropical plantations.
+  * 翻译：  大部分香蕉树都生长在热带种植园里。
+  <br>
