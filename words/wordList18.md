@@ -135,3 +135,72 @@
   * 例句：  Most bananas are grown in tropical plantations.
   * 翻译：  大部分香蕉树都生长在热带种植园里。
   <br>
+
+### 2017年04月20日 00:41:48
+
+- feast
+  * 词义：  n.节日，宴会。
+  * 例句：  When are you going to have the Feast of Lanterns?
+  * 翻译：  你们什么时候过元宵节。
+  * 同义：  banquet (n.宴会，盛宴) festival (n.节日，喜庆日)
+  <br>
+
+- belly
+  * 词义：  n.肚子，腹部
+  * 派生：  bellyful (n.过量)
+  <br>
+
+- local
+  * 词义：  a. 地方的，当地的，局部的
+  * 例句：  The doctor gave me a local anesthetic before stitching my wound.
+  * 翻译：  在缝合伤口之前，医生给我进行了局部麻醉。
+  * 派生：  locally (ad.在本地，在当地)
+  <br>
+
+- vigorous
+  * 词义：  a.有力的，朝气蓬勃的，精力旺盛的
+  * 例句：  The state has made vigorous efforts to develop economy.
+  * 翻译：  国家采取了强有力的措施来发展经济。
+  * 派生：  vigorously (ad. 有力地，精力旺盛地)
+  <br>
+
+- extreme
+  * 词义：  a.末端的，尽头的；极度的，极端的； n.极端，极度(状态)
+  * 例句：  Robin is an eccentric, always going from one extreme to another.
+  * 翻译：  罗宾是个怪人，总是从一个极端走向另一个极端。
+  * 考点：  take sth. to its extreme. 将某事发挥到极致。
+  * 派生：  extremely (ad.非常，极其) extremist (n.过激分子，极端主义者)
+  <br>
+
+- specify
+  * 词义：  vt.具体指定，详细说明
+  * 例句：  You do not have to specify fee arrangements in the advertisements.
+  * 翻译：  你不需要在广告中详细说明费用安排。
+  * 派生：  specified (a.专用的，指定的)
+  <br>
+
+- despise
+  * 词义：  vt.轻视，蔑视
+  * 例句：  I despise all cowards and flatterers.
+  * 翻译：  我蔑视所有胆小鬼和阿谀奉承之徒。
+  * 同义：  disdain (vt.蔑视) scorn (vt.轻蔑) contemn (vt.侮辱，蔑视)
+  * 反义：  admire (v.钦佩，赞赏) esteem (vt.敬重，尊重) respect (vt.尊敬，敬重)
+  <br>
+
+- democratic
+  * 词义：  a.民主的
+  * 例句：  In a democratic atmosphere, free expression of different opinions is encouraged.
+  * 翻译：  在民主的氛围中，提倡人们自由表达不同的观点。
+  <br>
+
+- feedback
+  * 词义：  n.反馈
+  * 例句：  I wish the supervisor would give me some feedback.
+  * 翻译：  我希望主管能给我一些反馈。
+  <br>
+
+- slap
+  * 词义：  n./vt. 拍，掌掴
+  * 例句：  I can't believe you let Michael slap you.
+  * 翻译：  我真不敢相信，你会让迈克尔扇你耳光。
+  <br>
