@@ -204,3 +204,74 @@
   * 例句：  I can't believe you let Michael slap you.
   * 翻译：  我真不敢相信，你会让迈克尔扇你耳光。
   <br>
+
+### 2017年04月21日 00:28:08
+
+- smash
+  * 词义：  v.打碎，粉碎 n.打碎，粉碎
+  * 例句：  The coffee cup hit the floor with the smash of porcelain.
+  * 翻译：  咖啡杯掉到地上，发出了瓷器的破碎声。
+  <br>
+
+- martial
+  * 词义：  a.婚姻的，夫妻的
+  * 例句：  Mark confided details of his martial life in his diary.
+  * 翻译：  马克在日记里吐露了自己婚姻生活中的细节。
+  <br>
+
+- verse
+  * 词义：  n.韵文，诗；诗节，诗句
+  * 例句：  The choir sang the first two verse of the hymn.
+  * 翻译：  唱诗班延长了赞美诗的前两节。
+  <br>
+
+- insulate
+  * 词义：  n.隔离，孤立，使绝缘，使绝热
+  * 例句：  Electric wires should be insulated with a non-conducting substance.
+  * 翻译：  电线应该用非导体绝缘。
+  <br>
+
+- gravity
+  * 词义：  n.重力，引力； 庄重，严重
+  * 例句：  The gravity of the situation reads clearly on all their eyes.
+  * 翻译：  从他们所有人的眼里可以看出形式的严峻。
+  * 派生：  anti-gravity (n.反重力)
+  * 参考：  gravitation (地心引力，重力作用)
+  <br>
+
+- glow
+  * 词义：  vi. 发热，发光，发红； n.发亮，光辉
+  * 例句：  The electric lamp gives a soft glow.
+  * 翻译：  电灯发出柔和的光。
+  * 派生：  glowing (a.鲜艳的，热情的)
+  <br>
+
+- stationary
+  * 词义：  a.静止的，固定的
+  * 例句：  I think your leg is broken. Try to keep it stationary until we get to the hospital.
+  * 翻译：  我认为你的腿断了，在到达医院之前尽量使它保持不懂。
+  * 同义：  motionless (a.不动的，静止的) fixed （a.固定的）
+  * 反义：  mobile (a.移动的)
+  <br>
+
+- equation
+  * 词义：  n.(数学)等式,方程式； (with)相等；均衡
+  * 例句：  The equation of wealth with happiness can be unwise.
+  * 翻译：  把财富和幸福等同起来可能是不理智的。
+  * 参考：  equate (vi.相等，等同)
+  <br>
+
+- prompt
+  * 词义：  a.敏捷的，迅速的； 即刻的 vt.激起，促进，推动
+  * 例句：  Our new manager is prompt on the job.
+  * 翻译：  我们新来的经理工作起来，干净利落。
+  * 考点：  prompt response 敏捷的反应
+  * 派生：  prompting (n.促进，激励，提示) promptly(ad.敏捷地；迅速地) promptness (n.敏捷，机敏)
+  <br>
+
+- retire
+  * 词义：  vi.退休，引退；退却，撤退 ， 就寝
+  * 例句：  The students normally retire for the night around 10:00.
+  * 翻译：  学生们通常晚上10点钟左右就寝。
+  * 派生：  retired (a.退休的，退役的) retirement (退休，撤退)
+  <br>
