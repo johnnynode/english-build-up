@@ -69,6 +69,7 @@
   * 派生：  obviously (ad.明显地)
   <br>
 
+---
 ### 2017年04月19日 07:39:45
 
 - harmony
@@ -136,6 +137,7 @@
   * 翻译：  大部分香蕉树都生长在热带种植园里。
   <br>
 
+---
 ### 2017年04月20日 00:41:48
 
 - feast
@@ -205,6 +207,7 @@
   * 翻译：  我真不敢相信，你会让迈克尔扇你耳光。
   <br>
 
+---
 ### 2017年04月21日 00:28:08
 
 - smash
@@ -274,4 +277,75 @@
   * 例句：  The students normally retire for the night around 10:00.
   * 翻译：  学生们通常晚上10点钟左右就寝。
   * 派生：  retired (a.退休的，退役的) retirement (退休，撤退)
+  <br>
+
+---
+### 2017年04月22日 00:12:40
+
+- male
+  * 词义：  n.男性，雄性; a.男性的，雄性的
+  * 例句：  Mary was married to a male chauvinist.
+  * 翻译：  玛丽嫁给了一个大男子主义者。
+  * 参考：  female (n.女性)
+  <br>
+
+- occupation
+  * 词义：  n.占领，占据，占用；职业，工作
+  * 例句：  The armies finally withdrew after four-year's occupation of this castle.
+  * 翻译：  军队在占据了城堡四年后终于撤走了。
+  * 派生：  preoccupation (n.抢先占有)
+  <br>
+
+- oath
+  * 词义：  n.誓言，誓约； 咒骂，诅咒语
+  * 例句：  Paul took an oath to marry Anna.
+  * 翻译：  保罗发誓要娶安娜。
+  <br>
+
+- repression
+  * 词义：  n.压制，压抑，镇压
+  * 例句：  They anted to fight all forms of injustice and repression.
+  * 翻译：  他们要与各种形式的不公正和压抑行为作斗争。
+  * 同义：  constraint (n.约束，抑制)  suppression (n.镇压，压制)
+  <br>
+
+- conform
+  * 词义：  vi. 遵守，依照，顺应，符合
+  * 例句：  All of the citizens should conform with the traffic regulations.
+  * 翻译：  所有市民都应遵守交通规则。
+  * 考点：  conform to/with 符合，遵照，遵守
+  * 派生：  conformity (n.遵守，一致)
+  <br>
+
+- basis
+  * 词义：  n.基础，依据
+  * 例句：  The jury made their decision on the basis of conscience.
+  * 翻译：  陪审团根据道德规则做出了裁决。
+  * 考点：  on the basis of 根据，在...的基础上。
+  <br>
+
+- component
+  * 词义：  n.组成部分，成分；元件，部件; a.组成的，合成的
+  * 例句：  Computer hardware is a key component part of the new radar system.
+  * 翻译：  电脑硬件是新雷达系统中的一个关键组成部分。
+  * 参考：  opponent (a.对立的) element (n.元素，元件) constituent (a.组成的)
+  <br>
+
+- retain
+  * 词义：  vt.保留，保持
+  * 例句：  Many local residents wants to retain the existing character of the area.
+  * 翻译：  许多当地居民希望保留该地区现有的特色。
+  <br>
+
+- henceforth
+  * 词义：  ad.今后
+  * 例句：  Henceforth I expect you to be punctual for meetings.
+  * 翻译：  我希望你今后准时到会。
+  <br>
+
+- peer
+  * 词义：  n.同龄人，同等地位的人；贵族 vi.仔细看，费力地看
+  * 例句：  Being peers, we have many common interests.
+  * 翻译：  作为同龄人，我们有许多共同的爱好。
+  * 考点：  peer group 同龄群体
   <br>
