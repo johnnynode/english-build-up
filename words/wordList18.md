@@ -349,3 +349,73 @@
   * 翻译：  作为同龄人，我们有许多共同的爱好。
   * 考点：  peer group 同龄群体
   <br>
+
+---
+### 2017年04月23日 18:54:17
+
+- bargain
+  * 词义：  n.廉价货；交易，契约，合同； v.议价，成交
+  * 例句：  Lily bargained with the trader till he sold her the vegetables cheaply.
+  * 翻译：  莉莉和商贩讨价还价，直到他把蔬菜便宜地卖给了她。
+  <br>
+
+- probe
+  * 词义：  n.探针，探测器； vi.(以探针等) 探查，穿刺； 查究
+  * 例句：  The dentist probed Mary's teeth for cavities.
+  * 翻译：  牙医探查了玛丽的牙齿，看她有没有蛀牙。
+  * 短语：  probe into 探查
+  <br>
+
+- relish
+  * 词义：  n.(喻) 滋味，兴趣，爱好；调味品，好味道，美味  vt.欣赏，品尝
+  * 例句：  There was a mango relish in the fruit bar.
+  * 翻译：  水果吧里有一种芒果的味道。
+  * 同义：  enjoy (v.享受) appreciate (vt.欣赏，赏识)
+  * 反义：  detest (vt.憎恶，讨厌)
+  <br>
+
+- harassment
+  * 词义：  n.骚扰，扰乱，烦恼，烦乱
+  * 例句：  Josh was chafed by the harassment of travel.
+  * 翻译：  乔希为旅途中的折腾而恼火。
+  <br>
+
+- cylinder
+  * 词义：  n.圆筒，圆柱体，汽缸
+  * 例句：  John you must have the cylinder of my car repaired right now.
+  * 翻译：  约翰，你必须马上找人把我的汽车的汽缸修好。
+  <br>
+
+- versatile
+  * 词义：  a. 通用的，万用的，多才多艺的，多方面的
+  * 例句：  My versatile jackknife can also be used as a can opener.
+  * 翻译：  我那把多功能折叠刀还可以用来开罐头。
+  * 同义：  all-round (a.多方面的，多才多艺的)
+  <br>
+
+- mist
+  * 词义：  n.薄雾
+  * 例句：  A heavy mist lies over the forest.
+  * 翻译：  浓雾笼罩了整个森林。
+  <br>
+
+- cancer
+  * 词义：  n.癌
+  * 例句：  John's father died of lung cancer.
+  * 翻译：  约翰的父亲死于肺癌。
+  * 派生：  cancerous (a.癌的)
+  <br>
+
+- consecutive
+  * 词义：  a.连续不断的，连贯的
+  * 例句：  It has been raining for five consecutive days.
+  * 翻译：  雨连续下了五天了。
+  <br>
+
+- leisure
+  * 词义：  n.空闲，闲暇，悠闲，安逸。
+  * 例句：  All that I ask for is a few hours of leisure and solitude daily to enjoy in peace.
+  * 翻译：  我所要求的就是每天安安静静地享受几个小时悠闲和独处的时光。
+  * 考点：  at leisure 从容地，有空。
+  * 派生：  leisurely (ad. 悠闲地，从容地)
+  <br>
