@@ -419,3 +419,89 @@
   * 考点：  at leisure 从容地，有空。
   * 派生：  leisurely (ad. 悠闲地，从容地)
   <br>
+
+---
+### 2017年04月24日 21:44:45
+
+- confirm
+  * 词义：  vt.证实，确认；批准，确认，巩固，加强
+  * 例句：  The President confirmed the prime minister in office yesterday.
+  * 翻译：  总统昨天批准总理任职。
+  * 参考：  infirm (a.弱的)
+  <br>
+
+- carrier
+  * 词义：  n.运送者，载体，携带者
+  * 短语：  a carrier rocket 运载火箭 // HIV carrier 艾滋病毒携带者
+  <br>
+
+- superb
+  * 词义：  a.极好的，高质量的
+  * 例句：  Please tell your mother for me that the dessert is superb.
+  * 翻译：  请带我转告你妈妈，甜点真是太棒了。
+  <br>
+
+- enhance
+  * 词义：  vt.提高，增强
+  * 例句：  enhance one's reputation 提高声誉 // enhance one's confidence 增强信心
+  <br>
+
+- inverse
+  * 词义：  a.倒转的，反向的； n.反面，倒数(数学中的倒数)
+  * 例句：  Evil is the inverse of good.
+  * 翻译：  恶是善的对立面。
+  <br>
+
+- contend
+  * 词义：  vi. (with) 竞争，斗争； vt.坚决主张
+  * 例句：  Jack contended with John for the third prize in the contest.
+  * 翻译：  杰克和约翰在此次竞争中争夺三等奖。
+  * 派生：  contention (n.争夺，争斗，争辩)
+  * 同义：  contest (vt. 竞赛，争夺) maintain (vt.主张)
+  * 参考：  content (n.内容，满足)
+  <br>
+
+- blast
+  * 词义：  n.一阵(风) 一股(气流) n.爆炸冲击波，管乐器或汽笛声。v.爆炸，爆破
+  * 例句：  The blasted an entranceway and entered the tomb.
+  * 翻译：  他们炸开了一个入口，进入了古墓。
+  <br>
+
+- gap
+  * 词义：  n.间隙，间隔，分歧，差距
+  * 例句：  There's an eight-foot gap between the building.
+  * 翻译：  这两栋楼之间的间隙是8英尺。
+  <br>
+
+- stretch
+  * 词义：  vt.拉长 vi.伸，延 n.一段时间，一段距离；(空间上的)延伸，连绵，连绵的一片。
+  * 例句：  Jane doesn't know why her sweaters are always stretched.
+  * 翻译：  简不知道自己的毛衣为什么总会被拉长。
+  <br>
+
+- obedient
+  * 词义：  a.服从的，顺从的
+  * 例句：  Kate was educated to be obedient.
+  * 翻译：  凯特所受的教育就是服从。
+  <br>
+
+- hound
+  * 词义：  n.猎犬； vt.追逼，烦扰，纠缠
+  * 例句：  The poor guy was hounded by his creditors.
+  * 翻译：  这个可怜的家伙被债主追债。
+  <br>
+
+- flush
+  * 词义：  v.冲洗，使(水等)流； n.脸红 a.齐平的，同高的
+  * 例句：  A flush came to Anne's face as she met with the handsome boy.
+  * 翻译：  安妮偶遇帅哥时，脸上泛起一阵红晕。
+  * 考点：  flush with 齐平的，同高的
+  * 同义：  redden (vt.(使某物)变红) douche (vt.重启，灌洗)
+  * 参考：  flash (vi.闪光) flare (n./vi. 闪耀，闪光)
+  <br>
+
+- voluntary
+  * 词义：  a.自愿的，志愿的
+  * 例句：  The students are active in voluntary services.
+  * 翻译：  这些学生，积极参与志愿者活动。
+  <br>
