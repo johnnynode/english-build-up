@@ -20,3 +20,4 @@
 - [wordList16](./words/wordList16.md)
 - [wordList17](./words/wordList17.md)
 - [wordList18](./words/wordList18.md)
+- [wordList19](./words/wordList19.md)
