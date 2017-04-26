@@ -69,3 +69,72 @@
   * 翻译：  王子为爱情放弃了王位。
   * 派生：  enthrone (vt. 立...为王)
   <br>
+
+---
+### 2017年04月26日 08:27:15
+
+- current
+  * 词义：  n.电流，水流，气流；潮流，趋势 a.当前的，现在的；通用的，流行的
+  * 例句：  Long ago it was a current belief that the earth was flat.
+  * 翻译：  很久以前，人们普遍相信地球是平的。
+  * 派生：  currently (ad.目前，普遍地)
+  <br>
+
+- outfit
+  * 词义：  n.全套装备，全套工具
+  * 例句：  Harry has a complete car repair outfit.
+  * 翻译：  哈里有一整套修理汽车的工具。
+  * 短语：  a cooking outfit 全套炊具
+  <br>
+
+- crude
+  * 词义：  a.天然的，未加工的，粗糙的；初步的，不成熟的；粗鲁的，粗野的
+  * 例句：  Bill's crude behavior annoyed his sister.
+  * 翻译：  比尔粗鲁的言行惹恼了他姐姐。
+  * 参考：  rude (a.粗鲁的)
+  <br>
+
+- wholly
+  * 词义：  ad. 完全地，全部，一概
+  * 例句：  While the two are only days apart in age they seem to belong to wholly different generations.
+  * 翻译：  虽然两位在年龄上只差几天，但他们好像完全不是一代人。
+  <br>
+
+- retrieve
+  * 词义：  vt.重新得到，收回，取回； 挽回(错误)；补救；检索
+  * 例句：  To retrieve some information, we went to the library.
+  * 翻译：  我们去图书馆检索一些资料。
+  * 同义：  reclaim (vt.重新得到，收回，取回) retake(v.再拿，再取)
+  <br>
+
+- revolutionary
+  * 词义：  a.革命的，大变革的，完全创新的; n.革命者
+  * 例句：  The Internet in a revolutionary advance in the history of information technology.
+  * 翻译：  因特网是信息技术史上一次革命性的进步。
+  * 考点：  revolutionary discipline 革命纪律
+  <br>
+
+- opera
+  * 词义：  n.歌剧
+  * 短语：  an opera house 歌剧院
+  * 考点：  Peking opera 京剧； soap opera 肥皂剧
+  <br>
+
+- rescue
+  * 词义：  vt. 营救，援救； n.营救，援救
+  * 例句：  Have you read the article about the rescue of the hostage?
+  * 翻译：  你看那篇解救人质的文章了吗？
+  <br>
+
+- screw
+  * 词义：  n.螺旋，螺丝(钉) vt.拧，拧紧
+  * 例句：  John screwed the cap onto the tube of toothpaste.
+  * 翻译：  约翰拧紧了牙膏软管的盖子。
+  <br>
+
+- distinction
+  * 词义：  n.差别，区分
+  * 例句：  There is no obvious distinction between the twin brothers.
+  * 翻译：  这对孪生兄弟之间没有什么明显的差别。
+  * 短语：  make a distinction between 区分
+  <br>
