@@ -208,3 +208,72 @@
   * 例句：  Andy dissipated all his fortune in gambling.
   * 翻译：  安迪在赌博上挥霍掉了自己所有的财富。
   <br>
+
+---
+### 2017年04月28日 07:24:30
+
+- orbit
+  * 词义：  n.轨道； v.(使)绕轨道运行
+  * 例句：  The planets follow their own orbits around the sun.
+  * 翻译：  这些行星沿着各自的轨道绕太阳运行。
+  * 派生：  orbital (a.轨道的)
+  <br>
+
+- composite
+  * 词义：  n.混合物，合成物 a.合成的，复合的
+  * 例句：  The police artist made a composite picture of the murderer.
+  * 翻译：  警方的画像专家制作出了一副杀人犯的合成照片。
+  <br>
+
+- vitamin
+  * 词义：  n.维生素
+  * 例句：  vitamin pills 维生素丸
+  <br>
+
+- sum
+  * 词义：  n.总数，和；金额，算术题 v.合计，总计
+  * 例句：  Huge sums have been invested in this project.
+  * 翻译：  该项目已投入大量资金。
+  * 考点：  in sum 总而言之 // a sum of 一笔，一定数量
+  <br>
+
+- turbine
+  * 词义：  n.汽轮机， 透平机， 涡轮机
+  * 例句：  The turbine explodes under great pressure.
+  * 翻译：  汽轮机在巨大的压力下爆炸了。
+  <br>
+
+- compose
+  * 词义：  vt.组成，构成； (of)由...组成； vi.创作(音乐、文学作品等)
+  * 例句：  The composer tried to compose herself since 12 years old.
+  * 翻译：  那位女作家12岁时就开始尝试自己作曲。
+  * 派生：  composer (n.作者，作曲家)
+  <br>
+
+- odor / odour
+  * 词义：  n.气味，名声
+  * 例句：  The odor of freshly baked strawberry pie came from the kitchen.
+  * 翻译：  厨房飘来新烤的草莓派的香味。
+  * 短语：  in bad odor(with) 名声不好，不得宠
+  * 同义：  scent (n.气味，香味) reputation (n.名声，名誉)
+  <br>
+
+- boost
+  * 词义：  vt.鼓励，促进； 为...做广告，宣扬； n.推动，促进
+  * 例句：  The words of our president was a boost to our spirits.
+  * 翻译：  校长的话是对我们心灵的一种鼓舞。
+  <br>
+
+- sly
+  * 词义：  a.狡猾的，偷偷摸摸的；
+  * 例句：  Most people say that Matthew is as a fox.
+  * 翻译：  许多人都说马修狡猾得像只狐狸。
+  * 考点：  on the sly 偷偷地，冷不防地
+  <br>
+
+- lump
+  * 词义：  n.团，块； vi.结块，起小疙瘩； vt.把...归并在一起。
+  * 例句：  I always get a lamp in my throat during sad movies.
+  * 翻译：  看伤感电影时，我常常会哽咽。
+  * 考点：  lump sth. together 将...归并一起，合并考虑
+  <br>
