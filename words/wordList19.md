@@ -138,3 +138,73 @@
   * 翻译：  这对孪生兄弟之间没有什么明显的差别。
   * 短语：  make a distinction between 区分
   <br>
+
+---
+### 2017年04月27日 22:21:01
+
+- parcel
+  * 词义：  n.包裹,邮宝； v.打包,捆扎
+  * 例句：  The parcel you are going to mail must be well packed.
+  * 翻译：  要邮寄的包裹必须打好包。
+  * 考点：  part and parcel of sth. 重要部分，主要部分  parcel out 分，分割
+  <br>
+
+- rot
+  * 词义：  v.(使)腐烂, (使)腐败，腐朽； n.荒唐；
+  * 例句：  It is perfect rot to trust a man that you have never seen before.
+  * 翻译：  相信一个你从未见过的人简直是荒唐透顶。
+  * 同义：  decay [v.(使)腐烂，(使)衰败] decompose [v.(使)分解,(使)腐烂]
+  <br>
+
+- rate
+  * 词义：  n.速率，比率；等级； 价格，费用 vt.估价，评级，评价
+  * 例句：  The employees will rate the manager by his behavior.
+  * 翻译：  员工们将根据经理的表现对他进行评估。
+  * 短语：  interest rate 利率， birth/death rate 出生/死亡率 survival rate 存活率
+  * 考点：  at any rate 无论如何，至少
+  <br>
+
+- counterpart
+  * 词义：  n.对应的人(或物)
+  * 例句：  Students from Australia earned higher marks in math than their counterparts from England.
+  * 翻译：  来自澳大利亚的学生在教学方面比他们的英国同侪得分要高。
+  <br>
+
+- nickname
+  * 词义：  n.绰号； vt.给...起绰号
+  * 例句：  Don't nickname Tom "Four Eyes" just because he wears glasses.
+  * 翻译：  不要因为汤姆戴眼镜就给他起"四眼"的绰号。
+  <br>
+
+- recognition
+  * 词义：  n.认出，辨认；承认
+  * 例句：  As a recognition of their bravery, the soldiers were given a medal.
+  * 翻译：  战士们被授军功章，作为对他们英勇的任何。
+  * 考点：  social recognition 社会认同
+  <br>
+
+- specification
+  * 词义：  n.详述，(产品等的)说明书；规格，规范
+  * 例句：  A few IT firms have agreed on a wireless networking specification.
+  * 翻译：  几家IT公司就一项无线网络规范达成了一致。
+  * 同义：  instruction (n.指示，用法说明)
+  <br>
+
+- tension
+  * 词义：  n. (物)张力，拉力； (精神上的)紧张
+  * 例句：  Road politeness goes a long way towards relieving the tensions of motoring.
+  * 翻译：  在公路上礼貌谦让对缓解驾车的紧张很有帮助。
+  * 参考：  intension (n.紧张，强度)
+  <br>
+
+- bond
+  * 词义：  n. 结合(物), 黏合(剂)，联结； 公债，债券，契约
+  * 例句：  The success in exploration is caused by the bond of love and courage.
+  * 翻译：  这次探险的成功源于爱和勇气两者的结合。
+  <br>
+
+- dissipate
+  * 词义：  v.(使)驱动 ； 浪费，挥霍
+  * 例句：  Andy dissipated all his fortune in gambling.
+  * 翻译：  安迪在赌博上挥霍掉了自己所有的财富。
+  <br>
