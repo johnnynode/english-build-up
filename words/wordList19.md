@@ -277,3 +277,73 @@
   * 翻译：  看伤感电影时，我常常会哽咽。
   * 考点：  lump sth. together 将...归并一起，合并考虑
   <br>
+
+---
+### 2017年04月29日 22:29:11
+
+- ratio
+  * 词义：  n.比，比率；
+  * 例句：  The ratio of male volunteers to the female is 3 to 2.
+  * 翻译：  志愿者的男女比例是3:2.
+  * 考点：  sex radio 性别比例
+  * 参考：  rate (n.速率，比率)
+  <br>
+
+- desperate
+  * 词义：  a.绝望的，不顾一切的，拼死的
+  * 例句：  Mary never gave up even in a desperate situation.
+  * 翻译：  玛丽即便陷入绝境也从不放弃。
+  * 派生：  desperately (ad.拼命地，绝望地)
+  <br>
+
+- artistic
+  * 词义：  a.艺术(家)的，美术(家)的
+  * 例句：  The picture on this screen is a good artistic work.
+  * 翻译：  这屏风上的画是件很好的艺术品。
+  * 考点：  artistic abilities 艺术才能
+  <br>
+
+- dwelling
+  * 词义：  n.住宅，寓所
+  * 例句：  Emily wants to find a peaceful dwelling in a free, unknown country.
+  * 翻译：  艾米丽想在一个自由而又不知名的国度里找个安静的住所。
+  <br>
+
+- induce
+  * 词义：  vt.引诱，劝使，引起，导致
+  * 例句：  The patient's heart attack was induced by excessive aerobic activity.
+  * 翻译：  这个病人的心脏病发作是由于过量的邮箱运动引起的。
+  * 派生：  induction (n.归纳法，引诱，引起) inductive (a.归纳的，诱人的)
+  * 参考：  deduce (vt.推测) reduce (vt.减少) seduce(vt.诱使)
+  <br>
+
+- mammal
+  * 词义：  n.哺乳动物
+  * 例句：  The scientists think that the bat should be under mammal.
+  * 翻译：  科学家们认为蝙蝠应该属于哺乳动物。
+  <br>
+
+- zip
+  * 词义：  n.拉链  vt.用拉链拉上或扣上
+  * 例句：  Could you please zip up my dress?
+  * 翻译：  你能帮我把礼服的拉链拉上吗？
+  <br>
+
+- rifle
+  * 词义：   n.步枪
+  * 例句：   Tony ran out of the classroom like a shell leaving a rifle.
+  * 翻译：   托尼像出膛的子弹一样飞快地跑出教师。
+  * 参考：   trifle (n.琐事，少量)
+  <br>
+
+- swarm
+  * 词义：   n.群，蜂群 vi.云集，充满
+  * 例句：   A swarm of fans are crazy about Celine Dion's Live in Las Vegas.
+  * 翻译：   一大群歌迷为席琳迪翁在拉斯维加斯的现场演唱会而疯狂。
+  <br>
+
+- instalment / installment
+  * 词义：  n.分期付款，分期交付； (连载的)一集， (分期付款的) 一期
+  * 例句：  Did you read the latest installment of this series?
+  * 翻译：  你看这套读物最近一期的连载了吗？
+  <br>
