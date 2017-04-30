@@ -366,6 +366,11 @@
   <br>
 
 - visa
+ * 词义：  签证
+ * 例句：  The American embassy rejected his visa application.
+ * 翻译：  他的签证申请被美国大使馆拒绝了。
+
+- conclusion
   * 词义：  n.结束，终结；结论，推论
   * 例句：  The panel informally accepted several general conclusions ,although some details have not been settled.
   * 翻译：  专家组在这几个结论上基本达成一致，尽管有些细节尚未定论。
