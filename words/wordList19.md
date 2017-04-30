@@ -369,6 +369,7 @@
  * 词义：  签证
  * 例句：  The American embassy rejected his visa application.
  * 翻译：  他的签证申请被美国大使馆拒绝了。
+ <br>
 
 - conclusion
   * 词义：  n.结束，终结；结论，推论
