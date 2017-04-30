@@ -347,3 +347,70 @@
   * 例句：  Did you read the latest installment of this series?
   * 翻译：  你看这套读物最近一期的连载了吗？
   <br>
+
+---
+### 2017年04月30日 09:22:39
+
+- astonish
+  * 词义：  vt.使惊讶，使吃惊
+  * 例句：  You guys always astonish us with your strange behaviour.
+  * 翻译：  你们这帮家伙的奇怪行为总是让我们感到吃惊。
+  * 派生：  astonishing (a.令人惊讶的，惊人的)
+  <br>
+
+- tube
+  * 词义：  n.管，软管；电子管，显像管，电视；地铁
+  * 例句：  The tube crash brought great chaos to London.
+  * 翻译：  那次地铁相撞给伦敦造成了巨大的混乱。
+  * 派生：  tubing (n.管道系统，电子材料)
+  <br>
+
+- visa
+  * 词义：  n.结束，终结；结论，推论
+  * 例句：  The panel informally accepted several general conclusions ,although some details have not been settled.
+  * 翻译：  专家组在这几个结论上基本达成一致，尽管有些细节尚未定论。
+  * 考点：  draw a conclusion 得出结论 / in conclusion 最后，总之
+  * 参考：  exclusion (n.排除) expulsion (n.驱逐，逐出) solution (n.解决方法)
+  <br>
+
+- dignity
+  * 词义：  n.(举止，态度等的)庄严，端庄 ； 尊严，高贵
+  * 例句：  The governor is a man of dignity.
+  * 翻译：  州长是个不苟言笑的人。
+  <br>
+
+- lobby
+  * 词义：  n.门廊，门厅； (会议)休息厅
+  * 例句：  There's an information desk in the lobby of the museum.
+  * 翻译：  博物馆的门厅里有一个信息咨询台。
+  <br>
+
+- destination
+  * 词义：  n.目的地，终点；
+  * 例句：  In the near future ,the driver can inform his car computer of his destination before driving.
+  * 翻译：  在不久的将来，司机可以在开车前将目的地输入汽车的电脑。
+  <br>
+
+- dictation
+  * 词义：  n.听写，口述，命令
+  * 例句：  The teacher asked us to take out a piece of paper for dictation.
+  * 翻译：  老师让我们拿出一张纸来听写。
+  <br>
+
+- cereal
+  * 词义：  n.谷物，谷类食品
+  * 例句：  The cereal is considered as the the green food in recent years.
+  * 翻译：  近年来，谷类食物被认为是绿色食品。
+  <br>
+
+- endeavor / endeavour
+  * 词义：  vi. 努力，尽力，力图； n.努力，尽力，力图
+  * 例句：  an endeavor at doing sth.
+  * 翻译：  做某事的努力。
+  <br>
+
+- mere
+  * 词义：  a.纯粹的； 仅仅，只不过
+  * 例句：  Everyone in the room seems uneasy about the mere mention of this name.
+  * 翻译：  只是提了一下这个名字，屋里所有人看起来都很不安。
+  <br>
