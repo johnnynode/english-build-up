@@ -569,7 +569,7 @@
 
 > 名言：
 >
-> One way overcome a thousand men in battle ,but he who conquers himself is the greatest victor.<br>
+> One way overcome a thousand men in battle ,but he who conquers himself is the greatest victor.
 > --- Nehru
 >
 > 一个人能够在战场上制胜千军，但只有战胜自己才是最伟大的胜利者。<br>

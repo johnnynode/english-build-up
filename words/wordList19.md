@@ -420,3 +420,89 @@
   * 例句：  Everyone in the room seems uneasy about the mere mention of this name.
   * 翻译：  只是提了一下这个名字，屋里所有人看起来都很不安。
   <br>
+
+---
+###
+
+- coalition
+  * 词义：  n.结合体，同盟；结合，联合
+  * 例句：  Many countries joined the coalition against terrorism.
+  * 翻译：  许多国家结成了反对恐怖主义的同盟。
+  <br>
+
+- identity
+  * 词义：  n.身份，个性，特性； 同一(性)； 相同，一致。
+  * 例句：  Both sides reached an identity of view in terms of urban construction.
+  * 翻译：  双方就城市建设问题达成一致。
+  <br>
+
+- baseball
+  * 词义：  n.棒球
+  * 例句：  The pitcher gave the baseball a quick cast.
+  * 翻译：  投手把棒球飞快地扔了出去。
+  <br>
+
+- essence
+  * 词义：  n.本质，实质
+  * 例句：  Edward is in essence a reclusive sort.
+  * 翻译：  爱德华骨子里有一种隐士的气质。
+  * 考点：  in essence 本质上，实质上
+  <br>
+
+- jam
+  * 词义：  n.果酱，阻塞，卡住， v.(使)阻塞， (使)卡住不动
+  * 例句：  They went towards the balcony, but got jammed by the crowd.
+  * 翻译：  他们朝戏院包厢走去，但被人群堵住了。
+  <br>
+
+- upper
+  * 词义：  a.较高的，上面的；上层的
+  * 例句：  My upper-class friends dine only in the finest restaurants.
+  * 翻译：  我的上层阶层的朋友们只在最好的饭店用餐。
+  <br>
+
+- organisation / organization
+  * 词义：  n.组织，机构，体制，结构
+  * 例句：  The students spontaneously formed this organization to protect the environment.
+  * 翻译：  同学们自发组织了这个团体来保护环境。
+  <br>
+
+- riddle
+  * 词义：  n.谜，谜语
+  * 例句：  Joey murmured and tried to make sense of the riddle.
+  * 翻译：  乔伊嘴里嘀咕着，想搞明白这个谜语的意思。
+  <br>
+
+- anniversary
+  * 词义：  n.周年(纪念日)
+  * 例句：  The couple will have a dinner party for their 10th wedding anniversary.
+  * 翻译：  这对夫妇将举办宴会庆祝结婚十周年。
+  <br>
+
+- complain
+  * 词义：  v.抱怨，申诉
+  * 例句：  Jack always complained that Christmas was too commercial.
+  * 翻译：  杰克总是抱怨圣诞节过于商业化。
+  <br>
+
+- comparative
+  * 词义：  a.比较的，相当的
+  * 例句：  I want to take comparative anatomy this year.
+  * 翻译：  今年我想上比较解剖这门课。
+  * 考点：  comparative validity 相对效度
+  * 参考：  compatible (a.协调的)
+  * 短语：  comparative advantage 相对优势
+  <br>
+
+- advertise
+  * 词义：  v.做广告
+  * 派生：  advertisement (n.广告) advertiser (n.登广告者)  advertising (n.广告业)
+  <br>
+
+> 名言：
+>
+> The people who get on in this world are the people who get up and look for circumstances they want, and if they cannot find them, make them.
+> --- Bernard Shaw
+>
+> 这个世界上取得成功的人，都努力去寻找他们想要的机会，如果找不到时，他们就自己创造机会。
+> --- 萧伯纳
