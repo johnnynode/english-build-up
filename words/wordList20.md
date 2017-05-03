@@ -69,3 +69,68 @@
   * 例句：  We need a cohesive social organization.
   * 翻译：  我们需要一个有凝聚力的社会组织。
   <br>
+
+---
+### 2017年05月03日 08:23:34
+
+- arise
+  * 词义：  vi.出现，发生； 由...引起，由...产生
+  * 例句：  While old conflicts fade, new tensions will arise.
+  * 翻译：  旧的冲突刚刚平息，新的紧张局势又要出现。
+  <br>
+
+- comply
+  * 词义：  vi. (with) 照做，遵照，应允
+  * 例句：  Everyone must comply with the rules of the game.
+  * 翻译：  每个人都必须遵守游戏规则。
+  <br>
+
+- barbecue
+  * 词义：  n.金属烤架， 烧烤野餐 vt.在烤架上烧烤
+  * 例句：  I had dinner with Jeff and we barbecued some steaks.
+  * 翻译：  我和杰夫一起吃饭，还烤了牛排。
+  <br>
+
+- assumption
+  * 词义：  n.假定，设想； 采取，承担；
+  * 例句：  The president succeeded in the army's assumption of power.
+  * 翻译：  总统成功地夺去了军权。
+  * 派生：  assumptive (a.假设的，傲慢的)
+  * 参考：  presumption (n.假定) consumption (n.消费) resumption (n.恢复)
+  <br>
+
+- interfere
+  * 词义：  vi.(in) 干涉，干预 ; (with) 妨碍，打扰
+  * 例句：  I've always tried not to interfere in your affairs.
+  * 翻译：  我一直尽量不去干涉你的事。
+  <br>
+
+- governor
+  * 词义：  n.总督，州(省)长，地方长官
+  * 例句：  The mayor met with the governor of California to discuss crime.
+  * 翻译：  市长与加州州长会晤讨论犯罪问题。
+  <br>
+
+- hut
+  * 词义：  n.小屋，棚屋
+  * 例句：  Jane lived in a hut with her mother after the death of her father.
+  * 翻译：  父亲死后，简跟母亲住在一间棚屋里。
+  <br>
+
+- cushion
+  * 词义：  n.垫子，坐垫
+  * 例句：  Paula put a cushion on the hard bench and sat down.
+  * 翻译：  保拉在硬硬的长椅上放了个垫子，然后坐了下来。
+  <br>
+
+- airline
+  * 词义：  n.航线； 航空公司
+  * 例句：  I'll call the airline and make your reservation right now.
+  * 翻译：  我马上给航空公司打电话给你订票。
+  <br>
+
+- plastic
+  * 词义：  n.塑料，塑料制品； a.塑料的，塑胶的
+  * 例句：  In order to protect the environment, we should use plastic bags as few as possible.
+  * 翻译：  为了环保，我们应少用塑料袋。
+  <br>
