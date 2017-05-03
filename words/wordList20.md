@@ -134,3 +134,70 @@
   * 例句：  In order to protect the environment, we should use plastic bags as few as possible.
   * 翻译：  为了环保，我们应少用塑料袋。
   <br>
+
+---
+### 2017年05月04日 00:39:30
+
+- budget
+  * 词义：  n.预算； vi.做预算
+  * 例句：  The schoolmaster wanted to cut down the school budget.
+  * 翻译：  校长想削减学校的预算。
+  * 短语：  annual budget 年度预算 // government budget 政府预算
+  * 考点：  budget office 预算局 // cut down the budget 减少预算
+  <br>
+
+- bowel
+  * 词义：  n.肠； 内部，深处
+  * 例句：  George has got a bowel cancer.
+  * 翻译：  乔治患上了肠癌。
+  <br>
+
+- haul
+  * 词义：  v.(用力)拖，拉
+  * 例句：  The layer of hay in the kitchen was finally hauled out of the house.
+  * 翻译：  厨房里的那层干草终于被拖出去了。
+  <br>
+
+- rail
+  * 词义：  n.栏杆，围栏；[pl] 铁路，铁轨，轨道
+  * 例句：  A tank car carrying poisonous gas ran off the rails last night.
+  * 翻译：  昨晚一辆载满毒气的油罐车脱轨了。
+  <br>
+
+- hook
+  * 词义：  n.钓，吊钩，钩状物 v.钩，钓鱼
+  * 例句：  The unlucky fisherman hooked nothing but shoes and cans.
+  * 翻译：  那个倒霉的渔夫除了鞋和罐头盒之外什么也没钓着。
+  <br>
+
+- bonus
+  * 词义：  n.奖金，红利
+  * 例句：  I promised Ross a five million bonus at the end of this year.
+  * 翻译：  我答应今年年底分给罗斯五百万的红利。
+  <br>
+
+- genetic
+  * 词义：  a.基因的，遗传(学)的
+  * 例句：  Scientists find that DNA provides the genetic information.
+  * 翻译：  科学家发现DNA提供一串信息。
+  * 派生：  genetically (ad. 由基因决定地)
+  <br>
+
+- assess
+  * 词义：  vt. 估价，评价
+  * 例句：  We need to find measurable ways to assess our employees' efforts.
+  * 翻译：  我们需要找到评估员工业绩的办法。
+  * 派生：  assessable (a.可估价的) assessment (n.估价)
+  <br>
+
+- filter
+  * 词义：  n.滤器，滤纸，滤嘴 vi.滤过，渗透
+  * 例句：  Sunlight filtered through the chinks of the shutters in the morning.
+  * 翻译：  早晨，阳光从百叶窗的缝隙中透了进来。
+  <br>
+
+- magnitude
+  * 词义：  n.大小，数量；巨大，广大，重要性，重要程度
+  * 例句：  I didn't realize the magnitude of this meeting and paid little attention to it.
+  * 翻译：  我没有意识到这次会议的重要性，一点也没重视它。
+  <br>
