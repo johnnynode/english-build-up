@@ -94,7 +94,7 @@
 - assumption
   * 词义：  n.假定，设想； 采取，承担；
   * 例句：  The president succeeded in the army's assumption of power.
-  * 翻译：  总统成功地夺去了军权。
+  * 翻译：  总统成功地夺取了军权。
   * 派生：  assumptive (a.假设的，傲慢的)
   * 参考：  presumption (n.假定) consumption (n.消费) resumption (n.恢复)
   <br>
@@ -200,4 +200,69 @@
   * 词义：  n.大小，数量；巨大，广大，重要性，重要程度
   * 例句：  I didn't realize the magnitude of this meeting and paid little attention to it.
   * 翻译：  我没有意识到这次会议的重要性，一点也没重视它。
+  <br>
+  
+---
+### 2017年05月05日 00:05:53
+
+- pendulum
+  * 词义：  n.摆，摆钟
+  <br>
+
+- financial
+  * 词义：  a.财政的，金融的
+  * 例句：  Singapore has emerged as a regional financial hub, despite its dearth of natural resources.
+  * 翻译：  尽管自然资源匮乏，新加坡还是崛起成为地区性的金融中心。
+  * 考点：  financial assistance 经济援助 // financial crisis 金融危机 // financial gain 经济利益
+  * 派生：  financially (ad.财政上，金融上)
+  <br>
+
+- abound
+  * 词义：  vi. (in) 富于，大量存在；充满 
+  * 例句：  This booming town abounds in employment opportunities.
+  * 翻译：  这个新兴的城镇就业机会很多。
+  <br>
+
+- structure
+  * 词义：  n.结构，构造；建筑物 vt.建筑，建造，组织，安排
+  * 例句：  The tutor structured the curriculum for Tony.
+  * 翻译：  家庭教师为托尼安排了课程。
+  * 派生：  structural (a.结构的，建筑的) // infrastructure(n.基础，基础结构) // restructure (v.重建，改组)
+  <br>
+
+- retreat
+  * 词义：  vi.撤退，退却； n.撤退，退却
+  * 例句：  The country made a painful retreat from the predominance over economy in the world.
+  * 翻译：  该国痛苦地失去了在全球经济中的优势地位。
+  <br>
+
+- innocent
+  * 词义：  a.清白的，无罪的； 无害的，没恶意的； 天真的，单纯的，无知的
+  * 例句：  Seeing these innocent children, I can't help recalling my own childhood.
+  * 翻译：  看到这些天真无邪的孩子，我不禁想起了自己的童年。
+  <br>
+
+- stereo
+  * 词义：  n.立体声； a.立体声的
+  * 例句：  I save up some money for the hi-fistereo player.
+  * 翻译：
+  <br>
+
+- inner
+  * 词义：  a.内部的，里面的； 内心的
+  * 例句：  Mary tried to keep her inner emotions to herself.
+  * 翻译：  玛丽努力掩饰自己内心的情感。
+  <br>
+
+- score
+  * 词义：  n.得分，分数；二十 v. 得(分) ， 记(...的) 分数
+  * 例句：  A score or more took part in the fancy dress ball.
+  * 翻译：  有20多人参加了化妆舞会。
+  <br>
+
+- ability 
+  * 词义：  n.能力，只能； [pl] 才能，才干。
+  * 短语：  academic ability 学术能力  
+  * 派生：  inability (n.无能)
+  * 参考：  capability (n.能力，性能) stability (n.稳定性) liability (n.倾向，责任) mutability (n.易变性) reliability(n.可靠性)
   <br>
