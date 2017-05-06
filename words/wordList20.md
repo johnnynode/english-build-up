@@ -266,3 +266,71 @@
   * 派生：  inability (n.无能)
   * 参考：  capability (n.能力，性能) stability (n.稳定性) liability (n.倾向，责任) mutability (n.易变性) reliability(n.可靠性)
   <br>
+  
+---
+### 2017年05月06日 22:39:37
+
+- thrust
+  * 词义：  v.刺，戳，插入； n.推力，刺，戳，插入
+  * 例句：  The king died of a fatal thrust.
+  * 翻译：  国王死于致命的刺伤。
+  <br>
+
+- behave
+  * 词义：  vi.举止，举动，表现； 运转，开动
+  * 例句：  How is your machine behaving?
+  * 翻译：  你的新机器运转的怎么样？
+  <br>
+
+- tan
+  * 词义：  n.黝黑 a.棕黑色； vi.晒黑
+  * 例句：  My body tans quickly in the hot summer sun.
+  * 翻译：  我的皮肤在夏日的炎炎烈日下很快就晒黑了。
+  * 同义：  sunburn (n.晒黑)
+  <br>
+
+- automobile
+  * 词义：  n.汽车 
+  * 例句：  The automobile industry is growing fast in our country.
+  * 翻译：  我国的汽车工业发展的很快。
+  <br>
+
+- unify
+  * 词义：  v.(使)联合，统一; (使)相同； (使或成)一致
+  * 例句：  We should agree on a unified basic price.
+  * 翻译：  我们应当在统一的基本价格上达成一致。
+  * 同义：  unite (v.联合，团结)
+  * 反义：  separate (v.分开，隔离) decentralize (v.使分散)
+  <br>
+
+- cue
+  * 词义：  n.提示，暗示，信号。
+  * 例句：  I think that you should take your cue from your sister in study.
+  * 翻译：  我认为你在学习方面应该向你姐姐学习。
+  <br>
+
+- dip
+  * 词义：  vt.浸，蘸，洗澡
+  * 例句：  After work, Tom liked to take a dip in the lake.
+  * 翻译：  下班后，汤姆喜欢去湖里泡一泡。
+  <br>
+
+- bruise
+  * 词义：  vt.使...受挫伤； 打青 n.伤痕，擦痕，青肿
+  * 例句：  The legal medical expert found no bruises on the victim's body.
+  * 翻译：  法医没有在受害人身上发现伤痕。
+  <br>
+
+- forecast
+  * 词义：  vt.预测，预报； n.预测，预报
+  * 例句：  I listen to the weather forecast every morning.
+  * 翻译：  我每天早晨都听天气预报。
+  * 派生：  forecaster (n.预报员)
+  <br>
+
+- access
+  * 词义：  n.接近，进入，接近(或进入)的方法； 入口，通道； 
+  * 例句：  An intruder used a superuser account, which gave him access to our whole system.
+  * 翻译：  入侵者使用了一个超级用户的账号进入了我们的整个系统。
+  * 派生：  accessible (a.可接近的) inaccessible (a.难以接近的)
+  <br>
