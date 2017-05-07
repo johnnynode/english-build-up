@@ -334,3 +334,68 @@
   * 翻译：  入侵者使用了一个超级用户的账号进入了我们的整个系统。
   * 派生：  accessible (a.可接近的) inaccessible (a.难以接近的)
   <br>
+  
+---
+### 2017年05月07日 10:58:06
+
+- flexible
+  * 词义：  a.柔韧的，易弯曲的； 灵活的，可变通的
+  * 例句：  After the accident, my ankle joint was no longer flexible.
+  * 翻译：  那次事故之后，我的踝关节没有以前那么灵活了。
+  * 短语：  a flexible schedule 可变通的日程表 // flexible working hours 弹性工作时间
+  * 派生：  flexibility (n.可变性，灵活性) flexibly (ad.柔韧地，灵活地)
+  <br>
+
+- alongside
+  * 词义：  prep. 在...旁边，横靠， 与...并肩； ad.并肩地，并排地
+  * 例句：  Parker walked through the lovely forest with his wife alongside.
+  * 翻译：  帕克与妻子并肩走过那片美丽的小树林。
+  <br>
+
+- humiliate
+  * 词义：  vt.使蒙羞，使丢脸
+  * 例句：  Maradona humiliated England in the quarter final of the 1986 World Cup.
+  * 翻译：  在1986年世界杯的四分之一决赛中，马拉多纳让英格兰队蒙羞。
+  <br>
+
+- appliance
+  * 词义：  n.用具，器具
+  * 考点：  home/domestic appliances 家用电器
+  <br>
+
+- clause
+  * 词义：  n.条款，从句，分句
+  * 例句：  The two coordinate clauses are joined by "and".
+  * 翻译：  那两个并列分句由“and” 连接。
+  <br>
+
+- conspicuous
+  * 词义：  a.显眼的，明显的
+  * 例句：  One very conspicuous feature in the character of American women is their self-control and independence.
+  * 翻译：  美国妇女中一个非常显著的特点就是自控和独立。
+  * 同义：  noticeable (a.显而易见的) striking (a.显著的，突出的)
+  <br>
+
+- peach
+  * 词义：  n.桃，桃树
+  <br>
+
+- protest
+  * 词义：  v.抗议，反对(某事物) n.抗议，反对
+  * 例句：  Burning flags is a means of political protest.
+  * 翻译：  焚烧旗帜是一种政治抗议手段。
+  * 短语：  an official protest 正式抗议
+  * 参考：  protect (vt.保护)
+  <br>
+
+- straw
+  * 词义：  n.稻草，麦秆； 吸管
+  * 例句：  Sophia put the straw to her lips and sucked.
+  * 翻译：  索菲亚把吸管放在嘴里吸着。
+  <br>
+
+- strife
+  * 词义：  n.冲突，斗争，纷争，竞争
+  * 例句：  The controversial bill caused much strife in Congress.
+  * 翻译：  这一颇有争议的议案在国会里引起了很大的纷争。
+  <br>
