@@ -497,8 +497,8 @@
   <br>
 
 
-> A centain amount of care or pain or trouble is necessary for every man at all times. A ship without ballast is unstable and will not go straight.
-> - Arthur Schopenhauer
+> A centain amount of care or pain or trouble is necessary for every man at all times. A ship without ballast is unstable and will not go straight.<br>
+> -- Arthur Schopenhauer
 >
-> 一定的忧愁，痛苦活烦恼，对每个人都是时时必需的。一艘船如果没有压舱物，便不会稳定，不能朝着目的地一直前进。
-> - 亚瑟·叔本华
+> 一定的忧愁，痛苦活烦恼，对每个人都是时时必需的。一艘船如果没有压舱物，便不会稳定，不能朝着目的地一直前进。<br>
+> -- 亚瑟·叔本华

@@ -510,8 +510,8 @@
 
 > 名言：
 > If you wish to succeed, you should use persistence as your good friend, experience as your reference, prudence as your brother
-> and hope as your sentry.
+> and hope as your sentry.<br>
 > -- Thomas Edison
 
-> 如果你希望成功，当恒心为良友，以经验为参谋，以谨慎为兄弟，以希望为哨兵。
+> 如果你希望成功，当恒心为良友，以经验为参谋，以谨慎为兄弟，以希望为哨兵。<br>
 > -- 爱迪生.T.

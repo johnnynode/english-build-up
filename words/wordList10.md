@@ -507,8 +507,8 @@
 
 > 名言：
 >
-> Fear not that the life shall come to an end, but rather fear that it shall never have a beginning.
+> Fear not that the life shall come to an end, but rather fear that it shall never have a beginning.<br>
 > - J.H.Newman
 
-> 不要担心你的生活将要结束，应该担心你的生活永远不会真正开始。
+> 不要担心你的生活将要结束，应该担心你的生活永远不会真正开始。<br>
 > - 纽曼

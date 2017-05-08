@@ -501,8 +501,8 @@
 
 > 名言：
 >
-> The people who get on in this world are the people who get up and look for circumstances they want, and if they cannot find them, make them.
-> --- Bernard Shaw
+> The people who get on in this world are the people who get up and look for circumstances they want, and if they cannot find them, make them.<br>
+> -- Bernard Shaw
 >
-> 这个世界上取得成功的人，都努力去寻找他们想要的机会，如果找不到时，他们就自己创造机会。
-> --- 萧伯纳
+> 这个世界上取得成功的人，都努力去寻找他们想要的机会，如果找不到时，他们就自己创造机会。<br>
+> -- 萧伯纳

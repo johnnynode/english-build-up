@@ -399,3 +399,102 @@
   * 例句：  The controversial bill caused much strife in Congress.
   * 翻译：  这一颇有争议的议案在国会里引起了很大的纷争。
   <br>
+  
+---
+### 2017年05月08日 20:55:55
+
+- detect
+  * 词义：  vt. 察觉，发觉； 侦察，探测
+  * 例句：  The police detected drugs hidden in the car.
+  * 翻译：  警察侦察出车中藏有毒品。
+  <br>
+
+- reconcile
+  * 词义：  vt.使和好,调解，使调和； 使一致
+  * 例句：  A mediator reconciled the differences between the two sides.
+  * 翻译：  仲裁人消除了双方的分歧，使他们达成了一致。
+  * 派生：  reconciliation (n.分解，调和)
+  * 考点：  reconcile to 顺从，服从
+  <br>
+
+- joint 
+  * 词义：  n.接合处，接头, 接缝； 关节，骨节 a.联合的，共同的，连接的。
+  * 例句：  By joint unspoken agreement, they quickened their pace in the same direction.
+  * 翻译：  他们彼此心照不宣，朝着相同的方向加快了脚步。
+  * 短语：  a joint-venture 合资企业
+  * 派生：  jointly (ad.共同地，连带地)
+  <br>
+
+- militant
+  * 词义：  a.好战的，好斗的； n.激进分子
+  * 例句：  The young militants protested against the war.
+  * 翻译：  年轻的激进分子反对战争。
+  * 派生：  militantly (ad.好战地；激进地)
+  <br>
+
+- graceful
+  * 词义：  a.优美的，文雅的
+  * 例句：  Waltz, rumba and tango are all so graceful.
+  * 翻译：  华尔兹、巴伦和探戈这几种舞蹈都非常优雅。
+  <br>
+
+- diplomatic
+  * 词义：  a.外交的，从事外交的； 有策略的，有手腕的
+  * 例句：  The politician realized he had to be more diplomatic.
+  * 翻译：  政治家意识到自己必须更有策略才行。
+  <br>
+
+- productive
+  * 词义：  a.生产(性)的，能产的，多产的
+  * 短语：  expand productive forces 发展生产力 // a productive writer 多产的作家 // a productive meeting 卓有成效的会议
+  * 派生：  productively (ad.有结果地,有成果地)
+  * 同义：  fruitful (a.多产的，富有成果的)
+  * 反义：  unproductive (a.不生产的; 生产不多的; 徒劳的)
+  <br>
+
+- bankrupt
+  * 词义：  a.破产的；
+  * 例句：  That firm went bankrupt because it couldn't pay the loans.
+  * 翻译：  那家公司因不能偿还贷款而破产。
+  <br>
+
+- paradise
+  * 词义：  n.天堂
+  * 例句：  The land is a green paradise for birds.
+  * 翻译：  这片土地是鸟儿的绿色天堂。
+  * 同义：  heaven (n.天空，天堂)
+  * 反义：  hell (n.地狱，苦境)
+  <br>
+
+- affect
+  * 词义：  vt.影响，感动，感染
+  * 例句：  The love story affected all of us deeply.
+  * 翻译：  这个爱情故事深深地打动了我们所有人。
+  * 派生：  unaffected (a.未受影响的)
+  <br>
+  
+- belief
+  * 词义：  n.信仰，信条； 相信，信念
+  * 例句：  Mary is holding an abiding belief that science and logic will unlock the mysteries of the plague.
+  * 翻译：  玛丽一直坚信科学和推理会解开瘟疫之谜。
+  * 参考：  believer (n.信徒) unbelieving (a.不相信的)
+  <br>
+  
+- sigh
+  * 词义：  n.叹息，叹息声； vi.叹息，叹气
+  * 例句：  I was not the man to sigh and cry for love.
+  * 翻译：  我不是那种为爱情叹息和哭泣的男人。
+  <br>
+  
+- signal
+  * 词义：  n.信号，暗号 v.发信号，用信号通知
+  * 参考：  signpost (n.路标)
+  <br>
+  
+> 名言
+> 
+> No pain, no palm; no thorns, no throne; no gall, no glory; no cross, no crown.<br>
+> -- William Penn
+>
+> 没有播种，何来收获；没有荆棘，何来王座；没有磨难，何来荣耀；没有挫折，何来辉煌。<br>
+> -- 佩恩.W.

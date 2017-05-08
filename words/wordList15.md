@@ -490,8 +490,8 @@
 
 > 名言：
 >
-> Strength alone knows conflict, weakness is below even defeat, and is born vanquished.
+> Strength alone knows conflict, weakness is below even defeat, and is born vanquished.<br>
 > - Swetchine
 >
-> 只有强者才懂得斗争；弱者甚至失败都不够资格，而是生来就是被征服的。
+> 只有强者才懂得斗争；弱者甚至失败都不够资格，而是生来就是被征服的。<br>
 > - 斯威特切尼

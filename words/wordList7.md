@@ -481,8 +481,8 @@
 > 名言：
 >
 > As fruit needs not only sunshine but cold nights and chilling showers to ripen it,
-> so character needs not only joy but trial and difficulty to mellow it.
+> so character needs not only joy but trial and difficulty to mellow it. <br>
 > -- Hugh Black
 
-> 水果不仅需要阳光，也需要凉夜。寒冷的雨水能使其成熟。人的性格陶冶不仅需要欢乐，也需要考验和困难。
+> 水果不仅需要阳光，也需要凉夜。寒冷的雨水能使其成熟。人的性格陶冶不仅需要欢乐，也需要考验和困难。<br>
 > 布莱克.H.

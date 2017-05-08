@@ -578,10 +578,10 @@
 
 > 名言：
 >
-> The world won't care about your self-esteem.
-> The world will expect you to accomplish something before you feel good about yourself.
+> The world won't care about your self-esteem.<br>
+> The world will expect you to accomplish something before you feel good about yourself.<br>
 > -- Bill Gates
 >
-> 这世界并不会在意你的自尊。
-> 这世界指望你在自我感觉良好之前先要有所成就。
+> 这世界并不会在意你的自尊。<br>
+> 这世界指望你在自我感觉良好之前先要有所成就。<br>
 > -- 比尔·盖茨

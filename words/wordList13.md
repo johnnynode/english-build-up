@@ -502,8 +502,8 @@
 
 > 名言：
 >
-> We must accept finite disappointment, but we must never lose infinite hope.
+> We must accept finite disappointment, but we must never lose infinite hope.<br>
 > - Martin Luther King
 >
-> 我们必须接受失望，因为它是有限的，但千万不可失去希望，因为它是无穷的。
+> 我们必须接受失望，因为它是有限的，但千万不可失去希望，因为它是无穷的。<br>
 > - 马丁·路德·金

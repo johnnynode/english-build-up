@@ -489,8 +489,8 @@
   * 翻译：  有没有人相信我们将在余下的几场比赛中赶上他们？
   <br>
 
-> A man can fail many times, but he isn't failure until he begins to blames somebody else
+> A man can fail many times, but he isn't failure until he begins to blames somebody else<br>
 > -J.Burroughs
 
-> 一个人可以失败很多次，但是只要他没有开始责怪旁人，他还不是一个失败者。
+> 一个人可以失败很多次，但是只要他没有开始责怪旁人，他还不是一个失败者。<br>
 > - 巴勒斯

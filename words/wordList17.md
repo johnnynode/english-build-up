@@ -486,8 +486,8 @@
 
 > 名言
 >
-> Only those who have the patience to do simple things perfectly ever acquire the skill to do difficult things easily.
+> Only those who have the patience to do simple things perfectly ever acquire the skill to do difficult things easily.<br>
 > - Friedirch Schiller
 >
-> 只有耐心圆满完成简单工作的人，才能够轻而易举的完成困难的事。
+> 只有耐心圆满完成简单工作的人，才能够轻而易举的完成困难的事。<br>
 > - 席勒.F.
