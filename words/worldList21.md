@@ -75,3 +75,69 @@
   * 派生：  restrained (a.克制的，受约束的)
   * 短语：  self-restrain 自制， restrain sb. from doing sth. 制止某人做某事。
   <br>
+  
+---
+### 2017年05月10日 22:19:44
+
+- execute
+  * 词义：  vt.实施，执行；
+  * 短语：  execute a plan 实行计划 // execute a policy 实施政策 // execute one's duty 履行职责  
+  * 派生：  execution (n.执行，完成，死刑)
+  <br>
+
+- lemon
+  * 词义：  n.柠檬
+  * 例句：  Nina puts some lemons into the juicer.
+  * 翻译：  尼娜把几个柠檬放进了榨汁机里。
+  <br>
+
+- mistress
+  * 词义：  n.女主人，主妇； 情妇，情人
+  * 例句：  Anna was shocked to learn that her husband had a mistress.
+  * 翻译：  得知丈夫有个情人，安娜大为震惊。
+  <br>
+
+- sovereign
+  * 词义：  n.群主，元首； 统治 a.拥有最高统治权的，至高无上的； 独立自主的，具有独立主权的
+  * 例句：  sovereign state 主权国家
+  * 派生：  sovereignty (n.主权)
+  * 同义：  emperor (a.皇帝，群主) supreme (a.至高无上的) independent (a.独立自主的)
+  <br>
+
+- swing
+  * 词义：  v.摇摆，摇荡；回转，旋转； n.秋千，摇摆，摆动
+  * 例句：  The children were riding on the swing.
+  * 翻译：  孩子们在荡秋千。
+  <br>
+
+- misled
+  * 词义：  vt.把...带错路， 使误入歧途
+  * 例句：  Tom's own vanity misled him. 
+  * 翻译：  汤姆的虚荣心使他误入歧途。
+  * 派生：  misleading (a.易误解的，令人误解的)
+  <br>
+
+- tame
+  * 词义：  a.驯服的，温顺的； 沉闷的，乏味的； vt.驯服，制服
+  * 例句：  The circus tigers have all been tamed.
+  * 翻译：  马戏团的老虎全都被驯服了。
+  <br>
+
+- pronoun
+  * 词义：  n.代词
+  * 例句：  In the sentence "I told Mary that she was next", "she" is a pronoun that refers to "Mary".
+  * 翻译：  在句子"我告诉玛丽她是下一位"中,"她"是一个代词，指"玛丽"。
+  <br>
+
+- heroic
+  * 词义：  a.英雄的，英勇的
+  * 例句：  Harry was very handsome, full of heroic spirit.
+  * 翻译：  哈里很英俊，而且充满英雄气概。
+  <br>
+
+- allowance 
+  * 词义：  n.津贴，补助(费)
+  * 例句：  You should make allowances for your hansband, since he has been very busy these days.
+  * 翻译：  你丈夫近来很忙，你应该体谅他。
+  * 考点：  make allowance(s) for 考虑到，顾及，体谅，原谅
+  <br>
