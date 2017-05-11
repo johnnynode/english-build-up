@@ -141,3 +141,71 @@
   * 翻译：  你丈夫近来很忙，你应该体谅他。
   * 考点：  make allowance(s) for 考虑到，顾及，体谅，原谅
   <br>
+  
+---
+### 2017年05月11日 22:13:17
+
+- preach
+  * 词义：  vt.宣讲(教义) ；竭力鼓吹，宣传，说教； vi.讲道，布道
+  * 例句：  The priest always preaches the Gospel.
+  * 翻译：  那位牧师总是宣讲福音。
+  <br>
+
+- sponsor
+  * 词义：  n.发起人，主办者；保证人；vt.发起，主办
+  * 例句：  The exhibition was sponsored by an independent group.
+  * 翻译：  展会是由一个独立团体主办的。
+  <br>
+
+- gallop
+  * 词义：  vi.奔驰，飞跑； n.奔驰，飞跑
+  * 例句：  To escape from the bull, I had to gallop across the field.
+  * 翻译：  为了摆脱这头公牛，我不得不飞奔着穿过田野。
+  * 短语：  at a gallop 以最快的速度，急速地
+  <br>
+
+- collection
+  * 词义：  n.收藏(品)，收集(物) 
+  * 例句：  This museum has a fine collection of paintings.
+  * 翻译：  该馆有一批精美的优化收藏品。
+  <br>
+
+- spine
+  * 词义：  n.脊骨，脊柱，脊椎；(动植物的)刺，刺毛；书脊
+  * 例句：  A hedgehog has spines.
+  * 翻译：  刺猬有刺。
+  <br>
+
+- prophet
+  * 词义：  n.先知，预言家
+  * 例句：  I am not a prophet, so I can't predict the future.
+  * 翻译：  我不是个先知，所以无法预知未来。
+  <br>
+
+- illuminate
+  * 词义：  vt.照亮，照明
+  * 例句：  The full moon illuminated the night sky.
+  * 翻译：  一轮满月当空照。
+  * 派生：  illuminating (a.启发的，照明的)
+  * 同义：  illustrate (vt.说明，阐明) demonstrate (vt.论证，证明)
+  <br>
+
+- poke
+  * 词义：  vt. (用棍棒、手指等)戳、捅或拨； n.戳，捅，拨
+  * 例句：  Mary was delighted with a poke in the face from her baby's tiny fist.
+  * 翻译：  宝宝的小拳头戳了一下玛丽的脸，把她逗乐了。
+  <br>
+
+- wholesome
+  * 词义：  a.卫生的，健康的； 有益于健康的，有益的
+  * 例句：  That old herbalist doctor extracted wholesome medicines from the bitter herbs.
+  * 翻译：  那位老中医从苦药草中提取出保健药。
+  * 短语：  wholesome surroundings 有益于健康的环境 // wholesome advice 忠告 // a wholesome look 健康的外表
+  <br>
+
+- comprehension
+  * 词义：  n.理解(力)， 领悟
+  * 例句：  The question is beyond the little boy's comprehension; after all, he is just a small child.
+  * 翻译：  这个问题超出了小男孩的理解力，毕竟他只是个孩子。
+  * 短语：  beyond one's comprehension 超出某人的理解力，不能领悟
+  <br>
