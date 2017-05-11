@@ -209,3 +209,70 @@
   * 翻译：  这个问题超出了小男孩的理解力，毕竟他只是个孩子。
   * 短语：  beyond one's comprehension 超出某人的理解力，不能领悟
   <br>
+  
+---
+### 2017年05月12日 06:50:50
+
+- grant
+  * 词义：  vt.同意，准予；给予，授予 n.授予
+  * 例句：  A grant of grand house was bestowed upon Bill for his excellent work.
+  * 翻译：  比尔因杰出的工作表现而获得一栋豪宅。
+  <br>
+
+- essay
+  * 词义：  n.文章，短文
+  * 例句：  Someone likes opening his or her essays with dictums.
+  * 翻译：  有人喜欢用格言作为文章的开头。
+  <br>
+
+- nylon
+  * 词义：  n.尼龙
+  * 例句：  Do you prefer gloves made from nylon or silk?
+  * 翻译：  你喜欢尼龙手套还是丝绸手套？
+  <br>
+
+- magic
+  * 词义：  n.魔法，魔术，戏法 a.有魔力的，魔术的
+  * 例句：  The witch poured a magic potion in her cauldron.
+  * 翻译：  巫婆在大锅里投入了一剂魔力药粉。
+  <br>
+
+- evolve
+  * 词义：  v.(使)发展,(使)进化
+  * 例句：  The whale evolved from a species of land-dwelling mammal.
+  * 翻译：  鲸是由一种陆生哺乳动物进化而来的。
+  <br>
+
+- incidentally
+  * 词义：  ad.附带地，顺便提及
+  * 例句：  Incidentally, did you remember to lock the house before you left?
+  * 翻译：  顺便问一下，你们走的时候锁门了吗？
+  <br>
+
+- immense
+  * 词义：  a.广大的，巨大的
+  * 例句：  The government will be building an immense stadium.
+  * 翻译：  政府打算建造一个巨大的露天运动场。
+  <br>
+
+- humanity
+  * 词义：  n.人类，人性，人情；人文科学
+  * 例句：  All the social sciences focus upon the study of humanities.
+  * 翻译：  所有的社会科学都集中于人文科学的研究。
+  * 参考：  humane (a.人道的) humanism (n.人道主义) humanist(n.人道主义者) inhuman (a.野蛮的)
+  <br>
+
+- tablet
+  * 词义：  n.药片，碑，匾，平板
+  * 例句：  The student each received a new tablet for drawing yesterday.
+  * 翻译：  昨天每个学生都领到了一块新画板。
+  <br>
+
+- thesis
+  * 词义：  n.论文；论题，论点
+  * 例句：  It took Jane three years to write her thesis.
+  * 翻译：  简花了三年时间写论文。
+  * 派生：  hypothesis (n.假设) 
+  * 同义：  dissertation (n.论文) discourse (n.论文，演讲) 
+  * 参考：  synthesis (n.综合，合成) photosynthesis (n.光合作用)
+  <br>
