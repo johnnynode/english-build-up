@@ -276,3 +276,68 @@
   * 同义：  dissertation (n.论文) discourse (n.论文，演讲) 
   * 参考：  synthesis (n.综合，合成) photosynthesis (n.光合作用)
   <br>
+  
+---
+### 2017年05月13日 07:26:18
+
+- item
+  * 词义：  n.条，条款，项目
+  * 例句：  The first item of the latest news stated that the serial killer had been caught.
+  * 翻译：  第一条最新消息就是那个连环杀手已经被铺了。
+  <br>
+
+- aircraft
+  * 词义：  n.飞行器，航空器，飞机
+  * 例句：  The helicopter is an extremely useful aircraft.
+  * 翻译：  直升机是一种非常有用的飞行器。
+  <br>
+
+- harbor / harbour
+  * 词义：  n.港口，海港，避难所，藏身处； vt.隐匿，窝藏，包庇
+  * 例句：  The researchers advanced the startling idea that subsurface ocean might harbor life.
+  * 翻译：  研究人员提出了一个惊人的观点，即这片海洋下面可能蕴藏着生命。
+  <br>
+
+- thoughtful
+  * 词义：  a.认真思考的，沉思的； 体贴的，关心的；富有思想的，颇有创见的。
+  * 例句：  Humans are thoughtful and creative, possessed of insatiable curiosity.
+  * 翻译：  人类有思想，有创造力，还有永不满足的好奇心。
+  <br>
+
+- violin
+  * 词义：  n.小提琴
+  * 短语：  play the violin 拉小提琴
+  * 派生：  violinist (n.小提琴家)
+  <br>
+
+- typewriter
+  * 词义：  n. 打字机 
+  * 例句：  Can you use a typewriter or other office machines?
+  * 翻译：  你会使用打字机或其他办公设备吗？
+  <br>
+
+- breeze
+  * 词义：  n. 微风，和风
+  * 例句：  A fresh spring breeze fanned Robert's face.
+  * 翻译：  一阵清新的春风轻拂过罗伯特的脸庞。
+  <br>
+
+- dubious
+  * 词义：  a.有问题的，靠不住的； 半信半疑的，可疑的； 结果未定的，不能确定的。
+  * 例句：  I don't believe you because I remain dubious about your motives.
+  * 翻译：  我不相信你，因为我对你的动机仍然存在疑虑。
+  * 短语：  a dubious reply 含糊的回答。
+  * 派生：  dubiously (ad.未定的，含糊地，可疑地)
+  * 同义：  doubtful (adj.可疑的，不确定的) questionable (adj. 可疑的)
+  <br>
+
+- waterproof
+  * 词义：  a.防水的，耐水的
+  * 短语：  waterproof material 防水材料
+  <br>
+
+- presumably
+  * 词义：  ad.推测起来，大概
+  * 例句：  Richard heard a noise in the backyard, and then called out the name "Harvey", presumably his dog's name.
+  * 翻译：  听到后院里有东京，理查德叫了一声“哈维”， 那大概是他的狗的名字。
+  <br>
