@@ -341,3 +341,71 @@
   * 例句：  Richard heard a noise in the backyard, and then called out the name "Harvey", presumably his dog's name.
   * 翻译：  听到后院里有东京，理查德叫了一声“哈维”， 那大概是他的狗的名字。
   <br>
+  
+---
+### 2017年05月14日 15:42:09
+
+- gigantic
+  * 词义：  a.巨大的，庞大的；
+  * 例句：  Titanic sank when it struck a gigantic iceberg.
+  * 翻译：  泰坦尼克号在撞击巨大的冰山后沉没了。
+  * 同义：  colossal (a.巨大的，庞大的) enormous (a.巨大的，极大的)
+  * 反义：  tiny (a.极小的，微小的) microscopic (a.极小的)
+  <br>
+
+- origin
+  * 词义：  n.起源，由来；出身，来历
+  * 例句：  The politician was of mixed origins.
+  * 翻译：  那名政客背景复杂。
+  * 短语：  the origins of civilization 文明的起源 // the origin of a dispute 争端的起因
+  <br>
+
+- poisonous
+  * 词义：  a.有毒的
+  <br>
+
+- integral
+  * 词义：  a.构成整体所必须的； 完整的
+  * 例句：  Steel is the integral part of a modern skyscraper.
+  * 翻译：  钢铁是现代摩天大厦不可或缺的部分。
+  <br>
+
+- slip
+  * 词义：  vi. 滑，滑倒，滑落； 溜走 n.疏忽，小错，口误，笔误； 纸片，纸条
+  * 例句：  The meeting was so boring, so we slipped out in less than half an hour.
+  * 翻译：  这个会太无聊了，所以没到半小时我们就偷偷溜了。
+  <br>
+
+- emigrate
+  * 词义：  vi.(to/from) 自本国移居他国
+  * 例句：  Jerry emigrated from Britain to Australia to find work.
+  * 翻译：  为了找工作,杰里从英国移居到了澳大利亚。
+  * 参考：  immigrate (vi.移来) migrate (vi.迁徙)
+  <br>
+
+- ideal
+  * 词义：  a.理想的，完美的 n. 完美典型，典范；理想
+  * 例句：  David finds it hard to live up to his ideals.
+  * 翻译：  戴维发现按自己的理想做事很难。
+  <br>
+
+- scandal
+  * 词义：  n.丑闻，恶意诽谤，流言蜚语，反感，愤慨
+  * 例句：  The news about the minister's private life caused a scandal.
+  * 翻译：  有关部长私生活的新闻激起了人们的愤慨。
+  <br>
+
+- succession
+  * 词义：  n.连续，系列；继任，继承
+  * 例句：  Marty shot four of five times in succession but all missed.
+  * 翻译：  马蒂一连射击了四五次，但都脱靶了。
+  * 短语：  the succession of seasons 四季的交替
+  * 考点：  in succession 连续地 // a succession of 一系列的 // in succession to 接替...的(地)，继承...的(地)
+  <br>
+
+- radiate
+  * 词义：  v.放射，辐射；散步，传播
+  * 例句：  The city always been the core from which cultural advancement has radiated.
+  * 翻译：  城市通常是文化进步得以传播的中心
+  * 派生：  radiation (n.发散，辐射)
+  <br>
