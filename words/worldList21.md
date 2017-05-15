@@ -409,3 +409,87 @@
   * 翻译：  城市通常是文化进步得以传播的中心
   * 派生：  radiation (n.发散，辐射)
   <br>
+  
+---
+### 2017年05月15日 22:46:48
+
+- influential
+  * 词义：  a.有影响的，有权势的
+  * 例句：  Kate is an editor of the most influential newspaper in New York.
+  * 翻译：  凯特是纽约最具影响力的报纸编辑。
+  <br>
+
+- recite
+  * 词义：  v.背诵，朗诵
+  * 例句：  The little boy could recite the dates of important historical events.
+  * 翻译：  那个小男孩能背出重大历史事件的日期。
+  * 派生：  recitation (n.背诵，朗诵)
+  <br>
+
+- clue
+  * 词义：  n.线索，暗示
+  * 例句：  The polite found a clue which would help them catch the murderer.
+  * 翻译：  警察发现了可以帮助他们抓住杀人犯的线索。
+  <br>
+
+- repetition
+  * 词义：  n.反复，重复
+  * 例句：  This accident is a repetition of one that happened here two weeks ago.
+  * 翻译：  这起车祸是两星期前在这里发生过的一起车祸的重演。
+  <br>
+
+- documentary
+  * 词义：  a.文献的； n.纪录片
+  * 例句：  We shouldn't ignore the importance of documentary veracity.
+  * 翻译：  我们不应该忽视文献准确的重要性。
+  <br>
+
+- charter
+  * 词义：  vt.租船，租车。 n.宪章，契约
+  * 例句：  This charter will run out in 2020.
+  * 翻译：  这一契约将于2020年到期。
+  <br>
+
+- govern
+  * 词义：  v.统治，管理；支配，约束；
+  * 例句：  The dollar's slide is being governed by international factors.
+  * 翻译：  美元疲软受国际因素影响。
+  * 参考：  government (n.政府) // government-funded (a.政府提供资金的) // self-governing (a.自治的)
+  <br>
+
+- external
+  * 词义：  a.外部的，外面的
+  * 例句：  One should never judge a person by external appearances.
+  * 翻译：  不要以貌取人。
+  * 短语：  an external wound 外伤 // external pressure 外界压力 // external affairs 外交事物 
+  * 参考：  internal (a.外部的，内在的)
+  <br>
+
+- sheer
+  * 词义：  a.纯粹的，十足的，全然的； 陡峭的，险峻的
+  * 例句：  The climbers slowly inched up the sheer slope.
+  * 翻译：  登山者慢慢爬上陡峭的斜坡。
+  * 短语：  by sheer chance 纯属偶然的
+  <br>
+
+- multitude
+  * 词义：  n.众多，大量
+  * 例句：  The teacher was followed by a multitude of children.
+  * 翻译：  这位老师后面跟着一大帮孩子。
+  * 考点：  multitudes of 大量的
+  * 同义：  mass (n.团，众多， [pl] 群众，民众)
+  <br>
+  
+- fertile
+  * 词义：  a.肥沃的，富饶的； 能繁殖的  
+  * 例句：  This fish are very fertile; they lay thousands of eggs every year.
+  * 翻译：  这种鱼繁殖能力很强，每年会产下成千上万的卵。
+  * 短语：  fertile land / fertile fields / fertile soil 肥沃的土地 // fertile egg 受精卵
+  <br>
+
+- glare
+  * 词义：  n.怒视，瞪眼；闪耀，闪光； vi.怒视，瞪眼； 闪耀，闪光  
+  * 例句：  The sun glared through the water
+  * 翻译：  阳光下的水面波光粼粼。
+  * 同义：  scowl (vi.皱眉，作怒容) // blaze (vi.发(强)光，放光彩) n.光辉，强烈(或)炫目的光 // dazzle (n.耀眼的光) 
+  <br>
