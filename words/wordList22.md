@@ -70,3 +70,73 @@
   * 翻译：  如果你继续那样对我的话，我就跟你离婚。
   * 派生：  divorced (a.离婚的，离异的)
   <br>
+  
+---
+### 2017年05月17日 06:42:11
+
+- discrepancy
+  * 词义：  n.不同，矛盾
+  * 例句：  Some children have an unexplained discrepancy with their parents.
+  * 翻译：  有些孩子和父母之间存在一些莫名的矛盾。
+  * 同义：  difference (n.差别，分歧)
+  * 反义：  accord (n.一致，符合)
+  <br>
+
+- observe
+  * 词义：  vt.遵守，奉行； 观察，注意到，看到
+  * 例句：  The Hubble space Telescope can observe some of the oldest stars in the sky.
+  * 翻译：  哈勃太空望远镜可以观察到天空中最古老的星星。
+  * 派生：  observable (a.应遵守的，看得见的) observer (n.遵守着，观察者)
+  <br>
+
+- reinforce
+  * 词义：  vt.增援，加强
+  * 例句：  The test is intended to reinforce what you have learnt in the past few weeks.
+  * 翻译：  这次检测的目的是强化你前几个星期所学的知识。
+  <br>
+
+- implement
+  * 词义：  vt.使生效，实施，执行，贯彻； n.工具，器具
+  * 例句：  We need sharp implements to open the cardboard box.
+  * 翻译：  我们需要锋利的工具来打开这个纸板箱。
+  * 派生：  implementation (n.贯彻，实现)
+  <br>
+
+- commence
+  * 词义：  v.开始
+  * 例句：  The second show commences ten minutes later.
+  * 翻译：  第二场演出将于十分钟后开始。
+  <br>
+
+- dismiss
+  * 词义：  vt.免职，解雇，开除，解散； 
+  * 例句：  The chairman of the board pressed on me the unpleasant job of dismissing good workers the firm can no longer afford to employ.
+  * 翻译：  董事长硬将一项棘手的工作派给我，让我解雇那些公司无力支付薪水的优秀员工。
+  <br>
+
+- pump
+  * 词义：  n.泵 vt. 用泵抽运(水，气等) 给...打气
+  * 例句：  Whenever I felt depressed, my dad will pump gas for me.
+  * 翻译：  无论我什么时候感到沮丧，爸爸都会为我打气。
+  <br>
+
+- lateral
+  * 词义：  a.侧面的，旁边的；
+  * 例句：  Pinch out the lateral buds to get large blooms.
+  * 翻译：  将侧面的蓓蕾减除，能使花开得很大。
+  * 考点：  lateral move 平行移动，(职位的) 平级调动
+  <br>
+
+- counsel
+  * 词义：  vt.劝告，忠告； n.劝告，忠告，法律顾问，辩护人。
+  * 例句：  Tom won a position as inhouse counsel for a company.
+  * 翻译：  汤姆得到了一份担任公司内部法律顾问的工作。
+  * 派生：  counseling (n.咨询服务)
+  <br>
+
+- sneeze
+  * 词义：  vi. 打喷嚏，发出喷嚏声； n.喷嚏
+  * 例句：  Kelly let me out a huge sneeze.
+  * 翻译：  凯里打了一个大喷嚏。
+  * 参考:   freeze (v.(使)结冰) breeze (vi.吹风)
+  <br>
