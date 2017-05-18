@@ -204,3 +204,66 @@
   * 例句：  In the first morning of Spring Festival, the mother clothed her children in new garments.
   * 翻译：  春节的第一个早晨，妈妈给孩子们穿上了新衣服。
   <br>
+  
+---
+### 2017年05月19日 07:18:35
+
+- melody
+  * 词义：  n.旋律，曲调，歌曲
+  <br>
+
+- abrupt
+  * 词义：  a.突然的，意外的，(举止，言谈等)唐突的，鲁莽的
+  * 例句：  I have been struck by Paul's awkward look and abrupt manner.
+  * 翻译：  保罗笨拙的样子和唐突的举止给我留下了深刻的印象。
+  * 同义：  unexpected (a.出人意料的)
+  <br>
+
+- climate
+  * 词义：  n.气候，风气，社会思潮
+  * 例句：  The growth of economy depends on a healthy political climate.
+  * 翻译：  经济的增长依赖于良好的政治风气。
+  * 派生：  climatic (a.气候的，与气候有关的)
+  <br>
+
+- marathon
+  * 词义：  n.马拉松赛跑，马拉松式的活动(或工作) a.马拉松式的
+  * 例句：  The football players volunteered for a marathon journey which lasted for 56 hours.
+  * 翻译：  足球选手们自愿参加了一项长达56小时的马拉松式旅行。
+  <br>
+
+- disrupt
+  * 词义：  vt.使破裂，使分裂，使瓦解； 扰乱，使中断
+  * 例句：  Divorce will disrupt your entire life.
+  * 翻译：  离婚将扰乱你的整个生活。
+  <br>
+
+- hierarchy
+  * 词义：  n.等级制度，统治集团，领导者  
+  * 例句：  We'll have to have the hierarchy's guidelines.
+  * 翻译：  我们必须要有领导的指引。
+  <br>
+
+- ozone
+  * 词义：  n.臭氧，新鲜空气
+  * 例句：  The couple drove to the seaside to breathe the ozone every weekend.
+  * 翻译：  那对夫妇每个周末都驱车去海边呼吸新鲜空气。
+  <br>
+
+- pyramid
+  * 词义：  n.金字塔
+  * 例句：  The ancient Egyptians built pyramids as places to bury their kings and queens.
+  * 翻译：  古埃及人修建金字塔来埋葬他们的国王和王后。
+  <br>
+
+- flash
+  * 词义：  n.闪光，闪现； vi.闪光，闪亮 vt. 闪现
+  * 例句：  Mary's eyes flashed anger and defiance at Tom.
+  * 翻译：  玛丽看着汤姆，眼中闪现出愤怒与轻蔑。
+  <br>
+
+- thrift
+  * 词义：  n.节俭，节约
+  * 例句：  By thrift, Tom managed to get along on his small salary.
+  * 翻译：  汤姆省吃俭用才能以微薄的薪水度日。
+  <br>
