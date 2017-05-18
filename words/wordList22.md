@@ -140,3 +140,67 @@
   * 翻译：  凯里打了一个大喷嚏。
   * 参考:   freeze (v.(使)结冰) breeze (vi.吹风)
   <br>
+  
+---
+### 2017年05月18日 21:49:05
+
+- alienate
+  * 词义：  vt. 使疏远，使(与某群体)格格不入； 使不友好，离间
+  * 例句：  An experienced critic said that the latest tax proposals will alienate many voters.
+  * 翻译：  一位经验丰富的评论家说道，最新的税收提案将会失去很多选民的支持。
+  <br>
+
+- raid
+  * 词义：  n.袭击，侵袭
+  * 例句：  We need the best soldiers for a raid on the enemy's base.
+  * 翻译：  我们需要最好的战士去突袭敌人的基地。
+  <br>
+
+- agency
+  * 词义：  n. 代理(处)，代办处，机构
+  * 短语：  Xinhua News Agency 新华社 // an employment agency 职业介绍所。  
+  <br>
+
+- exchange
+  * 词义：  vt. 交换，互换；调换，更换； n.交换，调换，兑换； 交流，交易； 交换台，交易所。
+  * 例句：  Is five apples for five eggs a fair exchange?
+  * 翻译：  用五个苹果换五个鸡蛋公平吗？
+  * 考点：  stock exchange 证券交易所。
+  <br>
+
+- ruby
+  * 词义：  n.红宝石
+  * 例句：  My necklace is made of rubies.
+  * 翻译：  我的项链是红宝石制成的。
+  <br>
+
+- cable
+  * 词义：  n.电报，电缆，索，钢丝绳； 有线电视； vi.拍电报
+  * 短语：  send a cable 发送电报
+  <br>
+
+- restore
+  * 词义：  vt.恢复，使复原； 归还，交换； 修复，重建
+  * 例句：  The managers planned to have the plane restored.
+  * 翻译：  管理人员打算请人修复这架飞机。
+  * 派生：  restorative (a.恢复健康(体力)的，滋补的)
+  <br>
+
+- reckon
+  * 词义：  vt.认为，估计； 计算，测算； vi.指望，想要
+  * 例句：  We reckoned the bill of this month to be over $1000
+  * 翻译：  我们计算出本月的费用将超过一千美金。
+  * 考点：  reckon on 指望，依靠 // reckon with 处理，对付，估计到，预料到 
+  <br>
+
+- dumb
+  * 词义：  a. 哑的，无言的
+  * 例句：  The dolphin is dumb, but it seems to want to communicate with you.
+  * 翻译：  海豚不会说话，但它似乎想和你交流。
+  <br>
+
+- clothe
+  * 词义：  vt.(给...)穿衣,供给...衣服
+  * 例句：  In the first morning of Spring Festival, the mother clothed her children in new garments.
+  * 翻译：  春节的第一个早晨，妈妈给孩子们穿上了新衣服。
+  <br>
