@@ -267,3 +267,72 @@
   * 例句：  By thrift, Tom managed to get along on his small salary.
   * 翻译：  汤姆省吃俭用才能以微薄的薪水度日。
   <br>
+  
+---
+### 2017年05月20日 15:45:34 
+
+- pine
+  * 词义：  n.松树
+  * 相关：  aspen 白杨 // willow 柳树 // cypress 柏树 // silver birch 白桦 // maidenhair tree 银杏树 //
+            phoenix tree 梧桐 // maple 枫树
+  <br>
+
+- concern
+  * 词义：  vt.涉及，关系到；关心，挂念 n.关心，挂念，厉害(关系) 
+  * 例句：  Leave alone such questions as do not concern any of us.
+  * 翻译：  别讨论这些与我们无关的问题。
+  * 考点：  as/so far as sb. is concerned 在某人看来 // be concerned with 关心，挂念,从事 // concern oneself with 关心
+  * 派生：  concerned (a.关切的, 关注的) unconcerned (a.不关心的，不关注的)
+  <br>
+
+- clip
+  * 词义：  vt.剪，修剪 vi.钳，夹住 n.夹，钳，回形针 
+  * 例句：  These newspapers were held together with a metal clip.
+  * 翻译：  这些报纸被一个金属夹夹在一起了。
+  * 同义：  clutch (vt.紧握，紧抓)
+  <br>
+
+- sauce
+  * 词义：  n.酱汁，调味汁
+  * 例句：  The cook roasted the chicken well and basted it with cucumber sauce.
+  * 翻译：  厨师把鸡烤好并浇上了黄瓜酱。
+  <br>
+
+- fable
+  * 词义：  n.寓言
+  * 例句：  A fable is usually a short tale featuring animals that can talk and think like humans.
+  * 翻译：  寓言常是短小的股市，其特点是故事中的动物可以像人一样说话和思考。
+  <br>
+
+- legislation
+  * 词义：  n.法律，法规； 立法
+  * 例句：  Congress updated the obsolete commerce legislation.
+  * 翻译：  国会更新了陈旧的商业法规。
+  * 短语：  introduce a new legislation 推行新法规
+  <br>
+
+- attitude
+  * 词义：  n.态度, 看法, 姿势
+  * 例句：  What's your overall attitude towards the reform?
+  * 翻译：  您对这次改革总的看法是什么？
+  * 考点:   attitude to/towards 对...的态度
+  <br>
+
+- ferry
+  * 词义：  n.渡船 vt.渡运(人、车、物)
+  * 例句：  The captain ferried the cargo to the opposite shore.
+  * 翻译：  船长把货物渡运到了对岸。
+  <br>
+
+- frustrate
+  * 词义：  vt.使灰心，挫败，阻扰
+  * 例句：  The heavy rain frustrated our attempts to go fishing.
+  * 翻译：  大雨使我们的钓鱼计划落空了。
+  * 派生：  frustrated (a.令人灰心的) frustration (n.挫败，挫折)
+  <br>
+
+- favorite / favourite
+  * 词义：  n.最喜欢的人或物 a.特别喜欢的，中意的
+  * 例句：  His favorite hobby was collecting photographs of cars.
+  * 翻译：  他最喜欢的业余爱好是收集汽车照片。
+  <br>
