@@ -336,3 +336,74 @@
   * 例句：  His favorite hobby was collecting photographs of cars.
   * 翻译：  他最喜欢的业余爱好是收集汽车照片。
   <br>
+  
+---
+### 2017年05月21日 10:03:06
+
+- sofa
+  * 词义：  n.(长) 沙发
+  * 例句：  The sofa's very special and expensive.
+  * 翻译：  这张沙发很特别也很昂贵。
+  <br>
+
+- boot
+  * 词义：  n.(长筒) 靴
+  * 例句：  Turning his boot upside down, Robin poured out a handful of sand.
+  * 翻译：  罗宾把长筒靴倒过来，倒出了一把沙子。
+  <br>
+
+- merge
+  * 词义：  v.合并,并入，吞没
+  * 例句：  Advertisers want to merge music with commercials.
+  * 翻译：  广告商们想把音乐和广告融为一体。
+  * 派生：  merger (n.合并，归并) emerge (vi.浮现) submerge(v.淹没)
+  <br>
+
+- systematic
+  * 词义：  n.系统的，有组织的
+  * 例句：  We were asked to write a systematic treatise on environment protection before the final exam.
+  * 翻译：  期末考试前，我们还要写一篇系统介绍环境保护的论文。
+  <br>
+
+- deduce
+  * 词义：  vt.(from) 演绎，推断 
+  * 例句：  I can't deduce a conclusion from these facts.
+  * 翻译：  我无法从这些实事中推断出结论。
+  * 同根：  educe (vt.引出，得出) induce(vt.劝诱)
+  <br>
+
+- situated
+  * 词义：  a.坐落在...的
+  * 例句：  Many pretty villas, which are situated on the sides of the hills, came into view, as we drove to the town.
+  * 翻译：  我们驶向城镇的时候，许多坐落在两边山坡上的美丽别墅映入眼帘。
+  * 同义：  located (a.位于...的)
+  <br>
+
+- spur
+  * 词义：  n.靴刺，马刺，刺激，刺激物； vt.刺激，激励
+  * 例句：  Jack' father gave him a pair of boots with spur as birthday gift.
+  * 翻译：  杰克的父亲送他一双带靴刺的靴子作为生日礼物。
+  <br>
+
+- unexpected
+  * 词义：  a.想不到的，意外的
+  * 例句：  Upon hearing the unexpected news, Harry was so surprised that he could't utter a word.
+  * 翻译：  听到这个意想不到的消息，哈里吃惊得说不出话来。
+  * 派生：  unexpectedly (ad. 想不到地，出乎意料地)
+  <br>
+
+- decimal
+  * 词义：  a.十进位的，小数的 n.小数
+  * 例句：  The decimal numeral system is one of the most useful ways of expressing numbers.
+  * 翻译：  十进制的数字系统是最有效的计数方法之一。
+  * 例句：  We can add zero to the end of a decimal without affecting its value.
+  * 翻译：  我们可以在小数的末尾加零，这并不影响他的数值。
+  <br>
+
+- consequence
+  * 词义：  n.结果，后果，影响；重要性
+  * 例句：  You have to think about the consequences of your decision of investing all your savings in stock.
+  * 翻译：  你得想想把全部积蓄都投资股票的决定会带来什么样的后果。
+  * 考点：  in consequence 因此，结果 // in consequence of 由于...的缘故 
+  * 派生：  consequent (a.作为结果的，随之发生的)
+  <br>
