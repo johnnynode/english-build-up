@@ -407,3 +407,74 @@
   * 考点：  in consequence 因此，结果 // in consequence of 由于...的缘故 
   * 派生：  consequent (a.作为结果的，随之发生的)
   <br>
+  
+---
+### 2017年05月22日 05:02:53
+
+- generous
+  * 词义：  a. 宽宏大量的，慷慨的
+  * 例句：  Mary was friendly to everyone for her generous natures of love to forgive.
+  * 翻译：  玛丽生性宽宏大量，乐于宽恕他人，对每一个人都很友善。
+  * 派生：  generously (ad.宽大地，慷慨地)
+  <br>
+
+- pharmacy
+  * 词义：  n.药剂学，制药； 药店
+  * 例句：  Mr. Smith is a famous doctor and is good at pharmacy.
+  * 翻译：  史密斯先生是一位著名的医生，擅长配药。
+  * 例句：  You can buy the medicine in any pharmacy.
+  * 翻译：  你在任何一家药店都能买到这种药。
+  <br>
+
+- profession
+  * 词义：  n.职业，自由职业；公开表示
+  * 例句：  My father is a lawyer by profession.
+  * 翻译：  我父亲的职业是律师。
+  * 参考：  professed (a.公开声称的)
+  <br>
+
+- output
+  * 词义：  n.产量，输出(量)
+  * 考点：  input-output system 输入输出系统 // input-output balance 投入和产出平衡  
+  <br>
+
+-subordinate
+  * 词义：  a.次要的，从属的，下级的； n.部署，下级
+  * 例句：  The manager stared perplexedly at his subordinate and uttered a word or two of rough apology.
+  * 翻译：  经理困惑地看着下属，用一两句话简单地道了歉。
+  * 同义：  inferior (a.下等的，下级的) secondary (a.次要的，第二位的)
+  * 反义：  superior (a.上级的)
+  <br>
+
+- bizarre
+  * 词义：  a.奇异的，怪诞的
+  * 例句：  Mark frowns at his girlfriend's bizarre attire.
+  * 翻译：  马克对自己女朋友的奇装异服感到不满。
+  * 同义：  fantastic (a.奇异的，荒缪的) outlandish (a.古怪的，奇异的)
+  * 参考：  blizzard (n.大风雪)
+  <br>
+
+- vain
+  * 词义：  a.徒劳的，徒然的；自负的，虚荣的 n.徒劳，白费
+  * 例句：  Web business tried but in vain to control the market.
+  * 翻译：  网络公司试图控制市场，但只是徒劳。
+  * 考点：  in vain 徒劳，无效
+  <br>
+
+- layman
+  * 词义：  n.普通信徒(有别于神职人员)；门外汉，外行
+  * 例句：  There are great differences between a professional and a layman.
+  * 翻译：  专业人员和门外汉有着很大的差别。
+  <br>
+
+- soda
+  * 词义：  n.苏打水，汽水
+  * 例句：  victoria only ordered a cup of soda in the bar.
+  * 翻译：  维多利亚在酒吧里只点了一杯苏打水。
+  <br>
+
+- porcelain
+  * 词义：  n.瓷器； a.瓷的，瓷制的 
+  * 例句：  I broke a porcelain cup this morning.
+  * 翻译：  我今天早上打碎了一个瓷杯。
+  <br>
