@@ -478,3 +478,40 @@
   * 例句：  I broke a porcelain cup this morning.
   * 翻译：  我今天早上打碎了一个瓷杯。
   <br>
+  
+---
+### 2017年05月23日 06:28:12
+
+- violent
+  * 词义：  a.猛烈的，激烈的；暴力引起的，强暴的
+  * 例句：  Trade is the natural enemy of all violent passions.
+  * 翻译：  做生意最忌讳的就是头脑发热。
+  * 短语：  violent crimes 暴力犯罪 
+  * 派生：  violently (ad.猛烈地，激烈地；极端地)
+  <br>
+
+- mechanism
+  * 词义：  n.机械装置，机构； (产生自然现象等的)物理过程,机理，机制；机能
+  * 例句：  An automobile engine is a complex mechanism.
+  * 翻译：  汽车引擎是一种复杂的机械装置。
+  * 考点：  self-protecting mechanism 自我保护机能
+  <br>
+
+- disease
+  * 词义：  n.疾病，弊病
+  * 例句：  A balanced diet can help the body avoid many diseases.
+  * 翻译：  均衡的饮食能让身体远离很多疾病。
+  <br>
+
+- inaugurate
+  * 词义：  vt.开始，开展；为...举行就职典礼，使正式就任； 为...举行开幕式，为...举行落成仪式。
+  * 例句：  Obama was inaugurated as the 44th President of the United States in 2009.
+  * 翻译：  奥巴马于2009年正式就任第44任美国总统。
+  <br>
+
+> 名言：
+>
+> Travel hopefully is a better thing than to arrive, and true success is to labour.
+> --R.L. Stevenson
+> 满怀希望的旅行比到达目的地更美好，真正的成功在于努力的过程。
+> --R.L. 史蒂文森
