@@ -70,3 +70,74 @@
   * 辨别：  fundamental, basic, essential, vital
   * 派生：  fundamentally (ad.基础地，根本地)
   <br>
+  
+---
+### 2017年05月25日06:20:07
+
+- prone
+  * 词义：  a. 平卧的，俯卧的；(to) 易于做...的，倾向于...的
+  * 例句：  Tom is prone to be late for work.
+  * 翻译：  汤姆上班经常迟到。
+  <br>
+
+- absurd
+  * 词义：  a.荒唐的；
+  * 例句：  The plots in this movie are absurd.
+  * 翻译：  这部电影的情节荒唐。
+  * 同义：  ridiculous (a.荒缪的，可笑的)
+  * 参考：  obscure (a.模糊的，晦涩的) obsolete (a.已废弃的)
+  <br>
+
+- exceptional
+  * 词义：  a. 例外的，异常的；
+  * 短语：  an exceptional achievement 卓越的成就  
+  * 派生：  exceptionally (ad.例外地，异常地)
+  * 同义：  extraordinary (a.非常的，特别的) unusual (a.不平常的) 
+  * 反义：  ordinary (a.平常的，普通的) common (a.普通的)
+  <br>
+
+- ecology
+  * 词义：  n.生态学
+  * 例句：  The interest in ecology issues has led to the cleaning up of many rivers.
+  * 翻译：  人们对生态问题的关注使许多河流得到了清理。
+  <br>
+
+- operator
+  * 词义：  n. 操作人员， (电话)接线员
+  * 例句：  Jim's father was an elevator operator.
+  * 翻译：  吉姆的父亲是位电梯操作员。
+  * 参考：  operable (a.可操作的)
+  <br>
+
+- gallon
+  * 词义：  n.加仑
+  * 例句：  We buy a gallon of milk every week.
+  * 翻译：  我们每一星期都买一加仑牛奶。
+  <br>
+
+- unfold
+  * 词义：  v.展开，打开； 显露，展现。
+  * 例句：  The police unfolded the parcel and found a bomb in it.
+  * 翻译：  警察打开包裹，发现里面有一枚炸弹。
+  <br>
+
+- transplant
+  * 词义：  vt.移植
+  * 例句：  The surgeon has successfully transplanted a heart into the patient.
+  * 翻译：  外科医生成功地给病人移植了心脏。
+  * 考点：  transplant from ... to ... 从...迁移到...
+  * 同义：  graft (v.移植，移栽)
+  <br>
+ 
+- evaporate
+  * 词义：  v.(使)蒸发
+  * 例句：  When lakes evaporate, salts come out of solution and form crystals.
+  * 翻译：  湖水蒸发时，盐从湖水里析出并结晶。
+  * 同义：  vaporize (v.(使)蒸发)
+  <br>
+
+- scatter
+  * 词义：  v. (使人或动物) 散开，驱散； 散步，散播
+  * 例句：  The farmers scattered seeds in the field.
+  * 翻译：  农民们在地里播种。
+  <br>
