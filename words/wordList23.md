@@ -141,3 +141,69 @@
   * 例句：  The farmers scattered seeds in the field.
   * 翻译：  农民们在地里播种。
   <br>
+  
+---
+### 2017年05月26日 07:14:46
+
+- van
+  * 词义：  n.大篷车，货运车，有篷货运车厢
+  <br>
+
+- vanity
+  * 词义：  n.虚荣心，浮华
+  * 例句：  Ivan's vanity is hard to be gratified.
+  * 翻译：  伊万的虚荣心很难得到满足。
+  <br>
+
+- influence
+  * 词义：  n.(on)影响，作用；势力，权势；vt.影响，感化
+  * 例句：  It's clear that the artist's painting was influenced by Picasso.
+  * 翻译：  那位画家的画作显然收了毕加索的影响。
+  <br>
+
+- literature
+  * 词义：  n.文学，文学作品，文献
+  * 例句：  The writer won the Nobel Prize in literature.
+  * 翻译：  这位作家获得了诺贝尔文学奖。
+  <br>
+
+- scout
+  * 词义：  n.侦察员，侦察机(舰) vi.搜索，侦察
+  * 例句：  Please scout around for some ideas on what to cook for dinner.
+  * 翻译：  搜索一些意见吧，看看晚饭做点什么。
+  * 短语：  scout around/about 搜索，侦察
+  <br>
+
+- entitle
+  * 词义：  vt. 给以权利(或资格)， 给...以称号； 给...命题
+  * 例句：  This book is entitled The Child's Guide.
+  * 翻译：  这本书被命名为《幼儿指南》
+  * 考点：  be entitled to 有权... ，有资格
+  * 派生：  entitled (a.有资格的) entitlement (n.权利)
+  <br>
+
+- eloquent
+  * 词义：  a.雄辩的，有说服力的； 动人的，意味深长的
+  * 例句：  You were always quite eloquent in stating your opinions.
+  * 翻译：  你在表述自己的观点时总是很有说服力。
+  * 同义：  well-spoken (a.善于辞令的)  
+  <br>
+
+- attempt
+  * 词义：  v.尝试，试图 n.(at) 企图，努力
+  * 例句：  Nina couldn't help laughing at younger brother's attempt at cool.
+  * 翻译：  尼娜被弟弟装酷的样子逗得忍俊不禁。
+  <br>
+
+- adjust
+  * 词义：  vt. 调整，调节；vi. 校正，校准
+  * 例句：  I hope that you will soon adjust to this new environment.
+  * 翻译：  我希望你能很快适应这种新环境。
+  * 派生：  adjustment (n.调节，调整) // readjust (vt. 再调节)
+  <br>
+
+- barber
+  * 词义：  n.理发师
+  * 例句：  I ask the barber not to cut my hair too short.
+  * 翻译：  我让理发师不要把我的头发剪得太短。
+  <br>
