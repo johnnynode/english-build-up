@@ -207,3 +207,68 @@
   * 例句：  I ask the barber not to cut my hair too short.
   * 翻译：  我让理发师不要把我的头发剪得太短。
   <br>
+  
+---
+### 2017年05月27日 05:32:56
+
+- arrow
+  * 词义：  n.箭，箭头(符号)，箭状物
+  <br>
+
+- project
+  * 词义：  n.方案，计划，工程，项目； 投射，放映；设计，规划； vi. 凸出，伸出
+  * 例句：  The coat hooks projected from the wall.
+  * 翻译：  盖房子前最好先绘制一份蓝图。
+  * 例句：  The professor projected the slides onto the screen.
+  * 翻译：  教授在银幕上放映了科幻片。
+  <br>
+
+- blueprint
+  * 词义：  n.蓝图，方案
+  * 例句：  You'd better make a blueprint of the house before building.
+  * 翻译：  盖房子前最好先绘制一份蓝图。
+  <br>
+
+- latter
+  * 词义：  a.后面的，末尾的； pron.后者
+  * 例句：  Between captain and major, the latter is the higher rank.
+  * 翻译：  少尉与少校相比，后者的军衔更高。
+  * 参考：  later (ad.稍后) latest(a.最近的) lately(ad.最近)
+  <br>
+
+- scramble
+  * 词义：  vi.攀登，爬；争夺，抢夺；n.攀登，爬行，争夺，抢夺。
+  * 例句：  It was a long scramble over rocks to the top of the mountain.
+  * 翻译：  经过长时间的攀岩才能到达山顶。
+  * 同义：  climb (v.攀登，攀爬) contest(v.竞争，争辩) disorder(vt.扰乱，使紊乱)
+  <br>
+
+- transmission
+  * 词义：  n.播送，发射；传动，传送
+  * 例句：  Seeing the laptop screen flashing, Peter realized the trasmission was incomplete.
+  * 翻译：  看到笔记本电脑的屏幕在闪，彼得知道传送还没有完成。
+  <br>
+
+- crime
+  * 词义：  n.罪行，犯罪
+  * 例句：  This lack of parental supervision is thought to be an influence on juvenile crime rates.
+  * 翻译：  人们认为缺少父母的管教对青少年犯罪有影响。
+  <br>
+
+- host
+  * 词义：  n.主人，旅店老板； 节目主持人；一大群，许多；vt.主持(节目、活动等) 作为主人招待
+  * 例句：  People believe that there will be television chat shows hosted by robots.
+  * 翻译：  人们相信以后会出现由机器人主持的电视谈话节目。
+  <br>
+
+- murmur
+  * 词义：  v.小声说(某事)，小声抱怨，咕哝； n.小声说(话), 小声抱怨，咕哝
+  * 例句：  The crowd's murmur soon grew into angry cries. 
+  * 翻译：  人群中的抱怨声很快变为愤怒的尖叫声。
+  <br>
+
+- blanket
+  * 词义：  n.毛毯，毯子
+  * 例句：  Mary puts a blanket over her kids.
+  * 翻译：  玛丽给孩子们盖上了一床毛毯。
+  <br>
