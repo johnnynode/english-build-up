@@ -272,3 +272,73 @@
   * 例句：  Mary puts a blanket over her kids.
   * 翻译：  玛丽给孩子们盖上了一床毛毯。
   <br>
+  
+---
+### 2017年05月28日 09:22:21
+
+- excel
+  * 词义：  vi.擅长，胜过其它； vt.(oneself) 优于，超过
+  * 例句：  Ben's meals are always very good, but this time he's excelled himself.
+  * 翻译：  本做菜一直很拿手，但这次做得更好。
+  * 派生：  excellence (n.优秀，特点)
+  <br>
+
+- radioactive
+  * 词义：  a.放射性的，放射物质引起的
+  * 例句：  This substance is a radioactive element.
+  * 翻译：  这种物质是一种放射性元素。
+  <br>
+
+- horrible
+  * 词义：  a.令人恐怖的，可怕的；极讨厌的，使人不愉快的
+  * 例句：  The play was so horrible that it closed after just one performance.
+  * 翻译：  这出戏太糟糕了，只演了一场就结束了。
+  * 参考：  horrify (vt. 使害怕)
+  <br>
+
+- torture
+  * 词义：  vt.拷问，拷打；折磨，磨难；n.拷问，拷打；折磨，痛苦
+  * 例句：  It is illegal to torture the confession from a suspect.
+  * 翻译：  对嫌疑犯严刑逼供是违法的。
+  * 短语：  put sb. to torture 拷问某人
+  * 考点：  suffer torture from 因...受痛苦
+  <br>
+
+- campaign
+  * 词义：  n.战役，活动，竞选运动
+  * 例句：  The city has launched a campaign against smoking.
+  * 翻译：  该市开展了禁烟运动。
+  <br>
+
+- nonetheless
+  * 词义：  conj./ad. 尽管如此，依然
+  * 例句：  I don't like my job, nonetheless I have to go to work every day.
+  * 翻译：  尽管我不喜欢这份工作，但还是得每天去上班。
+  * 参考：  nevertheless (conj./ad. 尽管如此，不过)
+  <br>
+
+- visible
+  * 词义：  a.看得见的，可见的
+  * 例句：  The tower is visible from afar.
+  * 翻译：  从远处就能望到那座塔。
+  * 派生：  invisible (a.看不见的，无形的)
+  <br>
+
+- clone
+  * 词义：  n.无性繁殖系(的个体)，克隆； 复制品，翻版； v.克隆
+  * 例句：  They appeal to privately funded researchers not to try to clone humans.
+  * 翻译：  他们呼吁得到私人资助的研究者不要尝试克隆人类。
+  <br> 
+
+- declaration
+  * 词义：  n.宣言，宣布，声明
+  * 短语：  Declaration of Independence (美国)独立宣言 // issue a declaration 发表声明
+  <br>
+
+- household
+  * 词义：  n.户，家庭，全家人 a.家庭的
+  * 例句：  I grew up as part of a large household.
+  * 翻译：  我是在一个大家庭里长大的。
+  * 考点：  one-parent household 单亲家庭
+  * 参考：  house keeping (n.家事，家政) // house-proud (a.关心家事的，讲究家庭摆设的)
+  <br>
