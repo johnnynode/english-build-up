@@ -342,3 +342,74 @@
   * 考点：  one-parent household 单亲家庭
   * 参考：  house keeping (n.家事，家政) // house-proud (a.关心家事的，讲究家庭摆设的)
   <br>
+  
+---
+### 2017年05月29日 21:28:18
+
+- installation
+  * 词义：  n.安装，安置，设备；就职，就任
+  * 例句：  Would you attend my installation as principal?
+  * 翻译：  你能来参加我的校长就职典礼吗？
+  <br>
+
+- overflow
+  * 词义：  v.(使)外溢，(使)逸出
+  * 例句：  After a long period of rain, the river overflows its banks.
+  * 翻译：  长时间的降雨过后，河水溢出河岸。
+  * 参考：  inflow (n.流入，流入物) outflow (n.流出，流出物)
+  <br>
+
+- ore
+  * 词义：  n.矿石，矿砂
+  * 例句：  Our country is rich in reserve of iron ore.
+  * 翻译：  我国的铁矿石储量丰富。
+  <br>
+
+- cooperative
+  * 词义：  a.合作的，协作的； n.合作社
+  * 例句：  Economic cooperatives are of great help for farmers to establish their own enterprises.
+  * 翻译：  经济合作社对于农民建立自己的企业大有帮助。
+  <br>
+
+- ingenious
+  * 词义：  a.有独创性的；心灵手巧的；精制的；
+  * 例句：  The little boy is quite good at inventing some ingenious devices.
+  * 翻译：  那个小男孩很擅长发明一些精巧的小装置。
+  * 派生：  ingenuity (n.机灵，独创性，精巧)
+  * 同义：  intelligent (a.聪明的，有才智的) creative (a.具有创造力的) 
+  <br>
+
+- recipient
+  * 词义：  n.接受者，收受者
+  * 例句：  Beautiful Nina is always a recipient of many admiring remarks.
+  * 翻译：  漂亮的尼娜总能受到很多赞誉之辞。
+  * 同义：  receiver (n.接收器，接受者)
+  * 反义：  contributor (n.捐助者)
+  * 参考：  incipient (a.初始的) recipe (n.食谱，处方)
+  <br>
+
+- idle
+  * 词义：  a.空闲的，闲置的；无用的，无效的；懒散的 vt.(away) 浪费，虚度
+  * 例句：  I used to idle away the hours watching TV.
+  * 翻译：  我过去常把时间浪费在看电视上。
+  <br>
+
+- standpoint
+  * 词义：  n.立场，观点
+  * 例句：  In the group discussion, each individual expressd his own standpoint.
+  * 翻译：  在小组讨论中，每个人都阐明了自己的观点。
+  <br>
+
+- passion
+  * 词义：  n.热情，激情，酷爱； 激怒，大怒。
+  * 例句：  Bill filed into a passion when he heard this upset news.
+  * 翻译：  比尔听到这个令人沮丧的消息后勃然大怒。
+  * 派生：  dispassion (n.冷静，公平) passionate (a.易怒的，多情的) 
+  * 参考：  compassionate (a.富有同情心的)
+  <br>
+
+- flatter
+  * 词义：  vt. 奉承，使高兴。
+  * 短语：  flatter oneself 自负，自以为是
+  * 派生：  flattering (a.奉承的，谄媚的)
+  <br>
