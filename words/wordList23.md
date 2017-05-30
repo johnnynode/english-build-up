@@ -413,3 +413,88 @@
   * 短语：  flatter oneself 自负，自以为是
   * 派生：  flattering (a.奉承的，谄媚的)
   <br>
+  
+---
+### 2017年05月30日 08:48:52
+
+- credentials
+  * 词义：  n.证明书,证件 (学历，资历) 资格
+  * 例句：  Both candidates for the job have excellent credentials.
+  * 翻译：  这份工作的两名求职者都有充分的资格。
+  <br>
+
+- loyal
+  * 词义：  a.(to)忠诚的，忠贞的
+  * 例句：  Merry was a seasoned assassin, cruel but loyal.
+  * 翻译：  梅里是个老练的刺客，虽然残忍，但是很忠诚。
+  * 短语：  be loyal to one's duty 忠于职责
+  <br>
+
+- hardware
+  * 词义：  n.五金，金属制品；硬件
+  * 例句：  There are no hardware stores open past midnight in the village.
+  * 翻译：  村子里的五金店过了午夜都关门了。
+  * 短语：  computer hardware 计算机硬件 
+  * 考点：  military hardware 军事硬件
+  <br>
+
+- consult
+  * 词义：  vi.(with) 与...商量，商议； vt.请教，查阅
+  * 例句：  Have you consulted the doctor about the illness?
+  * 翻译：  关于这种病，你咨询过医生了吗？
+  * 派生：  consultation (n.磋商，请教，咨询)
+  * 参考：  result (n.结果) assault (n.攻击，袭击)
+  <br>
+
+- directory
+  * 词义：  n.人名地址录； (电话)号码簿
+  * 短语：  directory assistance // directory service 电话号码查询服务
+  <br>
+
+- gear
+  * 词义：  n.齿轮，传动装置 v.(to,towards) 调整，使适合
+  * 例句：  Many directors are trying to gear their films to their audience.
+  * 翻译：  许多导演都在努力使自己的电影适合观众的口味。
+  <br>
+
+- porch
+  * 词义：  n.门廊
+  * 例句：  Grandmother sat on the porch, talking with the neighbors.
+  * 翻译：  祖母在门廊下和邻居们聊天。
+  <br>
+
+- conscience
+  * 词义：  n.良心，良知
+  * 例句：  After Thomas had told a lie in the court, his conscience was troubled.
+  * 翻译：  托马斯在法庭上说了谎以后，感到良心不安。
+  <br>
+
+- paradox
+  * 词义：  n.似是而非的话，反论
+  <br>
+
+- poison
+  * 词义：  n.毒物，毒药 vt.放毒，毒害
+  * 例句：  The queen put some poisons into the wine to kill the king.
+  * 翻译：  王后在国王的酒里下了毒，想害死他。
+  * 派生：  poisoning (n.中毒，毒害，投毒)
+  <br>
+  
+- investigate
+  * 词义：  vt. 调查，调查研究；
+  * 例句：  Many a delegate was in favor of the proposal that a special committee be set up to investigate the incident.
+  * 翻译：  很多代表都赞同成立一个特别委员会对这一事故进行调查的提议。
+  <br>
+
+- magnify
+  * 词义：  vt. 放大，扩大
+  * 例句：  A microscope can magnify these germs.
+  * 翻译：  显微镜可以放大这些细菌。
+  <br>
+  
+- pad
+  * 词义：  n. 垫，衬垫；便签簿，拍纸簿 vt.填塞
+  * 例句：  The sofa was padded with sponge.
+  * 翻译：  沙发里塞满了海绵。
+  * 短语：  A telephone pad 电话通讯录
+  <br>
