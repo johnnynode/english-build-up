@@ -5,9 +5,11 @@
 ### 2017年05月31日 19:08:03
 
 - bin
-  * 词义：  n. 大箱子
+  * 词义：  n. 大箱子 vt.把…装进贮藏库;把…放入箱中
   * 例句：  He screwed the paper small and chucked it in the bin.
   * 翻译：  他把纸揉成小团，扔进了垃圾桶。
+  * 例句：  He decided to bin his paintings.
+  * 翻译：  他决定把他的画扔掉。
   <br>
 
 - sue
