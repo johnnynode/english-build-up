@@ -17,7 +17,7 @@
   * 例句：  The injured workers could sue for damages in a court of law.
   * 翻译：  那些受伤的工人可以向法院起诉要求获得赔偿金。
   * 参考：  issue (n. 发行，告发) // tissue (n.组织)
-  * 同义：  prosecute (v.起诉，告发) indect (v.起诉，控告)
+  * 同义：  prosecute (v.起诉，告发) indict (v.起诉，控告)
   <br>
 
 - status
