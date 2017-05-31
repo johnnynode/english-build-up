@@ -6,6 +6,8 @@
 
 - bin
   * 词义：  n. 大箱子
+  * 例句：  He screwed the paper small and chucked it in the bin.
+  * 翻译：  他把纸揉成小团，扔进了垃圾桶。
   <br>
 
 - sue
