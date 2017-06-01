@@ -67,3 +67,73 @@
   * 翻译：  那对夫妇在小事上节省，攒下了一些钱。
   * 派生：  economist (n.经济学家)
   <br>
+  
+---
+### 2017年06月01日 20:28:27
+
+- initiate
+  * 词义：  vt. 开始，发动
+  * 例句：  Those organizations initiated a rescue program for the tsunami.
+  * 翻译：  那些机构发起了一项针对海啸的营救计划。
+  * 派生：  initiation (n.开始，发动)
+  <br>
+
+- shaft
+  * 词义：  n.轴，杆状物；
+  * 例句：  An elevator travels up and down a shaft.
+  * 翻译：  电梯沿着轴上下运动。
+  * 同义：  spindle (n.轴，杆)
+  <br>
+
+- uphold
+  * 词义：  vt.支持，维护，维持，确认
+  * 例句：  The Supreme Court is expected to uphold the death sentence.
+  * 翻译：  预计最高法院会维持死刑的原判。
+  * 短语：  uphold justice 维护正义
+  <br>
+
+- ruin
+  * 词义：  v.毁灭，毁坏，(使)破坏，(使)堕落 n.毁灭，崩溃；[pl.] 废墟，遗迹
+  * 例句：  Mary blacken Paul's character and ruined his reputation.
+  * 翻译：  玛丽诽谤保罗的人品并破坏他的名声。
+  <br>
+
+- abroad
+  * 词义：  ad. 到国外去，在国外； 到处
+  * 例句：  There was a rumor abroad that the little girl was kidnapped.
+  * 翻译：  四处在传小女孩遭绑架的耀眼。
+  * 参考：  aboard (ad./prep.在船(飞机,车)上)
+  <br>
+
+- horror
+  * 词义：  n.恐怖，颤栗
+  * 例句：  The kid saw the bloody scene and screamed in horror.
+  * 翻译：  孩子们看到这血腥的场面，害怕得尖叫起来。
+  <br>
+
+- dividend
+  * 词义：  n.红利，股息；回报，效益；被除数
+  * 例句：  The dividend is too poor to pay the expense.
+  * 翻译：  回报微乎其微，无法支付开销。
+  <br>
+
+- stem
+  * 词义：  n.茎，干；词干；vi.出自，来源于，发生于
+  * 例句：  Swim is the stem of swimming and swimmer.
+  * 翻译：  swim是swimming和swimmer的词干。
+  * 考点：  stem from 起源，发生，来源于
+  <br>
+
+- keyboard
+  * 词义：  n.键盘
+  * 例句：  It was the first song I learned to play on the keyboard.
+  * 翻译：  这是我学会的在键盘上弹奏的第一支曲子。
+  <br>
+
+- recommend
+  * 词义：  vt.推荐,介绍；劝告，建议
+  * 例句：  Doctors recommend children under two not to watch TV.
+  * 翻译：  医生建议两岁以下的儿童不要看电视。
+  * 考点：  recommend sb. sth 向某人推荐某物
+  * 派生：  recommendation (n.推荐,劝告,建议)
+  <br>
