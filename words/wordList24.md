@@ -137,3 +137,71 @@
   * 考点：  recommend sb. sth 向某人推荐某物
   * 派生：  recommendation (n.推荐,劝告,建议)
   <br>
+  
+---
+### 2017年06月02日 21:15:05
+
+- nutrition
+  * 词义：  n.营养
+  * 例句：  This book on nutrition contains several healthful recipes.
+  * 翻译：  这本营养方面的书里有一些健康食谱。
+  * 派生：  nutritional (a.营养的，滋养的)
+  <br>
+
+- transmit
+  * 词义：  vt.传播，发射；传递，传导
+  * 例句：  The message was transmitted by radio.
+  * 翻译：  情报是通过无线电传送的。
+  <br>
+
+- lorry
+  * 词义：  n.卡车，运货汽车
+  * 例句：  Each lorry will be checked for carbon dioxide emissions.
+  * 翻译：  每辆卡车都要接受二氧化碳排放检测。
+  <br>
+
+- mourn
+  * 词义：  v. 哀悼，悲悼
+  * 例句：  We mourn the passing of a great man.
+  * 翻译：  我们哀悼一位伟人的逝去。
+  <br>
+
+- sweat
+  * 词义：  n.汗，汗水； v.(使)出汗
+  * 例句：  Running such a long distance made me sweat a lot.
+  * 翻译：  跑出了这么长的距离，我出了很多汗。
+  * 参考：  sweet (a.甜的)
+  <br>
+
+- reference
+  * 词义：  n.提及，涉及；参考，参考书目；证明书(人)；介绍(人)
+  * 例句：  I'm going to buy some reference books for my complulsory courses.
+  * 翻译：  我打算去买些必修课所需要的参考书。
+  * 考点：  with/in reference to 关于
+  <br>
+
+- architect
+  * 词义：  n.建筑师
+  * 例句：  The plaza must have been designed by a first-rate architect.
+  * 翻译：  这个广场肯定是一流的建筑师设计的。
+  <br>
+
+- draft
+  * 词义：  n.草稿，草案，草图；vt.起草，草拟
+  * 例句：  To draft such a law is to mobilize thousands of people to fight corruption.
+  * 翻译：  起草这样的法令就是为了动员成千上万的人来反腐败。
+  <br>
+
+- reform
+  * 词义：  n./v. 改革，改造，改良； 
+  * 例句：  The key to reforming higher education, concludes Mr. Menand, is to alter the way in which "the producers of knowledge are produced."
+  * 翻译：  高等教育改革的关键,梅南先生总结说是"知识分子的培养方式"。
+  * 考点：  education reform 教育改革
+  * 派生：  reformatory (a.改革的，革新的)
+  <br>
+
+- summit 
+  * 词义：  n.(山等)最高点，峰顶，顶点；峰会
+  * 例句：  Experts from all over the world attended the summit.
+  * 翻译：  来自世界各地的专家出席了这次峰会。
+  <br>
