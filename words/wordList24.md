@@ -205,3 +205,69 @@
   * 例句：  Experts from all over the world attended the summit.
   * 翻译：  来自世界各地的专家出席了这次峰会。
   <br>
+  
+---
+### 
+
+- politician
+  * 词义：  n.政治家，政客
+  * 例句：  The politician says he will see to the welfare fo the people.
+  * 翻译：  这位政治家声称他将对人民的福利负责。
+  <br>
+
+- precision
+  * 词义：  n.准确，精准；准确度
+  * 例句：  The missile's precision was accurate to within 100 kilometers.
+  * 翻译：  这种导弹在一百公里以内能欧保其精确度。
+  * 短语：  precision instrument 精密仪器
+  <br>
+
+- diversion
+  * 词义：  n.转向，转移；
+  * 例句：  A short diversion from the path led us to a quiet stream.
+  * 翻译：  从小路转过去一点儿，我们就来到了一条安静的小溪旁。
+  <br>
+
+- progressive
+  * 词义：  a.进步的，先进的，前进的
+  * 例句：  The progressive university used many new teaching methods.
+  * 翻译：  这所先进的大学采用了许多新的教学方法。
+  * 同义：  deviation (n.偏离，背离)
+  <br>
+
+- abandon
+  * 词义：  vt.放弃，抛弃
+  * 例句：  Henry abandoned his wife and ran off with his lover.
+  * 翻译：  亨利抛弃了妻子，和情人跑了。
+  * 派生：  abandoned (a.被抛弃的，放荡的)
+  <br>
+
+- gaze
+  * 词义：  n./vi. 凝视，注视
+  * 例句：  Sando followed Rose with his gaze.
+  * 翻译：  桑多的目光追随着罗斯。
+  <br>
+
+- heroine
+  * 词义：  n.女主角，女英雄
+  * 例句：  Since I am fond of sentimental films, I do not mind watching the tragical ending of a hero or a heroine.
+  * 翻译：  我喜欢感伤的电影，所以我不介意看到居中男主角或女主角的悲惨结局。
+  <br>
+
+- activity
+  * 词义：  n.活动，活性，活力
+  * 例句：  Every day these old men do some exercises to acquire a healthy activity.
+  * 翻译：  这些老人每天锻炼以保持健康的活力。
+  <br>
+
+- jet
+  * 词义：  n.喷气发动机，喷气式飞机；喷口，喷嘴. v.(from,out of) (使某物)喷出，喷射
+  * 例句：  Be careful! Don't jet the flames out of the nozzles.
+  * 翻译：  小心，别让火焰从喷嘴中喷出来。
+  <br>
+
+- trait
+  * 词义：  n.特征，特点，特性
+  * 短语：  Personality trait 个性特征
+  * 同义：  feature (n.特色，特点) peculiarity (n.特征)
+  <br>
