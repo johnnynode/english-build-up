@@ -271,3 +271,72 @@
   * 短语：  Personality trait 个性特征
   * 同义：  feature (n.特色，特点) peculiarity (n.特征)
   <br>
+  
+---
+### 2017年06月04日 21:00:37
+
+- commend
+  * 词义：  vt.表扬，称赞；推荐
+  * 例句：  We'll commend you for you efforts to resolve this matter.
+  * 翻译：  对于你为解决此事所做的努力，我们将予以表扬。
+  * 同义：  praise (vt.赞扬，歌颂)
+  * 反义：  criticize (vt.批评) scold (vt.责备)
+  * 参考：  recommend (v.推荐，介绍)
+  <br>
+
+- notion
+  * 词义：  n.概念，意念；看法，想法，观点
+  * 例句：  Mark's notion of rural life is a lot of sunshine and fun.
+  * 翻译：  马克心中的乡村生活是充满阳光和欢乐的。
+  <br>
+
+- pave
+  * 词义：  vt.铺砌，铺(路)
+  * 例句：  A long history of success of the company may pave the way for its further development.
+  * 翻译：  公司长期的成功史为其进一步的发展铺平了道路。
+  * 考点：  pave the way for 为...铺好道路，为...做好准备
+  <br>
+
+- guarantee
+  * 词义：  n.保证，保证书； vt.保证，担保
+  * 例句：  I still can not  guarantee you that I must be there on time.
+  * 翻译：  我还是不能向你保证我一定能准时到那儿。
+  <br>
+
+- unload
+  * 词义：  v.卸(货)；卸下
+  * 例句：  The ship arrived at the port and began to unload.
+  * 翻译：  轮船到达港口后便开始卸货。
+  <br>
+
+- typhoon
+  * 词义：  n.台风
+  * 例句：  In a typhoon, winds attain a speed greater than 120 kilometers per hour.
+  * 翻译：  刮台风时的风速超过每小时120公里。
+  <br>
+
+- ensure
+  * 词义：  vt.确保，保证
+  * 例句：  Authorities could take reasonable measures to ensure that phone data are not erased or altered while a warrant is pending.
+  * 翻译：  当局在搜查令还未获准的情况下可采取合理措施确保手机信息不被删除或更改。
+  <br>
+
+- buzz
+  * 词义：  vi.发出嗡嗡声，充满兴奋(或活动) n.嗡嗡声，嘈杂的谈话声；
+  * 例句：  The place was buzzing with journalists.
+  * 翻译：  那个地方被记者搞得闹哄哄的。
+  * 考点：  buzz about / around 四处奔忙
+  * 参考：  clatter (n.咔嗒声，哗啦声) hiss (n.嘶嘶声) howl (n.嚎叫)
+  <br>
+
+- index
+  * 词义：  n.索引，标志，指数，vt.附以索引，编入索引
+  * 例句：  The editor indexed the important topics discussed in the book.
+  * 翻译：  编辑把书中论述的重要课题都编入了索引。
+  <br>
+
+- prince
+  * 词义：  n.王子，亲王
+  * 例句：  The prince kissed Snow White and she woke up.
+  * 翻译：  王子亲吻了白雪公主，然后公主就醒了。
+  <br>
