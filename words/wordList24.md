@@ -340,3 +340,70 @@
   * 例句：  The prince kissed Snow White and she woke up.
   * 翻译：  王子亲吻了白雪公主，然后公主就醒了。
   <br>
+  
+---
+### 2017年06月05日 19:56:08
+
+- intercourse
+  * 词义：  n.交际，往来
+  * 例句：  Airplanes, roads and telephones make intercourse around the world far easier than it was 50 years ago. 
+  * 翻译：  飞机、公路和电话使世界各地的交流比五十年前要便利得多。
+  * 同义:   exchange (n.交流，交换) communication (n.交流，沟通)
+  <br>
+
+- helpful
+  * 词义：  a.(to,in) 有帮助的，有益的，有用的
+  * 例句：  Eating animal's liver is helpful to your eyes.
+  * 翻译：  食用动物肝脏对眼睛有好处。
+  <br>
+
+- shrug
+  * 词义：  v.耸肩(表示冷漠、怀疑等) n.耸肩
+  * 例句：  Jane's shrug indicated that she didn't care where we went.
+  * 翻译：  简耸了耸肩，表示她一点儿也不在乎我们去了哪儿。
+  <br>
+
+- mass
+  * 词义：  n.大量，众多；团，块，质量； a.大规模的，群众的
+  * 例句：  France's resumption of nuclear testing in the South Pacific last month triggered political debates and mass demonstrations.
+  * 翻译：  上个月法国在南太平洋重新开始核试验，引起了政治上的争端和大规模的示威游行。
+  <br>
+
+- summon
+  * 词义：  vt. 召唤，召集； (律)传讯，传唤； 四处，鼓起(勇气)，振作(精神)
+  * 例句：  The teacher summoned all the children to the classroom.
+  * 翻译：  老师把所有的孩子都叫进了教室。
+  * 考点：  summon up 鼓起(勇气)，奋起，唤起
+  <br>  
+
+- solve
+  * 词义：  vt.解答，解决；
+  * 例句：  The detective solved the riddle of the stolen jewels.
+  * 翻译：  侦探解开了失窃宝石之谜。
+  * 派生:   unsolved (a.未解答的，未解决的)
+  * 参考：  dissolve (v.溶解，解散) resolve (n./v.决心，决定)
+  <br>
+
+- extension
+  * 词义：  n. 延长，扩大，伸展；电话分机
+  * 例句：  In 2006,the state went a step further, requiring that any extension of the plant's license be subject to the Vermont legislature's approval.
+  * 翻译：  2006年，该州进一步提出要求，该核电站任何许可证的延期都要获得佛蒙特州立法机关的批准。
+  <br>
+
+- romantic
+  * 词义：  a.浪漫的，传奇式的；不切实际的，好幻想的
+  * 例句：  John is a hopeless romantic fellow.
+  * 翻译：  约翰是个无药可救的幻想家。
+  <br>
+
+- exposure
+  * 词义：  n.暴露，揭露；(to) 受到
+  * 例句：  Continued exposure to stress has been linked to worsened functioning of the immune system.
+  * 翻译：  一个人免疫系统功能的恶化与他持续处于紧张状态有关。
+  <br>
+
+- tangle
+  * 词义：  v.(使)缠结，(使)乱作一团； n.乱糟糟的一堆，复杂的问题(或形式)。 困惑，混乱
+  * 例句：  Her thought was in a tangle in the court.
+  * 翻译：  在法庭上，她的思绪一片混乱。
+  <br>
