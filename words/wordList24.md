@@ -406,4 +406,5 @@
   * 词义：  v.(使)缠结，(使)乱作一团； n.乱糟糟的一堆，复杂的问题(或形式)。 困惑，混乱
   * 例句：  Her thought was in a tangle in the court.
   * 翻译：  在法庭上，她的思绪一片混乱。
+  * 同义：  mess (v.弄乱) jumble (v.混杂，搞乱)
   <br>
