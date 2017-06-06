@@ -473,3 +473,16 @@
   * 词义：  n.炉，灶，烤箱
   * 短语：  microwave oven 微波炉
   <br>
+  
+- controversial
+  * 词义：  a.引起争论的，有争议的
+  * 例句：  Miami revives controversial gay rights law.
+  * 翻译：  迈阿密恢复了引起争议的同性恋法。
+  <br>
+
+- cling
+  * 词义：  vi.(to)粘住，依附；(to)坚持
+  * 例句：  Miami felt his shirt wet and almost cling to him.
+  * 翻译：  马丁感觉衬衫湿了，几乎都黏在身上。
+  * 考点：  cling film 保鲜膜
+  <br>
