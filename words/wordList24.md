@@ -408,3 +408,68 @@
   * 翻译：  在法庭上，她的思绪一片混乱。
   * 同义：  mess (v.弄乱) jumble (v.混杂，搞乱)
   <br>
+  
+---
+### 2017年06月06日 21:42:26
+
+- instant
+  * 词义：  a.立即的，直接的；紧迫的，速溶的，方便的 n.瞬间，时刻
+  * 例句：  Satellites have extended the power of communications to report events at the instant of occurrence.
+  * 翻译：  卫星的使用扩大了通信系统对事件进行现场报道的能力
+  * 派生：  instantly (ad.短暂地，迅速地)
+  <br>
+
+- forge
+  * 词义：  vt.锻造，伪造 vi.稳步前进 n.锻工车间，锻炉
+  * 例句：  Although the road was covered with snow, we forged ahead.
+  * 翻译：  尽管道路被学覆盖了，我们仍然稳步前进。
+  <br>
+
+- pierce
+  * 词义：  vt.刺穿，刺破
+  * 例句：  The first rays of dawn pierce the mist.
+  * 翻译：  黎明的第一缕曙光，穿透了薄雾。
+  * 派生：  piercing (a.刺骨的，刺穿的)
+  <br>
+
+- marvelous / marvellous
+  * 词义：  a.令人惊奇的，奇迹般的； <口> 妙极的
+  * 例句：  Luke was a marvellous photographer in the circle.
+  * 翻译：  卢克在那个圈子里是个了不起的摄影师。
+  <br>
+
+-  crane
+  * 词义：  n.起重机；鹤
+  * 例句：  The feeder in the zoo taught the baby crane how to eat and drink.
+  * 翻译：  动物园里的饲养员教幼鹤怎样吃东西和喝水。
+  <br>
+
+- accommodation
+  * 词义：  n.住宿，留宿； [pl.]膳宿供应
+  * 例句：  These accommodations are a far cry from what Linda has been used to.
+  * 翻译：  这些膳宿供应与琳达过去所习惯的相差甚远。
+  <br>
+
+- trifle
+  * 词义：  n.少量，少许；小事，琐事；微不足道的东西； vt.嬉耍；
+  * 例句：  The discount store sold inexpensive trifles.
+  * 翻译：  这家折扣店出售一些便宜的小玩意儿。
+  * 考点：  trifle with 嬉耍
+  <br>
+
+- gauge / gage
+  * 词义：  n.标准尺寸，规格，量规，量表 
+  * 例句：  The fuel gauge in the car was broken.
+  * 翻译：  汽车上的油表坏了。
+  * 同义：  measure (n.量具，计量单位； vt.测量，度量) criterion (n.评判的标准，尺度)
+  <br>
+
+- premier
+  * 词义：  n.首相，总理
+  * 短语：  the former Premier 前总理
+  <br>
+
+- oven
+  * 词义：  n.炉，灶，烤箱
+  * 短语：  microwave oven 微波炉
+  <br>
