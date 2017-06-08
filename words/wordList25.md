@@ -68,3 +68,71 @@
   * 例句：  The feuding couple attended a marriage workshop.
   * 翻译：  这对老是吵架的夫妇参加了一个婚姻专题讨论会。
   <br>
+  
+---
+### 2017年06月08日 20:22:38
+
+- electrician
+  * 词义：  n.电器专家，电工
+  * 例句：  Our washing machine has broken. I'll ring the electrician.
+  * 翻译：  我们的洗衣机坏了，我要给电工打电话。
+  <br>
+
+- commute
+  * 词义：  vi.乘公交车上下班,经常乘车(或船) 往返于两地，通勤
+  * 例句：  In this city, many people commute by means of the subway.
+  * 翻译：  这个城市的人们长期忍受着长距离的两地上下班和拥挤的居住环境之苦。
+  <br>
+
+- virgin
+  * 词义：  处女，未婚女子； a. 未经开发的，未经使用的
+  * 例句：  The loggers could not cut the virgin forest in the national park.
+  * 翻译：  伐木工们不能砍伐国家公园中这片未经开发的森林。
+  <br>
+
+- discard
+  * 词义：  vt.丢弃，抛弃
+  * 例句：  George is a helpless child who has been discarded by his parents.
+  * 翻译：  乔治是个被父母抛弃的无助的孩子。
+  * 参考：  discern (v.辨别) disregard (v.不管，不顾)
+  <br>
+
+- jog
+  * 词义：  n.慢跑
+  * 例句：  Are you coming for a jog tomorrow morning?
+  * 翻译：  明天早上你准备来慢跑吗?
+  * 同义：  trot (v.快走,小跑 n.小跑)
+  <br>
+
+- zinc
+  * 词义：  n.锌
+  <br>
+
+- cease
+  * 词义：  n./v. 停止,终止
+  * 例句：  The storm has ceased outside, and it is quiet inside the room.
+  * 翻译：  外面的暴风雨已经停了，房间里非常安静。
+  * 短语：  without cease 不停地，不断地
+  <br>  
+
+- safeguard
+  * 词义：  vt.保护,维护，捍卫； n.防护装置,预防措施
+  * 例句：  Keeping clean is a safe guard against disease.
+  * 翻译：  保持清洁是抵御疾病的一种预防措施。
+  * 同义：  protect (v.保护)
+  <br>
+
+- dwarf
+  * 词义：  n.矮子，侏儒 a.矮小的，发育不全的；vt.(由于对比)使显得矮小
+  * 例句：  Jones was a dwarf of only 32 inches tall.
+  * 翻译：  琼斯是一个只有32英寸高的侏儒。
+  * 同义：  midget (a.小型的) runt (n. 矮子)
+  * 反义：  giant (n.巨人 a.码头, 巨大的)
+  * 参考：  wharf (n.码头)
+  <br>
+
+- pressure
+  * 词义：  n.压(力)，压强，强制, 压迫
+  * 例句：  A lot of people go to bars to blow off pressure form work.
+  * 翻译：  很多人去酒吧以释放来自工作的压力。
+  <br>
