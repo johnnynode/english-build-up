@@ -136,3 +136,68 @@
   * 例句：  A lot of people go to bars to blow off pressure form work.
   * 翻译：  很多人去酒吧以释放来自工作的压力。
   <br>
+  
+---
+### 2017年06月09日 21:17:20
+
+- undesirable
+  * 词义：  n.不受欢迎的，令人不快的
+  * 例句：  The undesirable refugees weren't admitted into the country.
+  * 翻译：  这些不受欢迎的难民，没有获准进入该国。
+  <br>
+
+- formation
+  * 词义：  n.形成，构成
+  * 例句：  These efforts inspired the formation of independent women's clubs.
+  * 翻译：  这些努力促成了独立妇女俱乐部的形成。
+  <br>
+
+- plus
+  * 词义：  prep. 加上； a.正的，加的； n.加号，正号
+  * 例句：  My course grade arrived: A plus.
+  * 翻译：  成绩出来了，我得了个A+。
+  * 参考：  surplus (n.剩余，a.剩余的)
+  <br>
+
+- corporation
+  * 词义：  n.公司，企业，团体
+  * 短语：  corporation law 公司法 // multinational corporation 跨国公司
+  * 参考：  corporate (n.公司的，社团的，法人的)
+  <br>
+
+- helicopter
+  * 词义：  n.直升机
+  * 例句：  We see a helicopter come up over the side of the stadium carrying snowflake.
+  * 翻译：  我们看见一架直升机在体育场另一侧升起来了，卷起很多雪花。
+  <br>
+
+- bloom
+  * 词义：  n.花(朵) 开花(期) vi.开花
+  * 例句：  The plants usually begin to bloom in spring.
+  * 翻译：  这些植物通常在春天开花。
+  <br>
+
+- prescription
+  * 词义：  n.药方，处方
+  * 例句：  write out a prescription 开处方
+  <br>
+
+- increasingly
+  * 词义：  ad.不断增加地，日益
+  * 例句：  The increasingly dull nature of many industrial jobs has killed the creativity of many workers.
+  * 翻译：  increased (a.增加的，增强的)
+  <br>
+
+- tribe
+  * 词义：  n.部落，宗族
+  * 例句：  These tribes are living in the Amazonian jungle.
+  * 翻译：  这些部落生活在亚马逊丛林。
+  * 派生：  tribal (a.部落的，宗族的)
+  * 同义：  clan (n.部落，氏族) kin(n.家族)
+  <br>
+
+- product
+  * 词义：  n.产品，产物；乘积
+  * 例句：  The product of six multiplie by three is eighteen.
+  * 翻译：  三和六的乘积是十八。
+  <br>
