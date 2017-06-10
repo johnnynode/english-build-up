@@ -258,14 +258,15 @@
   * 派生：  bored (a.无聊的，烦人的) boredom (n.无聊,厌倦) boring (a.令人厌烦的)
   <br>
 
--
-  * 词义：
-  * 例句：
-  * 翻译：
-  <br>
+- assault
+  * 词义：  n./vt. 袭击, 攻击
+  * 例句：  The criminal dabbled in drugs, armed robbery and assault.
+  * 翻译：  这名罪犯犯了贩毒、持械抢劫和殴打罪。
+  * 同义：  attack (vt.攻击，抨击)
+  <br>  
 
--
-  * 词义：
-  * 例句：
-  * 翻译：
+- gesture
+  * 词义：  n.姿势，姿态，手势； vi.做手势，用动作示意
+  * 例句：  The professor gestured to the students to keep quiet in the class.
+  * 翻译：  教授示意学生们在课堂上保持安静。
   <br>
