@@ -201,3 +201,71 @@
   * 例句：  The product of six multiplie by three is eighteen.
   * 翻译：  三和六的乘积是十八。
   <br>
+  
+---
+### 2017年06月10日 08:49:46
+
+- decisive
+  * 词义：  a.决定性的
+  * 例句：  Is professional knowledge a decisive factor in job interview?
+  * 翻译：  专业知识在求职面试中是决定性因素吗？
+  * 派生：  indecisive (a.非决定性的)
+  <br>
+
+- acquire 
+  * 词义：  vt.取得，获得，学到
+  * 例句：  We should acquire more information.
+  * 翻译：  我们应当取得更多的资料。
+  * 短语：  acquire a habit 养成一个习惯
+  <br>
+
+- device
+  * 词义：  n.装置,设备,仪器
+  * 例句：  The new medical device offers relief for patients with pain.
+  * 翻译：  这种新的医疗设备能够缓解病人的疼痛。
+  <br> 
+
+- grab
+  * 词义：  v. 抓,夺 n.(at)抓住,夺(得)
+  * 例句：  The thief made a grab at my bag and I pushed him away.
+  * 翻译：  贼猛地抓住了我的包,但被我推开了。
+  <br>
+
+- inspiration
+  * 词义：  n.灵感，鼓舞，激励
+  * 例句：  The students read the works of famous philosophers for inspiration.
+  * 翻译：  学生们通过阅读著名哲学家的作品来寻求激励。
+  <br>
+
+- caution
+  * 词义：  n.小心，谨慎，警告，告诫 vt.警告
+  * 例句：  Tim was cautioned by his parents not to say anything improper before the guests.
+  * 翻译：  父母告诫蒂姆不要在客人面前说不礼貌的话。
+  <br>
+
+- reasonable
+  * 词义：  a.合理的，有道理的，通情达理的，适度的
+  * 例句：  Nowadays advertising costs are no longer in reasonable proportion to the total cost of the product.
+  * 翻译：  现在，广告成本与产品的总成本不成比例。
+  * 派生：  reasonable (ad.合理地,适度地,相当地) unreasonable (a.不合理的，不讲理的，过度的)
+  * 参考：  reasoned (a.理性的) reasoning (n.推理，论证)
+  <br>
+
+- bore
+  * 词义：  v.钻(孔)，挖(洞)，打眼，钻探；烦扰，使厌烦； n.讨厌的人，麻烦事
+  * 例句：  They think a girl who gossips is a bore.
+  * 翻译：  他们讨厌爱说闲话的女孩。
+  * 派生：  bored (a.无聊的，烦人的) boredom (n.无聊,厌倦) boring (a.令人厌烦的)
+  <br>
+
+-
+  * 词义：
+  * 例句：
+  * 翻译：
+  <br>
+
+-
+  * 词义：
+  * 例句：
+  * 翻译：
+  <br>
