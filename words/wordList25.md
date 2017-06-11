@@ -270,3 +270,70 @@
   * 例句：  The professor gestured to the students to keep quiet in the class.
   * 翻译：  教授示意学生们在课堂上保持安静。
   <br>
+  
+---
+### 2017年06月11日 18:44:52
+
+- lung
+  * 词义：  n.肺
+  * 例句：  It is a fact that most deaths from lung cancer are caused by smoking.
+  * 翻译：  事实上死于肺癌的大多数病历是由吸烟引起的。
+  * 考点：  lung cancer 肺癌
+  <br>
+
+- failure
+  * 词义：  n.失败，不及格；失败者；故障，失灵；未能
+  * 例句：  Mary was very disappointed at Tom's failure to keep his promise.
+  * 翻译：  玛丽对汤姆未能遵守诺言感到非常失望。
+  <br>
+
+- gum
+  * 词义：  n.树胶，口香糖
+  * 例句：  It's hard to wash off the gum of this tree.
+  * 翻译：  这种树的树胶很难洗掉。
+  * 考点：  chewing gum 口香糖
+  <br>
+
+- evacuate
+  * 词义：  vt.疏散，撤出；排空
+  * 例句：  Fear evacuated their minds of reasons.
+  * 翻译：  恐惧使他们失去了理智。
+  <br>
+
+- sophisticated
+  * 词义：  a.尖端的，复杂的，先进的；老练的，老于世故的
+  * 例句：  The politician spoke in a sophisticated voice.
+  * 翻译：  那位政治家言辞老练。
+  * 短语：  a sophisticated man 一个世故的人。
+  * 同义:   complicated (a. 复杂的)
+  * 反义：  unsophisticated (a.不懂世故的，单纯的)
+  <br>
+
+- uproar
+  * 词义：  n.骚动，喧嚣，鼎沸
+  * 例句：  The crowd was in an uproar when gunshots were fired.
+  * 翻译：  枪响之后人群一阵骚动。
+  <br>
+ 
+- triple
+  * 词义：  a.三部分的，三方的；三倍的，三重的 v.(使)增至三倍
+  * 例句：  The company tripled its profits last year.
+  * 翻译：  公司去年的利润增至三倍。
+  <br>
+
+- toll
+  * 词义：  n.过路(桥)费；伤亡人数，损失 vt.征收(过路费), (缓慢而有规律地)敲(钟)
+  * 例句：  Church bells tolled the death of the bishop.
+  * 翻译：  教堂为主教的去世鸣钟。
+  <br>
+
+- triangle
+  * 词义：  n.三角(形)
+  <br>
+
+- teenager
+  * 词义：  n.(13-19岁的)青少年
+  * 例句：  Making good friends is important to teenagers.
+  * 翻译：  结交好的朋友对青少年来说非常重要。
+  * 参考：  teenage (a.十几岁的)
+  <br>
