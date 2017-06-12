@@ -337,3 +337,71 @@
   * 翻译：  结交好的朋友对青少年来说非常重要。
   * 参考：  teenage (a.十几岁的)
   <br>
+  
+---
+### 2017年06月12日 20:15:40
+
+- uneasy
+  * 词义：  a. 不安的，焦虑的；不稳定的，紧张的；
+  * 短语：  be uneasy about the future 为前途担忧 // an uneasy city 动荡不安的城市  
+  <br>
+
+- stroke
+  * 词义：  n.击，敲，报时的钟声；一击，一划，一笔；一次努力，中风，抚摸 vt.抚摸
+  * 例句：  As Mary bends to stroke the dog, he wags his tail.
+  * 翻译：  当玛丽弯腰抚摸那只狗时，狗冲她摇了摇尾巴。
+  <br>
+
+- sprinkle
+  * 词义：  vt. 洒，喷，淋；
+  * 例句：  Mary sprinkled sugar on the cake.
+  * 翻译：  玛丽把糖洒在蛋糕上。
+  * 同义：  spray (vt.喷洒，喷溅)
+  <br>
+
+- alien
+  * 词义：  n.外侨，外星人 a.外国的，相异的
+  * 例句：  I bought an album alien from Mary's.
+  * 翻译：  我买了一本和玛丽那本不同的相册。
+  * 考点：  alien to 不相容
+  * 同义：  strange (a.奇怪的，陌生的) foreign (a.外国的，外来的)
+  <br>
+
+- consensus
+  * 词义：  n.(意见等) 一致， 一致同意。
+  * 例句：  The panel had found a broad consensus that it would be "morally"  unacceptable to attempt to create a human child by adult nuclear cloning.
+  * 翻译：  专门小组已取得了广泛的一致意见，认为"试图利用成人细胞核克隆技术来创造小孩是不道德的"。
+  <br>
+
+- wage
+  * 词义：  n.工资，报酬； vt.进行，开展
+  * 例句：  The powerful country waged many wars.
+  * 翻译：  这个强国挑起多次战争。
+  <br>
+
+- insight
+  * 词义：  n.洞察力，见识；
+  * 例句：  Politicians have been insights into international affairs.
+  * 翻译：  政治家对国际事务有着敏锐的洞察力。
+  <br>
+
+- resource
+  * 词义：  n.资源，财力；办法，智谋，应变之才
+  * 例句：  The CEO is a man of great resources.
+  * 翻译：  这位首席执行官是一个足智多谋的人。
+  * 参考：  recourse (n.求援，求助)
+  <br>
+
+- superiority
+  * 词义：  n.优越性，优势
+  * 例句：  Tom always shows a sense of superiority for his family background.
+  * 翻译：  汤姆总是因为自己的家世而表现出一种优越感。
+  * 同义：  excellence (n.优秀，卓越)
+  * 反义：  inferiority (n.次等)
+  <br>
+
+- patience
+  * 词义：  n.耐心，忍耐；
+  * 例句：  Are you trying my patience by letting me wait so long?
+  * 翻译：  你让我等你这么久，是在考验我的耐心吗？
+  <br>
