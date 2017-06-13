@@ -405,3 +405,101 @@
   * 例句：  Are you trying my patience by letting me wait so long?
   * 翻译：  你让我等你这么久，是在考验我的耐心吗？
   <br>
+  
+---
+### 2017年06月13日 20:39:09
+
+- advocate
+  * 词义：  n.提倡者，鼓吹者，支持者；vt.提倡,鼓吹, 
+  * 例句：  The group does not advocate the use of violence.
+  * 翻译：  这个团体不提倡使用暴力。
+  <br>
+ 
+- bunch
+  * 词义：  n.一串，一群，一帮，一伙
+  * 例句：  We'll give the maid a bunch of laundry to do.
+  * 翻译：  我们要让女仆洗一大堆衣服。
+  <br>
+
+- fashion
+  * 词义：  n.流行式样(或货品)；风尚，风气；样子，方式
+  * 例句：  Tom behaved in a very strange fashion today.
+  * 翻译：  今天汤姆的举止很奇怪。
+  * 参考：  old-fashioned (a.旧式的);
+  <br>
+
+- benign
+  * 词义：  a. (肿瘤等)良性的，无危险的；慈祥的，善良的
+  * 例句：  The little match girl lit another matchstick and saw her grandmother's benign smile.
+  * 翻译：  卖火柴的小女孩有点燃了一根火柴，于是看到了奶奶慈祥的笑容。
+  <br>
+
+- contempt
+  * 词义：  n.轻蔑，藐视
+  * 短语：  contempt of court // 藐视法庭 in contempt of 对...不屑一顾
+  * 例句：  Tom's tone of voice is loaded with contempt.
+  * 翻译：  汤姆的语气中充满了轻蔑。
+  * 派生：  contemptible (a.可鄙的，卑劣的)
+  <br>
+
+- lace
+  * 词义：  n.蕾丝，花边，带子，鞋带； v.系带，扎带
+  * 例句：  Harry laced up his shoes.
+  * 翻译：  哈里把鞋带系紧了。
+  <br>
+
+- gasp
+  * 词义：  n.喘息，气喘； v.喘息，气喘吁吁地说。
+  * 例句：  After running three miles, my breath came in short, quick gasps.
+  * 翻译：  跑完三英里后，我气喘吁吁、呼吸短促。
+  * 参考：  grasp (n./vt.抓住，掌握)
+  <br>
+
+- dew
+  * 词义：  n.露水
+  * 例句：  Occasional dew drops glitter in the grass.
+  * 翻译：  露珠在草丛中时而闪闪发光。
+  * 参考：  jew (n.犹太人)
+  <br>
+
+- strain
+  * 词义：  n.过度的疲劳，紧张；张力，拉力； vt. 扭伤，拉伤 ; vi. 尽力；用力推，用力拉
+  * 例句：  The football player strained a tendon in his leg during the game.
+  * 翻译：  那名足球运动员在比赛时扭伤了腿的肌腱。
+  * 短语：  strain every nerve 竭尽全力 // a strained laugh 强笑
+  * 派生：  strained (气氛，形式等) 紧张的
+  * 同义：  stretch (v.拉伸，伸展) // tense (v.(使)拉紧，(使)紧张) // endeavor (n./v. 尽力，竭力)
+  <br>
+
+- conception
+  * 词义：  n.概念，观念； 设想，构想
+  * 例句：  We reason together, challenge, revise, and complete each other's reasoning and each other's conceptions of reason.
+  * 翻译：  我们一起思考，一起怀疑，修正和完善彼此的推理过程，以及彼此对理性的理解。
+  * 派生：  preconception (n.预想)
+  <br>
+  
+- tuck
+  * 词义：  vt. 卷起，塞进
+  * 例句：  Marry lifted her blouse and tucked it into her jeans.
+  * 翻译：  玛丽撩起短衫，把衣角塞进牛仔裤里。
+  <br>
+  
+- antique
+  * 词义：  a.古时的，古老的 n.古物，古董
+  * 例句：  Michael and a team of experts will value your antiques tomorrow.
+  * 翻译：  迈克尔和一个专家组将于明天对你的股东进行估价。
+  <br>
+  
+- accordance
+  * 词义：  n.一致，符合
+  * 例句：  The rights of children are protected in accordance with the law.
+  * 翻译：  儿童的权利依法受到保护。
+  <br>
+  
+> 名言：
+>
+> Take time to deliberate, but when the time for action has arrived, stop thinking and go in.
+> -- John Andrew
+>
+> 做事要深思熟虑，但时机一到，就要动手，不要犹豫。<br>
+> -- 约翰·安德鲁
