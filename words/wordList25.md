@@ -410,7 +410,7 @@
 ### 2017年06月13日 20:39:09
 
 - advocate
-  * 词义：  n.提倡者，鼓吹者，支持者；vt.提倡,鼓吹, 
+  * 词义：  n.提倡者，鼓吹者，支持者; vt.提倡,鼓吹
   * 例句：  The group does not advocate the use of violence.
   * 翻译：  这个团体不提倡使用暴力。
   <br>
@@ -422,7 +422,7 @@
   <br>
 
 - fashion
-  * 词义：  n.流行式样(或货品)；风尚，风气；样子，方式
+  * 词义：  n.流行式样(或货品); 风尚，风气；样子，方式
   * 例句：  Tom behaved in a very strange fashion today.
   * 翻译：  今天汤姆的举止很奇怪。
   * 参考：  old-fashioned (a.旧式的);
@@ -436,9 +436,9 @@
 
 - contempt
   * 词义：  n.轻蔑，藐视
-  * 短语：  contempt of court // 藐视法庭 in contempt of 对...不屑一顾
   * 例句：  Tom's tone of voice is loaded with contempt.
   * 翻译：  汤姆的语气中充满了轻蔑。
+  * 短语：  contempt of court // 藐视法庭 in contempt of 对...不屑一顾
   * 派生：  contemptible (a.可鄙的，卑劣的)
   <br>
 
@@ -449,7 +449,7 @@
   <br>
 
 - gasp
-  * 词义：  n.喘息，气喘； v.喘息，气喘吁吁地说。
+  * 词义：  n.喘息，气喘； v.喘息，气喘吁吁地说
   * 例句：  After running three miles, my breath came in short, quick gasps.
   * 翻译：  跑完三英里后，我气喘吁吁、呼吸短促。
   * 参考：  grasp (n./vt.抓住，掌握)
@@ -463,7 +463,7 @@
   <br>
 
 - strain
-  * 词义：  n.过度的疲劳，紧张；张力，拉力； vt. 扭伤，拉伤 ; vi. 尽力；用力推，用力拉
+  * 词义：  n.过度的疲劳，紧张；张力，拉力； vt. 扭伤，拉伤; vi. 尽力；用力推，用力拉
   * 例句：  The football player strained a tendon in his leg during the game.
   * 翻译：  那名足球运动员在比赛时扭伤了腿的肌腱。
   * 短语：  strain every nerve 竭尽全力 // a strained laugh 强笑
