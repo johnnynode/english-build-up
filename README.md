@@ -27,3 +27,4 @@
 - [wordList23](./words/wordList23.md)
 - [wordList24](./words/wordList24.md)
 - [wordList25](./words/wordList25.md)
+- [wordList26](./words/wordList26.md)
