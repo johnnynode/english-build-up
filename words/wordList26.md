@@ -72,3 +72,70 @@
   * 例句：  The amplifier broke down while the headmaster was giving a speech.
   * 翻译：  校长讲话时，扩音器坏了。
   <br>
+  
+---
+### 2017年06月15日 20:53:26
+
+- prayer
+  * 词义：  n.祈祷，祷告，祷文
+  * 例句：  Mary says her prayers every night before going to bed.
+  * 翻译：  玛丽每晚睡觉之前都要祷告。
+  <br>
+
+- proposal
+  * 词义：  n.提议，建议；求婚
+  * 例句：  Mary accepted Jack's proposal this morning.
+  * 翻译：  玛丽今早接受了杰克的求婚。
+  <br>
+
+- redeem
+  * 词义：  vt. 赎回，挽回；救赎
+  * 例句：  He prays to be redeemed by Jesus Christ from his past sins.
+  * 翻译：  他祈求上帝将他从过去的罪孽中救赎出来。
+  <br>
+
+- legacy
+  * 词义：  n.遗产，遗留之物
+  * 例句：  The invasion left a legacy of hatred and fear.
+  * 翻译：  入侵留下了仇恨和恐惧。
+  <br>
+
+- myth
+  * 词义：  n.神话； 虚构的故事，荒诞的说法
+  * 例句：  The monster that is supposed to be at the bottom of the lake is just a myth.
+  * 翻译：  湖底怪兽不过是虚构出来的罢了。
+  * 派生：  mythical (a.神话的，虚构的)
+  <br>
+
+- malignant
+  * 词义：  a.恶毒的，恶性的；致命的
+  * 例句：  It was the malignant brain tumor that led to Kate's paralysis.
+  * 翻译：  恶性脑瘤使凯特瘫痪了。
+  <br>
+
+- recall
+  * 词义：  vt.回忆，回想；撤销，收回
+  * 例句：  Is there any chance to recall what I said?
+  * 翻译：  我还有机会收回我所说的话吗？
+  <br>
+
+- coincide
+  * 词义：  vi.(with) 和...一致，相符，相同
+  * 例句：  Our tastes in many aspects coincide with each other.
+  * 翻译：  我们在很多方面的品味都一致。
+  <br>
+
+- clockwise
+  * 词义：  a.顺时针方向的；
+  * 例句：  The nuns walked around the courtyard in a clockwise direction every morning.
+  * 翻译：  那些修女每天早上绕着院子按顺时针方向行走。
+  * 派生：  anti-clockwise / counter-clockwise (a.逆时针方向的)
+  <br>
+
+- latitude
+  * 词义：  n.纬度
+  * 例句：  The information can be used to determine the longitude and latitude of any point on the earth's surface.
+  * 翻译：  这些信息可以用来测定地球表面上任意一点的经纬度。
+  * 同义：  freedom (n.自由，自主); liberty (n.自由，自由权)
+  * 参考：  altitude (n.高度) multitude (n.多数) attitude (n.态度)
+  <br>
