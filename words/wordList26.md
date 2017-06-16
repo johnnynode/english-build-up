@@ -153,14 +153,14 @@
   * 词义：  n.观众，旁观者
   * 例句：  The theatre was filled with spectators.
   * 翻译：  剧场里坐满了观众。
-  * 同义:   onlooker (n.旁观者) bystander (n.看热闹的人，旁观者)
+  * 同义：  onlooker (n.旁观者) bystander (n.看热闹的人，旁观者)
   <br>
 
 - invest
   * 词义：  v.投资
   * 例句：  The investor wanted to invest his money in movie.
   * 翻译：  那位投资者想把钱投资到电影上。
-  * 短语:   investor (n.投资者) investment (n.投资) disinvestment (n.撤资)
+  * 短语：  investor (n.投资者) investment (n.投资) disinvestment (n.撤资)
   <br>  
 
 - fluid
