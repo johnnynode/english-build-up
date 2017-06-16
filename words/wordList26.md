@@ -139,3 +139,70 @@
   * 同义：  freedom (n.自由，自主); liberty (n.自由，自由权)
   * 参考：  altitude (n.高度) multitude (n.多数) attitude (n.态度)
   <br>
+  
+---
+### 2017年06月16日 22:24:52
+
+- doorway
+  * 词义：  n.门口
+  * 例句：  Richard stopped at the doorway, hesitant to go inside. 
+  * 翻译：  查理德停在门口，犹豫着是否要进去。
+  <br>
+
+- spectator
+  * 词义：  n.观众，旁观者
+  * 例句：  The theatre was filled with spectators.
+  * 翻译：  剧场里坐满了观众。
+  * 同义:   onlooker (n.旁观者) bystander (n.看热闹的人，旁观者)
+  <br>
+
+- invest
+  * 词义：  v.投资
+  * 例句：  The investor wanted to invest his money in movie.
+  * 翻译：  那位投资者想把钱投资到电影上。
+  * 短语:   investor (n.投资者) investment (n.投资) disinvestment (n.撤资)
+  <br>  
+
+- fluid
+  * 词义：  a.流动的，液体的；n.流体，液体
+  * 例句：  The engineer measured the pressure of the fluid flowing in the pipe.
+  * 翻译：  工程师测量了管道中流动液体的压力。
+  <br>
+
+- damn
+  * 词义：  vt.严厉地批评，谴责； a.该死的
+  * 例句：  My thesis is damned by my tutor. 
+  * 翻译：  我的论文被老师批的一无是处。
+  <br>
+
+- fellowship
+  * 词义：  n.伙伴关系；友谊，团体
+  * 例句：  Tom tried to promote good fellowship with Joanna.
+  * 翻译：  汤姆努力增进与乔安娜的友谊。
+  * 短语：  fellowship in misfortune 患难之交
+  <br>
+
+- interim 
+  * 词义：  n.间歇，过渡期间； a.暂时的，临时的
+  * 例句：  Kate took the clerk job as an interim position while she looked for a better one.
+  * 翻译：  凯特把这份工作看作是临时的，同时她在找更好的工作。
+  * 同义：  temporary (n. 暂时的，临时的) meantime (n.同时，其间); interval (n.间隔)
+  <br>
+
+- limited
+  * 词义：  a.有限的，被限制的
+  * 例句：  If the natural resources are used economically, we can slow down the present drain on the limited energy supply.
+  * 翻译：  如果能节约地利用自然资源，那么我们目前对有限的能源供应的消耗速度就会减慢。
+  <br>
+
+- organ
+  * 词义：  n.器官；风琴
+  * 例句：  Someone is playing the organ - Mozart's Requiem.
+  * 翻译：  有人在用风琴演奏莫扎特的《安魂曲》
+  <br>
+
+- rare
+  * 词义：  a.稀有的，难得的，珍奇的；稀薄的，稀疏的
+  * 例句：  The air is rare in high altitudes.
+  * 翻译：  海拔高的地方空气稀薄。
+  <br>
