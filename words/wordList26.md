@@ -206,3 +206,70 @@
   * 例句：  The air is rare in high altitudes.
   * 翻译：  海拔高的地方空气稀薄。
   <br>
+  
+---
+### 2017年06月17日 14:50:45
+
+- instrument
+  * 词义：  n.工具，仪器，器械；乐器
+  * 例句：  A radio telescope is an instrument that collects and measures faint radio waves given off by objects in space.
+  * 翻译：  无线电天文望远镜是一种用于收集和测量天空物体发出的微弱的无线电波的仪器。
+  * 考点：  strategic instruments 战略工具； measuring instruments 测量工具
+  <br>
+
+- handful
+  * 词义：  n.一把，一小撮；小数
+  * 例句：  Only a handful of people are on the street.
+  * 翻译：  街上只有少数几个人。
+  <br>
+
+- pail
+  * 词义：  n.提桶
+  * 例句：  Jane slipped and spilled the pail of milk.
+  * 翻译：  简滑到了，把那桶牛奶弄洒了。
+  <br>
+
+- conceal
+  * 词义：  v.隐藏，隐瞒，隐蔽;
+  * 例句：  Jane made efforts to conceal those facts from her mother.
+  * 翻译：  简极力向母亲隐瞒那些事实。
+  <br>
+
+- individual
+  * 词义：  a.个人的，单独的，独特的； n.个人，个体
+  * 例句：  The rights of the individual are considered to be the most important in a free society.
+  * 翻译：  在自由社会里，个人权利被认为是最重要的。
+  * 考点：  individual initiative 个人创业； highly creative individuals 十分有创造力的人。
+  * 派生：  individuality (n.个性，特性) individually (ad.个别地)
+  <br>
+
+- argument
+  * 词义：  n.争论，辩论，论据，论点
+  * 例句：  Support your argument by quote, please.
+  * 翻译：  请引用事实来支持你的论点。
+  <br>
+
+- nitrogen
+  * 词义：  n.氮
+  * 例句：  Nitrogen is indispensable to the growth of plants.
+  * 翻译：  氮是植物生长不可缺少的元素。
+  <br>
+
+- hop
+  * 词义：  vi.(人) 单足跳跃，单足跳行；齐足跳跃，单足跳行；n. 蹦跳； 短程航行。
+  * 例句：  It's a short hop from London to Paris.
+  * 翻译：  从伦敦到巴黎是短途飞行。
+  * 同义：  leap (n./v.跳，跳跃) bound (n.跳跃 vi.跳跃，跳跃着前进)
+  <br>
+
+- knob
+  * 词义：  n.门把手，(球形)把手，旋钮
+  * 例句：  This machine has lots of knobs on it. Which one starts it?
+  * 翻译：  这台机器上有许多旋钮，哪一个是启动它的呢？
+  <br>
+
+- array
+  * 词义：  n.一系列，大量，排列 vt.排列
+  * 例句：  One is dazzled by the endless array of beautiful exhibits.
+  * 翻译：  展品琳琅满目，美不胜收。
+  <br>
