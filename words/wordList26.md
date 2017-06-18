@@ -273,3 +273,69 @@
   * 例句：  One is dazzled by the endless array of beautiful exhibits.
   * 翻译：  展品琳琅满目，美不胜收。
   <br>
+  
+---
+### 2017年06月18日 08:47:13
+
+- lawn
+  * 词义：  n.草地，草坪
+  <br>
+
+- correspond
+  * 词义：  vi.通信，符合，一致，相当于，对应
+  * 例句：  Though promoted, Bill's expenses still didn't correspond to his incomes.
+  * 翻译：  虽然升职了，比尔还是入不敷出。
+  * 考点：  correspond with 通信 // correspond with 符合，一致 // correspond to 相当于，对应
+  <br>
+
+- protein
+  * 词义：  n.蛋白质
+  * 例句：  The crops contain rich protein.
+  * 翻译：  这些农作物富含蛋白质。
+  <br>
+
+- outrage
+  * 词义：  n.暴行，骇人听闻的事件；愤慨 vt.激怒
+  * 例句：  The terrorist's attacking outraged the government and the people.
+  * 翻译：  恐怖分子的袭击激怒了政府和群众。
+  * 同义：  indignation (n.愤慨，义愤) offend (v.引起憎恨的，引起不快的)
+  <br>
+
+- justice
+  * 词义：  n.正义，公平；审判、司法，法律制裁
+  * 例句：  The criminals were finally brought to justice.
+  * 翻译：  罪犯们最终受到了法律的制裁。
+  <br>
+
+- estate
+  * 词义：  n.地产，房地产
+  * 短语：  personal estate 动产  
+  * 考点：  real estate 房地产，房地产所有权
+  <br>
+
+- pregnant
+  * 词义：  a.怀孕的，妊娠的
+  * 例句：  The pregnant woman prepared for motherhood.
+  * 翻译：  这位孕妇做好了做母亲的准备。
+  <br>
+
+- significance
+  * 词义：  n.意义，重要性
+  * 例句：  This geological discovery is of great significance for local economic development. 
+  * 翻译：  这一地质学发现对当地经济的发展具有重大的意义。
+  <br>
+
+- entire
+  * 词义：  a.完全的，全部的，完整的
+  * 例句：  The entire restaurant is designed in Medieval-themed decor.
+  * 翻译：  整个餐馆以中世纪主题为设计风格。
+  <br>
+
+- innovation
+  * 词义：  n.创新，革新，改革
+  * 例句：  An interest can drive your hunger for innovation.
+  * 翻译：  兴趣可以激起你创新的渴望。
+  * 考点：  technological innovation 技术革新
+  * 同义：  reformation (n.改革，革新)
+  * 参考：  innovator (n.革新者，改革者)
+  <br>
