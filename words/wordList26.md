@@ -339,3 +339,71 @@
   * 同义：  reformation (n.改革，革新)
   * 参考：  innovator (n.革新者，改革者)
   <br>
+  
+---
+### 2017年06月19日 20:18:41
+
+- hypocrisy
+  * 词义：  n.伪善，虚伪
+  * 例句：  There is heavy note of hypocrisy in Edward's behavior.
+  * 翻译：  爱德华的表现很虚伪。
+  * 参考：  hypocritical (n.虚假的，伪善的)
+  <br>
+
+- humor / humour
+  * 词义：  n.幽默，诙谐
+  * 例句：  I found that he has quite a sense of humor.
+  * 翻译：  我发现他幽默感十足。
+  <br>
+
+- warfare
+  * 词义：  n.战争(状态)，斗争，冲突
+  * 例句：  Modern warfare is far more complex.
+  * 翻译：  现代战争更加错综复杂。
+  * 同义：  hostility (n.敌对，对抗) war (n.战争) conflict (n.战争)
+  * 反义：  peace (n.和平)
+  <br>
+
+- bean
+  * 词义：  n. 豆，菜豆，蚕豆
+  * 例句：  The farmers here usually grow maize and beans.
+  * 翻译：  这里的农民通常种植玉米和大豆。
+  <br>
+
+- ultimate
+  * 词义：  a.最后的，最终的；根本的，基本的
+  * 例句：  Hard work is the ultimate source of success.
+  * 翻译：  努力工作室成功之本。
+  * 派生：  ultimately (ad.最后，终于，根本)
+  * 短语：  an ultimate principle 基本原理
+  <br>
+
+- lap
+  * 词义：  n.大腿，膝盖
+  * 例句：  Lisa has fallen asleep with an open book on her lap.
+  * 翻译：  丽萨已经睡着了，腿上还放着一本摊开的书。
+  <br>
+
+- variable
+  * 词义：  a. 易变的，多变的；可变的，变量的； n. 变量
+  * 例句：  You missed a variable so you got a wrong answer.
+  * 翻译：  你漏掉了一个变量，所以得出错误答案。
+  <br>
+
+- latent
+  * 词义：  a.潜在的，潜伏的，不易察觉的
+  * 短语：  latent capital 前在资本 // a latent infection 潜伏性传染病 // latent period 潜伏期  
+  <br>
+
+- balance 
+  * 词义：  vt. 称，(使)平衡； n.天平，称，平衡，均衡，差额，结余，余款
+  * 例句：  David has a balance of $1000 in the bank.
+  * 翻译：  戴维的账户余额为一千美元。
+  * 派生：  balanced (a.平衡的) counterbalance(n.平衡力 vt.使平衡，抵消)
+  <br>
+
+- aid
+  * 词义：  vt.帮助，援助，救援 n.帮助，援助，救护； 助手，辅助物，辅助设备
+  * 例句：  A cane is an aid for elderly people.
+  * 翻译：  拐杖方便老年人行走。
+  <br>
