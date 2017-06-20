@@ -407,3 +407,92 @@
   * 例句：  A cane is an aid for elderly people.
   * 翻译：  拐杖方便老年人行走。
   <br>
+  
+---
+### 2017年06月20日 19:36:00
+
+- extraordinary
+  * 词义：  a.非常的，格外的
+  * 例句：  Mary is an extraordinary beauty.
+  * 翻译：  玛丽是个绝色美人。
+  <br>
+
+- gymnasium/gym
+  * 词义：  n.体育馆,健身房
+  * 例句：  Dad turned my room into a gymnasium 20 minutes after I moved out!
+  * 翻译：  我刚搬出去20分钟，爸爸就把我的房间变成了健身房。
+  * 参考：  gymnastics (n.体操)
+  <br>
+
+- laundry
+  * 词义：  n.洗衣房(店)； 待洗衣物，所洗衣物；洗熨
+  * 例句：  There's not much laundry this week.
+  * 翻译：  这个星期要洗的衣物不多。
+  * 参考：  laundry resistant 耐水洗的
+  <br>
+
+- classification
+  * 词义：  n.分类，分级
+  * 例句：  Classification always requires the arrangement of the same kind of information, often into lists or columns.
+  * 翻译：  分类工作总是要将同类的资料加以整理，往往是将他们累成表格或分成几栏。
+  <br>
+
+- mutual 
+  * 词义：  a.相互的，批次的，共有的
+  * 例句：  Vera and Helen have a mutual dislike for each other.
+  * 翻译：  薇拉和海伦呼不喜欢对方。
+  * 考点：  mutual fund 共有基金
+  * 派生：  mutually (ad.相互地，共有地)
+  <br>
+
+- muscle
+  * 词义：  n.肌肉，体力
+  * 例句：  The man tried with the exertion of every muscle of the body and still couldn't remove the rock.
+  * 翻译：  那个男人用尽了全身力气，还是无法搬走那块大石头。
+  <br>
+
+- avail
+  * 词义：  n.效用，利益，帮助； v.有益于，有助于，利用
+  * 例句：  We avail ourselves of this opportunity to express our heartful gratitude to you.
+  * 翻译：  我们借此机会向你们表达衷心的感谢。
+  * 考点：  of/to no avail 不起作用，没有用 // avail (oneself) of 利用
+  <br>  
+
+- guy
+  * 词义：  n.家伙，伙计
+  * 例句：  Rick is a witty guy.
+  * 翻译：  里克是个机智的家伙。
+  <br>
+
+- captive
+  * 词义：  n.俘虏 a.被俘虏的，被监禁的
+  * 例句：  The police managed to rescue the captive hostages.
+  * 翻译：  警察设法救出了被俘的人质。
+  <br>
+
+- postpone
+  * 词义：  vt. 推迟，延期
+  * 例句：  The sports meeting was postponed one day because of the weather.
+  * 翻译：  运动会因为天气原因被推迟一天举行。
+  <br>
+  
+- universal
+  * 词义：  a.普遍的，全体的，通用的； 宇宙的，全世界的；
+  * 例句：  Music is the universal language.
+  * 翻译：  音乐是世界通用的语言。
+  * 派生：  universalize (vt. 使一般化，使普遍化) // universally (ad.普遍地，到处)
+  <br>
+  
+- handle
+  * 词义：  n.柄，把手，拉手； vt.处理，对待，操纵；触，摸
+  * 例句：  Don't handle the goods in the shop.
+  * 翻译：  请勿触摸商店里的商品。
+  <br>
+  
+> 名言：
+>
+> Whenever you have an aim you must sacrifice something of freedom to attain it.<br>
+> - W.S.Maugham
+
+> 不论什么时候，只要你有一个目标，你就得牺牲一定的自由去实现它。<br>
+> - W.S.毛姆
