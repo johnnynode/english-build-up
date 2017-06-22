@@ -73,3 +73,69 @@
   * 考点：  bump along/down 颠簸着前进；
   * 参考：  dump (n.垃圾堆) damp (n.湿气) dumb (a.哑的)
   <br>
+  
+---
+### 2017年06月22日 20:24:21
+
+- species
+  * 词义：  n.(物)种，种类
+  * 例句：  Recently, the botanist has discovered a new species of plant in the virgin forest.
+  * 翻译：  最近，植物学家在原始森林里发现了一种新植物。
+  * 参考：  specie (n.硬币)
+  <br>
+
+- lure
+  * 词义：  vt.吸引，诱惑；n.诱惑物，诱饵，鱼饵
+  * 例句：  The company offered me $100,000 as a lure to sign its contract.
+  * 翻译：  我家公司企图用十万美元做诱饵让我签订合同。
+  * 同义：  entice (vt.怂恿，引诱) allure (vt.诱惑，吸引) temptation (n.诱惑，引诱) allurement (n.诱惑力，诱惑物)
+  <br>
+
+- panorama
+  * 词义：  n.概观，全景，综述
+  * 例句：  This book gives a panorama of the life in China 500 years ago.
+  * 翻译：  这本书展现了500年前中国生活的全景。
+  <br>
+
+- classify
+  * 词义：  vt.分类，分等级
+  * 例句：  The books in our library are classified by subject.
+  * 翻译：  我们图书馆的书是按照主题进行分类的。
+  * 短语：  classify mails 将信件分类
+  <br>
+
+- fatal
+  * 词义：  a.致命的，毁灭性的
+  * 例句：  Total sleep deprivation is 100 percent fatal to rats.
+  * 翻译：  完全剥夺老鼠的睡眠对他们来说绝对是致命的。
+  * 参考：  a fatal hour 生死攸关的时刻 // a fatal wound 致命伤 // a fatal accident 死亡故事
+  <br>
+
+- eagle
+  * 词义：  n.鹰
+  * 短语：  bald eagle 秃鹰
+  * 参考：  golden eagle 鹫
+  <br>
+
+- conquest
+  * 词义：  n. 征服
+  * 例句：  The dancer made a conquest of every audience for her performance.
+  * 翻译：  舞者用自己的表演征服了所有观众。
+  <br>
+
+- hinder
+  * 词义：  vt.(from) 阻止，妨碍
+  * 同义：  impede (vt.阻碍，妨碍，阻止) // encumber (vt.阻碍，妨碍) hamper (vt.妨碍，限制)  
+  <br>
+
+- slipper
+  * 词义：  n.便鞋，拖鞋
+  * 例句：  Her slippers were wet by the water.
+  * 翻译：  她的拖鞋被水弄湿了。
+  <br>
+
+- equator
+  * 词义：  n.赤道
+  * 例句：  The areas near the equator receive more heat than the latitudes near the poles.
+  * 翻译：  靠近赤道的地区比纬度靠近极地的地区吸收的热量多。
+  <br>  
