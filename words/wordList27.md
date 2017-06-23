@@ -139,3 +139,71 @@
   * 例句：  The areas near the equator receive more heat than the latitudes near the poles.
   * 翻译：  靠近赤道的地区比纬度靠近极地的地区吸收的热量多。
   <br>  
+  
+---
+### 2017年06月23日 21:50:31
+
+- bait
+  * 词义：  n.鱼饵，诱饵；vt.装饵于
+  * 例句：  The old man baited the hook with worms.
+  * 翻译：  老人把蚯蚓挂到钩子上做诱饵。
+  <br>
+
+- shark
+  * 词义：  n.鲨鱼
+  * 例句：  The lifeguard saw a shark in the water and ordered everyone to leave immediately.
+  * 翻译：  看到这片水域有条鲨鱼，救生员命令所有人立即离开。
+  <br>
+
+- remedy
+  * 词义：  n.药品，治疗措施，补救办法 vt.治疗，医治；纠正，补救
+  * 例句：  Mark wished to remedy his mistake and please you.
+  * 翻译：  马克希望能够弥补过失，让你高兴。
+  * 短语：  remedy for 对...的治疗法或药物，补救
+  <br>
+
+- weld
+  * 词义：  vt.焊接，锻接；n.焊接，焊缝
+  * 例句：  The flow of heat is used to weld parts together.
+  * 翻译：  热流用于把零部件焊接在一起。
+  <br>
+
+- ethnic
+  * 词义：  n.种族的，民族的
+  * 例句：  The experts have different research focuses in the study of ethnic issues.
+  * 翻译：  这些专家研究种族问题的侧重点不同。
+  * 参考：  ethics (n.道德规范)
+  <br>
+
+- apt
+  * 词义：  a.恰当的，适宜的；(to)(习性)易于...的，有...倾向的
+  * 例句：  Mrs. Pearce is apt to scold her husband.
+  * 翻译：  皮尔斯太太动不动就斥责她的丈夫。
+  <br>
+
+- condemn
+  * 词义：  vt.谴责，指责；判刑，宣告有罪。
+  * 例句：  All kinds of unfairness and discrimination should be condemned or made illegal.
+  * 翻译：  各种不公和歧视现象都应受到谴责或定为违法。
+  * 考点：  condemn sb. to 判决某人...
+  * 派生：  condemned (a.受责难的，受谴责的)
+  <br>
+
+- lightning
+  * 词义：  n.闪电 a.闪电般的，快速的
+  * 例句：  The police made a lightning raid on the house.
+  * 翻译：  警察闪电般地查抄了那栋房子。
+  <br>
+
+- parameter
+  * 词义：  n.参数
+  * 例句：  We adjusted the appropriate parameter in the experiment.
+  * 翻译：  我们在实验中对参数做了适当的调整。
+  <br>
+
+- endure
+  * 词义：  v.忍受，容忍；持久，持续
+  * 例句：  These traditions have endured throughout the ages.
+  * 翻译：  这些传统世代相传至今。
+  * 派生：  enduring (a.持久的，永久的)
+  <br>
