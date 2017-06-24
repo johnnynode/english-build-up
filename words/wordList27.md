@@ -206,3 +206,74 @@
   * 翻译：  这些传统世代相传至今。
   * 派生：  enduring (a.持久的，永久的)
   <br>
+  
+---
+### 2017年06月24日 09:42:51
+
+- recovery
+  * 词义：  n.痊愈，复原；重获，收复
+  * 例句：  The film told a story about the recovery of a fallen city.
+  * 翻译：  这部影片讲述了收复一座沦陷城市的故事。
+  * 派生：  recoverable (a.可痊愈的，可收回的);
+  <br>
+
+- deputy
+  * 词义：  n.代理人，代表 a.副的，代理的
+  * 例句：  The director attended the meeting with the deputy manager.
+  * 翻译：  经理和副经理一同出席了这次会议。
+  <br>  
+
+- bacon
+  * 词义：  n.咸肉，熏肉
+  * 例句：  Barbara stood at the stove, frying bacon.
+  * 翻译：  芭芭拉站在炉子边煎着咸肉。
+  * 短语：  bring home the bacon 成功；赚钱糊口
+  <br>
+
+- ditch
+  * 词义：  n.钩，渠，水沟
+  * 例句：  There's a wrecked car in the ditch beside the road.
+  * 翻译：  公路边的水沟里有一辆汽车的残骸。
+  <br>
+
+- excessive
+  * 词义：  a.过多的，过分的
+  * 例句：  The food was bad and the bill was excessive in this restaurant.
+  * 翻译：  这家餐馆的饭菜很糟糕，价钱还很贵。
+  * 派生：  excessively (ad.过分地)
+  <br>
+
+- salary
+  * 词义：  n.薪水，薪金
+  * 例句：  To be promoted or be demoted is not a matter of salary but even more a matter of self-respect.
+  * 翻译：  被提拔或被降职并不是薪金问题，更多是关乎自尊的问题。
+  * 派生：  salaried (a.拿薪水的)
+  <br>
+
+- engage
+  * 词义：  v.(in) (使)从事于， (使)参加； (使)订婚，引起，吸引，聘
+  * 例句：  People engage in work to feed themselves.
+  * 翻译：  人们忙于工作来养活自己。
+  * 考点：  engage with sb./sth. 例会，处理
+  * 派生：  engaged (a.忙碌的)
+  <br>
+
+- physiology
+  * 词义：  n.生理学
+  * 例句：  The professor's experiments in nerve physiology began six months ago.
+  * 翻译：  教授的神经生理学实验于六个月前就开始了。
+  <br>
+
+- convenience
+  * 词义：  n.便利，方便；便利设施
+  * 例句：  The new'y-built apartment provides gas, electricity and other modern conveniences.
+  * 翻译：  这座新建的公寓提供天然气，电，以及其他一些现代化便利设施。
+  * 派生：  inconvenience (n.麻烦，不便)
+  * 参考：  conveniently (a.便利地，方便地) inconvenient (a.不便的)
+  <br>
+
+- copper
+  * 词义：  n.铜；铜币，铜制器
+  * 例句：  Mike had only a few coppers in his pocket when he came to New York.
+  * 翻译：  迈克刚到纽约时，口袋里只有几枚铜币。
+  <br>
