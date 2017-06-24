@@ -277,3 +277,73 @@
   * 例句：  Mike had only a few coppers in his pocket when he came to New York.
   * 翻译：  迈克刚到纽约时，口袋里只有几枚铜币。
   <br>
+  
+---
+### 2017年06月25日 07:16:45
+
+- elevate
+  * 词义：  vt.抬高，升起
+  * 例句：  The politician managed to elevate himself to a station of some authority.
+  * 翻译：  那名政客设法使自己上升到有权势的地位。
+  * 同义：  raise (vt.升起，提高)
+  * 反义：  degrade (v.(使)降级，(使)堕落，(使)退化)
+  <br>
+
+- rotate
+  * 词义：  v.(使)旋转
+  * 例句：  Everyone knows that the Moon rotates around the Earth.
+  * 翻译：  人人都知道月亮绕着地球转。
+  * 派生：  rotating (a.旋转的) rotation (n.旋转)
+  <br>
+
+- process
+  * 词义：  n.过程，进程；工序，制作法，工艺；vt.加工，处理
+  * 例句：  The workers are processing watch chips in the workshops.
+  * 翻译：  工人们在车间里加工手表芯片。
+  * 派生：  processor (n.处理器)
+  <br>
+
+- industrialize / industrialize
+  * 词义：  vt. 使工业化
+  * 例句：  China has been steadily industrializing itself.
+  * 翻译：  中国正在稳步实现工业化。
+  * 派生：  industrialization (n.工业化) // industrialized (a.工业化的)
+  <br>
+
+- nest
+  * 词义：  n. 窝，巢 vi.筑巢
+  * 例句：  The seabirds nest on rocks off the coast.
+  * 翻译：  海鸟在靠近海岸的岩石上筑巢。
+  <br>
+
+- palm
+  * 词义：  n.手掌，掌状物； 棕榈
+  * 例句：  The last of the sunlight sloped down through the palm trees.
+  * 翻译：  太阳的余晖斜射过棕榈林。
+  * 参考：  calm (a.平静的，镇静的)
+  <br>
+
+- medium
+  * 词义：  n.中间，适中；媒介物，媒体，传导体； a.中等的，适中的
+  * 例句：  The shed was medium in size.
+  * 翻译：  这座小屋大小适中。
+  * 考点：  medium-sized 中等大小的。
+  <br>
+
+- heighten
+  * 词义：  v.提高，升高，加强
+  * 例句：  As the criminal waited for his sentence, his fears heightened.
+  * 翻译：  当罪犯等待最后的判决时，他越发感到恐惧不安。
+  <br>
+
+- stumble
+  * 词义：  vi.跌，绊；结巴地说话； n.跌倒，绊
+  * 例句：  Mr. Black made a stumble in the doorway. 
+  * 翻译：  布莱克先生在门口绊了一跤。
+  <br>
+
+- pint
+  * 词义：  n.品脱
+  * 例句：  Tommy hands Rose a pint of stout and she hoists it.
+  * 翻译：  汤米递给露丝一品脱烈性啤酒，她一饮而尽。
+  <br>
