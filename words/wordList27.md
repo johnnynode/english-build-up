@@ -347,3 +347,69 @@
   * 例句：  Tommy hands Rose a pint of stout and she hoists it.
   * 翻译：  汤米递给露丝一品脱烈性啤酒，她一饮而尽。
   <br>
+  
+---
+### 2017年06月26日 18:57:42
+
+- disorder
+  * 词义：  n.混乱，杂乱，骚乱；失调，疾病
+  * 例句：  The doctor said there was no sign of any disorder of your body.
+  * 翻译：  医生说你的身体没有任何病征。
+  <br>
+
+- cabin
+  * 词义：  n.客舱，机舱；小(木)屋
+  * 例句：  This cozy cabin will make your vacation quite enjoyable.
+  * 翻译：  这个我温馨的小屋会让你度过一个非常惬意的假期。
+  <br>
+
+- delete
+  * 词义：  vt.删除
+  * 例句：  These unreasonable items are deleted in teh new contract.
+  * 翻译：  新合约删除了这些不合理的条款。
+  <br>
+
+- commonplace
+  * 词义：  a.平凡的，陈腐的
+  * 例句：  John was ejected from the meeting room for he uttered such commonplace speech again.
+  * 翻译：  约翰再次因为陈词滥调而被赶出了会议室。
+  * 同义：  ordinary (a.平常的，普通的，平凡的) unremarkable (寻常的，不值得注意的)
+  <br>
+
+- acrobat
+  * 词义：  n.特技演员，杂技演员
+  * 例句：  There 8-year-old children will be rained as very skillful acrobats.
+  * 翻译：  这些八岁的孩子就被训练成技艺高超的杂技演员。
+  <br>
+
+- proposition
+  * 词义：  n.主张，建议；陈述，命题
+  * 例句：  I think the boss might be interested in hearing your proposition.
+  * 翻译：  我想老板可能会有兴趣听你的建议。
+  <br>
+
+- pea
+  * 词义：  n.豌豆
+  * 参考：  peak (n.山顶，顶峰)； pearl (n.珍珠) peace (n.和平，安宁)  
+  <br>
+
+- bay
+  * 词义：  n.海湾，(港)湾
+  * 例句：  Francisco Bay was lit by the yacht's twinkling lights.
+  * 翻译：  游艇上闪烁的灯光照亮了旧金山湾。
+  * 考点：  bay area 海湾地区
+  <br>
+
+- audit
+  * 词义：  vt.审计，核对；旁听
+  * 例句：  Mary likes to audit the literature lessons in here spare time.
+  * 翻译：  玛丽喜欢在空余时间旁听文学课。
+  * 派生：  auditor (n.审计员，听众)
+  <br>
+
+- affiliate
+  * 词义：  v.(to)(使)隶属(或附属)于 n.附属机构，分公司
+  * 例句：  This factory is affiliated to a larger firm in the same city.
+  * 翻译：  这家工厂隶属于同城的一家大公司。
+  * 派生：  affiliated (a.附属的，从属的)
+  <br>
