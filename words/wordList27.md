@@ -413,3 +413,93 @@
   * 翻译：  这家工厂隶属于同城的一家大公司。
   * 派生：  affiliated (a.附属的，从属的)
   <br>
+  
+---
+### 2017年06月27日 19:33:28
+
+- chamber
+  * 词义：  n.房间，室
+  * 例句：  Love is red, love is blue, when love turn into a torture chamber, you better learn to let it go.
+  * 翻译：  爱是热烈的，爱是犹豫的，当爱变成炼狱，你最好学会放手。
+  * 短语：  chamber music 室内音乐
+  <br>
+
+- obstruct
+  * 词义：  vt.妨碍，阻止；阻塞，截断
+  * 例句：  Skyscrapers interfere with television reception and obstruct air traffic.
+  * 翻译：  摩天大楼干扰电视信号的接收，还阻碍空中通航。
+  * 派生：  unobstructed (a.不被阻碍的，通畅的)
+  <br>
+
+- frog
+  * 词义：  n.蛙
+  * 例句：  Frogs are experts in catching insects.
+  * 翻译：  青蛙是捕虫能手。
+  <br>
+
+- inhibit
+  * 词义：  vt. 阻止，妨碍，抑制
+  * 例句：  Childhood viral infections will inhibit the development of brain cell.
+  * 翻译：  在童年时期感染的病毒将会抑制脑细胞的发育。
+  * 同义：  hinder (v.阻碍，妨碍) obstruct (v.妨碍，阻止) impede (vt. 阻碍，妨碍，阻止)
+  * 反义：  encourage (vt. 激励，促进)
+  * 参考：  inhabit (vt. 居住)
+  <br>
+
+- tidy
+  * 词义：  a. 整洁的，整齐的； v.使整齐，整理，收拾
+  * 例句：  The maid tidied the hotel room while I was out.
+  * 翻译：  我外出的时候，女服务员把宾馆的房间收拾干净了。
+  <br>
+
+- contain
+  * 词义：  v.包含，容纳，装有；等于，相当于
+  * 例句：  A meter contains one hundred centimeters.
+  * 翻译：  1米等于100厘米。
+  <br>
+
+- desirable
+  * 词义：  a.称心的；值得要的；
+  * 例句：  Bill found a desirable job in a multi-national corporation after his graduation.
+  * 翻译：  比尔毕业后在一家跨国公司找到了一份称心的工作。
+  * 参考：  desire (n.愿望，要求) desired (a.渴望的，想得到的)
+  <br>
+
+- sociable
+  * 词义：  a.友善的，友好的，好交际的，合群的
+  * 例句：  The new employee is very sociable, and quickly makes the acquaintance of people in the company.
+  * 翻译：  这名新雇员很擅长交际，很快就和公司的人混熟了。
+  <br>
+ 
+- impressive
+  * 词义：  a.给人印象深刻的；威严的，使人敬畏的；
+  * 例句：  The general is an impressive man.
+  * 翻译：  这位将军令人肃然起敬。
+  * 派生：  unimpressive (a.不令人敬佩的，给人印象不深的)
+  <br>
+
+- exile
+  * 词义：  n./vt. 放逐，流放
+  * 例句：  He spent many years in exile.
+  * 翻译：  他曾经流亡多年。
+  <br>
+  
+- formula
+  * 词义：  n.(pl.formulae) 公式，程式
+  * 例句：  My five years old son has known about the basic arithmetic formulae.
+  * 翻译：  我五岁的儿子已经对基础的算数公式有所了解。
+  <br>
+  
+- liner
+  * 词义：  n.班机，班轮
+  * 例句：  The luxury liner is preparing for takeoff.
+  * 翻译：  这架豪华的班级正在准备起飞。
+  <br>
+  
+> 名言：
+>
+> The greatest test of courage on earth is to bear defeat without losing heart.<br>
+> -- Robert Ingersoll
+>
+> 世间最大的考验乃是容忍失败，绝不丧志。<br>
+> -- 罗伯特·英格所
