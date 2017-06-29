@@ -133,3 +133,72 @@
   * 词义：  n.商品，货物
   * 来自：  merchant (n.商人)  
   <br>
+  
+---
+### 2017年06月30日 05:37:00
+
+- adequate
+  * 词义：  a.足够的，充分的，恰当的
+  * 例句：  I had an adequate amount of food for dinner for ten people.
+  * 翻译：  我准备的食物足够十个人进餐。
+  * 考点：  be adequate for 适合于
+  * 派生：  adequately (ad.足够地) inadequate (a.不充分的，不恰当的)
+  <br>
+
+- characterise / characterize
+  * 词义：  vt. 表示...的特性，描述...的特性
+  * 例句：  I find it healthy never to characterize people I don't know.
+  * 翻译：  我发现不对自己不熟识的人妄加评论这个习惯很好。
+  <br>
+
+- rainbow
+  * 词义：  n.彩虹
+  * 例句：  After the storm, there was a rainbow in the sky.
+  * 翻译：  暴风雨过后，空中出现了一道彩虹。
+  * 参考：  rainfall (a.降雨，降雨量) rainy (a.下雨的，多雨的)
+  <br>
+
+- nevertheless
+  * 词义：  conj. 然而，不过； ad.仍然，不过
+  * 例句：  My bother was nevertheless afraid of the dark when he grew up and always slept with a light on.
+  * 翻译：  我弟弟长大后仍然怕黑，总是开着灯睡觉。
+  <br>
+
+- grocer
+  * 词义：  n.食品商，杂货商
+  * 例句：  The grocer placed my purchases in a paper bag.
+  * 翻译：  杂货商把我迈尔东西放在了一个纸袋里。
+  <br>
+
+- frank
+  * 词义：  a.坦白的，直率的；
+  * 例句：  I'm going to be frank and tell you that you need to lose weight.
+  * 翻译：  我打算跟你讲实话，你需要减肥了。
+  * 考点：  to be frank 说实在的，坦白地讲
+  <br>
+
+- vote
+  * 词义：  n.投票，表决，选票，选票数；v.投票，表决
+  * 例句：  Had Paul received six more votes in the last election, he would be our chairman now.
+  * 翻译：  如果保罗在上次选举中的多得六张选票，那他现在就是我们的主席了。
+  * 派生：  voting (n.投票)
+  <br>
+
+- observation
+  * 词义：  n.观察，观测，监视；观察资料或报告，言论
+  * 例句：  The professor published his observations on pandas.
+  * 翻译：  那位教授发表了有关熊猫的观察报告。
+  <br>
+
+- refuge
+  * 词义：  n.避难处，藏身处
+  * 例句：  Here, the church is the only refuge from the rain.
+  * 翻译：  在这儿，教堂是唯一可以避雨的地方。
+  * 同义：  shelter (n.遮蔽处，庇护所) sanctuary (n.庇护所，避难所)
+  <br>
+
+- slim
+  * 词义：  a.苗条的，薄的；(机会)少的，小的； vi.(down) (用运动，节食)减轻体重，变苗条
+  * 例句：  It is unbelievable that Nina has slimmed down to 110 pounds.
+  * 翻译：  真实难以置信，你那已经把体重减到110磅。
+  <br>
