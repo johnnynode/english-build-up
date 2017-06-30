@@ -202,3 +202,70 @@
   * 例句：  It is unbelievable that Nina has slimmed down to 110 pounds.
   * 翻译：  真实难以置信，你那已经把体重减到110磅。
   <br>
+  
+---
+### 2017年07月01日07:35:46
+
+- boast
+  * 词义：  v.自夸，夸耀； n.自夸，大话
+  * 例句：  Annie made many boasts about her son.
+  * 翻译：  安妮把她儿子夸得天花乱坠。
+  * 考点：  make a boast of 夸耀，自夸 // boast of/about 夸耀
+  <br>
+
+- carbon
+  * 词义：  n.碳
+  * 例句：  Carbon dioxide is generated as a b-product of the combustion of fossil fuels.
+  * 翻译：  二氧化碳是矿物燃烧时生产的副产品。
+  <br>
+
+- swallow
+  * 词义：  v. 吞，咽； n.吞，咽； 燕子
+  * 例句：  The swallow flew over forests and lakes.
+  * 翻译：  燕子飞过森林和湖泊。
+  <br>
+
+- streamline
+  * 词义：  a.流线型的
+  * 例句：  The streamline airplane can break the sound barrier.
+  * 翻译：  那架流线型飞机可以超音速飞行。
+  <br>
+
+- chew
+  * 词义：  v.咀嚼，思量；
+  * 例句：  Chew your food well before you swallow it.
+  * 翻译：  吃东西要细嚼慢咽。
+  * 考点：  chew sth. over 思量
+  <br>
+
+- social
+  * 词义：  a. 社会的 ，交际的
+  * 例句：  My parents are going to attend a social gathering tonight.
+  * 翻译：  我爸妈今晚要参加一个社交聚会。
+  * 派生：  socially (ad.在社交方面，在社会上) // socialization (n.交往，交际，社会化) // sociability (n.社交性，交际能力)
+  <br>
+
+- threshold
+  * 词义：  n.门槛，入门，开端
+  * 例句：  The year 2001 is the threshold of a new millennium.
+  * 翻译：  2001年是新千年的开始。
+  * 参考：  threefold (ad.三倍)
+  <br>
+
+- blank
+  * 词义：  a.空白的，空着的；失色的，无表情的；n.空白，表格
+  * 例句：  Please fill in this blank before applying for the loan.
+  * 翻译：  申请贷款钱，请先填一下这个表格。
+  <br>
+
+- divert
+  * 词义：  vt. (使)转向，使改道(或绕道);转移，转移...的注意力,使娱乐，使消遣
+  * 例句：  You were supposed to divert Lucy and date her when she was in a mood.
+  * 翻译：  露西心情不好时，你应该让她开心，约她出来。
+  <br>
+
+- chef
+  * 词义：  n.厨师长，厨师
+  * 例句：  You're the most talented chef I've ever seen.
+  * 翻译：  你是我见过的最有才干的厨师。
+  <br>
