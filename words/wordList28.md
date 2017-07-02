@@ -269,3 +269,68 @@
   * 例句：  You're the most talented chef I've ever seen.
   * 翻译：  你是我见过的最有才干的厨师。
   <br>
+
+---
+### 2017年07月02日09:21:15
+
+- disgust
+  * 词义：  n.厌恶，恶心；vt.使厌恶
+  * 例句：  That ugly monster disgusts me.
+  * 翻译：  那个丑陋的怪物让我厌恶。
+  <br>
+
+- somewhat
+  * 词义：  ad.稍微，有点
+  * 例句：  Tom is wearing glasses now, in a somewhat scholarly mode..
+  * 翻译：  汤姆现在戴着一副眼镜，多少有点学者气质。
+  <br>
+
+- Christian
+  * 词义：  n.基督教徒 a.基督教徒的
+  * 例句：  The first ecumenical council of the Christian Church was held in 325.
+  * 翻译：  基督教的第一次大公会议于325年召开。
+  <br>
+
+- widow
+  * 词义：  n.寡妇
+  <br>
+
+- indoor
+  * 词义：  a.室内的，户内的；
+  * 例句：  The owner of the villa plans to build an indoor swimming-pool next year.
+  * 翻译：  这幢别墅的主人计划明年建一个室内游泳池。
+  * 参考：  indoors (ad.在室内，在户内)
+  <br>
+
+- weed
+  * 词义：  n.杂草，野草；v.除草
+  * 例句：  I have pulled all weeds out of that garden.
+  * 翻译：  我已经把花园里的草都拔光了。
+  <br>
+
+- prosper
+  * 词义：  v.繁荣，使成功
+  * 例句：  Trade is likely to prosper for some years to come.
+  * 翻译：  商业很可能会在接下来的几年内繁荣起来。
+  <br>
+
+- contact
+  * 词义：  vt.(使)接触，联系，交往 n.接触，联系，交往；
+  * 例句：  I connected Janet to see how she was doing.
+  * 翻译：  我和珍妮特联系了一下，看看她近况如何。
+  * 短语：  come into contact with sb. 接触某人 // in contact with... 与...有联系
+  * 考点：  in contact with sb. 与某人保持联系，与某人交往
+  * 参考：  intact (a.完成无缺的)
+ <br>
+
+- minus
+  * 词义：  a.负的，减的； prep. 减去 n.负号，减号
+  * 例句：  You missed a minus here.
+  * 翻译：  你这儿漏了一个负号。
+  <br>
+
+- complementary
+  * 词义：  a.补充的，辅助的
+  * 例句：  Basic computer skills are only complementary to the host of real skills that are necessary to becoming any kind of professional.
+  * 翻译：  在成为任何一类专业人员所需要的众多真才实学中，计算机基础基础技能只是一种辅助技能。
+  <br>
