@@ -334,3 +334,74 @@
   * 例句：  Basic computer skills are only complementary to the host of real skills that are necessary to becoming any kind of professional.
   * 翻译：  在成为任何一类专业人员所需要的众多真才实学中，计算机基础基础技能只是一种辅助技能。
   <br>
+  
+---
+### 2017年07月03日 23:13:28
+
+- adjacent
+  * 词义：  a.(to)临近的，毗连的
+  * 例句：  Tom's house is adjacent to the school. 
+  * 翻译：  汤姆家挨着学校。
+  * 同义：  adjoining (a.邻接的) contiguous (a.接近的)
+  * 反义：  detached (a.分开的) separate (a.分离的，单独的)
+  <br>
+
+- input
+  * 词义：  n.输入； vt.输入  
+  * 例句：  The data should be inputted to the computer without any mistake.
+  * 翻译：  这些数据必须准确无误地输入电脑。
+  <br>
+
+- prevalent
+  * 词义：  a.流行的，普遍的
+  * 例句：  Colds were never so prevalent as they have been this winter.
+  * 翻译：  感冒从未像今年冬天这么流行过。
+  * 同义：  widespread (a.分布(或散布)广的，普遍的)
+  * 反义：  rare (a.稀有的，罕见的)
+  <br>
+
+- explore
+  * 词义：  v.勘探，探究，探索
+  * 例句：  Antarctica is the least explored and least understood continent on the earth.
+  * 翻译：  南极洲是地球上被考察得最少，也是最不为人类所了解的大陆。
+  * 派生：  exploration (n.勘探，探究，探索) explorer (n.探险家，探测者，探测器)
+  <br>
+
+- cultivate
+  * 词义：  vt.耕作，栽培，养殖；培养，教养，磨练
+  * 例句：  Lucy's mother expects to cultivate her love of art.
+  * 翻译：  妈妈希望培养露西对艺术的喜爱。
+  * 派生：  cultivation (n.培养，教养，培植)
+  <br>
+
+- manner
+  * 词义：  n.方式，方法；举止；风度，礼貌，规矩；风俗
+  * 例句：  It is bad manners to interrupt.
+  * 翻译：  打断别人说话是不礼貌的。
+  <br>
+
+- robe
+  * 词义：  n.长袍，上衣
+  * 例句：  Mary is in an old white bath robe.
+  * 翻译：  玛丽穿着一件旧的白色浴袍。
+  * 参考：  probe (n.探针 vt.探明，查明)
+  <br>
+
+- approval
+  * 词义：  n.赞成，同意，认可；批准
+  * 例句：  A sketch of the report by the budget committee was submitted to the mayor for approval.
+  * 翻译：  预算委员会向市长提交了一份报告提纲以期获得批准。
+  * 派生：  disapproval (n.不赞成，不同意， 不认可)
+  <br>
+
+- religion
+  * 词义：  n.宗教，信仰； 信念， 信条
+  * 例句：  Mr. Smith is a freethinker who doesn't believe in any religion.
+  * 翻译：  史密斯先生是个无宗教信仰的自由思想家。
+  <br>
+
+- overall
+  * 词义：  a.全面的，综合的； n.(套头)工作服，工装裤
+  * 例句：  Will you help me off with my overalls? I am so tired.
+  * 翻译：  你能帮我脱掉工作服吗，我太累了。
+  <br>
