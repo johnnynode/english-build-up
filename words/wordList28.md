@@ -405,3 +405,98 @@
   * 例句：  Will you help me off with my overalls? I am so tired.
   * 翻译：  你能帮我脱掉工作服吗，我太累了。
   <br>
+  
+---
+### 2017年07月04日 20:03:06
+
+- behavior / behaviour
+  * 词义：  n. 行为，举止；(机器的)特性，运转情况
+  * 例句：  All the experts were satisfied with the machine's behaviour.
+  * 翻译：  所有专家都很满足这台机器的运转情况。
+  * 派生：  behavioral (a.行为的) behaviorist (n.行动主义者)
+  <br>
+
+- ignorant
+  * 词义：  a.(of, on) 无知的，愚昧的，不知道的；
+  * 例句：  Harry claims to be an expert in astronomy, but in actual fact he is quite ignorant on the subject.
+  * 翻译：  哈里自称是天文学方面的专家，但事实上他对天文学知之甚少。
+  <br>
+
+- format
+  * 词义：  n.设计，安排，样式；vt.安排版式；格式化
+  * 例句：  Format your report so that the page number appears at the top of each page.
+  * 翻译：  将你的报告排一下版，让页码显示在每页的顶部。
+  <br>
+
+- volt
+  * 词义：  n.伏特
+  * 参考：  revolt (v.反抗，起义)
+  <br>
+
+- ancestor
+  * 词义：  n.祖宗，祖先；
+  * 例句：  Human beings and apes had a common ancestor.
+  * 翻译：  人类和类人猿有着共同的祖先。
+  <br>
+
+- remind
+  * 词义：  vt.提醒，使想起。
+  * 例句：  This song reminds me of my motherland.
+  * 翻译：  这首歌让我想起了我的祖国。
+  * 派生：  reminder (n.提醒的人，暗示)
+  <br>
+
+- misery
+  * 词义：  n.痛苦，悲惨，不幸
+  * 例句：  The floods caused untold misery to hundreds of thousands of farmers this year.
+  * 翻译：  今年的洪水给成千上万的农民带来了数不清的痛苦。
+  * 同义：  anguish (n.痛苦，苦恼) distress (n.痛苦，悲伤，忧虑)
+  * 反义：  pleasure (n.愉快，快乐)
+  <br>
+
+- salient
+  * 词义：  n.显著的，突出的；
+  * 例句：  As a student majoring in fashion design, she pointed out the salient features of the new design immediately.
+  * 翻译：  作为一名时装设计专业的学生，她立即指出了这款新设计的突出特点。
+  * 派生：  salience / saliency (n.显著，卓越)
+  <br>
+
+- consolidate
+  * 词义：  vt.巩固，加强
+  * 例句：  The company is planning to consolidate and expand its overseas operations.
+  * 翻译：  改公司正计划巩固和拓展其海外业务。
+  * 派生：  consolidation (n.巩固，合并)
+  <br>
+
+- sunrise
+  * 词义：  n. 日出
+  * 例句：  The tourists praised the sublime scene of the sunrise.
+  * 翻译：  游客们赞叹日出的壮丽景象。
+  <br>
+  
+- thumb
+  * 词义：  n. 拇指；vi.用手指翻动书页。
+  * 例句：  I just thumbed through the book and didn't read it carefully.
+  * 翻译：  我只是随便翻了翻这本书，并没有仔细看。
+  <br>
+  
+- patrol
+  * 词义：  v.巡逻，巡查； n.巡逻，巡查；巡逻兵，巡逻队。
+  * 例句：  The patrol was attacked by the terrorists.
+  * 翻译：  巡逻兵遭到了恐怖分子的袭击。
+  <br>
+  
+- recede
+  * 词义：  vi.退，退去，渐渐远去，向后倾斜，缩；
+  * 例句：  As my father got older, his hairline began to recede.
+  * 翻译：  我父亲上了把年纪，发线开始后退。
+  * 参考：  precede (v.领先，在...之前)
+  <br>
+  
+> 名言：
+>
+> A man can success at almost anything for which he has unlimited enthusiasm.<br>
+> -- C.M.Schwab
+>
+> 一个人只要有无限的热情，几乎可以在任何事情上取得成功。<br>
+> -- C.M.施瓦布
