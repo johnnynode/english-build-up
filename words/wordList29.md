@@ -73,3 +73,73 @@
   * 同义：  mastery (n.精通，熟练) 
   * 反义：  nonproficiency (n.不精通，不熟练)
   <br>
+  
+---
+### 2017年07月06日 19:39:59
+
+- zoom
+  * 词义：  n.嗡嗡声，隆隆声； vi.急速移动；急升，猛涨
+  * 例句：  Some economists warned that the oil prices would zoom.
+  * 翻译：  一些经济学家警告说，油价可能会暴涨。
+  <br>
+
+- presence
+  * 词义：  n. 出席，到场，存在，在
+  * 例句：  The X-ray showed the presence of a tumour in my stomach.
+  * 翻译：  X光显示我的胃里有一个肿瘤。
+  * 参考：  presentation (n.介绍，陈述)
+  <br>
+
+- racial
+  * 词义：  a.种的，种族的；
+  * 例句：  Nancy was a tireless activist for racial and sexual equality.
+  * 翻译：  南希是一个永不疲倦的争取种族和性别平等的活动家。
+  * 考点：  racial conflict 种族冲突
+  <br>
+
+- inherent
+  * 词义：  a.固有的，内在的，天生的
+  * 例句：  Personality is to a large extent inherent.
+  * 翻译：  个性在很大程度上是天生的。
+  * 派生：  inherently (ad.天性地，固有地)
+  <br>
+
+- dwell
+  * 词义：  vi.住，居留；
+  * 例句：  Jane was raised in the city but wanted to dwell in the country.
+  * 翻译：  简是在城市里长大的，但她想在农村定居。
+  * 考点：  dwell on 细想，详述
+  <br>
+
+- hoist
+  * 词义：  vt.举起，升起，吊起。
+  * 例句：  When we beat our biggest rival, Mike hoisted me to his shoulders.
+  * 翻译：  我们打败了最大的竞争对手后，迈克把我举到了他的肩上。
+  * 同义：  raise (vt.举起，提高) elevate (vt.举起，使上升)
+  <br>
+
+- spouse
+  * 词义：  n.配偶
+  * 例句：  The old lady regretted that she failed in her duty to her spouse.
+  * 翻译：  老妇人后悔没有对老伴尽到责任。
+  <br>
+
+- burden
+  * 词义：  n.担子，负担，重担
+  * 例句：  I don't want to stay here with you to be a burden.
+  * 翻译：  我不愿留在你身边当包袱。
+  * 派生：  burdened (a.有负担的) burdensome (a.繁重的)
+  <br>
+
+- Latin
+  * 词义：  a.拉丁的，拉丁文的 n.拉丁语的
+  * 例句：  This abbrevation is formed by the initials of the Latin words.
+  * 翻译：  这个缩写词是由几个拉丁词的首字母构成的。
+  <br>
+
+- dominate
+  * 词义：  v.支配，统治，控制；占优势
+  * 例句：  Don't want to use your power to dominate all the others!
+  * 翻译：  别想利用你的权利来支配其他所有的人！
+  * 考点：  male-dominated 男性主导的
+  <br>
