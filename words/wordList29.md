@@ -143,3 +143,71 @@
   * 翻译：  别想利用你的权利来支配其他所有的人！
   * 考点：  male-dominated 男性主导的
   <br>
+  
+---
+### 2017年07月07日 21:08:24
+
+- outset
+  * 词义：  n.开始，开端
+  * 考点：  at the outset 一开始
+  <br>
+
+- refrain
+  * 词义：  vi.(from)抑制，克制 n.反复句，(诗歌的)叠句；副歌
+  * 例句：  The performance ended with all the people singing the refrain.
+  * 翻译：  演出以所有人齐唱副歌结束。
+  * 同义：  restrain (v.抑制，控制) abstain (v.自我克制)
+  * 反义：  indulge (v.纵容，自我放纵)
+  <br>
+
+- spacecraft
+  * 词义：  n.宇宙飞船
+  * 例句：  Many years ago, spacecraft seemed very mysterious to most people.
+  * 翻译：  许多年前，宇宙飞船对大多数人来说很神秘。
+  <br>
+
+- soluble
+  * 词义：  a.可溶的
+  * 例句：  Sugar is soluble in water.
+  * 翻译：  糖溶于水。
+  <br>
+
+- reassure
+  * 词义：  vt.使...安心；安慰
+  * 例句：  Kate claps the man on the shoulder to reassure him.
+  * 翻译：  凯特拍了拍那个人的肩膀以示安慰。
+  * 派生：  reassurance (n.使安心，再保证) // reassuring (a.安心的，可靠的)
+  * 反义：  horrify (v.使害怕，使感到恐怖)
+  <br>
+
+- compliment
+  * 词义：  n.称赞，恭维；[pl.]问候，致意，祝福；vt.称赞，恭维
+  * 例句：  Evelyn, complimented by the handsome boy, blushed.
+  * 翻译：  受到这位帅哥的称赞，伊芙琳脸红了。
+  <br>
+
+- afterward / afterwards
+  * 词义：  ad.后来，以后
+  * 例句：  Let's work hard and I'll take you on a vacation afterward.
+  * 翻译：  努力工作，然后我会带你去度假。
+  <br>
+
+- action
+  * 词义：  n.行动，行为；动作，活动；作用
+  * 例句：  The policemen went into action directly when they heard the alarm.
+  * 翻译：  警察听到了警报后立即采取了行动。
+  * 考点：  inaction (n.不活动) reaction (n.反应，反作用)
+  <br>
+
+- sprout
+  * 词义：  vi. (out/up) 抽条，发芽； n.芽，发芽
+  * 例句：  Buds sprout out in spring.
+  * 翻译：  春天，万物发芽。
+  <br>
+
+- plot
+  * 词义：  n.秘密计划；情节 vt.标绘，绘制；vi.密谋，策划
+  * 例句：  Terrorists plotted with the super rich merchant against the government.
+  * 翻译：  恐怖分子和那名超级富商密谋反政府。
+  * 参考：  climax (n.高潮)
+  <br>
