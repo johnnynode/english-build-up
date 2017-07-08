@@ -211,3 +211,71 @@
   * 翻译：  恐怖分子和那名超级富商密谋反政府。
   * 参考：  climax (n.高潮)
   <br>
+  
+---
+### 2017年07月08日 11:55:03
+
+- collide
+  * 词义：  vi.碰撞 (with)冲突，抵触；
+  * 例句：  The police collided with a handful of reporters.
+  * 翻译：  警方和一群记者发生了冲突。
+  * 同义：  clash (vi.冲突，vt.撞击)
+  <br>
+
+- magistrate
+  * 词义：  n.地方法官，治安官。
+  * 例句：  The local magistrate has arrested the outlaws and punished them. 
+  * 翻译：  当地的治安官员逮捕了那些违法者并对他们进行了处罚。
+  <br>
+
+- rebellion
+  * 词义：  n.叛乱，反抗，起义
+  * 例句：  The rebellion triggered a series of civil wars.
+  * 翻译：  叛乱引发了一些列内战。
+  * 派生：  rebellious (a.反叛的) 
+  * 同义：  disobedience (n.不服从，违抗) opposition (n.反对，抵抗)
+  * 反义：  support (v.支撑， 拥护)
+  <br>
+
+- solution
+  * 词义：  n.解答，解决方法。溶解，溶液
+  * 例句：  The little girl drank several cups of weak sugar solution.
+  * 翻译：  小女孩喝了好几杯淡糖水了。
+  <br>
+
+- fare
+  * 词义：  n.车费，船费；vt. 过活，进展；
+  * 例句：  How are you faring with your project?
+  * 翻译：  你的项目进展的如何？
+  * 参考：  welfare (n.福利)
+  <br>
+
+- compile
+  * 词义：  vt. 搜集，汇编
+  * 例句：  compile a dictionary 编撰词典 // compile data 收集资料
+  <br>
+
+- oxide
+  * 词义：  n.[化]氧化物
+  * 参考：  dioxide (n.二氧化物)
+  <br>
+
+- therefore
+  * 词义：  ad.因此，从而 conj. 所以
+  * 例句：  It was very late, therefore we went back home.
+  * 翻译：  天色很晚了，所以我们就回家了。
+  <br>
+
+- adhere
+  * 词义：  vi. (to) 黏附，胶着; (to) 坚持
+  * 例句：  Glue can make one surface adhere to another.
+  * 翻译：  胶水可以使两个表面粘在一起。
+  * 反义：  betray (vt.背叛，出卖)
+  * 同义：  stick (vi.黏，坚持)
+  <br>
+
+- insert
+  * 词义：  vt.插入，嵌入
+  * 例句：  The thief inserted a thin iron needle into the lock hole and unlock the door.
+  * 翻译：  小偷把一根细铁针插入锁孔，打开了门。
+  <br>
