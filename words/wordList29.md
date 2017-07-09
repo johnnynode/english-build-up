@@ -279,3 +279,74 @@
   * 例句：  The thief inserted a thin iron needle into the lock hole and unlock the door.
   * 翻译：  小偷把一根细铁针插入锁孔，打开了门。
   <br>
+  
+---
+### 2017年07月09日 09:09:26
+
+- necessity
+  * 词义：  n. 必需品，必要性，(迫切)需要
+  * 例句：  That computer will be of necessity to be installed a Microsoft operating system.
+  * 翻译：  那台电脑需要安装微软操作系统。
+  * 参考：  necessarily (ad. 必要地)
+  <br>
+
+- opt
+  * 词义：  vi.选择，挑选；
+  * 例句：  If you opt for a jacket potato instead of chips, you can save 300 calories.
+  * 翻译：  如果选择带皮烤的马铃薯而不是炸薯条，你就可以少摄入三百卡的热量。
+  * 派生：  option (n.选择，选项) optional (a.可选择的，随意的)
+  * 参考：  adopt (vt. 采纳，收养)
+  <br>
+
+- command
+  * 词义：  n.命令，指令；统帅，指挥(权)；掌握，运用能力； v.命令，指挥，统帅
+  * 例句：  The captain commanded the ship.
+  * 翻译：  舰长指挥这艘舰艇。
+  * 参考：  demand (n./v.要求)
+  <br>
+
+- dizzy
+  * 词义：  a.头晕目眩的，眩晕的；使人头晕的，极高的；
+  * 例句：  The altitude was so dizzy that I couldn't go down the mountain.
+  * 翻译：  这高度让人如此眩晕，我都下不了山了。
+  * 同义：  giddy (a.眼花缭乱的，头晕的) dazzling (a.眼花缭乱的，耀眼的)
+  * 参考：  dazzle (v.(使)眼花，目眩)
+  <br>
+
+- management
+  * 词义：  n.经营，管理；管理部门
+  * 例句：  The management are considering finishing up the project.
+  * 翻译：  管理部门正在考虑结束这个项目。
+  * 参考：  manageable (a.易处理的，易管理的)
+  <br>
+
+- copyright
+  * 词义：  n.版权 vt.获得...的版权
+  * 例句：  The movie, book and print are copyrighted and are not allowed to infringe upon. 
+  * 翻译：  电影，图书和印刷品版权所有，不得侵犯。
+  <br>
+
+- millionaire
+  * 词义：  n.百万富翁，大富翁
+  * 例句：  The millionaire got off from his limousine, with a beauty along his side.
+  * 翻译：  那个百万富翁从他的豪华轿车里下来，身边还跟着一位美女。
+  <br>
+
+- accommodate
+  * 词义：  vt. 留宿，收容；供应，供给；调和，适应。
+  * 例句：  You should soon accommodate yourself to the changed situation.
+  * 翻译：  你应该尽快适应变化了的形式。
+  <br>
+
+- commerce
+  * 词义：  n. 商业，贸易
+  * 例句：  This country has been trying to broaden its commerce with other nations.
+  * 翻译：  该国一直在扩大与其他国家的贸易往来。
+  <br>
+
+- hazard
+  * 词义：  n.危险，冒险，危害 vt.冒险，拼命
+  * 例句：  Coral reefs have always been one of the greatest hazards to ships sailing in tropical seas.
+  * 翻译：  珊瑚礁一直以来都是船只在热带海域航行的最大危险之一。
+  * 考点：  at some hazard 有危险的； noise hazards 噪音危害。
+  <br>
