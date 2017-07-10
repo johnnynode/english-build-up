@@ -350,3 +350,70 @@
   * 翻译：  珊瑚礁一直以来都是船只在热带海域航行的最大危险之一。
   * 考点：  at some hazard 有危险的； noise hazards 噪音危害。
   <br>
+  
+---
+### 2017年07月10日 20:36:56
+
+- toxic
+  * 词义：  a.有毒的，中毒的
+  * 例句：  James fainted and showed some toxic symptoms.
+  * 翻译：  詹姆斯晕倒了，并表现出一些中毒的症状。
+  * 同义：  poisonous (有毒的) noxious (a.有害的，有毒的)
+  <br>
+
+- assume
+  * 词义：  vt. 假装，假定，设想；采取，承担，呈现
+  * 例句：  It is reasonable to assume that the economy will continue to improve.
+  * 翻译：  有理由假定经济会继续好转。
+  <br>
+
+- quench
+  * 词义：  vt.熄灭，扑灭，解(渴)
+  * 例句：  Jack quenched his thirst with a cup of ice water.
+  * 翻译：  杰克喝了一杯冰水来解渴。
+  * 同义：  extinguish (v. 熄灭，消灭)
+  <br>
+
+- culprit
+  * 词义：  n.罪犯
+  * 例句：  The police quickly identified the chief culprit and got him caught.
+  * 翻译：  警察迅速人除了催魁祸首并逮捕了他。
+  <br>
+
+- commonwealth
+  * 词义：  n.共和国，联邦，共同体
+  * 例句：  Everyone exercise all his rights of citizenship in a free commonwealth.
+  * 翻译：  在自由联邦里，每个人都可以行驶自己全部的公民权。
+  <br>
+
+- omit
+  * 词义：  vt.省略，删去；遗漏，忽略
+  * 例句：  The editor omitted some words that he thought unnecessary.
+  * 翻译：  编辑把一些他认为多余的话删掉了。
+  * 短语：  omit doing / to do sth. 忘记做某事。
+  <br>
+
+- naked
+  * 词义：  a.裸体的，无遮蔽的，无掩饰的
+  * 例句：  These particles are invisible to the naked eye.
+  * 翻译：  这些粒子用肉眼是看不到的。
+  <br>
+
+- impart
+  * 词义：  vt.给予，赋予；传授，告知，透露
+  * 例句：  A good teacher imparts not only knowledge but also morals to his students.
+  * 翻译：  优秀的教师不仅向学生传授只是，还培养他们的道德意识。
+  * 参考：  impartial (a.公平的，无偏见的)
+  <br> 
+
+- petty
+  * 词义：  a.小的，琐碎的；气量小的
+  * 例句：  Stop your petty and childish behavior as you are an adult.
+  * 翻译：  你已经是成年人了，不要再那么小心眼和幼稚了。
+  <br>
+
+- peel
+  * 词义：  vt. 削皮，剥皮
+  * 例句：  The nurse peeled a banana and handed it to the patient.
+  * 翻译：  护士剥了根香蕉，递给了病人。
+  <br>
