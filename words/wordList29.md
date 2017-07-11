@@ -417,3 +417,100 @@
   * 例句：  The nurse peeled a banana and handed it to the patient.
   * 翻译：  护士剥了根香蕉，递给了病人。
   <br>
+  
+---
+### 2017年07月11日 20:16:57
+
+- behalf
+  * 词义：  n.利益
+  * 例句：  It is my great honor to present this gift to you on behalf of the company.
+  * 翻译：  能代表公司送您这份礼物，我感到非常荣幸。
+  * 短语：  on behalf of 代表，为了。
+  <br>
+
+- mankind
+  * 词义：  n.人类
+  * 例句：  Although mankind has undergone no general improvement in intelligence or morality, it has made extraordinary progress in the accumulation of knowledge.
+  * 翻译：
+  <br>
+
+- bang
+  * 词义：  n.碰的一声，猛击，猛撞；v.发出砰的一声；猛撞到某人(某物)；猛击
+  * 例句：  The classroom door banged open and open and came in naughty Tom.
+  * 翻译：  教室的门砰的一声开了，淘气的汤姆走了进来。
+  * 考点：  bang against/into 猛撞到； bang on/at the door 砰砰地敲门。
+  <br>
+
+- extent
+  * 词义：  n.广度，宽度，长度；程度，限度
+  * 例句：  I agree with you to a certain extent.
+  * 翻译：  在某种程度上我同意你的看法。
+  * 考点：  to some extent 在某些方面
+  <br>
+
+- deduct
+  * 词义：  vt.扣除，演绎
+  * 例句：  The new tax reform will permit taxpayers to deduct child care expenses from their taxes.
+  * 翻译：  新的税收改革将允许纳税人从税款中扣除照看儿童的费用。
+  * 派生：  deduction (n.演绎，扣除) deductive (a.推论的，演绎的)
+  <br>
+
+- cigar
+  * 词义：  n.雪茄烟
+  * 例句：  Do you prefer to Havana cigar or others?
+  * 翻译：  你喜欢抽哈瓦那雪茄还是其他的？
+  * 派生：  cigarette (香烟)
+  <br>
+ 
+- incredible
+  * 词义：  a. 不可相信的； <口>惊人的，不可思议的
+  * 例句：  The plot of the book is incredible.
+  * 翻译：  这本书的情节叫人难以相信。
+  <br>
+
+- autonomy
+  * 词义：  n.自治，自治权； 人身自由，自由权
+  * 例句：  The youngsters fought for the so-called autonomy.
+  * 翻译：  这些年轻人为争取所谓的自由权而战。
+  * 派生：  autonomous (a.自治的)
+  <br>
+
+- procession
+  * 词义：  n.队伍，行列
+  * 例句：  The soldiers were marching to the front in procession.
+  * 翻译：  士兵们正列队开赴前线。
+  <br>
+
+- emergency
+  * 词义：  n.紧急情况，突发事件，非常时刻；
+  * 例句：  In the event of emergency, please use the marked exists.
+  * 翻译：  如果有紧急情况发生，请走有标志的紧急出口。
+  <br>
+  
+- image
+  * 词义：  n.形象，肖像，影像，图像  
+  * 例句：  The animal images are currently printed on T-shirt.
+  * 翻译：  现在经常将动物头像印在T恤衫上。
+  <br>
+  
+- genius
+  * 词义：  n.天才，创造力  
+  * 例句：  As is known, Einstein was a genius in the 20th century.
+  * 翻译：  众所周知，爱因斯坦是二十世纪的天才。
+  * 考点：  a genius for... 有...的天资
+  <br>
+  
+- adore
+  * 词义：  vt. 崇拜，敬慕，爱慕  
+  * 例句：  The kids adore their father and confide in him.
+  * 翻译：  孩子们热爱并信赖他们呢的父亲。
+  * 同义：  revere (vt.尊敬)
+  <br>
+  
+> 名言：
+>
+> Some people succeed because they are destined to, but most people succeed because they are determined to.<br>
+> -- Charles Dickens
+>
+> 有些人成功是因为命运注定，但大多数人成功是因为他们立志如此。<br>
+> -- 查尔斯·狄更斯
