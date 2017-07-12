@@ -56,7 +56,7 @@
 
 - edit
   * 词义：  vt.编辑，校订
-  * 例句：  Lily started to edit a collection fo short stories.
+  * 例句：  Lily started to edit a collection of short stories.
   * 翻译：  莉莉着手编辑一本短篇小说集。
   <br>
 
