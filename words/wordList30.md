@@ -65,3 +65,73 @@
   * 例句：  There was a strip of land suitable for cultivating flowers in the yard.
   * 翻译：  院子里有一窄条地很适合种花。
   <br>
+  
+---
+### 2017年07月13日 18:22:59
+
+- arrogant
+  * 词义：  a. 傲慢的，自大的；
+  * 例句：  She was selfish, arrogant and often callous.
+  * 翻译：  她自私傲慢，而且往往冷酷无情。
+  * 同义：  proud (a.骄傲的) cocky (a.自大的)
+  * 反义：  modest (a.谦虚的) humble (a.谦逊的)
+  <br>
+
+- instinct
+  * 词义：  n.本能，天性，直觉
+  * 例句：  Motherhood is a very natural instinct for me.
+  * 翻译：  母性对我而言是一种非常自然的本能。
+  * 短语：  by instinct 凭本能
+  <br>
+
+- comment
+  * 词义：  n.注释，评论，意见 v.(on)注释，评论
+  * 例句：  Everyone was commenting on the new policy.
+  * 翻译：  大家都在评论这项新政策。
+  * 派生：  commentator (n.评论员，讲解员)
+  <br>
+
+- hip
+  * 词义：  n.臀部，髋部 
+  * 例句：  Betty stood with her hands on her hips.
+  * 翻译：  贝蒂双手叉腰站着。
+  <br>
+
+- via
+  * 词义：  prep. 经，经过
+  * 例句：  Many species can communicate an amazing amount of information via sound.
+  * 翻译：  很多物种可以通过声音交流大量的信息。
+  <br>
+
+- scenery
+  * 词义：  n.风景，舞台布景
+  * 例句：  As actors, we must be aware of the importance of the scenery of the play itself.
+  * 翻译：  作为演员，我们必须知道舞台布景本身的重要性。
+  * 派生：  scenic (a.风景的，舞台布景的)
+  <br>
+
+- statute
+  * 词义：  n.法规，章程，规则
+  * 例句：  The statute did not meet the State's goal of preventing breaches of the peace.
+  * 翻译：  改法规不符合国家维护和平的目标。
+  * 参考：  stature (n.身材) status (n.身份，地位)
+  <br>
+
+- forum 
+  * 词义：  n.论坛，讨论会
+  * 例句：  The letters page of this newspaper is a forum of public argument.
+  * 翻译：  该报的读者来信专页是公众发表意见的论坛。
+  <br>
+
+- oriental
+  * 词义：  a. 东方的
+  * 例句：  These foreigners are interested in Chinese civilization and oriental arts.
+  * 翻译：  这些外国人对中华文明和东方艺术很感兴趣。
+  <br>
+
+- glitter
+  * 词义：  n.光辉，灿烂； vi.闪耀
+  * 例句：  The massive diamond glitters in the sun.
+  * 翻译：  这颗硕大的钻石在阳光下闪闪发光。
+  * 参考：  litter (n.垃圾)
+  <br>
