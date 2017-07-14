@@ -135,3 +135,67 @@
   * 翻译：  这颗硕大的钻石在阳光下闪闪发光。
   * 参考：  litter (n.垃圾)
   <br>
+  
+---
+### 2017年07月14日 22:29:08
+
+- mutton
+  * 词义：  n.羊肉
+  * 例句：  I asked for a mutton chop for lunch.
+  * 翻译：  我午餐要了一份羊排。
+  <br>
+
+- spoil
+  * 词义：  vt.损坏，破坏，宠坏，溺爱。
+  * 例句：  Since I was the only boy in my family, I was a little bit spoiled by my mother and sisters.
+  * 翻译：  因为是家里唯一的男孩，我有点儿被母亲和姐姐们宠坏了。
+  <br>
+ 
+- bleed
+  * 词义：  vi. 出血，流血
+  * 例句：  The soldier's wound was bleeding.
+  * 翻译：  那名战士的伤口在流血。
+  <br>
+
+- considerate
+  * 词义：  a. 考虑周到的，体谅的
+  * 例句：  You should try to be more considerate of others.
+  * 翻译：  你应该试着多体谅别人
+  * 派生：  inconsiderate (a.不顾及别人的，轻率的)
+  <br>
+
+- rat
+  * 词义：  n.鼠
+  * 例句：  Rats feed on garbage and spread disease.
+  * 翻译：  老鼠以垃圾为食，会传播疾病。
+  <br>
+
+- bolt
+  * 词义：  n.螺栓，(门、窗的)插销； vt. 闩门，关窗，拴住
+  * 例句：  Bill bolted himself in the room and ate nothing.
+  * 翻译：  比尔把自己反锁在房间里，什么也不吃。
+  <br>
+
+- chin
+  * 词义：  n. 下巴
+  <br>
+
+- banquet
+  * 词义：  n. 宴会，盛宴
+  * 例句：  Would you like to go to the Valentine's banquet with me?
+  * 翻译：  你想跟我一起去参加情人节的宴会吗?
+  * 同义：  feast (n.筵席，盛宴)
+  * 参考：  bouquet (n.花束)
+  <br>
+
+- primitive
+  * 词义：  a. 原始的，远古的，早期的；粗糙的，简单的
+  * 例句：  The organization build some primitive shelters for the refugees.
+  * 翻译：  该组织为难民们搭建了一个简易的棚子。
+  <br>
+
+- alike
+  * 词义：  a.相同的，相像的； ad.也，同样地
+  * 例句：  The headmaster is respected by teachers and students alike.
+  * 翻译：  那位校长收到师生的一致尊敬。
+  <br>
