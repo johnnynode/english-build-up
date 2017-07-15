@@ -199,3 +199,68 @@
   * 例句：  The headmaster is respected by teachers and students alike.
   * 翻译：  那位校长收到师生的一致尊敬。
   <br>
+  
+---
+### 2017年07月15日 21:09:15
+
+- aesthetic
+  * 词义：  a. 美学的，艺术的；审美的
+  * 例句：  That armchair is comfortable but not ery aesthetic.
+  * 翻译：  那张扶手椅坐起来舒服，但不太美观。
+  <br>
+
+- solitary
+  * 词义：  a.单独的，独自的；单个的，唯一的；孤独的，隐居的
+  * 例句：  The artist is a solitary kind of person.  
+  * 翻译：  这个艺术家是一个孤独的人。
+  <br>
+
+- kidney
+  * 词义：  n.肾，肾脏
+  * 例句：  The patient's kidneys weren't functioning.
+  * 翻译：  那位艺术家是一个孤独的人。
+  <br>
+
+- preface
+  * 词义：  n.序言，引言，前言
+  * 例句：  The author invited his best friend to write the preface for his book.
+  * 翻译：  那位作家邀请了他最好的朋友给自己的书作序。
+  <br>
+
+- variety
+  * 词义：  n.种种，多种多样；种类，品种
+  * 例句：  As food items will tend to decline in quality and decrease in variety, it is very likely to increase the use of flavoring additives.
+  * 翻译：  随着食品品质的下降和品种的减少，视频添加的使用很可能越来越多。
+  <br>
+
+- severe
+  * 词义：  a.严厉的，严格的；剧烈的，严重的，严峻的，艰难的
+  * 例句：  There are good reasons to expect the economic consequences now to be less severe than in the 1970s.
+  * 翻译：  有理由期待现在的经济后果没有20世纪70年代那么严重。
+  <br>
+
+- brittle
+  * 词义：  a.易碎的，脆弱的；监督
+  * 例句：  All citizens are entitled to enjoy a governmental scrutiny.
+  * 翻译：  所有的市民都有资格监督政府的工作。
+  * 同义：  inquiry (n.调查，审查) inspection (n.审查，检查)
+  * 反义：  neglect (n.疏忽，忽视)
+  <br>
+
+- pavement
+  * 词义：  n.人行道
+  * 例句：  Don't ride your bicycle on the pavement.
+  * 翻译：  不要在人行道上骑自行车。
+  <br>
+
+- crown
+  * 词义：  n.王冠，冕；军权，君王； vt. 为...加冕。
+  * 例句：  The little prince was crowned on his thirteenth birthday.
+  * 翻译：  小王子在13岁的时候，就接受了加冕。
+  <br>
+
+- indignant
+  * 词义：  a.愤慨的，愤愤不平的
+  * 例句：  The indignant passengers beat the pickpocket up.
+  * 翻译：  愤怒的乘客将那个扒手痛打了一顿。
+  <br>
