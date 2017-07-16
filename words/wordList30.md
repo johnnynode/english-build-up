@@ -264,3 +264,72 @@
   * 例句：  The indignant passengers beat the pickpocket up.
   * 翻译：  愤怒的乘客将那个扒手痛打了一顿。
   <br>
+  
+---
+### 2017年07月16日 18:13:35
+
+- emphasis
+  * 词义：  n. 强调，重点
+  * 例句：  Most schools in the country put disproportionate emphasis on examinations.
+  * 翻译：  该国的大多数学校都过于强调考试。
+  * 短语：  place/put/lay an emphasis on 强调， 把重点放在...上
+  <br>  
+
+- revenue
+  * 词义：  n.收入，财政收入，税收
+  * 例句：  The total revenue of the firm is 500 million US dollars this year.
+  * 翻译：  该公司本年度的总收入为5亿美元。
+  <br>
+
+- blunt
+  * 词义：  a.率直的，钝的 vt.使钝，使迟钝，使减弱
+  * 例句：  The bad weather has blunted our enthusiasm for camping.
+  * 翻译：  坏天气削弱了我们去露营的热情。
+  * 派生：  bluntly (ad.直率地，坦白地)
+  * 反义：  sharp (a.锋利的，敏捷的)
+  <br>
+
+- catastrophe
+  * 词义：  n.突如其来的大灾难。
+  * 例句：  The catastrophe made Joan crumple into the floor.
+  * 翻译：  这场突出起来的灾难使琼瘫倒在地。
+  * 同义：  disaster (n.灾难)
+  <br>
+
+- mechanic
+  * 词义：  n.技工，机修工
+  * 派生：  mechanics (n.力学，机械学) 
+  * 参考：  mechanistic (a.机械论的) mechanize (v.机械化)
+  <br>
+
+- indicate
+  * 词义：  vt. 指出，指示；表明或暗示...的可能性
+  * 例句：  A red sky in the evening indicates fine weather or the following day.
+  * 翻译：  傍晚的红霞预示着第二天会有好天气。
+  * 派生：  indicator (n.指示者，指示剂)
+  <br>
+
+- responsible
+  * 词义：  a. (for) 应负责的，有责任的； 可靠的，可信赖的； (for)责任重大的，重要的
+  * 例句：  The drummer is responsible for a band.
+  * 翻译：  鼓手对一个乐队来说至关重要。
+  * 派生：  irresponsible (a.不负责任的，不可靠的)
+  <br>
+
+- mingle
+  * 词义：  vt. 使混合 vt.使混合起来，相混合
+  * 例句：  The geezer doesn't like mingling much with people.
+  * 翻译：  这个老头儿不喜欢与人来往。
+  <br>
+
+- enterprise
+  * 词义：  n.事业，(企)事业单位
+  * 例句：  Mike got the job because he showed the spirit of enterprise.
+  * 翻译：  迈克因为表现出进取精神而得到了这份工作。
+  <br>
+
+- garlic
+  * 词义：  n.大蒜，蒜头
+  * 例句：  These chips are flavored with garlic.
+  * 翻译：  这些薯片是蒜味的。
+  <br>
