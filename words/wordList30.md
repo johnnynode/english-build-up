@@ -333,3 +333,69 @@
   * 例句：  These chips are flavored with garlic.
   * 翻译：  这些薯片是蒜味的。
   <br>
+  
+---
+### 2017年07月17日 22:28:08
+
+- fate
+  * 词义：  n. 命运
+  * 例句：  We could only leave it up to fate.
+  * 翻译：  我们只能听天由命了。
+  <br>
+
+- denial
+  * 词义：  n.否认；拒绝，拒绝给予
+  * 例句：  Your denial would upset all of us.
+  * 翻译：  你的拒绝会令我们大家失望的。
+  * 参考：  deny (v.否认，拒绝)
+  <br>
+
+- motivate
+  * 词义：  vt.驱动，驱使；激励
+  * 例句：  The supervisor motivated the workers by offering them bonuses.
+  * 翻译：  主管用发奖金的方式激励员工。
+  * 派生：  motivation (n.动机)
+  <br>
+
+- bracket
+  * 词义：  n. (方)括号 
+  * 例句：  Put your name in the brackets at the bottom of each page.
+  * 翻译：  把你的名字写在每页下方的括号里。
+  * 参考：  rack (n.行李架)
+  <br>
+
+- opening
+  * 词义：  n.口子，孔；开始，开端； (职位)空缺 a.开始的，开幕的
+  * 例句：  The hostess was a little nervous at her opening speech.
+  * 翻译：  女主人说开场白时有些紧张。
+  <br>
+
+- activate
+  * 词义：  vt.使活动，启动，激活
+  * 例句：  You can press that button to activate your computer.
+  * 翻译：  你可以按下那个按钮来启动你的电脑。
+  <br>
+
+- warmth
+  * 词义：  n.暖和，温暖，热心，热情
+  * 例句：  The warmth of the doctor made the patient feel assured.
+  * 翻译：  医生的热情让病人感到踏实。
+  <br>
+
+- district
+  * 词义：  n.地区，区域，行政区
+  * 例句：  Cheap and enough labor supply was important in helping this district to become an industrial center.
+  * 翻译：  廉价而充足的劳动力供应对该地区成为工业中心起到了重要的帮助作用。
+  <br>
+
+- guilt
+  * 词义：  n.罪过，内疚
+  * 例句：  If you abandon me, I won't feel any guilt about what I have done to you.
+  * 翻译：  如果你抛弃我，我将不会为自己对你做过的事感到一丝内疚。
+  <br>
+
+- glue
+  * 词义：  胶，胶水； vt.胶合，粘贴
+  * 例句：  I want to glue the piece of wood onto the metal.
+  * 翻译：  我想把这块木头粘到金属上。
+  <br>
