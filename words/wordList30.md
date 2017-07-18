@@ -4,7 +4,6 @@
 
 ### 2017年07月12日 22:25:52
 
-
 - tutor
   * 词义：  n.家庭教师，指导教师 vt.个别指导
   * 例句：  The foreign teacher tutored Tom in French twice a week.
