@@ -399,3 +399,81 @@
   * 例句：  I want to glue the piece of wood onto the metal.
   * 翻译：  我想把这块木头粘到金属上。
   <br>
+  
+---
+### 2017年07月18日 22:27:26
+
+- journal
+  * 词义：  n. 定期刊物，杂志，日报；日志，日记
+  * 例句：  Peter was reading a captain's journal in the library.
+  * 翻译：  彼得正在图书馆里读一本船长的日志。
+  * 派生：  journalism (n.新闻业)
+  <br>
+
+- commercial
+  * 词义：  a. 商业的，商务的， 贸易的； n. (电视或电台播出的)广告
+  * 短语：  the commercial venture 商业投资 a commercial center 商业中心   
+  * 派生：  commercialized (a.商业化的)  
+  <br>
+
+- steward
+  * 词义：  n. 乘务员
+  * 例句：  Has the steward cleaned our cabin yet?
+  * 翻译：  乘务员已经清理过我们的船舱了吗？
+  <br>
+
+- sideways
+  * 词义：  ad. 向旁边，侧身，横着，斜着； a. 向旁边的，侧身的，横着的，斜着的
+  * 例句：  My sideways movement surprised the assailant.
+  * 翻译：  我侧身一动，使攻击者大吃一惊。
+  <br>
+
+- council
+  * 词义：  n.理事会，委员会，议事机构
+  * 例句：  Facing the tough problem, members of the council looked at each other, perplexed.
+  * 翻译：  面对这个棘手的问题，委员会成员面面相觑、不知所措！
+  * 考点：  UN Security Council 联合国安理会
+  * 参考：  counsel (n./vt. 忠告) consul (n.领事)
+  <br>
+
+- urgent
+  * 词义：  a.急迫的，紧迫的
+  * 例句：  The subway train of the city needed urgent repairing.
+  * 翻译：  该市的地铁列车急需修理。
+  * 参考：  urgency (n.紧急，紧急的事)
+  <br>
+
+- aggravate
+  * 词义：  vt.使恶化，加重，加剧
+  * 例句：  She would only aggravate the injury by rubbing it.
+  * 翻译：  她揉擦伤口，只会使伤势加重。
+  * 同义：  burden (vt. 加重压于) increase (vt.增加)
+  * 反义：  decrease (vt.减少) lessen (vt.减少，减轻)
+  <br>
+
+- tumor / tumour
+  * 词义：  n.肿瘤，肿块
+  * 例句：  The doctor identified a tumor in the patient's brain.
+  * 翻译：  医生在病人颅内发现了一个肿瘤。
+  * 参考：  humor (n. 幽默)
+  <br>
+
+- famine
+  * 词义：  n.饥荒，饥馑
+  * 例句：  There was a terrible famine because of drought.
+  * 翻译：  干旱导致了一场可怕的饥荒。
+  <br>
+
+- expansion
+  * 词义：  n. 扩张，膨胀；张开，扩展
+  * 例句：  The headmaster is drafting a plan for the expansion of our school building.
+  * 翻译：  校长正在起草一份扩建我校校舍的计划。
+  <br>
+  
+> 名言：
+>
+> When I was young I observed that nine out of every ten things I did were failures, so I did ten times more work.<br>
+> -- Bernard 
+>
+> 我年轻时注意到，自己做事十有八九不成功，于是我就以十倍努力去工作。<br>
+> -- 尼赫鲁
