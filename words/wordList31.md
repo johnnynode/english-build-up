@@ -136,3 +136,66 @@
   * 例句：  In most families, the children have a prior claim on their mothers' time.
   * 翻译：  在大多数家庭中，母亲的时间首先得花在孩子身上。
   <br>
+  
+---
+### 2017年07月21日 18:58:37
+
+- perish
+  * 词义：  vi. 凋谢；丧生，毁灭，消亡
+  * 例句：  Thousands of people perished in the earthquake.
+  * 翻译：  数千人在地震中丧生了。
+  <br>
+
+- molecule
+  * 词义：  n.分子
+  * 派生：  molecular (a.分子的，由分子构成的)
+  <br>
+
+- disgrace
+  * 词义：  n.失宠，耻辱 vt.使失宠，玷污，使蒙羞
+  * 例句：  The playboy's actions disgraced his family.
+  * 翻译：  那个花花公子的行为使他的家族蒙羞。
+  <br>
+
+- welfare
+  * 词义：  n.福利，安宁，幸福
+  * 例句：  The parents looked out for their children's welfare.
+  * 翻译：  父母期待自己的孩子能够幸福平安。
+  <br>
+
+- breakdown
+  * 词义：  n.跨，衰竭； 损坏，故障，倒塌
+  * 例句：  My aunt suffered from a nervous breakdown.
+  * 翻译：  我姑姑患有神经衰弱。
+  * 同义：  disintegration (n.瓦解)
+  <br>
+
+- diameter
+  * 词义：  n.直径
+  * 例句：  The moon's diameter is smaller than the earth's.
+  * 翻译：  月亮的直径比地球的小。
+  <br>
+
+- brow
+  * 词义：  n. 眉(毛) , 额
+  * 例句：  Observing father's contracted brow, Jack upset absolutely.
+  * 翻译：  看着父亲紧缩的眉头，杰克忐忑不安。
+  <br>
+
+- brandy
+  * 词义：  n. 白兰地酒
+  <br>
+
+- contemplate
+  * 词义：  vt.盘算，预期；思量，对...周密考虑； 注视，凝视
+  * 例句：  Bill stood there contemplating the famous painting.
+  * 翻译：  比尔站在那里仔细地观赏着那幅名画。
+  * 派生：  contemplative (a.思考的，沉思的)
+  * 同义：  consider (vt.考虑，认为) ponder (vt.沉思，考虑)
+  <br>
+
+- additional
+  * 词义：  a.附加的，额外的  
+  * 例句：  We have to pay additional charges for the extra luggage.
+  * 翻译：  我们超量携带的行李要额外付费。
+  <br>
