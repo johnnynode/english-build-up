@@ -199,3 +199,143 @@
   * 例句：  We have to pay additional charges for the extra luggage.
   * 翻译：  我们超量携带的行李要额外付费。
   <br>
+  
+---
+### 2017年07月22日 22:50:01
+
+- envy
+  * 词义：  n./vt. 嫉妒，妒忌  
+  * 例句：  The boy's electronic toy train was the envy of his friends.
+  * 翻译：  男孩的朋友们很羡慕他的电动玩具火车。
+  * 派生：  envious (a.羡慕的，嫉妒的)
+  <br>
+
+- personality
+  * 词义：  n.人格，个性； 人物
+  * 例句：  Kournikova is one of the best-known personalities in the world of tennis.
+  * 翻译：  库尔尼科娃是网球界最著名的人物之一。
+  * 参考：  personally (ad. 亲自)  impersonal (a.非个人的)
+  <br>
+
+- spill
+  * 词义：  v.溢出，溅出； n.摔下，跌下
+  * 例句：  Tom had a nasty spill from the hourse yesterday.
+  * 翻译：  昨天汤姆从马上重重地摔了下来。
+  <br>
+
+- solemn
+  * 词义：  a.庄严的，隆重的； 严肃的
+  * 例句：  The teacher gazed at us with solemn eyes.
+  * 翻译：  老师用严肃的目光盯着我们。
+  <br>
+
+- chase
+  * 词义：  v. (after) 追逐，追求。 n. 追逐，追求。
+  * 例句：  Bruce caught the thief after a short chase and beat him.
+  * 翻译：  布鲁斯没追几步就抓住了小偷并揍了他一顿。
+  * 参考：  purchase (n./vt.买，购买)
+  <br>
+
+- fringe
+  * 词义：  n.(窗帘等的)虚边，边缘 vt. 成为...的边缘
+  * 例句：  The road was fringed with willows.
+  * 翻译：  道路两旁，柳树成行。
+  * 同义：  margin (n. 边，边缘) verge (n.边缘)
+  * 参考：  infringement (n.违反，侵害)
+  <br>
+
+- indicative
+  * 词义：  a.指示的，暗示的；
+  * 例句：  Blond hair is often indicative of European ancestry.
+  * 翻译：  金发往往是欧洲血统的标志。
+  * 考点：  indicative of 表明，标志
+  <br>
+
+- badminton
+  * 词义：  n.羽毛球
+  * 例句：  I prefer badminton to tennis. It's not so tiring.
+  * 翻译：  和网球相比，我更喜欢羽毛球，因为打羽毛球没那么累人。
+  <br>
+
+- upward
+  * 词义：  a.向上的，上升的； ad.(=upwards)向上，往上， ... 以上
+  * 例句：  Warm and moist air from the Pacific Ocean is forced upward as it crosses the Sierra Nevada.
+  * 翻译：  来自太平洋的暖湿气流经过内华达山脉时被迫向上移动。
+  <br>
+
+- appoint
+  * 词义：  vt. 任命，委任； 预定，指定
+  * 例句：  The committee appointed a time for the next meeting.
+  * 翻译：  委员会指定了下次会议的时间。
+  * 参考：  disappoint (vt. 使失望)
+  <br>
+  
+---
+### 2017年07月23日 10:34:54
+
+- craft
+  * 词义：  n.工艺，手艺，技巧；行业
+  * 例句：  The craft started to travel safely on its orbit.
+  * 翻译：  飞船开始在其轨道上安全飞行。
+  <br>
+
+- bomb
+  * 词义：  n.炸弹，vt.投弹于，轰炸
+  * 例句：  The air force bombed into villages.
+  * 翻译：  空军轰炸了两个村子。
+  <br>
+
+- horsepower
+  * 词义：  n.马力
+  * 例句：  They have a twelve horsepower engine.
+  * 翻译：  他们有一台12马力的发动机。
+  * 参考：  manpower 人力，人手
+  <br>
+ 
+- bleak
+  * 词义：  a.荒凉的，没有希望的，冷酷的
+  * 例句：  A group of wolves were running in the bleak plain.
+  * 翻译：  一群狼在荒原上奔跑。
+  * 同义:  cold (a.冷淡的) raw (a. 阴冷的) dismal (a.阴沉的，凄凉的)
+  <br>
+
+- raw
+  * 词义：  a.未煮过的，生的；未加工的，未经训练的
+  * 例句：  There are still factories discharging raw sewage now.
+  * 翻译：  现在仍有工厂在排放未经处理的污水。
+  * 考点：  raw material 原料
+  <br>
+
+- instantaneous 
+  * 词义：  a. 瞬间的，即刻的
+  * 例句：  We live in an age when information is pretty much instantaneous.
+  * 翻译：  我们生活在一个瞬息万变的时代。
+  * 派生：  instantaneously (ad.瞬间地，即可地) instant (a.立即的，即刻的)
+  * 反义：  delayed (a.延迟的，延时的)
+  <br>
+
+- incur
+  * 词义：  vt.招致，惹起，遭受
+  * 例句：  The final rewards will more than compensate for any loss you may incur.  
+  * 翻译：  最终报酬与你可能会遭受的任何损失相比，绰绰有余。
+  * 参考：  incurably (ad.治不好地，不能矫正地)
+  <br>
+
+- menace
+  * 词义：  n.威胁，危险的人(或物) vt.威胁
+  * 例句：  Rick menaced me with his fist clenched.
+  * 翻译：  里克紧握着拳头威胁我。
+  * 同义：  threat (n.威胁，恐吓) threaten (vt. 威胁，恐吓)
+  <br>
+
+- reflect
+  * 词义：  vt.反映，表现； vi.(on) 反省，细想，考虑
+  * 例句：  The story reflected the harshness of people's daily live.
+  * 翻译：  这篇小说反映了百姓日常生活的艰辛。
+  <br>
+
+- margin
+  * 词义：  n.页面空白，边缘；余地，幅度，差额，差距
+  * 例句：  Martin wrote some words in the margin at the top of the page.
+  * 翻译：  马丁在页面顶端的空白处写了几个字。
+  <br>  
