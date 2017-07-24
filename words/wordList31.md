@@ -338,4 +338,72 @@
   * 词义：  n.页面空白，边缘；余地，幅度，差额，差距
   * 例句：  Martin wrote some words in the margin at the top of the page.
   * 翻译：  马丁在页面顶端的空白处写了几个字。
-  <br>  
+  <br>
+    
+---
+### 2017年07月24日 21:46:17
+
+- academic
+  * 词义：  a.学院的，学术的， n.学者，大学教师，学会会员
+  * 例句：  My father, who has been an academic all his life, teaches at a university.
+  * 翻译：  我父亲在一所大学教书，他当了一辈子的老师。
+  <br>
+
+- collapse
+  * 词义：  n./vi. 倒塌，崩溃，垮台
+  * 例句：  The rainstorm caused the collapse of the roof.
+  * 翻译：  暴风雨导致了屋顶的倒塌。
+  <br>
+
+- appointment
+  * 词义：  n.任命，委任；约定，指定
+  * 例句：  I have an appointment with the dentist at three o'clock.
+  * 翻译：  我三点钟约了牙医看牙。
+  * 派生：  disappointment (n.失望)
+  <br>
+
+- relieve
+  * 词义：  vt.减轻，解除，减少；换班，换岗
+  * 例句：  I was to be relieved at six p.m.
+  * 翻译：  下午六点会有人来接我的班。
+  <br>
+
+- concise
+  * 词义：  a.简明的，简洁的；
+  * 例句：  It requires a clear and concise way to define the problem.
+  * 翻译：  这个问题需要一个清楚而简洁的说明。
+  * 同义：  summary (a.简洁的)
+  <br>
+
+- monetary
+  * 词义：  a.金融的，货币的
+  * 例句：  Japan's central bank decided to keep its monetary policy unchanged.
+  * 翻译：  日本中央银行决定保持其货币政策不变。
+  * 同义：  financial (a.财政的，财务的，金融的)
+  <br>
+
+- overwhelm
+  * 词义：  vt.压倒，制服
+  * 例句：  The robbers were overwhelmed by the police.
+  * 翻译：  抢劫犯被警察制服了。
+  <br>
+
+- nickel
+  * 词义：  n.镍，镍币，五美分
+  * 例句：  Joe kept a nickel as a lucky symbol in his pocket.
+  * 翻译：  乔在口袋里放了五美分，把它当作幸运物。
+  <br>
+
+- utmost
+  * 词义：  a.最远的，极度的，极端的 n. 极限，极度，最大可能
+  * 例句：  I shall do my utmost to help you.
+  * 翻译：  我会尽最大努力帮助你的。
+  * 短语：  at the utmost 顶多，最多
+  <br>
+
+- intend
+  * 词义：  v.想要，打算，企图
+  * 例句：  I intend to finish reading the book today.
+  * 翻译：  我打算今天读完这本书。
+  * 派生：  intended (a.有意的，故意的)
+  <br>
