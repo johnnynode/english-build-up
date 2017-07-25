@@ -407,3 +407,101 @@
   * 翻译：  我打算今天读完这本书。
   * 派生：  intended (a.有意的，故意的)
   <br>
+  
+---
+### 2017年07月25日 19:10:57
+
+- neutron
+  * 词义：  n.[核] 中子
+  * 例句：  neutron is a part of an atom that has no electrical charge.
+  * 翻译：  中子是原子的一个组成部分，他不带电荷。
+  <br>
+
+- nostalgic
+  * 词义：  a.怀旧的
+  * 例句：  Seeing those old school photographs has made him feel quite nostalgic.
+  * 翻译：  看着那些学校的老照片让他很怀念旧日时光。
+  <br>
+
+- successive
+  * 词义：  a.接连的，连续的
+  * 例句：  Over the past 15 years, successive governments have eliminated all domestic subsidies. 
+  * 翻译：  过去十五年来，历届政府已经取消了所有的国内补贴。
+  <br>
+
+- assign
+  * 词义：  vt.分配，委派；指定(时间、地点等)
+  * 例句：  Please assign a day for the meeting as soon as possible.
+  * 翻译：  请尽快确定会议日期。
+  <br>
+
+- refusal
+  * 词义：  n.拒绝，回绝
+  * 例句：  Their refusal to negotiate with us made progress impossible.
+  * 翻译：  他们拒绝和我们谈判，是的进展无从谈起。
+  <br>
+
+- era
+  * 词义：  n.时代，年代，阶段，纪元
+  * 例句：  We are now in a great era of information.
+  * 翻译：  如今我们处于一个伟大的信息时代。
+  * 参考：  area (n.地区)
+  <br>
+
+- absent
+  * 词义：  a. (from) 缺席，不在场；缺乏的，漫不经心的
+  * 例句：  Love was absent from work for a few days because he is ill.
+  * 翻译：  他童年时就缺少爱。
+  <br>
+
+- conversion
+  * 词义：  n.变换，转化
+  * 例句：  I have a metric conversion chart.
+  * 翻译：  我有一张公制换算表。
+  <br>
+
+- specialise / specialize
+  * 词义：  vi. 专攻，专用于，专业化
+  * 例句：  Today there are many charitable organizations which specialize in helping the weary travelers.
+  * 翻译：  现在有许多慈善机构专门帮助那些疲倦的旅行者。
+  * 派生：  specialized (a.专门的，专科的) specialization (n.专门化，特殊化)
+  * 参考：  specially (ad.专门地，特别地)
+  <br>
+
+- tractor
+  * 词义：  n.拖拉机，牵引车
+  * 例句：  The farmer spend $300 on this tractor.
+  * 翻译：  农夫花三百美金买了这台拖拉机。
+  <br>
+  
+- feasible
+  * 词义：  a.可行的 
+  * 例句：  It is not feasible to build sea defenses to protect against erosion.
+  * 翻译：  修筑海堤防止侵蚀是不可行的
+  <br>
+  
+- currency
+  * 词义：  n.货币，通货 
+  * 例句：  The government took actions to avoid the currency crisis.
+  * 翻译：  政府采取行动，以避免货币危机。
+  <br>
+  
+- contemporary
+  * 词义：  a.同时代的，现代的，当代的
+  * 例句：  Dickens was not contemporary with Shakespeare.
+  * 翻译：  狄更斯与莎士比亚不是同时代的人。
+  <br>
+  
+- napkin
+  * 词义：  n.餐巾，餐巾纸  
+  * 例句：  Jack quickly wiped his mouth with a napkin and left the table.
+  * 翻译：  杰克用餐巾快速擦擦嘴就离席了。
+  <br>
+  
+> 名言：
+>
+> Ideas are like the stars -- we never reach them, but like mariners, we chart our course by them.<br>
+> -- C.Schurz
+>
+> 理想就像是星星 -- 我们永远无法达到，但是我们像水手一样，用他们指引航程。<br>
+> -- 舒尔茨
