@@ -33,3 +33,4 @@
 - [wordList29](./words/wordList29.md)
 - [wordList30](./words/wordList30.md)
 - [wordList31](./words/wordList31.md)
+- [wordList32](./words/wordList32.md)
