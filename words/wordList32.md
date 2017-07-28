@@ -137,3 +137,71 @@
   * 词义：  a.乏味的，单调的，冗长的，使人厌烦的
   * 短语：  a tedious debate 乏味的辩论 // a tedious fellow 令人生厌的家伙
   <br>
+  
+---
+### 2017年07月28日 22:03:53
+
+- civil
+  * 词义：  a.公民的，市民的；国内的，民间的，民用的，有礼貌的，文明的，文职的
+  * 例句：  It wasn't very civil of you to sit down without being invited.
+  * 翻译：  你这样未经邀请就坐下不太礼貌。
+  <br>
+
+- infrastructure
+  * 词义：  n.基础结构，基础设
+  * 例句：  Infrastructure is a country's fixed capital equipment, i.e. roads, railway, power-station, etc.
+  * 翻译：  基础设施是一个国家的固定资产装备，即公路，铁路，发电站等设施。
+  * 考点：  industrials infrastructure 工业基础设施 // the energy and telecom infrastructures 能源和电信基础设施
+  <br>
+
+- expenditure
+  * 词义：  n.花费，支出，消耗
+  * 例句：  Limit your expenditures to what is essential.
+  * 翻译：  你得把开销限制在必要范围内。
+  <br>
+
+- rap
+  * 词义：  vt.(轻而快地)敲击，急敲；责备，训斥 n.敲击，急敲，说唱音乐
+  * 例句：  The commander rapped out an order to march on.
+  * 翻译：  指挥官厉声下达命令，要求继续前进。
+  * 考点：  rap music 说唱音乐 
+  * 同义：  hammer (v.捶击，敲打) knock (v.敲打)
+  <br>
+
+- diagnose
+  * 词义：  vt.诊断
+  * 例句：  The poor woman was diagnosed with cancer.
+  * 翻译：  那个可怜的女人被诊断得了癌症。
+  <br>
+
+- onion
+  * 词义：  n.洋葱
+  * 例句：  James was frying steak and onions for his dinner in the kitchen.
+  * 翻译：  詹姆斯在厨房里炸牛排和洋葱当晚餐。
+  <br>
+
+- leaflet
+  * 词义：  n.小叶，嫩叶，传单，活页
+  * 例句：  Several leaflets sprout out from the branch.
+  * 翻译：  树枝上长出了几片新叶
+  <br>
+
+- temporary
+  * 词义：  a.暂时的，临时的
+  * 例句：  The city of Memphis served as the temporary state capital of America in 1862.
+  * 翻译：  孟菲斯城在1862年曾经是美国的临时首都。
+  * 考点：  temporary employment/work 临时工作
+  * 参考：  contemporary (a.当代的，同时代的)
+  <br>
+
+- trial
+  * 词义：  n.审讯，实验，考验
+  * 例句：  The new plane is undergoing trials.
+  * 翻译：  新飞机正在试飞。
+  <br>
+
+- necessitate
+  * 词义：  vt.需要，成为必要
+  * 例句：  The increase in food prices necessitated a change in our budget.
+  * 翻译：  食物价格的上涨需要我们对预算进行调整。
+  <br>
