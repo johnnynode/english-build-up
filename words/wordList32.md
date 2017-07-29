@@ -271,3 +271,72 @@
   * 例句：  There was a slight prick of pain when the doctor gave me the shot.
   * 翻译：  当医生给我打针的时候，我感到有轻微的刺痛。
   <br>
+  
+---
+### 2017年07月30日 07:54:29
+
+- plug
+  * 词义：  n.塞子，插头； vt.堵塞，嵌入，插入
+  * 例句：  We plugged the leak in the barrel.
+  * 翻译：  我们把桶的漏洞给堵上了。
+  <br>
+
+- fulfil / fulfill
+  * 词义：  vt.完成，实现，履行，符合
+  * 例句：  fulfill a promise 实现诺言 // fulfill a contract 履行合同 // fulfill one's responsibility 尽责
+  * 派生：  fulfillment (n.完成，实现) 
+  <br>
+
+- entertainment
+  * 词义：  n.招待，款待；娱乐，表演文娱节目
+  * 例句：  Teenagers should be free to choose their own forms of entertainment.
+  * 翻译：  青少年应该自由地选择自己的娱乐方式。
+  <br>
+
+- saint
+  * 词义：  n.圣人，圣徒
+  * 例句：  The girl thinks all the angels and saints in Heaven preserve her.
+  * 翻译：  那个女孩认为天堂里所有的天使和圣徒们都在保护她。
+  <br>
+
+- soak
+  * 词义：  v.吸收
+  * 例句：  I used a paper towel to soak up the oil on the desk.
+  * 翻译：  我用纸巾把桌上的油吸干。
+  * 考点：  soak up 吸收
+  <br>
+
+- graze
+  * 词义：  vt. 放牧(牛、羊等); 擦伤(皮肤等)，擦过，掠过 vi. (牛，羊等)吃青草 n.擦伤(处)
+  * 例句：  Clean the graze before plastering.
+  * 翻译：  福耀前先清洗一下伤口。
+  <br>
+
+- golf
+  * 词义：  n.高尔夫球
+  * 例句：  Gates spends a lot of time playing golf.
+  * 翻译：  盖茨花大量时间来打高尔夫球。
+  <br>
+
+- addict
+  * 词义：  n.有瘾的人，入迷的人；vt.使成瘾，使入迷
+  * 例句：  My nephew is a TV addict. 
+  * 翻译：  我侄子是个电视迷。
+  * 考点：  addict oneself to 上瘾，沉迷
+  * 派生：  addictive (a.使人上瘾的) addiction (n.上瘾，沉溺)
+  * 参考：  predict (v.预知) contradict (n.同...矛盾) indict (vt.起诉) dictator (n.独裁者)
+  <br>
+
+- drought
+  * 词义：  n.旱灾，干旱
+  * 例句：  A persistent drought caused losses to local agricultural production.
+  * 翻译：  持续的干旱使当地的农业生产遭受了损失。
+  * 参考：  draught (n.拖，拉)
+  <br>
+
+- badge
+  * 词义：  n.徽章
+  * 例句：  My father wore his badges on his uniform.
+  * 翻译：  父亲将徽章佩戴到了制服上。
+  * 同义：  token (n.象征，记号) mark (n.标志，记号)
+  <br>
