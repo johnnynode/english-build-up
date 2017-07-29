@@ -205,3 +205,69 @@
   * 例句：  The increase in food prices necessitated a change in our budget.
   * 翻译：  食物价格的上涨需要我们对预算进行调整。
   <br>
+  
+---
+### 2017年07月29日 10:46:09
+
+- disperse
+  * 词义：  v.分散，驱散，解散
+  * 例句：  hearing the fire alarm, the crowd suddenly started to disperse in all directions.
+  * 翻译：  听到火警警报，人群突然开始向四面八方散开。 
+  * 同义：  distribute (vt.分散，散步，分布) scatter (v.分散，驱散)  
+  * 反义：  collect (v.收集，聚集)
+  <br>  
+
+- surface
+  * 词义：  n.表面，面，外表
+  * 例句：  We can use astronomical telescope to see the desolate surface of the moon.
+  * 翻译：  利用天文望远镜，我们可以看到月球荒凉的表面。
+  <br>
+
+- despatch/dispatch
+  * 词义：  vt.派遣，调遣，发送 n.(公文)急件，快信，新闻报道
+  * 例句：  We have an urgent dispatch for your boss.
+  * 翻译：  我们有一份急件要给你们老板。
+  <br>
+
+- epidemic
+  * 词义：  a.流行性的，传染的 n.流行病，(流行病的) 传播
+  * 例句：  The terrible epidemic killed most of the people it infected.
+  * 翻译：  这种可怕的流行病使大多数感染者丧命。
+  <br>
+
+- gang
+  * 词义：  n.一帮，一群，一伙
+  * 例句：  After work, John went bowling with a gang of friends.
+  * 翻译：  下班后，约翰和一帮朋友去打保龄球了。
+  <br>
+
+- knit
+  * 词义：  v.编织，编结，接合，粘合 
+  * 例句：  Your broken bones have knitted well.
+  * 翻译：  你的断骨接得很好。
+  <br>
+
+- recognise/recognize
+  * 词义：  vt. 认出，识别，承认
+  * 例句：  The scientists believed that baby deer could recognize her mother's voice.
+  * 翻译：  科学家认为小鹿能够识别鹿妈妈的声音。
+  <br>
+
+- studio
+  * 词义：  n.画室，播音室，(电影)制片厂
+  * 例句：  The director invites her to come to the movie studio in California.
+  * 翻译：  导演邀请她去加州的那家电影制片厂。
+  <br>
+
+- precise
+  * 词义：  a.精确的，准确的
+  * 例句：  The witness gave a precise account of the murder.
+  * 翻译：  目击者对这起谋杀案做了准确的描述。
+  * 派生：  precisely (ad.精确的，确实如此)
+  <br>
+
+- prick
+  * 词义：  vt.刺伤，刺痛，刺孔 n.刺伤，刺痛
+  * 例句：  There was a slight prick of pain when the doctor gave me the shot.
+  * 翻译：  当医生给我打针的时候，我感到有轻微的刺痛。
+  <br>
