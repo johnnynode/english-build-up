@@ -340,3 +340,64 @@
   * 翻译：  父亲将徽章佩戴到了制服上。
   * 同义：  token (n.象征，记号) mark (n.标志，记号)
   <br>
+  
+---
+### 2017年07月31日 19:10:29
+
+- surge
+  * 词义：  vi. (波涛等)汹涌，奔腾，波动；(人群等)蜂拥而出；n. (感情等)洋溢，奔放；极具上升，猛增；浪涛般奔腾
+  * 例句：  There's a surge in electricity demand at around 7 p.m.
+  * 翻译：  晚上7点钟左右是用电高峰。
+  <br>
+
+- render
+  * 词义：  vt.使得， 致使；提出，提供，呈报
+  * 例句：  The  Supreme Court rendered its opinion about the case.
+  * 翻译：  最高法庭提出了关于那个案件的意见。
+  <br>
+
+- spectacle
+  * 词义：  n.景象，奇观；[pl.]眼镜 
+  * 例句：  One of the lenses of Steve's spectacles cracked without warning.
+  * 翻译：  史蒂夫的一个眼镜片冷布等地就裂开了。
+  <br>
+
+- forthcoming
+  * 词义：  a.即将到来的
+  * 例句：  We are ready for the huge forthcoming challenge.
+  * 翻译：  我们已做好准备，迎接即将到来的巨大挑战。
+  <br>
+
+- hedge
+  * 词义：  n.篱笆，树篱，障碍物 vt.保护...以免；预防
+  * 短语：  a way of hedging currency risks.
+  * 翻译：  一种预防货币风险的方法。
+  <br>
+
+- debate
+  * 词义：  n./v. 争论，辩论
+  * 例句：  There's a debate in the meeting room about next year's budget.
+  * 翻译：  会议室内，大家就来年的预算问题进行争论。
+  <br>
+
+- core
+  * 词义：  n.果核，中心，核心
+  * 例句：  This concept is at the very core of the speaker's theory.
+  * 翻译：  这一概念就是该演讲者理论的核心。
+  <br>
+
+- secondary
+  * 词义：  a.次要的，二级的；中级的，第二的
+  * 例句：  A free copy of The Lord of the Rings will be sent to every secondary school in the UK.
+  * 翻译：  《指环王》的赠阅本将免费发放到英国的每一所中学。
+  <br>
+
+- caress
+  * 词义：  n.爱抚；接吻； vt.抚爱，抚摸
+  * 例句：  Sue begins to caress the lovely kitty.
+  * 翻译：  休开始抚摸那只可爱的小猫咪。
+  <br>
+
+- dialect
+  * 词义：  n.方言
+  <br>
