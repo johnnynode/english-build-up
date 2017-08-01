@@ -401,3 +401,105 @@
 - dialect
   * 词义：  n.方言
   <br>
+  
+---
+### 2017年08月01日 19:10:46
+
+- entail
+  * 词义：  vt.牵涉，使(某物)成为必要；限定(地产)继承人
+  * 例句：  The playboy would have sold the property long ago had it not been entailed.
+  * 翻译：  这些财产若非限定继承的话，早就被那个花花公子给卖掉了。
+  <br>
+
+- grim
+  * 词义：  a.讨厌的，糟糕的；严厉的，冷酷的；
+  * 例句：  Kevin made a grim face and signaled to his son to stop playing the game.
+  * 翻译：  凯文装出一脸的严厉，示意儿子不要再玩游戏了。
+  * 参考：  grime (n.尘垢，污点)； pilgrim(n.朝圣者，香客)
+  <br>
+
+- redundant
+  * 词义：  a. 累赘的，冗长的，过剩的，多余的
+  * 例句：  Many redundant workers of state-owned enterprises have been laid off.
+  * 翻译：  许多过剩的国企工人已经下岗了。
+  * 派生：  redundancy (n.冗余，重复，裁员，解雇，剩余，多余)
+  * 同义：  superfluous (a.多余的，过剩的) excessive (a.过多的，过分的)
+  * 反义：  scanty (a.不够的，贫乏的)
+  <br>
+
+- resident
+  * 词义：  n.居民，常住者； a.居住的
+  * 例句：  You have been resident in my house for three months.
+  * 翻译：  你在我的房子里已经住了三个月了。
+  * 参考：  president (n.总统，会长)
+  <br>
+
+- presume
+  * 词义：  vt. 假定，假设，认为； 揣测；
+  * 例句：  From the way persons talked I presumed them to be married.
+  * 翻译：  从这两人讲话的样子看来，我猜他们已经结婚了。
+  * 派生：  presumption (n.假定) presumptively (ad. 据推测)
+  * 参考：  presumptuous (a.专横的，放肆的)
+  <br>
+
+- attendant
+  * 词义：  n.服务员，值班员，护理人员； a.伴随的，随之而生的
+  * 例句：  These thoughts, with their attendant visions, occupied her.
+  * 翻译：  这些想法及随之而生的愿景占据了她的脑海。
+  * 参考：  attendee (n.出席者，参加者)
+  <br>
+
+- prestige
+  * 词义：  n.威信，威望
+  * 例句：  Dr.White was by no means plain; his academic prestige was very fair.
+  * 翻译：  怀特博士绝非泛泛之辈，他在学术上的威望是名副其实的。
+  * 同义：  authority (n.权威，威信)
+  <br>
+
+- insect
+  * 词义：  n.昆虫
+  * 例句：  Insects propagate themselves by means of eggs.
+  * 翻译：  昆虫通过产卵繁殖后代。
+  <br>
+
+- transaction
+  * 词义：  n.办理，处理，交易，事务，[pl.]会报，学报
+  * 例句：  The transactions of our college are of great use to us students.
+  * 翻译：  我们学院的学报对学生非常有用。
+  * 同义：  deal (n.交易) exchange (n.交换，交易)
+  * 参考：  transmission (n.传送，发射) transform (v.改变) transition (n.过渡)
+  <br>
+
+- courtesy
+  * 词义：  n.恭谦有礼 有礼貌的举止(或言词)
+  * 例句：  The old lady answered my question in stately courtesies.
+  * 翻译：  老妇人很有礼貌地回答了我的问题。
+  * 派生：  courteous (a.有礼貌的，谦恭的)
+  * 同义：  polite (a.礼貌的)
+  * 考点：  by courtesy of 蒙...的好意(或准许)，蒙...的提供或赠送，由于...的作用
+  <br>
+  
+- subway
+  * 词义：  n.地下铁道，地铁
+  <br>
+  
+- spiritual
+  * 词义：  a.精神(上)的，心灵的
+  * 例句：  Human spiritual needs should match material affluence.
+  * 翻译：  人类的精神需求应与物质富足相匹配。
+  * 派生：  spiritually (a.精神上，心灵上)
+  <br>
+  
+- motive
+  * 词义：  n.动机，目的； a.发动的，运动的
+  * 例句：  The motive power of trains is usually stream or electricity.
+  * 翻译：  火车的动力通常来自蒸汽或电力。
+  <br>
+  
+> 名言：
+>
+> A man is not old as long as he is seeking something. A man is not old until regrets take the place of dreams.<br>
+> -- J.Barrymore
+>
+> 一个人只要还有追求，他就没有老。直到后悔取代了梦想，一个人才算老。<br>
+> -- 巴里穆尔.J.
