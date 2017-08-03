@@ -66,3 +66,72 @@
   * 例句：  The bus flipped over at a round-about.
   * 翻译：  这辆汽车在一条环状交叉路上翻了个底朝天。
   <br>
+  
+---
+### 2017年08月03日 20:13:01
+
+- brick
+  * 词义：  n.砖(状物)
+  * 例句：  That crate was filled with gold bricks.
+  * 翻译：  那个箱子里装满了金砖。
+  <br>
+
+- reliable
+  * 词义：  a.可靠的
+  * 例句：  I have it on reliable news that this factory is going t obe closed down.
+  * 翻译：  我得到可靠消息，这家工厂将被关掉。
+  * 派生：  reliability (n.可靠性) reliably (ad.可靠地，可信赖地)
+  <br>
+
+- derive
+  * 词义：  vt.取得，导出，引申； vi.起源
+  * 例句：  Jim derived his enthusiasm for music from his mother.
+  * 翻译：  吉姆对音乐的爱好，是受他母亲的影响。
+  * 考点：  derive from 导出，由...来；起源于
+  <br>  
+
+- convert
+  * 词义：  v.变换，转化
+  * 例句：  Luke suggested we might convert the garage into a guest room.
+  * 翻译：  卢克建议我们可以把车库改成会客室。
+  <br>
+
+- elegant
+  * 词义：  a.优雅的，优美的，精致的；极好的，一流的
+  * 例句：  The princess has acute intelect and elegant manners.
+  * 翻译：  公主才思敏捷，举止优雅。
+  * 参考：  elegance (n.优雅，优美，精致)
+  <br>
+
+- clash
+  * 词义：  vi.冲突，碰撞 n.冲突，碰撞
+  * 例句：  I failed to go to Mary's wedding because it clashed with my examination.
+  * 翻译：  我没能去参加玛丽的婚礼，因为它和我的考试冲突了。
+  * 短语：  cultural clash 文化冲突 // a clash of opinions 意见冲突 // a clash of personalities 个性不合
+  * 参考：  crash (n./v.碰撞，坠落) crush (vt.压碎)
+  <br>
+
+- risk
+  * 词义：  vt. 冒...的危险 n.冒险 风险
+  * 例句：  I can't risk any money on the purchase of stocks.
+  * 翻译：  我不能冒险把钱花在买股票上。
+  * 考点：  at risk 处境危险 // at a risk of 冒着...的危险
+  * 派生：  risky (a.危险的，冒风险的，大胆的)
+  <br>
+
+- whale
+  * 词义：  n.鲸
+  <br>
+
+- testimony
+  * 词义：  n.证据，证词；表明，说明
+  * 例句：  My father's smile was testimony of his approval.
+  * 翻译：  父亲的微笑表明他同意了。
+  <br>
+
+- exaggerate
+  * 词义：  v.夸大，夸张
+  * 例句：  The speaker has exaggerated in her many prior statements.
+  * 翻译：  演讲者在她先前的许多陈述中都夸大其词了。
+  * 派生：  exaggerated (a.夸大的，夸张的) exaggeration (n.夸大，夸大之词)
+  <br>
