@@ -135,3 +135,73 @@
   * 翻译：  演讲者在她先前的许多陈述中都夸大其词了。
   * 派生：  exaggerated (a.夸大的，夸张的) exaggeration (n.夸大，夸大之词)
   <br>
+  
+---
+### 2017年08月04日 22:04:17
+
+- expectation
+  * 词义：  n.预期，期望，指望
+  * 例句：  I had no expectation that the team would win.
+  * 翻译：  我没指望那个队能赢。
+  <br>
+
+- accompany
+  * 词义：  vt.陪同，伴随； 为...伴奏
+  * 例句：  Tony began to sing, accompanying himself on his piano.
+  * 翻译：  托尼开始边唱歌边弹琴给自己伴奏。
+  <br>
+
+- swift
+  * 词义：  a.快速的，敏捷的
+  * 例句：  The proposal brought swift reaction.
+  * 翻译：  该提案得到了快速的回应。
+  * 派生：  swiftly (ad.快速地，敏捷地，即刻)
+  <br>
+
+- orthodox
+  * 词义：  a.传统的复合社会风俗的； 正统的
+  * 例句：  The application of orthodox economic theory has worked in the situation we are currently in.
+  * 翻译：  在我们目前所处的形势下，正统经济理论的运用发挥了作用。
+  <br>
+
+- isolate
+  * 词义：  vt.使隔离，孤立
+  * 例句：  Several villages are isolated by the flood.
+  * 翻译：  洪水使好几座村庄与外界隔绝了。
+  * 派生：  isolated (a.隔离的，孤立的)
+  <br>
+
+- fixture
+  * 词义：  n.固定，固定物
+  * 例句：  The highway is an important fixture in this region.
+  * 翻译：  公路是该地区一项重要的固定设施。
+  <br>
+
+- privacy
+  * 词义：  n.隐居，私事，隐私；
+  * 例句：  We should respect others privacy!
+  * 翻译：  我们应该尊重别人的隐私！
+  * 同义：  secrecy (n.私密，保密) seclusion (n.归隐，私人的范围)
+  * 反义：  publicity (n.公开)
+  <br>
+
+- contribute
+  * 词义：  v.(to)贡献，捐助，捐献;(to) 投稿, (to)有助于
+  * 例句：  Paul's interpretation contributed enormously to our solving this difficult problem.
+  * 翻译：  保罗的解释对于我们解决这个难题大有帮助。
+  * 派生：  contributing (a.有贡献的，起作用的)
+  <br>
+ 
+- incorporate
+  * 词义：  vt.合并，纳入，结合；a.合并
+  * 例句：  The secretary called every incorporate business in the city to the meeting.
+  * 翻译：  部长召集了实力所有参与合并的企业来参加会议。
+  * 同义：  comprise (vt.包括，由...组成) embody (vt.包括，含有)
+  <br>
+
+- repeated
+  * 词义：  a.重复的，再三的
+  * 例句：  Repeated use of a substance can lead to physical addiction or substance dependence.
+  * 翻译：  重复使用某一药物会导致上瘾或者药物依赖。
+  * 派生：  repeatedly (ad.重复地，再三地)
+  <br>
