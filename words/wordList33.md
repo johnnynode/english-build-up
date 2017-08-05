@@ -205,3 +205,72 @@
   * 翻译：  重复使用某一药物会导致上瘾或者药物依赖。
   * 派生：  repeatedly (ad.重复地，再三地)
   <br>
+  
+---
+### 2017年08月05日 11:37:10
+
+- divine
+  * 词义：  a.神的，神圣的；非凡的，超人的，神授的，天赐的；极好的，极美的； n.牧师
+  * 例句：  The divine sought God's guidance through meditation
+  * 翻译：  牧师通过冥想来寻求神的指引。
+  <br>
+
+- bat
+  * 词义：  n.球拍，球棒，短棒；蝙蝠
+  * 例句：  It's really horrific for me to see a bat in the dark.
+  * 翻译：  对我来说，在黑暗中看到蝙蝠实在是很恐怖。
+  <br>
+
+- uncover
+  * 词义：  vt.揭开，揭露
+  * 例句：  The police uncovered Tom's death.
+  * 翻译：  警方揭开了汤姆死亡的原因。
+  <br>
+
+- virtual
+  * 词义：  a.实际上的，事实上的，虚的
+  * 例句：  Our deputy manager is the virtual head of the business.
+  * 翻译：  我们的经理是公司的实际负责人。
+  * 考点：  virtual environment 虚拟环境
+  * 派生：  virtually (a.实际上，事实上，实际上) 
+  <br>
+
+- pedestrian 
+  * 词义：  a.徒步的；缺乏想象的；n.行人
+  * 例句：  Both driver and pedestrians should obey the traffic regulations.
+  * 翻译：  司机和行人都应该遵守交通规则。
+  * 同义：  hiker (n.徒步旅行者) walker (n.步行者)
+  <br>
+
+- kit
+  * 词义：  n.成套工具，配套元件； v.(out,up)装备
+  * 例句：  All of us were kited out for skiing.
+  * 翻译：  我们都装备完毕准备去滑雪。
+  * 同义：  gear (n.用具，设备) outfit (n.全套装备，全套工具)
+  <br>
+
+- greenhouse
+  * 词义：  n.温室
+  * 短语：  greenhouse effect 温室效应
+  <br>
+
+- rake
+  * 词义：  n.耙子，耙机 vt.(用耙子)耙； 搜索，探索
+  * 例句：  The journalist raked the old scandal about the President.
+  * 翻译：  这名记者挖出了总统以前的丑闻。
+  * 参考：  brake (n.闸，刹车)
+  <br>
+
+- continual
+  * 词义：  a.不断的，连续的，频繁的
+  * 例句：  Mary hates her parents' continual arguments.
+  * 翻译：  玛丽讨厌父母之间无休止的争吵。
+  * 派生：  continually (ad.不断地，连续地，频繁地)
+  * 参考：  continuation (n.继续，延续) discontinue (v.停止，废止，放弃)
+  <br>
+
+- beast
+  * 词义：  n.兽，牲畜； 凶残的人，举止粗鲁的人
+  * 例句：  When Tony is drunk, he's a beast.
+  * 翻译：  托尼喝醉后行为很粗鲁。
+  <br>
