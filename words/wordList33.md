@@ -274,3 +274,70 @@
   * 例句：  When Tony is drunk, he's a beast.
   * 翻译：  托尼喝醉后行为很粗鲁。
   <br>
+  
+---
+### 2017年08月06日 11:39:35
+
+- fog
+  * 词义：  n.雾
+  * 例句：  The airport closed because of the heavy fog.
+  * 翻译：  机场因大雾而关闭了。
+  <br>
+
+- attorney
+  * 词义：  n.律师
+  * 例句：  Mr.Heckles' attorney would like to talk to you.
+  * 翻译：  赫尔勒斯先生的律师想和你谈谈。
+  <br>
+
+- link
+  * 词义：  vt. 连接，联系 n.环节，联系
+  * 例句：  There are some links between modern science and the ancient traditions.
+  * 翻译：  现代科学与古代传统之间有着某些联系。
+  <br>
+
+- permit
+  * 词义：  v.许可，允许； n.许可证，执照
+  * 例句：  John's parking permit expired.
+  * 翻译：  约翰的停车证到期了。
+  <br>
+
+- anguish
+  * 词义：  n.极度痛苦； v.(使)极度痛苦
+  * 例句：  Mary anguished over the death of her husband.
+  * 翻译：  丈夫的死让玛丽感到极度痛苦。
+  <br>
+
+- fatigue
+  * 词义：  n.疲劳
+  * 例句：  Jack yawned with fatigue.
+  * 翻译：  杰克匹配地打着哈欠。
+  <br>
+
+- wardrobe
+  * 词义：  n.衣橱； (个人的)全部衣物
+  * 例句：  Anna showed me her wardrobe, which mostly came fro ma famous designer.
+  * 翻译：  安娜给我看了她的衣物，其中大部分出自一位著名的设计师之手。
+  <br>
+
+- applaud
+  * 词义：  v. 喝彩， 欢呼， 鼓掌
+  * 例句：  At the end of the performance ,the audience applauded loudly.
+  * 翻译：  表演结束时，观众们热烈鼓掌。
+  * 同义：  praise (vt.赞扬，歌颂)
+  * 反义：  criticize (vt.批评) scold (vt.责备)
+  <br>
+
+- timely
+  * 词义：  a.及时的，适时的
+  * 例句：  Had it not been for the timely investment from the general public, our company would not be so thriving as it is.
+  * 翻译：  要不是当时公众及时投资，我们的公司就不会有今天的兴旺。
+  * 参考：  time-consuming (a.费时的)  
+  <br>
+
+- unemployment
+  * 词义：  n.失业，实业人数
+  * 例句：  The unemployment remained stubbornly high.
+  * 翻译：  失业人数一直居高不下。
+  * 参考：  unemployed (a.失业的)
+  <br>
