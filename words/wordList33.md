@@ -341,3 +341,67 @@
   * 翻译：  失业人数一直居高不下。
   * 参考：  unemployed (a.失业的)
   <br>
+  
+---
+### 2017年08月07日 21:59:25
+
+- anonymous
+  * 词义：  a.匿名的，无名的；无特色的
+  * 例句：  We were wandering in the grey anonymous streets in the town.
+  * 翻译：  我们在小镇毫无特色的灰暗街道上游荡着。
+  <br>
+
+- segment
+  * 词义：  n.段，片，节；部分
+  * 例句：  Each rope is divided into two eight foot segments.
+  * 翻译：  每条绳子都被截成八英尺长的两段。
+  * 派生：  segmental (a.部分的)
+  <br>
+
+- paperback
+  * 词义：  n.简装本，平装本
+  * 例句：  The paperback of this book is quite hot.
+  * 翻译：  这本书的简装版非常抢手。
+  <br>
+
+- organism
+  * 词义：  n.生物体，平装本
+  * 例句：  Most living organisms cannot survive without nitrogen and oxygen.
+  * 翻译：  如果没有氮和氧，地球上的大多数生物都不能存货。
+  * 派生：  microorganism (n.微生物)
+  <br>
+
+- capacity
+  * 词义：  n.容量，容积，接受力；能量，能力
+  * 例句：  The test is used to measure a child's capacity for learning.
+  * 翻译：  这种测试被用于衡量儿童的学习能力。
+  <br>
+
+- sausage
+  * 词义：  n.香肠，腊肠
+  <br>
+
+- range
+  * 词义：  n.范围，距离，领域；(山)脉； 炉灶 vt.排列成行
+  * 例句：  The products were ranged small, medium, and large.
+  * 翻译：  产品按小丶中丶、大号排列成行。
+  <br>
+ 
+- invisible
+  * 词义：  a.看不见的，无形的
+  * 例句：  The house was surrounded by trees and invisible from the road.
+  * 翻译：  那栋房子被树木环绕，从路上是看不见的。
+  <br>
+
+- metaphor
+  * 词义：  n.隐喻，暗喻
+  * 例句：  In literature the dove is often a metaphor for peace.
+  * 翻译：  在文学作品中，鸽子通常是用来暗喻和平。
+  <br>
+
+- verdict
+  * 词义：  n.裁定，判断，定论
+  * 例句：  John made me taste his soup and then awaited my verdict.
+  * 翻译：  约翰让我常常他做的汤，然后等待我的评判。
+  * 同义：  opinion (n.主张，判断) judgment (n.判断，看法)
+  <br>
