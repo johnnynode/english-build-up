@@ -405,3 +405,86 @@
   * 翻译：  约翰让我常常他做的汤，然后等待我的评判。
   * 同义：  opinion (n.主张，判断) judgment (n.判断，看法)
   <br>
+  
+---
+### 2017年08月08日 21:54:55
+
+- pebble
+  * 词义：  n.卵石
+  * 例句：  The path to the garden was paved with pebbles.
+  * 翻译：  通向花园的小径铺满了鹅卵石。
+  <br>
+
+- groan
+  * 词义：  vi.呻吟 n.呻吟
+  * 例句：  The patient groans with pain and cries for help.
+  * 翻译：  病人痛苦地呻吟着，大喊救命。
+  * 考点：  groan with pain 痛苦地呻吟
+  * 同义：  moan (n.呻吟声，呜咽声 v.呻吟，呜咽) grumble (n.抱怨，牢骚 v.抱怨，发牢骚) whine (n.哀鸣声，呜咽声 v.发哀鸣声)
+  <br>
+
+- plead
+  * 词义：  vi.恳求，请求；为...辩护 vt.提出...为理由(或借口)
+  * 例句：  You must ask a famous attorney to plead for you.
+  * 翻译：  你必须有一位有名的律师为你辩护。
+  * 同义：  entreat (vt.恳求，祈求) implore (vt.恳求，哀求) beseech (v.恳求，哀求)
+  <br>
+
+- politics
+  * 词义：  n.政治，政治学； 政纲，政见
+  * 例句：  The two parties shared different politics.
+  * 翻译：  这两个党派政见不一。
+  <br>
+
+- tick
+  * 词义：  n.滴答声；勾号 v.滴答响，标以记号
+  * 例句：  The salesman ticked off the items on the list.
+  * 翻译：  售货员给单子上的商品名目标上记号。
+  <br>
+
+- cruise
+  * 词义：  vi. 航游，巡航 (出租车、船等)缓慢巡行 n.航游，游弋
+  * 例句：  The ship will be sent on a cruise in search of the sunken vessel.
+  * 翻译：  那艘船将被排遣出航，去寻找那艘沉船。
+  <br>
+
+- intrinsic
+  * 词义：  a.内在的，本质的，固有的
+  * 例句：  The intrinsic value of a coin is the value of the metal it is made of.
+  * 翻译：  一枚钱币的内在价值就是铸造这枚钱币的金属的价值。
+  * 同义：  inherent (a.内在的，固有的) essential (a.本质的) innate (a.天生的，固有的)
+  * 反义：  extrinsic (a.外来的，外在的) external (a.外面的，表面的)
+  <br>
+
+- facilitate
+  * 词义：  vt.使变得(更)容易，使便利
+  * 例句：  The new technology has facilitated hte sharing, storage and delivery of information.
+  * 翻译：  这项新技术方便了信息的共享、储存和传输
+  <br>
+
+- readily
+  * 词义：  ad.容易地；乐意地，欣然地
+  * 例句：  I readily let my best friend borrow my car.
+  * 翻译：  我欣然地把车借给了我最好的朋友。
+  <br>
+
+-　sacred
+  * 词义：  a.神圣的，宗教的，庄严的
+  * 例句：  My divorce makes me question the sacred love.
+  * 翻译：  离婚使我对神圣的爱情产生换衣。
+  * 同义：  holy (a.神圣的) religious (a.宗教上的)
+  * 反义：  profane (a.亵渎的)
+  <br>
+  
+- auxiliary
+  * 词义：  a.辅助的，补助的
+  * 例句：  We have an auxiliary network.
+  * 翻译：  我们有一套辅助性的网络系统。
+  * 同义：  supplementary (a.辅助的)
+  <br>
+  
+- stool
+  * 词义：  n.凳子
+  * 例句：  Charlie enters and sits on a little wooden stool opposite Gandhi.
+  * 翻译：  查理遭进来，做到甘地对面的小木凳上。
+  <br>
