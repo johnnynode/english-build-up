@@ -72,3 +72,73 @@
   * 考点：  gain/gather momentum 加快发展，增大势头
   * 参考：  momentary (a.瞬间的) momentarily (ad.即刻)
   <br>
+  
+---
+### 2017年08月10日 19:31:24
+
+- considerable
+  * 词义：  a.相当大(或多)的，可观的；值得考虑的，重要的
+  * 例句：  Indy looks at the photos with considerable interest.
+  * 翻译：  因迪饶有兴趣地看着这些照片。
+  * 派生：  considerable (ad.相当地，可观地)
+  * 同义：  significant (a.可观的)
+  <br>
+
+- eminent
+  * 词义：  a.杰出的，显赫的
+  * 例句：  The students are expecting the arrival of the eminent scientist.
+  * 翻译：  学生们正期待这位杰出科学家的到来。
+  * 派生：  preeminent (a.卓越的) 
+  * 参考：  imminent (a.即将来临的) prominent (a.卓越的)
+  <br>
+
+- confront
+  * 词义：  vt.使面临，使遭遇；面对(危险等)
+  * 例句：  In order to grow, people need to have a willingness to take risks, to confront the unknown, and to accept the possibility that they may "fail" at first.
+  * 翻译：  要想成长，人们就甘愿冒险，去面对位置的事物，并接受刚开始就失败的可能。
+  * 派生：  confrontation (n.面对，面临)
+  <br>
+
+- cash
+  * 词义：  n.现金，现款； vt.兑现，付(或收)现款
+  * 例句：  Jim went to the bank to cash his check.
+  * 翻译：  吉姆到银行兑现了他的支票。
+  * 派生：  cashless (a.不使用现金的)
+  <br>
+
+- coupon
+  * 词义：  n.礼券，优惠券，配给券；票证
+  * 例句：  The coupons have the flight information and the destination cities.
+  * 翻译：  机票上有航班和目的地城市的信息。
+  <br>
+
+- discriminate
+  * 词义：  v.区别，辨别；(against)有差别的对待，歧视
+  * 例句：  You must discriminate between facts and opinions.
+  * 翻译：  你必须把事实和看法区别开来。
+  * 派生：  discrimination (n.辨别，区别，歧视)
+  <br>
+
+- frown
+  * 词义：  vi.皱眉
+  * 例句：  My boss frowned because I was playing games instead of working.
+  * 翻译：  老板皱着眉头，因为我没干活，而是在玩游戏。
+  <br>
+
+- logic
+  * 词义：  n.逻辑，逻辑学
+  * 例句：  Adam explained his idea with admirable logic.
+  * 翻译：  亚当以令人钦佩的逻辑诠释了他的观点。
+  <br>
+
+- renew
+  * 词义：  v.(使) 更新，恢复，重新开始，继续
+  * 例句：  I want to renew some books at the library.
+  * 翻译：  我想续借图书馆里的一些书。
+  <br>
+
+- naive
+  * 词义：  a.天真的，幼稚的
+  * 例句：  It would be naive to think that this could solve all the area's problems straight away.
+  * 翻译：  认为这样就能马上解决该地区所有的问题是幼稚的。
+  <br>
