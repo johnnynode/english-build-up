@@ -142,3 +142,68 @@
   * 例句：  It would be naive to think that this could solve all the area's problems straight away.
   * 翻译：  认为这样就能马上解决该地区所有的问题是幼稚的。
   <br>
+  
+---
+### 2017年08月11日 21:54:17
+
+- atom
+  * 词义：  n.原子，微粒，微量
+  * 例句：  The trains were blown to atoms by the force of the explosion.
+  * 翻译：  爆炸的威力将火车炸得粉碎。
+  <br>
+
+- simplicity
+  * 词义：  n.简单，建议，朴素；直率，单纯，优点，长处
+  * 例句：  Annie liked his character marked by frankness and simplicity.
+  * 翻译：  安娜喜欢他率直，单纯的性格。
+  * 考点：  by virtue of 由于
+  * 短语：  By virtue of Jim's car, we caught the train.
+  <br> 
+
+- imagination
+  * 词义：  n.想象，空想，想象力。
+  * 例句：  My childhood imagination will always be a part of me.
+  * 翻译：  童年的幻想将永远是我生命的一部分。
+  <br>
+
+- freight
+  * 词义：  n.货物，客货，运费
+  * 例句：  freight train 货车 // volume of freight 货运量
+  <br>
+
+- rotten
+  * 词义：  a.腐烂的，腐朽的
+  * 例句：  The bananas should be kept in the fridge, or they will go rotten soon.
+  * 翻译：  这些香蕉应该放到冰箱里，否则他们很快就会烂掉。
+  <br>
+
+- application
+  * 词义：  n. 请求，申请(书，表)；应用，运用，施用，敷用
+  * 例句：  The patient recovered with the application of olive oil to the nostrils.
+  * 翻译：  在病人鼻孔抹橄榄油后，病人醒了过来。
+  <br>
+
+- ignorance
+  * 词义：  n.(of)无知，愚昧，不知道
+  * 例句：  We are in complete ignorance of the manager's thoughts.
+  * 翻译：  我们完全不知道经理的想法。
+  <br>
+
+- jug
+  * 词义：  n.大罐，壶，一大罐(壶)的容量 vt.关押
+  * 例句：  Every day, the baby tiger drinks three jugs of milk.
+  * 翻译：  那只小老虎每天喝三大罐牛奶。
+  <br>
+
+- sniff
+  * 词义：  vi.(哧哧地)以鼻吸气，用力吸入 vt.嗅，闻； n.吸气，嗅，闻
+  * 例句：  When Gracie had stopped crying, she sniffed and dried her eyes.
+  * 翻译：  格雷西已经不哭了，她抽着鼻子擦干了眼泪。
+  * 同义：  inhale (v.吸入，吸气) smell (v.闻)
+  <br>
+
+- champagne
+  * 词义：  n.香槟酒
+  * 例句：  The boss's headache is not soothed by champagne.
+  * 翻译：  老板的头痛并没有通过喝香槟酒得到缓解。
+  <br>
