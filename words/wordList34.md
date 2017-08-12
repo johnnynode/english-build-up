@@ -207,3 +207,75 @@
   * 例句：  The boss's headache is not soothed by champagne.
   * 翻译：  老板的头痛并没有通过喝香槟酒得到缓解。
   <br>
+  
+---
+### 2017年08月12日 08:31:50
+
+- idiom
+  * 词义：  n.习语
+  * 例句：  This book will break new ground in the study of English idioms.
+  * 翻译：  这本书将为英语习语的学习开辟一片新天地。
+  <br>
+
+- synthetic
+  * 词义：  a.合成的，人造的；综合的
+  * 例句：  The synthetic subject is too difficult for the students.
+  * 翻译：  这门综合科学对学生们来说太难了。
+  <br>
+
+- grasp
+  * 词义：  vt.抓住，抓紧；掌握，领会；
+  * 例句：  These complex formulae are beyond the grasp of the average student.
+  * 翻译：  这些复杂的公式是普通学生不能理解的。
+  <br>
+
+- assure
+  * 词义：  vt.使确信，使放心；保证，担保
+  * 例句：  I can assure you of the reliability of the information.
+  * 翻译：  我可以向你保证这条消息是可靠的。
+  <br>
+
+- stitch
+  * 词义：  n.一针，针脚 v.缝，缝合
+  * 例句：  I'll stitch up the hole in the sheet before washing.
+  * 翻译：  我会在洗之前把被单上的洞缝好。
+  * 同义：  sew (v.缝制，缝合) tailor (v.缝制)
+  <br>
+
+- resume
+  * 词义：  v.再继续，重新开始 n.简历
+  * 例句：  Jack resumed his reading after a nap.
+  * 翻译：  小睡了一会儿后，杰克开始重新阅读。
+  * 短语：  resume one's spirit 重新振作起来
+  * 参考：  presume (vt.假定，假设) assume (vt.假定，设想)
+  <br>
+
+- riot
+  * 词义：  n.暴乱，骚乱； 极度丰富 vi.聚众闹事
+  * 例句：  The mob are rioting in the street.
+  * 翻译：  那群暴徒在街上聚众闹事。
+  <br>
+
+- essential
+  * 词义：  a.(to) 必要的，必不可少的；本质的，基本的
+  * 例句：  There is no essential difference between the two proposals.
+  * 翻译：  两份提案没有本质上的不同。
+  * 派生：  essentially (ad.本质上) inessential (a.无关紧要的)
+  <br>
+
+- distribute
+  * 词义：  v. 分配，分布，配电；(over)散布
+  * 例句：  The farmers were distributing seeds over the field.
+  * 翻译：  农民们正在田间播种。
+  * 派生：  distribution (n.分配，分布)
+  <br>
+
+- purify
+  * 词义：  vt.使纯净，提纯
+  * 例句：  It is said that the air conditioner can purify the air in the room.
+  * 翻译：  据说这种空调能够净化房间里的空气。
+  * 短语：  purified water 纯净水
+  * 同义：  cleanse (v.清洗，净化) refine (v.提炼，净化)
+  * 反义：  contaminate (v.污染)
+  * 参考：  purely (ad.纯粹地，完全地) purist (n.纯化论者)
+  <br>
