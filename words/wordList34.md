@@ -279,3 +279,71 @@
   * 反义：  contaminate (v.污染)
   * 参考：  purely (ad.纯粹地，完全地) purist (n.纯化论者)
   <br>
+  
+---
+### 2017年08月13日 09:59:38
+
+- abstract
+  * 词义：  a.抽象的 n.摘要，提要 vt.提(抽)取
+  * 例句：  Your problem is that you can't abstract the important points from the lectures.
+  * 翻译：  你的问题在于不会从讲座中提炼重点。
+  * 考点：  make an abstract of 做...的摘要
+  * 派生：  abstraction (n.抽象，提取)
+  <br>
+
+- masterpiece
+  * 词义：  n.杰作，名著
+  <br>
+
+- conspiracy
+  * 词义：  n.共谋，阴谋
+  * 例句：  I changed my mind adn dropped out of the conspiracy.
+  * 翻译：  我改变了这一主意，并退出了这一阴谋。
+  <br>
+
+- stalk
+  * 词义：  n.茎，梗，柄；v.悄悄滴跟踪，高视阔步地走
+  * 例句：  After winning, the cock turned and majestically stalked away.
+  * 翻译：  得胜后，公鸡转过身，昂首阔步地走爱了。
+  * 同义：  stem (n.茎，干)
+  <br>
+
+- elapse
+  * 词义：  vi.消逝，(时间)过去
+  * 例句：  As time elapses, I gradually forget those painful memories.
+  * 翻译：  随着时间的流逝，我逐渐忘掉了那些痛苦的回忆。
+  * 参考：  lapse (v.流逝，背离) eclipse (n.日食)
+  <br>
+
+- slit
+  * 词义：  vt.切开，截开，纵隔； n.细长裂缝，狭长切口
+  * 例句：  The worm is slowly shrinking to a narrow slit.
+  * 翻译：  那只虫子正慢慢地缩进一个狭长的裂缝里。
+  * 参考：  silt (n.淤泥，沉积物)
+  <br>
+
+- survey
+  * 词义：  vt.俯瞰，眺望；全面审视，调查； 测量，勘定，俯瞰，眺望，环视；全面审视，调查，勘测，测量图
+  * 例句：  The first thing to do was to make a grand survey of the contry.
+  * 翻译：  首先要做的就是对这个国家进行一次整体勘测。
+  <br>
+
+- horizontal
+  * 词义：  a.地平线的，水平的
+  * 例句：  More air is involved in horizontal movements than vertical movements.
+  * 翻译：  大部分空气都是水平运动，而不是垂直运动的。
+  <br>
+
+- function
+  * 词义：  n.功能，作用，[pl]职务，职责，函数； vi.起作用
+  * 例句：  It's our holy functions to protect our motherland.
+  * 翻译：  保卫祖国是我们的神圣职责。
+  * 考点：  function as... 起...的作用；具有...的功能
+  * 派生：  functional (a.功能的，起作用的) functioning(n.机能)
+  <br>
+
+- obsession
+  * 词义：  n.牵挂，惦念；迷住，入迷，困扰；萦绕于心的事物或人；固执的念头
+  * 例句：  Obsession and compulsion both caused Jack to do irrational things.
+  * 翻译：  固执的念头和难以抗拒的冲动让杰克做出了不理智的事情。
+  <br>
