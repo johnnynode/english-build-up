@@ -347,3 +347,71 @@
   * 例句：  Obsession and compulsion both caused Jack to do irrational things.
   * 翻译：  固执的念头和难以抗拒的冲动让杰克做出了不理智的事情。
   <br>
+  
+---
+### 2017年08月14日 22:24:02
+
+- razor
+  * 词义：  n.剃刀
+  <br>
+
+- following
+  * 词义：  a.接着的，下列的
+  * 例句：  In the following year, I plan to travel to Africa.
+  * 翻译：  明年我打算去非洲旅行。
+  * 短语：  on the following day 在次日
+  * 参考：  follower (n.追随者，拥护者) follow-up (a.跟踪的，继续的)
+  <br>
+
+- destruction
+  * 词义：  n.破坏，消灭
+  * 例句：  How to save the Amazon rain forest from destruction?
+  * 翻译：  怎样才能拯救亚马逊玉林，使它免遭破坏呢？
+  * 参考：  construction (n.建筑) reduction (n.减少，缩小)
+  <br>
+
+- glide
+  * 词义：  n./vi.溜，滑行
+  * 例句：  I watched the graceful glide of a skater.
+  * 翻译：  我注视着滑冰者优美的滑行动作。
+  * 参考：  slip (n./v.滑到，跌落)
+  <br>
+
+- exception
+  * 词义：  n.例外，除外
+  * 例句：  There's an exception to every rule.
+  * 翻译：  没项规则都有例外。
+  * 短语：  with the exception of 除...之外
+  <br>
+
+- committee
+  * 词义：  n.委员会，全体委员
+  * 例句：  The committee comprises ten people.
+  * 翻译：  该委员会由10人组成。
+  <br>
+
+- sector
+  * 词义：  n.部分，部门；防御地段，防区，扇形
+  * 例句：  There are many guards patrolling in the sector.
+  * 翻译：  那个防区内有很多警卫在巡逻。
+  <br>
+
+- remarkable
+  * 词义：  a.值得注意的，显著的，异常的，非凡的
+  * 例句：  John's stories of working in the circus are remarkable.
+  * 翻译：  约翰在马戏团工作的故事非常不平凡。
+  * 派生：  remarkably (ad.显著地，非凡地)
+  <br>
+
+- category
+  * 词义：  n.种类
+  * 例句：  There are different categories of books in the library.
+  * 翻译：  图书馆里有各类书籍。
+  <br>
+
+- upset
+  * 词义：  n.翻到，混乱；vt.扰乱，使...心烦意乱；打翻，推翻
+  * 例句：  The clumsy farmer upset the pail of milk.
+  * 翻译：  笨手笨脚的农夫打翻了一桶牛奶。
+  * 派生：  upsetting (a.令人心烦意乱的，令人苦恼的)
+  <br>
