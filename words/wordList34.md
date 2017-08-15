@@ -415,3 +415,81 @@
   * 翻译：  笨手笨脚的农夫打翻了一桶牛奶。
   * 派生：  upsetting (a.令人心烦意乱的，令人苦恼的)
   <br>
+  
+---
+### 2017年08月15日 19:17:15
+
+- terminate
+  * 词义：  v.(使某事) 停止，结束
+  * 例句：  Paula's unhappy married life terminated in divorce.
+  * 翻译：  葆拉的不幸婚姻以离婚而告终。
+  * 短语：  terminate a contract 终止合同，解除合约
+  <br>
+
+- brace
+  * 词义：  vt.使防备，使受锻炼；支撑，使(手、足、肩)绷紧 n.托架，支架
+  * 例句：  Jim braced himself against the door to his apartment and let nobody come in.
+  * 翻译：  吉姆用身体顶住公寓的们，不让任何人进来。
+  * 同义：  prepare (vt.预备，准备) steel (vt.使坚硬；使坚强) reinforce (vt.修补，加固)
+  <br>
+
+- awe
+  * 词义：  n.敬畏，惊惧；vt.使敬畏，使惊惧
+  * 例句：  Everyone in the office was awed by the roar of the manager.
+  * 翻译：  办公室里的每个人都被经理的吼声吓呆了。
+  <br>
+
+- stagnant
+  * 词义：  a.因停滞或不流动而发臭的；不景气的
+  * 例句：  The government took many measures to revive the stagnant economy.
+  * 翻译：  政府采取了很多措施来重振低迷的经济。
+  * 派生：  stagnantly (ad.萧条地) stagnation (n.停滞)
+  <br>
+
+- illiterate
+  * 词义：  a.文盲的，未受教育的
+  * 例句：  In old China, 90 per cent of women were illiterate.
+  * 翻译：  在旧中国，有90%的妇女是文盲。
+  <br>
+
+- tent
+  * 词义：  n.帐篷
+  * 例句：  We carried our tents to camp in the mountains.
+  * 翻译：  我们带上帐篷去山里露营。
+  <br>
+
+- fabric
+  * 词义：  n.织物；结构
+  * 例句：  The whole fabric of society was changed by the revolution.
+  * 翻译：  这场革命改变了整个社会结构。
+  <br>
+
+- intention
+  * 词义：  n.意图，意向，目的
+  * 例句：  Tom backed down from his intention to invest his savings in stock market.
+  * 翻译：  汤姆放弃了把积蓄投入股市的打算。
+  <br>
+
+- bacterium
+  * 词义：  n.(<pl.>bacteria) 细菌
+  * 派生：  bacterial (a.细菌的)
+  <br>
+
+- response
+  * 词义：  n.(to)回答，回音；(to)反应，响应
+  * 例句：  The joke didn't work; there were no responses.
+  * 翻译：  笑话没有奏效，大家一点反应也没有。
+  <br>
+  
+- aisle
+  * 词义：  n.过道，通道
+  * 例句：  The two men ran into each other in the dark aisle.
+  * 翻译：  两个人在黑暗的过道里撞到了一起。
+  <br>
+  
+- tend
+  * 词义：  vi.(to) 趋向，往往是；vt.照料，看护
+  * 例句：  Nurses often devote their whole lives to tending the sick.
+  * 翻译：  护士们通常毕生致力于照顾病人。
+  * 派生：  tendency (n.趋向，趋势) contend (v.竞争) extend (v.延伸) intend (v.打算) pretend (vt.假装)
+  <br>
