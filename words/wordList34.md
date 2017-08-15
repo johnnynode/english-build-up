@@ -471,7 +471,7 @@
   <br>
 
 - bacterium
-  * 词义：  n.(<pl.>bacteria) 细菌
+  * 词义：  n.([pl.] bacteria) 细菌
   * 派生：  bacterial (a.细菌的)
   <br>
 
