@@ -132,3 +132,69 @@
   * 翻译：  马厩和房子的墙挨着。
   * 派生：  adjoining (a.邻接的，隔壁的)
   <br>
+  
+---
+### 2017年08月18日 07:07:09
+
+- shell
+  * 词义：  n.壳， 贝壳， 炮弹， 蛋壳
+  * 例句：  After the war, the children picked up many empty shells on the street.
+  * 翻译：  战斗后，孩子们在街上捡到了很多空蛋壳。
+  <br>
+
+- cunning
+  * 词义：  a.狡猾的，狡诈的；精巧的，巧妙的； n.浇花，狡诈
+  * 例句：  With a lot of cunning, the raccoons escaped the traps we had set.
+  * 翻译：  浣熊非常狡猾的逃脱了我们设下的陷阱。
+  <br>
+
+- substance
+  * 词义：  n.物质，实质，大意，财产，财物
+  * 例句：  Mary intended to marry a man of substance.
+  * 翻译：  玛丽想嫁个有钱人。
+  <br>
+
+- advanced
+  * 词义：  a.高级的，先进的，前进的
+  * 短语：  advanced countries 发达国家
+  * 例句：  The advanced method has been inroduced in many factories.
+  * 翻译：  这种先进的操作方法已经被很多工厂采用。
+  * 参考：  advance (n./v. 前进，提前) advancement (n.advancement n.前进，进步) 
+  <br>
+
+- strap
+  * 词义：  n.带，皮带；捆扎
+  * 例句：  My father has strapped my luggage for me.
+  * 翻译：  父亲已经为我捆扎好了行李。
+  <br>
+
+- expend
+  * 词义：  vt.消费，花费
+  * 例句：  Will you expend large sums of money to procure the best service?
+  * 翻译：  你会花一大笔钱以获得最好的服务吗？
+  <br>
+
+- symphony
+  * 词义：  n.交响乐，交响曲；(色彩等的和谐，协调)
+  * 例句：  Nina and Lucy are listening to Beethoven's Ninth symphony, the fourth movement -Ode To Joe.
+  * 翻译：  妮娜和露西正在欣赏贝多芬的第九交响曲第四乐章 -- 《欢乐颂》
+  * 同义：  concord (n.和谐，一致) harmony (n.协调，和谐)
+  * 反义：  discord (n.不一致，不和谐)
+  <br>
+
+- semester
+  * 词义：  n.学期
+  * 例句：  Jim isn't dull, but he did badly in the final exams last semester.
+  * 翻译：  吉姆并不笨，但上学期期末考试他考得很糟糕。
+  <br>
+
+- pension
+  * 词义：  n.养老金，年金
+  * 短语：  live on a pension 靠退休金生活
+  <br>
+
+- layer
+  * 词义：  层
+  * 例句：  The cake has a layer of chocolate in the middle.
+  * 翻译：  这块蛋糕的中间有一层巧克力。
+  <br>
