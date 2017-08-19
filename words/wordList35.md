@@ -198,3 +198,72 @@
   * 例句：  The cake has a layer of chocolate in the middle.
   * 翻译：  这块蛋糕的中间有一层巧克力。
   <br>
+  
+---
+### 2017年08月19日 17:54:49
+
+- midst
+  * 词义：  n. 中间，当中
+  * 例句：  It's known to us that you've a traitor in your midst.
+  * 翻译：  我们知道你们当中有个叛徒。
+  * 同义：  middle (n.中部，中间) core (n.中心，核心)
+  * 反义：  edge (n.边，棱，边缘) outskirts (n.外围地区)
+  <br>
+
+- steak
+  * 词义：  n. 牛排，肉排，鱼排
+  * 例句：  I learnt how to grill the steaks from my mother.
+  * 翻译：  我从母亲那儿学会了怎样烤牛排。
+  <br>
+
+- preceding
+  * 词义：  a.在前的，在先的
+  * 短语：  the preceding year 前一年
+  * 例句：  According to all preceding plans, Lisa was to remove to London next week.
+  * 翻译：  按照先前所有的计划，丽萨下周将迁往伦敦。
+  <br>
+
+- census
+  * 词义：  n.人口普查(调查)
+  * 例句：  The census enumerated 48 persons over one hundred years old in this mountain area.
+  * 翻译：  这次人口普查列出了这一代山区共有48位百岁以上的老人。
+  <br>
+
+- violence
+  * 词义：  n. 暴行，暴力；激烈，猛烈
+  * 例句：  The little girl was terrified by the violence of the hurricane.
+  * 翻译：  小女孩被猛烈的飓风吓坏了。
+  <br>
+
+- tax
+  * 词义：  n.税款，负担。 vt. 对...征税， 使负中单，使受压力。
+  * 例句：  The citizens are taxing the government's ability to supply necesary services.
+  * 翻译：  市民们不断在提供必要服务方面给政府施压。
+  * 派生：  taxation (n.课税，征税) taxpayer (n.纳税人)
+  <br>
+
+- shallow
+  * 词义：  a.浅的，浅薄的。 n.浅滩，浅处
+  * 例句：  The ship wrecked in the shallows that lie near the island.
+  * 翻译：  船在岛屿附近的浅水区失事了。
+  * 派生：  shallowness (n.浅，肤浅)
+  <br>
+
+- framework
+  * 词义：  n.架构，框架，结构
+  * 例句：  The bones are the framework of the body.
+  * 翻译：  骨骼是身体的框架。
+  <br>
+
+- concentrate
+  * 词义：  n.(on) 集中，专心，浓缩 n.浓缩物
+  * 例句：  Mother sent Tom to buy the orange juice concentrate.
+  * 翻译：  妈妈让汤姆去买那种浓缩橘子汁。
+  * 派生：  concentration (n.集中，浓缩，集合)
+  <br>
+
+- couch
+  * 词义：  n.睡椅，长沙发椅
+  * 例句：  Julie is sitting on the couch, eating popcorn.
+  * 翻译：  朱莉坐在沙发上吃爆米花。
+  <br>
