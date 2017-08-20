@@ -267,3 +267,69 @@
   * 例句：  Julie is sitting on the couch, eating popcorn.
   * 翻译：  朱莉坐在沙发上吃爆米花。
   <br>
+  
+---
+### 2017年08月20日 08:19:04
+
+- tub
+  * 词义：  n.木盆，澡盆
+  <br>
+
+- bull
+  * 词义：  n.公牛
+  <br>
+
+- fuse
+  * 词义：  n.保险丝，导火线，引信 v.融化，融合
+  * 例句：  The plastic cups fused into a solid block in the heat.
+  * 翻译：  这些塑料杯一预热就融化成了一团固体。
+  * 参考：  refuse (vt.拒绝) confuse (vt.使混乱；使糊涂)
+  <br>
+
+- athlete
+  * 词义：  n.运动员
+  * 例句：  The athlete has a powerful physique. 
+  * 翻译：  这位运动员体格强壮。
+  * 派生：  athletic (a.运动的)
+  <br>
+
+- suspect
+  * 词义：  vt.疑心，怀疑 n.嫌疑犯，可疑分子。
+  * 例句：  The police suspect Gary of the murder.
+  * 翻译：  警察怀疑佳里犯有谋杀罪。
+  <br>
+
+- ease
+  * 词义：  vt. 减轻，缓和； 使舒适，使安心； n.容易，轻松；舒适，休闲；
+  * 例句：  The thief eased his conscience by returning the stolen money.
+  * 翻译：  小偷归还了偷来的钱，良心才得到安宁。
+  * 考点：  at ease
+  * 派生：  easily (ad. 轻松地，容易地)
+  <br>
+
+- assassinate
+  * 词义：  vt.暗杀
+  * 例句：  The man who tried to assassinate the President was released yesterday.
+  * 翻译：  那名企图暗杀总统的男子昨天被释放了。
+  <br>
+
+- spite
+  * 词义：  n.恶意，怨恨
+  * 例句：  In spite of what others say, I still believe he has ever really loved me.
+  * 翻译：  不管别人说什么，我还是相信他曾经真的爱过我。
+  * 考点：  in spite of 不管，不顾，尽管，虽然 from/out of spite 出于恶意 bare/owe sb. a spite 对某人怀恨在心
+  <br>
+
+- scrap
+  * 词义：  n.碎片，废料； vt.抛弃，报废
+  * 例句：  The committee has scrapped the current way of choosing host cities.
+  * 翻译：  委员会废除了现行的评选主办城市的方法。
+  * 同义：  debris (n.碎片，残骸) abandon (v.放弃，遗弃)
+  * 参考：  scrape (n./vt. 刮，擦) scrip (n.便条) script (n.手稿，剧本)
+  <br>
+
+- mute
+  * 词义：  a.哑的，缄默的；弱化的，微弱的 n.哑巴，弱音器 vt.减弱...的声音
+  * 例句：  Jean muted the sound on the TV.
+  * 翻译：  琼将电视的音量调小了。
+  <br>
