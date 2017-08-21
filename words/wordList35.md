@@ -333,3 +333,69 @@
   * 例句：  Jean muted the sound on the TV.
   * 翻译：  琼将电视的音量调小了。
   <br>
+  
+---
+### 2017年08月21日 20:57:14
+
+- unity
+  * 词义：  n.团结，一致；统一体，整体
+  * 例句：  The poem blends the separate ingredients into a unity.
+  * 翻译：  这首诗将几个分开的部分融合一体。
+  <br>
+
+- anxiety
+  * 词义：  n.挂念，焦虑，忧虑； 渴望，热望 
+  * 例句：  The prince's eyes bent upon the princess with deep anxiety.
+  * 翻译：  王子满含渴望的双眼专注地望着公主。
+  * 派生：  anxiously (ad.忧虑地，不安地)
+  <br>
+
+- critic
+  * 词义：  n.批评家，评论家；批评，评论
+  * 例句：  We will sooner or later respond to these critics on our new ideas.
+  * 翻译：  我们迟早会对这些有关我们新主张的评论进行回击。
+  <br>
+
+- notify
+  * 词义：  vt.通知，告知，报告
+  * 例句：  The monitor nofitied the sutdents of a change in schedule.
+  * 翻译：  班长通知同学们计划有变。
+  * 派生：  notification (n.通知，告示)
+  <br>
+
+- distinct
+  * 词义：  a. 清楚的，明显的；截然不同的
+  * 例句：  The twin sisters are distinct from each oher in characters.
+  * 翻译：  那对双胞胎姐妹的性格截然不同。
+  * 派生：  distinctly (ad.清楚地，明显地) indistinctly (ad. 不明显地) distinctive (a.与众不同的，有特色的)
+  <br>
+
+- quartz
+  * 词义：  n. 石英
+  * 例句：  The explorers moved on five miles in order to prospect for quartz.
+  * 翻译：  探测者们为了勘探石英，继续行进了五英里。
+  <br>
+
+- initiative
+  * 词义：  a.创始的，起始的，初步的 n.第一步，创始，主动精神
+  * 例句：  It was a step away from individual initiative, towards collectivism and municipal and state-owned business.
+  * 翻译：  这是公司有个人创始活动迈向集体化、市有和国有的一步。
+  <br>
+
+- machinery
+  * 词义：  n.机器，机械，机制
+  * 短语：  maintenance of machinery 机器保养 // the machinery of the law 法律机制
+  <br>
+
+- passport
+  * 词义：  n.护照
+  * 例句：  Chunk is planning another tour abroad, yet his pasport will expire at the end of this month.
+  * 翻译：  查克正打算再次出国旅游，但是他的护照这个月底就到期了。
+  <br>
+
+- secure
+  * 词义：  a.安全的，可靠的，放心的；得到某物，获得；防护，保卫
+  * 例句：  By strengthening the river banks, the city secured itself against flood.
+  * 翻译：  由于加固了河堤，改城可免遭水灾。
+  * 派生：  insecure (a.不可靠的，不安全的)
+  <br>
