@@ -399,3 +399,97 @@
   * 翻译：  由于加固了河堤，改城可免遭水灾。
   * 派生：  insecure (a.不可靠的，不安全的)
   <br>
+  
+---
+### 2017年08月22日 21:39:52
+
+- reflexion/reflection
+  * 词义：  n.映像，倒影；反省，沉思
+  * 例句：  On further reflection, I doubt whether I did something wrong.
+  * 翻译：  进一步反省后，我怀疑自己是不是做错了什么。
+  <br>
+
+- summary
+  * 词义：  n.摘要，概要 a.概要，简略
+  * 例句：  The teacher asked every student to write a summary of his paper.
+  * 翻译：  老师让每位学生都为自己的论文写一篇摘要。
+  * 短语：  in summary 总括
+  <br>
+
+- invert
+  * 词义：  vt.倒置，倒转，颠倒
+  * 例句：  The little boy caught the insect by inverting the cup over it.
+  * 翻译：  小男孩把杯子倒过来，扣住了那只昆虫。
+  <br>
+
+- squeeze
+  * 词义：  vt. 压榨，挤 n.榨取，勒索
+  * 例句：  The farmers were driven to re bel by the squeeze of the landlords.
+  * 翻译：  农民们在地主的压榨下被迫起来反抗了。
+  <br>
+
+- regime
+  * 词义：  n. 政体，制度
+  * 例句：  The current regime of this country differs from western models.
+  * 翻译：  该国当前的政体与西方的模式不同。
+  <br>
+
+- institution
+  * 词义：  n.公共机构，协会，学校；制度，惯例
+  * 例句：  The findings of a research institution have consistently shown that workers in all countries can be trained on the job to achieve radical higher productivity and, as a result, radically higher standards of living.
+  * 翻译：  一家研究机构的研究结果始终表明，各国的工人都可以通过接收在岗培训大幅提高生产力，从而大幅提高生活水平。
+  * 考点：  an educational institution 教育机构 // religious institutions 宗教机构 // reach institutions 研究机构
+  * 派生：  institutional (a.制度上的)
+  <br>
+
+- comprise
+  * 词义：  vt.包含，包括，构成
+  * 例句：  The house comprises two bedrooms, a kitchen and a living room.
+  * 翻译：  这栋房子有两个卧室、一个厨房和一个客厅。
+  <br>
+
+- debut
+  * 词义：  n.初次登台； 处女作； vt.(产品)面世，首次推出
+  * 例句：  Ralph Lauren debuted his autumn collection in Paris last month.
+  * 翻译：  拉尔夫·劳伦上个月在巴黎首次推出其秋装系列。
+  <br>
+
+- dynasty
+  * 词义：  n.王朝，朝代
+  * 例句：  The Chinese imperial family in the Qing Dynasty is of Manchu origin.
+  * 翻译：  中国清朝的皇族是满族血统。
+  <br>
+
+- foresee
+  * 词义：  vt. 预见，预知
+  * 例句：  The stockbrokers had foreseen the recession, so they were prepared when the economy soured.
+  * 翻译：  这些股票经纪人已经预见到经济衰退，所以他们在经济恶化前就做好了准备。
+  * 同义：  predict (v. 预言,预测)； prophesy (v.预言，预告未来) foretell (v.语言，预示)
+  <br>
+  
+- bare
+  * 词义：  a.赤裸的，光秃的，空的， 稀少的，仅有的 vt.露出，暴露
+  * 例句：  The children ran around in their bare feet.
+  * 翻译：  孩子们光着脚跑来跑去。
+  <br>
+  
+- addition
+  * 词义：  n. (增)加，假发；附加(物) 
+  * 例句：  In a addition to an essay, I want you each to write a poem. 
+  * 翻译：  除了散文，我还要求你们每人再写一首诗。
+  * 派生：  additive (n.添加剂 a.添加的)
+  <br>
+  
+- endorse
+  * 词义：  vt.赞同，认可，代言，背书，在背面签名
+  * 例句：  I wonder whether celebrities actually use the products they endorse or not.
+  * 翻译：  我想知道哪些名人是不是真的使用自己代言的产品。
+  <br>
+  
+> 名言：
+>
+> No one can be sure about his future. Future is not what fortune teller tells you. It is created by yourself.<br>
+> -- Bill Gates
+>
+> 没有谁能够对未来了如指掌，未来并不是算命先生那张嘴说出来的，而是靠你自己创造出来的。<br>
+> -- 比尔·盖茨
