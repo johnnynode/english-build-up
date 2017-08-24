@@ -83,8 +83,8 @@
 
 - spokesman
   * 词义：  n.发言人
-  * 例句：  The man talking with your sister is a spokesman for the State Department.
-  * 翻译：  和你姐姐说话的那个人是国务院发言人。
+  * 例句：  A UN spokesman said that the mission will carry 20 tons of relief supplies.
+  * 翻译：  联合国的一名男发言人说，该代表团将携带20吨救济物资。
   <br>
 
 - dentist
