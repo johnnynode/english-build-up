@@ -138,3 +138,67 @@
   * 例句：  Mary's opinion on this issue was polar to Tom's.
   * 翻译：  玛丽对这一问题的看法和汤姆正好相反。
   <br>
+  
+---
+### 2017年08月25日 07:18:55
+
+- maid
+  * 词义：  n.少女，女仆
+  <br>
+
+- catalog / catalogue
+  * 词义：  n.目录(册) vt.编目(录)
+  * 例句：  Please catalogue these books for pereservation.
+  * 翻译：  请将这些书编入目录以便保存。
+  <br>
+
+- consumption
+  * 词义：  n.消费(量)， 消耗 vt.抽样试验，抽样调查
+  * 短语：  consumption pattern 消费模式 // consumption of electricity 耗电量  
+  * 考点：  production and consumption 生产和消耗 // fuel consumption 燃料消耗
+  * 参考：  assumption (n.假设) presumption (n.假定，假设) resumption (n.恢复，重新开始)
+  <br>
+
+- gallery
+  * 词义：  n.长廊，画廊，美术馆
+  * 例句：  There's going to be a pottery exhibition at the art gallery.
+  * 翻译：  艺术馆将举办一场陶瓷展。
+  <br>
+
+- barely
+  * 词义：  ad.赤裸地，无遮蔽地； 仅仅，勉强，几乎没有
+  * 例句：  We had barely started our vacation when the children got sick.
+  * 翻译：  我们的假期刚开始，孩子们就病了。
+  <br>
+
+- promote
+  * 词义：  vt. 促进，增进，提升，提拔，宣传，助长
+  * 例句：  The show will help promote the writer's new book.
+  * 翻译：  展览将会有助于宣传作家的新书。
+  * 派生：  promotion (n.促进，提升，宣传) promotional (a.推销的，宣传的，增进的)
+  <br>
+
+- intense
+  * 词义：  a.强烈的，剧烈的，极度的；热烈的，热情的
+  * 例句：  Anna began staring at Albert with an intense smile upon her face.
+  * 翻译：  安娜面带热情的微笑，开始大量起艾伯特。
+  * 派生：  intensely (ad.强烈地；热情地)
+  <br>
+
+- axis
+  * 词义：  n.轴(线) 坐标轴， 构图中心线
+  * 例句：  The X axis is horizontal, and Y axis is vertical.
+  * 翻译：  坐标轴是水平的，而Y坐标轴是垂直的。
+  <br>
+
+- script
+  * 词义：  n.剧本，脚本，广播稿；笔迹，手迹
+  * 例句：  The lawyer wrote with a neat and precise script.
+  * 翻译：  那位律师的字迹工整清晰。
+  <br>
+
+- charm
+  * 词义：  n.吸引力，魅力； vt.迷人，使陶醉，施魔法于
+  * 例句：  The princess was charmed asleep by the witch.
+  * 翻译：  公主被巫婆施了魔法睡着了。
+  <br>
