@@ -202,3 +202,73 @@
   * 例句：  The princess was charmed asleep by the witch.
   * 翻译：  公主被巫婆施了魔法睡着了。
   <br>
+  
+---
+### 2017年08月26日 11:32:16
+
+- tray
+  * 词义：  n.盘碟，托盘
+  * 例句：  I accidentally broke a tray while washing the dishes.
+  * 翻译：  洗涤餐具的时候，我不小心打碎了一个碟子。
+  * 参考：  ray (n.光线) stray (vi. 迷路，偏离)
+  <br>
+
+- gamble
+  * 词义：  n.投机，冒险，赌博；vi.赌博
+  * 例句：  Frank has gambled away all his wealth.
+  * 翻译：  弗兰克赌博输掉了全部财产。
+  * 考点：  gamble away 投机，冒险； a gambling house 赌场 gamble in stocks 做股票投机
+  * 同义：  bet (v.打赌，赌博 n.打赌) wager (v.打赌，赌博 n.赌博) stake (v.以...打赌，拿...冒险 n.镀金，赌注)
+  <br>
+
+- code
+  * 词义：  n.代码，代号，密码； 发电，法规，规则，规范
+  * 例句：  You must abide by the highway code.
+  * 翻译：  你必须遵守公路法规。
+  <br>
+
+- creature
+  * 词义：  n.人，动物；产物
+  * 例句：  This trend is definitely the creature of the age.
+  * 翻译：  这股潮流无疑是时代的产物。
+  <br>
+
+- eyesight
+  * 词义：  n.视力
+  * 例句：  My eyesight recovered completely after the operation.
+  * 翻译：  手术后，我的视力完全恢复了。
+  <br>
+
+- delivery
+  * 词义：  n.传递，传送，交付，分娩
+  * 例句：  The manufacturer asked for an immediate delivery.
+  * 翻译：  厂商要求立即交货
+  * 短语：  special/express delivery 速递 // a difficult delivery 难产
+  <br>
+
+- delegate
+  * 词义：  n.代表，委派...为代表，授权
+  * 例句：  We decided to delegate Martin to attend the conference.
+  * 翻译：  我们决定委派马丁作为代表出席这次会议。
+  * 派生：  delegation (n.代表团，授权，委托)
+  <br>
+
+- depict
+  * 词义：  vt. 描绘，描写，描述
+  * 例句：  Her novel depicts life in modern London.
+  * 翻译：  她的小说描写的是伦敦现代的生活。
+  <br>
+
+- claim
+  * 词义：  v.要求，主张，声称；索赔 n.要求，主张，断言；索赔，权利，要求权，所有权。
+  * 例句：  Sam has set up a claim to a portion of the estate. 
+  * 翻译：  萨姆已对房产的一部分提出了所有权要求。
+  * 派生：  claimable (a.可要求的，可索赔的)
+  * 参考：  proclaim (vt.宣布，声明) reclaim (vt.要求归还)
+  <br>
+
+- patch
+  * 词义：  n.补丁，补片，碎片，碎屑，小块，小片，小片土地 vt.补，修补
+  * 例句：  Jack had his sweater patched yesterday.
+  * 翻译：  杰克昨天找人给他补了补毛衣。
+  <br>
