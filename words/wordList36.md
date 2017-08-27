@@ -272,3 +272,74 @@
   * 例句：  Jack had his sweater patched yesterday.
   * 翻译：  杰克昨天找人给他补了补毛衣。
   <br>
+  
+---
+### 2017年08月27日 10:17:31
+
+- liberate
+  * 词义：  vt.解放，释放
+  * 例句：  The government is trying to liberate people from poverty.
+  * 翻译：  政府正在设法让人民摆脱贫困。
+  * 短语：  liberate productive force 解放生产力 
+  <br>
+
+- baggage
+  * 词义：  n.行李
+  * 例句：  My baggage will arrive on another flight.
+  * 翻译：  我的行李和下次航班一起到达。
+  <br>
+
+- poetry
+  * 词义：  n.诗歌，诗集
+  * 例句：  Harry is interested in literature, particularly poetry and fiction.
+  * 翻译：  哈里爱好文学尤其是诗歌和小说。
+  <br>
+
+- indispensable
+  * 词义：  a.(to,for) 必不可少的，必需的
+  * 例句：  The basic education is indispensable for whatever career you select.
+  * 翻译：  无论你选择什么职业，基础教育都是必不可少的。
+  <br>
+
+- perceive
+  * 词义：  vt.察觉，感知，理解，领悟
+  * 例句：  I perceived John's comments as a challenge.  
+  * 翻译：  我把约翰的话理解为一种挑战。
+  * 派生：  perceivable (a.可察觉的，可感知的) perception (n.感知，感觉)
+  * 同义：  detect (vt.察觉，发觉) comprehend (vt.领会，理解)
+  * 参考：  perceptual (a.有知觉的) perceptive (a.敏感的)
+  <br>
+
+- affluent
+  * 词义：  a.丰富的，富裕的
+  * 例句：  Poverty still exists even in an affuent society.
+  * 翻译：  即使在富庶的社会里，贫穷也依然存在。
+  <br>
+
+- exhibit
+  * 词义：  vt.展出，陈列
+  * 例句：  They offered to let me exhibit some of my paintings here.
+  * 翻译：  他们提议在这里展出一些我的绘画作品。
+  * 派生：  exhibition (n.表现，展览会)
+  <br>
+
+- tanker
+  * 词义：  n.油船
+  * 例句：  The leaking tanker spread oil all over the seashore.
+  * 翻译：  油船发生了泄漏，海岸边到处都是石油。
+  * 派生：  supertanker (n.超级游轮)
+  <br>
+
+- mathematical
+  * 词义：  a.数学(上)的
+  * 参考：  mathematician (n.数学家)
+  <br>
+
+- dismay
+  * 词义：  n.惊恐，惊愕；失望，绝望 vt.使惊恐，使惊愕；使失望，使绝望
+  * 例句：  I couldn't hide my dismay when my idol didn't appear.
+  * 翻译：  当我的偶像没有出现时，我无法掩饰自己的失望。
+  * 短语：  be dismayed at 对...气馁  to one's dismay 使惊愕的是...
+  * 同义：  appall (vt.使胆寒，使惊骇) daunt (vt.使胆怯，使气馁)
+  * 反义：  cheer (v.使快活， 为...欢呼)
+  <br>
