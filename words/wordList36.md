@@ -343,3 +343,73 @@
   * 同义：  appall (vt.使胆寒，使惊骇) daunt (vt.使胆怯，使气馁)
   * 反义：  cheer (v.使快活， 为...欢呼)
   <br>
+  
+---
+### 2017年08月28日 07:20:05
+
+- survive
+  * 词义：  vi.幸免于，幸存； vt.比...长命
+  * 例句：  The old man survived his wife.
+  * 翻译：  那位老人比他的妻子活得长。
+  * 派生：  survivor (n.幸存者，生还者)
+  <br>
+
+- blog
+  * 词义：  n.博客，日志
+  * 例句：  You promised me that you would not post them on the blog.
+  * 翻译：  我向你保证过不会把他们贴在博客上的。
+  <br>
+
+- oblige
+  * 词义：  vt.迫使，责成； (使)感激，施恩于
+  * 例句：  Will you oblige me by closing the door?
+  * 翻译：  劳驾替我关上门好吗?
+  <br>
+
+- bid
+  * 词义：  vt.祝愿，命令，吩咐； vt.报价，投标 n.出价，投标
+  * 例句：  The first bid showed up within 24 hours.
+  * 翻译：  第一轮投标在24小时之内便会见分晓。
+  * 派生：  bidding (n.出价，命令) overbid (v.出价过高)
+  <br>
+
+- commission
+  * 词义：  n.委员会，委任，授权(书)，代办，佣金，手续费
+  * 例句：  We've decided to increase your commission to 12 percent.
+  * 翻译：  我们已经决定将你的佣金增加到12%。
+  <br>
+
+- revelation
+  * 词义：  n.揭示，透露，显示，被揭示的真相；(惊人的)新发现
+  * 例句：  The revelation that Kevin was her father astonished her.
+  * 翻译：  凯文是她胜负这一真相的揭露让她深感震撼。
+  * 同义：  disclosure (n.揭发，败露) exposure (n.暴露，曝光)
+  * 反义：  concealment (n.隐藏)
+  <br>
+
+- suffice
+  * 词义：  v. (使) 满足， (使) 满意； 足够
+  * 例句：  Only a cup of milk would suffice for the little girl.
+  * 翻译：  对于这个小女孩来说，只要一杯牛奶她就满足了。
+  * 反义：  lack (v.缺乏)
+  <br>
+
+- wrap
+  * 词义：  vt.裹，缠，卷， 包 n.披肩，围巾
+  * 例句：  Mary covered her with her wrap to protect it from the wind.
+  * 翻译：  玛丽用围巾裹住脸，不让风吹到。
+  <br>
+
+- usage
+  * 词义：  n.用法，惯用语
+  * 例句：  The teacher explained the usage of the verb in class yesterday.
+  * 翻译：  老师昨天在课堂上讲过这个动词的用法。
+  * 参考：  usable (a.可用的) useless (a.无用的)
+  <br>
+
+- brisk
+  * 词义：  a.轻快的，刻薄的，生气勃勃的，兴隆的
+  * 例句：  The young girl's walk is brisk.
+  * 翻译：  那个年轻女孩脚步轻盈。
+  * 同义：  lively (a.活泼的) energetic (a.精力充沛的) quick (a.敏捷的)
+  <br>
