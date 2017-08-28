@@ -413,3 +413,78 @@
   * 翻译：  那个年轻女孩脚步轻盈。
   * 同义：  lively (a.活泼的) energetic (a.精力充沛的) quick (a.敏捷的)
   <br>
+  
+---
+### 2017年08月29日 05:54:03
+
+- audio
+  * 词义：  a.听觉的，声音的
+  * 例句：  The workers outfit luxury cars with security systems and high-end audio components.
+  * 翻译：  工人们为豪华的汽车配备了防盗系统和高端音频设备。
+  <br>
+
+- implicit
+  * 词义：  a.不言明的，含蓄的， 固有的； 无疑问的，无保留的
+  * 例句：  The coach had implicit confidence in the player to win the champion.
+  * 翻译：  教练对这名运动员夺冠有十足的把握。
+  * 参考：  elicit (vt.得出) explicit (外在的)
+  <br>
+
+- racket
+  * 词义：  n.球拍
+  * 例句：  The player was fined for throwing his racket to the ground in anger.
+  * 翻译：  那位球员因为生气将球拍摔倒地上而被处以罚款。
+  * 参考：  bracket (n.支架)
+  <br>
+
+- strenuous
+  * 词义：  a.费劲的，费力的；辛苦的，艰苦的
+  * 例句：  It takes many years of strenuous training to be an outstanding athlete.
+  * 翻译：  要成为一名杰出的运动员需要多年艰苦的训练。
+  <br>
+
+- location
+  * 词义：  n.位置，场所
+  * 例句：  The saleswoman knows the exact location of every food item in the supermarket.
+  * 翻译：  那名女售货员对超市里每一种视频的确切位置都了如指掌。
+  * 参考：  allocation (n.分配，拨给)
+  <br>
+
+- operational
+  * 词义：  a.操作的，运转的
+  * 例句：  The new machines are not yet fully operational.
+  * 翻译：  这些新机器还没有完全运转起来。
+  * 参考：  operative (a.运转的，手术的，实施的)
+  <br>
+
+- drastic
+  * 词义：  a.激烈的，严厉的
+  * 例句：  a drastic reduction in employment 大量裁员 // take a drastic step 采取极端的步骤
+  * 同义：  fierce (a.猛烈的，激烈的) intense (a.强烈的，剧烈的) violent (a.猛烈的，激烈的)  
+  <br>
+
+- skyscraper
+  * 词义：  n.摩天大楼
+  * 例句：  Once the skyscrapers were in sight, I knew I was near the city.
+  * 翻译：  一看到摩天大楼，我就知道离城市不远了。
+  <br>
+
+- compel
+  * 词义：  vt.强迫，迫使
+  * 例句：  The old scientist was compelled by illness to suspend his research.
+  * 翻译：  这位年迈的科学家因病得不得不暂时终端研究工作。
+  <br>
+
+- queue
+  * 词义：  n. 行列，长队 vi.排队(等待)
+  * 例句：  There was a long queue outside the station.
+  * 翻译：  人们在车站外排起了长队。
+  * 考点：  queue up 排队(等待)
+  <br>  
+  
+- inquiry / enquiry
+  * 词义：  n.打听，询问，调查，研究
+  * 例句：  I want to devote all of my energy to this inquiry.
+  * 翻译：  我想把所有的精力都投入到这项调查中。
+  * 考点：  scientific inquiry 科学调查 // historical inquiry 历史研究 // intellectual enquiry 知识探索
+  <br>
