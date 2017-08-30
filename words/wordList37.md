@@ -3,7 +3,7 @@
 > [新东方单词在线阅读地址](http://download.dogwood.com.cn/online/kychlx/iPhone.html) ，希望这个链接一直都有效 :)
 
 ---
-### 2017年08月30日 20:17:28
+### 2017年08月30日 21:13:14
 
 - tank
   * 词义：  n.坦克，罐，槽，箱
