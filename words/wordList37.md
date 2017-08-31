@@ -136,3 +136,70 @@
   * 例句：  It was said that Halley's Comet is going to come back in 2061.
   * 翻译：  据说哈雷彗星将在2061年返回。
   <br>
+  
+---
+### 2017年09月1日 07:23:26
+
+- withstand
+  * 词义：  vt.抵抗，经受住
+  * 短语：  withstand hardships 经受住艰难困苦 withstand financial risks 抵御金融风险
+  <br>
+
+- loudspeaker
+  * 词义：  n.扬声器，扩音器
+  * 例句：  The traveler was surprised to hear her name announced over the loudspeaker.
+  * 翻译：  这名游客吃惊地听到扩音器里传出自己的名字。
+  <br>
+
+- modest
+  * 词义：  a.谦虚的，谦让的，适度的
+  * 例句：  The modest painter avoided the journalists in the entire gallery opening.
+  * 翻译：  那位谦逊的画家在整个画展开幕式上一致避免和记者们碰面。
+  <br>
+
+- wreck
+  * 词义：  n.失事的船(或飞机)，残骸，失事 vt.(船等)失事，遇难， 破坏，毁坏
+  * 例句：  The war wrecked the economy of both countries.
+  * 翻译：  战争破坏了两国的经济。
+  * 短语：  a train wreck 火车失事 wreck a leg 弄断一条腿
+  <br>
+
+- tram
+  * 词义：  有轨电车
+  * 例句：  Trams were used in this city to relieve traffic jams.
+  * 翻译：  该市利用有轨电车来缓解交通堵塞。
+  <br>
+
+- barren
+  * 词义：  a.(土地等)贫瘠的，荒芜的, 不(生)育，无益的， 没有意义的
+  * 例句：  We saw the barren town and fields from the window of the train.
+  * 翻译：  通过列车的车窗，我们看到了荒芜的小镇和贫瘠的土地。
+  * 同义：  fruitless (a.不结果实的)
+  * 反义：  fertile (a.肥沃的，富饶的，能繁殖的) fecund (a.多产的，丰饶的，肥沃的)
+  * 参考：  baron (n.男爵) barn (n.谷仓)
+  <br>
+
+- convict
+  * 词义：  vt. (经审讯)证明...有罪，宣判...有罪
+  * 例句：  The convicts were allowed outside for one hour each day. 
+  * 翻译：  囚犯们每天有一个小时的放风时间。
+  <br>
+
+- smog
+  * 词义：  n.烟雾
+  * 例句：  Smog used to bring our town's traffic to a standstill.
+  * 翻译：  过去，烟雾常使我们镇的交通陷入瘫痪。
+  <br>
+
+- sleeve
+  * 词义：  n.袖子
+  * 例句：  Brody wipes his nose on his sleeve
+  * 翻译：  布罗迪用袖子擦了擦鼻子。
+  <br>
+
+- juvenile
+  * 词义：  a.青少年的，少年特有的，幼稚的 n.未成年人，少年
+  * 例句：  Three juveniles were arrested for shoplifting in the supermarket.
+  * 翻译：  三个少年因为在超市里偷东西被捕了。
+  * 同义：  childish (a.幼稚的) immature (a.不成熟的) youngster (n.少年，年轻人) teenager (n.13~19岁的青少年)
+  <br>
