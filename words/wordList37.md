@@ -271,3 +271,74 @@
   * 例句：  The child muttered that he had done nothing at all.
   * 翻译：  这个孩子咕哝着说自己根本什么都没做过。
   <br>
+  
+---
+### 2017年09月03日 07:02:27
+
+- hamper
+  * 词义：  vt.妨碍，阻碍，牵制，束缚
+  * 例句：  Our progress was hampered by the bad weather.
+  * 翻译：  恶劣的天气阻碍了我们的前进。
+  * 派生：  unhampered (a.无妨碍的，无阻碍的)
+  <br>
+
+- evaluate
+  * 词义：  vt.估价，评价，求...的值
+  * 例句：  The research project has only been under way for three months, so it's too early to evaluate its success.
+  * 翻译：  这个研究项目才进行了三个月，所以要对它的成绩做出评价还为时过早。
+  * 派生：  evaluation (n.估价，评价，赋值)
+  <br>
+
+- reliance
+  * 词义：  n.信赖，依靠
+  * 例句：  Long terms of reliance on sleeping pills is dangerous.
+  * 翻译：  长期依赖安眠药是危险的。
+  <br>
+
+- sightseeing
+  * 词义：  n.观光，游览
+  * 例句：  I'd like to take a one-day sightseeing tour around the city.
+  * 翻译：  我想进行一天的环城观光。
+  * 短语：  go sightseeing 去观光
+  <br>
+
+- connection / connexion
+  * 词义：  n.联系，连接
+  * 例句：  I came to realize that true friends never really lose their special connection.
+  * 翻译：  我渐渐明白，真正的朋友是永远不会真正失去彼此间那种特殊联系的。
+  * 考点：  in connection with/to 关于
+  * 参考：  disconnect (v.拆开，分离)
+  <br>
+
+- brief
+  * 词义：  a.简短的，简洁的； n.简报 vt.简短介绍，简要汇报。
+  * 例句：  Our manager briefed us on company sales for the year.
+  * 翻译：  经理就这一年公司的销售情况给我们做了简要的介绍。
+  * 考点：  in brief 简单地说，简言之
+  <br>
+
+- cucumber
+  * 词义：  n.黄瓜
+  * 例句：  Eating cucumber is good for your health
+  * 翻译：  吃黄瓜对身体有好处。
+  * 考点：  as cool as a cucumber 泰然自若。
+  <br>
+
+- constituent
+  * 词义：  a.形成的，组成的 n.成分，要素
+  * 例句：  The doctor put some special constituents into this medicine.
+  * 翻译：  医生在这种药里加入了一些特殊成分。
+  <br>
+
+- grace
+  * 词义：  n.优美，优雅
+  * 例句：  The grace seems especially important to a young girl.
+  * 翻译：  优雅对年轻女孩来说显得格外重要。
+  * 参考：  disgrace (n.丢脸，耻辱)
+  <br>
+
+- cabinet
+  * 词义：  n.橱柜，内阁
+  * 例句：  Joe opened up the cabinet to get a cup.
+  * 翻译：  乔打开橱柜去那一个杯子。
+  <br>
