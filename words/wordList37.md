@@ -203,3 +203,71 @@
   * 翻译：  三个少年因为在超市里偷东西被捕了。
   * 同义：  childish (a.幼稚的) immature (a.不成熟的) youngster (n.少年，年轻人) teenager (n.13~19岁的青少年)
   <br>
+  
+---
+### 2017年09月02日 09:03:56
+
+- venture
+  * 词义：  vt. (使)冒险，冒险行动；n. 冒险，冒险行动，投机活动，商业冒险，企业
+  * 短语：  joint venture 合资企业 venture investment 风险投资  venture capital 风险资金
+  <br>
+
+- eyebrow
+  * 词义：  n.眉毛
+  * 例句：  The girl frowned her eyebrows because the bedroom was crammed.
+  * 翻译：  卧室太狭窄了，小姑娘不由得皱起了眉头。
+  * 考点：  raise eyebrows 扬眉 (表示惊讶或反对)
+  <br>
+
+- dessert
+  * 词义：  n.正餐后的水果或甜食
+  * 例句：  For dessert, we ate ice-cream.
+  * 翻译：  我们吃了冰淇淋作为饭后的甜点。
+  * 参考：  dissert (vi.论述，讨论)
+  <br>
+
+- postage
+  * 词义：  n.邮费，邮资
+  * 例句：  You need to pay 400 yuan altogether, including the postage and the charge for the packing.
+  * 翻译：  包括邮费和包装费在内，你一共需付四百元钱。
+  <br>
+
+- vest
+  * 词义：  n.背心，马甲，汗衫，内衣
+  * 例句：  I wore a blue vest over my blouse.
+  * 翻译：  我在衬衫外面套了一件蓝色马甲。
+  <br>
+
+- resolute
+  * 词义：  a.坚决的，果断的
+  * 例句：  The resolute politician refused to be swayed by public opinion.
+  * 翻译：  那位果断的政治家拒绝被公众的观点所左右。
+  * 参考：  dissolute (a.放荡的)
+  <br>
+
+- evoke
+  * 词义：  vt.唤起，引起
+  * 例句：  Mike's covert actions evoked our mistrust.
+  * 翻译：  迈克偷偷摸摸的行为引起了我们的怀疑。
+  * 同义：  summon (vt.召唤，鼓起(勇气))
+  * 参考：  invoke (v.调用) provoke (vt.激怒) revoke (vt.撤回)
+  <br>
+
+- emerge
+  * 词义：  vi.浮现，出现，显现
+  * 例句：  Problem emerge when new breakthrough technologies arrive.
+  * 翻译：  具有突破性的新技术到来时，各种问题也会随之出现。
+  * 派生：  emergence (n.浮现，露出，出现)
+  <br>
+
+- burglar
+  * 词义：  n.窃贼，破门盗窃者
+  * 例句：  The policeman thought that the family was probably known to the burglar.
+  * 翻译：  警察猜想窃贼可能会对这户人家很了解。
+  <br>
+
+- mutter
+  * 词义：  v.咕哝，抱怨
+  * 例句：  The child muttered that he had done nothing at all.
+  * 翻译：  这个孩子咕哝着说自己根本什么都没做过。
+  <br>
