@@ -405,3 +405,95 @@
   * 例句：  The clutch of Bond's fingers on the outlaw's throat seemed o choke him.
   * 翻译：  德邦的手指掐住了歹徒的喉咙，似乎要把他掐死。
   <br>
+  
+---
+###
+
+- correlate
+  * 词义：  v.相关，关联 n.相关联的人或事
+  * 例句：  The researchers couldn't find correlates between the two sets of figures.
+  * 翻译：  研究人员找不出这两组数据的相关之处。
+  <br>
+
+- client
+  * 词义：  n.顾客，(诉讼)委托人，当事人 
+  * 例句：  I don't think your client murdered anybody.
+  * 翻译：  我认为你们的当事人没有谋杀任何人。
+  <br>
+
+- nerve
+  * 词义：  n.神经，勇气，胆量
+  * 例句：  Randolph sat on the edge of the embankment trying to get enough nerve to climb down the slope.
+  * 翻译：  伦道夫坐在堤坝边上，视图鼓足勇气趴下那个斜坡。
+  <br>  
+
+- bark
+  * 词义：  vi.吠叫，咆哮 n.吠声，狗叫声
+  * 例句：  The dog gave several fierce barks.
+  * 翻译：  狗汪汪狂吠了几声。
+  <br>
+
+- commodity
+  * 词义：  n.商品，物品
+  * 例句：  Aridity makes water the most precious commodity in the region.
+  * 翻译：  干旱使水成为该地区最贵重的商品。
+  <br>
+
+- vegetarian
+  * 词义：  n.素食主义者
+  <br>
+
+- complaint
+  * 词义：  n.抱怨，诉苦，申诉，疾病
+  * 例句：  The measles is a dreadful complaint.
+  * 翻译：  荨麻是一种可怕的疾病。
+  <br>
+
+- overtime
+  * 词义：  a.超时的，加班的 ad.超过，在加班时间内
+  * 例句：  Bill works overtime every day.
+  * 翻译：  比尔每天都在加班。
+  <br>
+
+- depart
+  * 词义：  vi.离开，启程
+  * 例句：  I will depart for Beijing tomorrow.
+  * 翻译：  我明天将动身去北京。
+  * 参考：  department (n.部，局，系)
+  <br>
+
+- accumulate
+  * 词义：  vt.积累，积蓄，堆积
+  * 例句：  The computer screen accumulates dust.
+  * 翻译：  电脑屏幕上积了些灰尘。
+  * 派生：  accumulation (n.积累，集聚，堆积物)
+  <br>
+  
+- tremble
+  * 词义：  vi.发抖，颤抖， 摇动，晃动 
+  * 例句：  The leaves of the trees were trembling in the wind.
+  * 翻译：  树叶在风中摇曳。
+  * 考点：  tremble with 因...而发抖，颤抖
+  <br>
+  
+- treaty
+  * 词义：  n.条约  
+  * 例句：  Two countries signed a treaty of peace and friendship last week.
+  * 翻译：  两国于上个星期签订了和平友好条约。
+  * 短语：  bilateral treaty 双边条约
+  <br>
+  
+- negative 
+  * 词义：  a.否定的，消极的，反面的； 负的，阴性的 n.负数，底片 
+  * 例句：  I made copies of the photo from its negative.
+  * 翻译：  我用这张底片冲洗了一些照片 
+  * 派生：  positive (a.确实的，积极的)
+  <br>
+  
+> 名言：
+>
+> Risks always coexist with opportunities. Opportunities are fair to everyone, but not all of us can catch them. It depends on whether you dare to take risks or not.<br>
+> -- Li Jiacheng
+>
+> "风险与机遇并存"，机遇对每个人是公平的，但不一定谁都可以抓住，关键就在于你是否敢于冒险。<br>
+> -- 李嘉诚
