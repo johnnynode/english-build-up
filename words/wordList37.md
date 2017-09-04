@@ -342,3 +342,66 @@
   * 例句：  Joe opened up the cabinet to get a cup.
   * 翻译：  乔打开橱柜去那一个杯子。
   <br>
+  
+---
+### 2017年09月04日 14:48:17
+
+- bullet
+  * 词义：  n.子弹，枪弹
+  * 例句：  The doctor took a bullet out of his left leg.
+  * 翻译：  医生从他的左腿中取出一颗子弹。
+  <br>
+
+- inn
+  * 词义：  n.小旅馆，客栈
+  <br>
+
+- suffer
+  * 词义：  vi.受痛苦，患病，遭受，忍受，忍耐
+  * 例句：  My grandfather suffered from headaches and could hardly sleep.
+  * 翻译：  我祖父遭受头痛之后，几乎无法入睡。
+  * 派生：  suffering (n.空库，苦难，受难)
+  <br>
+
+- scarce
+  * 词义：  a.缺乏的，不足的；稀少的，罕见的
+  * 例句：  We will use up those scarce minerals someday.
+  * 翻译：  总有一天，我们会用光那些稀有矿产。
+  * 派生：  scarcity (n.缺乏，稀有)
+  <br>
+
+- millimetre/millimeter
+  * 词义：  n.毫米
+  * 派生：  submillimetre (a. 亚毫米的)
+  <br>
+
+- presently
+  * 词义：  ad.一会儿，不久，现在，目前
+  * 例句：  Tom is busy presently. Can I take a message for you? 
+  * 翻译：  汤姆现在很忙，我能替你给他捎个口信吗？
+  * 参考：  present-day (a.现代的，当今的)
+  <br>
+ 
+- symposium
+  * 词义：  n.讨论会，专题报告会，专题论文集
+  * 例句：  The writer contributed an article to a symposium on environment isssues.
+  * 翻译：  那位作家给一个关于环境问题的论文集投了稿。
+  <br>
+
+- optional
+  * 词义：  a.可以任选的，非强制的
+  * 例句：  Is that optional course as hard as everybody says?
+  * 翻译：  那门选修课有大家说的那么难吗？
+  <br>
+
+- vary
+  * 词义：  vi.改变，变化
+  * 例句：  She varied her dress as fashion changes.
+  * 翻译：  她的衣着随着潮流而变化。
+  <br>
+
+- choke
+  * 词义：  vi.窒息，噎住 vt. 塞住，堵塞，阻塞
+  * 例句：  The clutch of Bond's fingers on the outlaw's throat seemed o choke him.
+  * 翻译：  德邦的手指掐住了歹徒的喉咙，似乎要把他掐死。
+  <br>
