@@ -39,3 +39,4 @@
 - [wordList35](./words/wordList35.md)
 - [wordList36](./words/wordList36.md)
 - [wordList37](./words/wordList37.md)
+- [wordList38](./words/wordList38.md)
