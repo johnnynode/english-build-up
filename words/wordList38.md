@@ -63,3 +63,75 @@
   * 例句：  The 215-page manuscript, circulated to publishers last October, sparkled an outburst of interest.
   * 翻译：  这本215页的手稿在去年10月船到出版商手中时，顿时引起了他们极大的兴趣。
   <br>
+  
+---
+### 2017年09月07日 19:29:00
+
+- disposition
+  * 词义：  n.处理，天性，气质，排列，部署
+  * 例句：  Janet has a sociable and childlike disposition.
+  * 翻译：  珍妮特性格和善，天真浪漫。
+  <br>
+
+- salute
+  * 词义：  n.敬礼，鸣礼炮；迎接，欢迎 v.敬礼，向...致敬，问候
+  * 例句：  We saluted our deceased leader by dipping our flags.
+  * 翻译：  我们降旗向已故领导人致敬。
+  * 同义：  greet (v.向...致意)
+  <br>
+
+- distort
+  * 词义：  vt.歪曲，扭曲
+  * 例句：  distort history 歪曲历史
+  * 派生：  distorted (a.歪曲的，扭曲的) distortion (n.歪曲，扭曲)
+  * 同义：  twist (v.拧，扭曲) contort (vt.扭曲，歪曲)
+  * 参考：  contort (vt.扭曲，歪曲) retort (v.反驳)
+  <br>
+
+- toil
+  * 词义：  n.艰辛，辛苦 v.艰难地进行，费力地做
+  * 例句：  He spends every minute toiling away at his desk.
+  * 翻译：  他时刻都在伏案辛苦地工作。
+  <br>
+
+- principal
+  * 词义：  a.最重要的，主要的 n.负责人，校长，首长，资本，本金
+  * 短语：  both principal and interest 连本带利
+  * 派生：  principally (ad.重要地，主要地)
+  <br>
+
+- convention
+  * 词义：  n.大会，会议，惯例，常规，习俗，公约，协定
+  * 例句：  But the idea that the journalist must understand the lwa more profoundly than an ordinary citizen rests on an understanding of the established conventions and special responsibilities of the news media.
+  * 翻译：  但是新闻记者必须比普通公民更深刻地理解法律，这种观点取决于对新闻媒体的既定规范和特殊责任的了解。
+  * 参考：  coincidence (n.一致，相同) certainty (n.一致，相同) complication (n.复杂化)
+  <br>
+
+- graphic
+  * 词义：  a.生动的，形象的，绘画的，文字的，图表的
+  * 例句：  The report gave a graphic description of the earthquake.
+  * 翻译：  这份报告生动地描述了地震的情况
+  * 同义：  lifelike (a.逼真的，栩栩如生的) vivid (a.逼真的) pictorial (a.绘画的，用图片表示的)
+  * 反义：  vague (a.含糊的，模糊的) obscure (a.模糊的，费解的)
+  <br>
+
+- indignation
+  * 词义：  n.愤怒，愤慨
+  * 例句：  Everyone in the court was filled with indignation for the unjust verdict.
+  * 翻译：  法庭上的每一人都因为不公平的判决而满腔怒火。
+  * 同义：  fury (n.狂怒，暴怒) wrath (n.愤怒，大怒) rage (n.狂怒，盛怒)
+  <br>
+
+- settlement
+  * 词义：  n.解决，决定，调停； 拘留区，住宅区
+  * 例句：  Apart from a handful of weather stations, within 2000 miles of the South Pole there is not a single tree, factory, or settlement.
+  * 翻译：  在南极方圆两千英里内，除了为数不多的几个气象站外，看不到一棵树，一座工厂或一片住宅区。
+  <br>
+
+- alternate
+  * 词义：  a.交替的，轮流的 vi.交替，轮流
+  * 例句：  Night and dya alternate.
+  * 翻译：  日夜交替。
+  * 考点：  alternate between A and B.
+  * 派生：  alternation (n.交替，轮流) alternately (ad.交替地，隔一个地)
+  <br>
