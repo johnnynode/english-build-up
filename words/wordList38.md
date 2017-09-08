@@ -204,3 +204,75 @@
   * 翻译：  俱乐部已与一家跨国公司就赞助事宜进行了磋商。
   * 同义：  near (vi.接近)
   <br>
+  
+---
+### 2017年09月09日 07:46:46
+
+- declare
+  * 词义：  v.宣布，宣称，断言，公布，发表，披露
+  * 例句：  I now declare this meeting open!
+  * 翻译：  现在我宣布会议开始！
+  * 考点：  declare oneself 发表意见，显露身份
+  <br>
+
+- respond
+  * 词义：  vi. (to)回答，答复 (to)响应
+  * 例句：  Businesses and individuals should make plans to respond to emergencies.
+  * 翻译：  公司和个人应该制定应对紧急事件的对策。
+  * 参考：  correspond (vi.符合，协调)
+  <br>
+
+- optimistic
+  * 词义：  a.乐观(主义)的
+  * 例句：  People remain optimistic about the economy's long-term prospects.
+  * 翻译：  人们对经济的长期前景持乐观态度。
+  * 派生：  optimism (n.乐观主义)
+  <br>
+
+- hostile
+  * 词义：  a.敌对的，敌方的，怀有敌意的
+  * 例句：  The manager gave one of the salesgirls an accusing look for her hostile attitude toward customers.
+  * 翻译：  一位女售货员对顾客态度不好，经理责备地看了她一眼。
+  * 派生：  hostility (n.敌意，敌视)
+  <br>
+
+- mount
+  * 词义：  v.登上，爬上(山、梯等)，安装，装配，固定，镶嵌，n.支架，底座，底板 (用于山名前的)山峰
+  * 例句：  The mirror was fixed to the wall with a sturdy mount.
+  * 翻译：  这幅画被一个坚固的支架固定在了墙上。
+  * 参考：  amount 数量
+  * 派生：  mounting (n.上升，攀升的)
+  <br>
+
+- communicate
+  * 词义：  vt.传达，传递 vi.交流，通讯，通话  
+  * 例句：  Because of the storm, we haven't been able to communicate with the ship yet.
+  * 翻译：  由于暴风雨，我们仍无法和那艘船联系上。
+  <br>
+
+- navigation
+  * 词义：  n.航海，航空，导航，领航
+  * 例句：  This store sells the instruments used for navigation on a ship.
+  * 翻译：  这家店出售船载导航设备。
+  * 参考：  navigator (n.航海家)
+  <br>
+
+- avoid
+  * 词义：  vt.避免，回避，逃避
+  * 例句：  All travellers are advised to fasten their safety-belts to avoid being bumped.
+  * 翻译：  所有的旅行者都被建议系紧安全带以免撞伤。
+  * 派生：  avoidance (n.避免，回避) unavoidable (a.不可避免的)
+  * 参考：  devoid (a.缺乏的，没有的)
+  <br>
+
+- aspire
+  * 词义：  vi.(after, to) 向往，有志于
+  * 例句：  That is not something I particularly aspire to at this moment.
+  * 翻译：  目前，这不是我特别向往的。
+  <br>
+
+- decade
+  * 词义：  n. 十年
+  * 例句：  This kind of electronic spying has been going on for decades.
+  * 翻译：  这种电子谍报活动已经存在几十年了。
+  <br>
