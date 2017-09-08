@@ -135,3 +135,72 @@
   * 考点：  alternate between A and B.
   * 派生：  alternation (n.交替，轮流) alternately (ad.交替地，隔一个地)
   <br>
+  
+---
+### 2017年09月08日 20:18:47
+
+- exploit
+  * 词义：  vt. 开拓，开发
+  * 例句：  Humans could exploit metallic minerals almost 10000 years ago.
+  * 翻译：  人类差不多在一万多年前就能开采金属矿了。
+  * 派生：  exploitation (n.开发，开采) unexploited (a. 未被开发的，未经开采的)
+  <br>
+
+- dispute
+  * 词义：  n.争论，辩论 vi.争论，争执
+  * 例句：  The couple dispute with each other about whether to travel.
+  * 翻译：  那对夫妇为是否去旅行争执了起来。
+  * 派生：  disputable (a.有争议的) disrepute (n.坏名声)
+  <br>
+
+- poll
+  * 词义：  n.民意测验， 政治选举，大选 vt.对...进行民意测验; 获得...选票
+  * 例句：  Mr. Hill polled over 5000 votes in the election.
+  * 翻译：  希尔先生在这次选举中获得了五千多张选票。
+  <br>
+
+- tropic
+  * 词义：  n.回归线 pl.热带
+  * 例句：  Our country lies between the Tropic of Cancer and the equator.
+  * 翻译：  我国位于赤道和北回归线之间。
+  <br>
+
+- volunteer
+  * 词义：  n.志愿者，志愿兵 a.志愿的，义务的，无偿的 v.自愿(提供)
+  * 例句：  Those guys are unlikely to go to church to do volunteer work.
+  * 翻译：  那帮家伙不可能去教堂做义工。
+  <br>
+
+- turbulent
+  * 词义：  a.吵闹的，狂暴的，汹涌的， 动乱的，无秩序的
+  * 例句：  The writer's book vividly presented his turbulent childhood.
+  * 翻译：  这位作家的著作生动地展现了他动荡不安的童年生活。
+  * 同义：  tempestuous (a.暴乱的)
+  <br>
+
+- implication
+  * 词义：  n.含意，暗示
+  * 例句：  The implication of your statement is that I was wrong.
+  * 翻译：  你的言下之意是说我错了。
+  <br>
+
+- jaw
+  * 词义：  n.下颌，下巴
+  * 例句：  Michael hurt his lower jaw when playing basketball.
+  * 翻译：  迈克尔打篮球时，撞伤了下巴。
+  <br>
+
+- publicity
+  * 词义：  n.宣传，宣扬，公众的注意，名声
+  * 例句：  The mayor's publicity campaign has convinced many people to go to work by bus.
+  * 翻译：  市长的宣传活动说服了很多人乘坐公共汽车去上班。
+  * 短语：  seek publicity 想出风头
+  * 参考：  publicize (v.宣扬) publicly (ad. 公然地)
+  <br>
+
+- approach
+  * 词义：  v.靠近，接近，临近 n.方法，途径，探讨，试探
+  * 例句：  The club has made an approach to an international firm for sponsorship.
+  * 翻译：  俱乐部已与一家跨国公司就赞助事宜进行了磋商。
+  * 同义：  near (vi.接近)
+  <br>
