@@ -276,3 +276,74 @@
   * 例句：  This kind of electronic spying has been going on for decades.
   * 翻译：  这种电子谍报活动已经存在几十年了。
   <br>
+  
+---
+### 2017年09月10日 06:56:47
+
+- polish
+  * 词义：  v.磨光，擦亮，使优美，润饰 n.擦光剂，上光蜡
+  * 例句：  I'll get the furniture polish to wax the floor.
+  * 翻译：  我去拿家具上光蜡给地板打蜡。
+  <br>
+
+- abundant
+  * 词义：  a.丰富的，充分的，充裕的
+  * 例句：  This region is abundant in wildlife.
+  * 翻译：  该地区有野生的物种。
+  * 派生：  abundantly (ad.大量地，充足地)
+  <br>
+
+- tradition
+  * 词义：  n.传统，惯例
+  * 例句：  The old tradition of hospitality in this village has been retained.
+  * 翻译：  这个村子一直保持着勤劳好客的古老传统。
+  * 派生：  traditional (a.传统的，惯例的) traditionally (ad.传统上，习惯上)
+  <br>
+
+- descent
+  * 词义：  n.下降，降下，斜坡，血统，家世
+  * 例句：  Many Australians are of English descent.
+  * 翻译：  许多澳大利亚人都有英国血统。
+  * 同义：  decline (n.下降，衰落)
+  * 反义：  ascent (n.上升，提高)
+  * 参考：  a.正派的，体面的
+  <br>
+
+- appropriate
+  * 词义：  a.(to)适当的，恰如其分的
+  * 例句：  I couldn't come up with an appropriate answer immediately.
+  * 翻译：  我不能马上想出一个合适的答案。
+  * 派生：  appropriateness (n.适当) inappropriate (a.不适当的)
+  <br>
+
+- nuclear
+  * 词义：  a.核心的，中心的，原子核的，核能的
+  * 例句：  China used to be the nuclear civilization of the world.
+  * 翻译：  中国曾是世界文明的中心。
+  * 考点：  nuclear weapons 核武器 nuclear transfer 核移植 nuclear testing 核试验
+  <br>
+
+- trolly // trolley
+  * 词义：  n.手推车，小车 (英)无轨电车，(美) 有轨电车
+  <br>
+
+- rid
+  * 词义：  vt.使摆脱，使去掉
+  * 例句：  I walk along the river to get rid of my headaches.
+  * 翻译：  我沿河边散着步想消除我的头痛。
+  * 考点：  get rid of 摆脱，除去。
+  <br>
+
+- mercy
+  * 词义：  n.仁慈，怜悯，宽恕
+  * 例句：  Our boats are at the mercy of the winds, so who knows where they'll drift off to.
+  * 翻译：  现在我们的船完全受风向支配，谁知道它们会飘向什么地方呢？
+  * 派生：  mercifully (ad.宽厚地，仁慈地)
+  <br>
+
+- stress
+  * 词义：  n.压力，重音，应力，强调，重点，看重 vt.强调，着重
+  * 例句：  The manager stressed the importance of being on time.
+  * 翻译：  经理强调了守时的重要性。
+  * 派生：  stressful (a.紧张的，压力重的)
+  <br>
