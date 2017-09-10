@@ -347,3 +347,70 @@
   * 翻译：  经理强调了守时的重要性。
   * 派生：  stressful (a.紧张的，压力重的)
   <br>
+  
+---
+### 2017年09月11日 06:39:30
+
+- monotonous
+  * 词义：  a.单调的
+  * 例句：  John decided to give up this monotonous work.
+  * 翻译：  约翰决定放弃这份单调的工作。
+  <br>
+
+- electron
+  * 词义：  n.电子
+  * 例句：  The physicist was trying to improve the electron microscope.
+  * 翻译：  那位物理学家正在尝试改进电子显微镜。
+  <br>
+
+- acceptance
+  * 词义：  n.接受，验收，承认，认可。
+  * 例句：  The proposal gained widespread acceptance.
+  * 翻译：  这项提案得到了广泛的赞同。
+  * 参考：  acceptable (a.可接受的，合意的) accepted (a.公认的，承认的)
+  <br>
+
+- virus
+  * 词义：  n.病毒 (精神，道德方面的)有害影响
+  * 例句：  Bob and Henry wanted to remove the virus of prejudice against each other.
+  * 翻译：  鲍勃和亨利想消除彼此间不好的偏见。
+  <br>
+
+- despair
+  * 词义：  v.侵入，闯入，打扰，把(思想等)强加于
+  * 例句：  You had no right to intrude your opinions on the rest of us.
+  * 翻译：  你没有权利将自己的观点强加在我们身上。
+  <br>
+
+- balloon
+  * 词义：  n.气球  
+  * 例句：  The balloon began to descend and landed near an airfield.
+  * 翻译：  气球开始下降，降落在机场附近。
+  <br>
+
+- facility
+  * 词义：  n.(学习，做事的)才能，天赋， [pl]设备，设施，便利条件
+  * 例句：  He has a great facility for language.
+  * 翻译：  他学习语言的天赋很好。
+  * 短语：  Communication facilities 通讯设施
+  <br>
+ 
+- steady
+  * 词义：  a. 稳定的，不变的，坚定的，扎实的 v.(使)稳固，(使)固定
+  * 例句：  The thought of being safe steadied the boy like a dos of morphine.
+  * 翻译：  已经安全了的想法就像一剂吗啡，使男孩镇定了下来。
+  * 派生：  steadily (ad.稳定地)
+  <br>
+
+- explicit
+  * 词义：  a.详述的，明确的，坦率的
+  * 例句：  The critics were explicit in their criticism.  
+  * 翻译：  那些评论家直截了当地表达了自己的批评意见。
+  * 派生：  explicitly (ad.明白地，明确地)
+  <br>
+
+- mercury
+  * 词义：  n.水印，汞
+  * 例句：  Scientists found out that aerial plants could curtail mercury poisoning.
+  * 翻译：  科学家们发现气生植物能够降低汞中毒。
+  <br>
