@@ -414,3 +414,99 @@
   * 例句：  Scientists found out that aerial plants could curtail mercury poisoning.
   * 翻译：  科学家们发现气生植物能够降低汞中毒。
   <br>
+  
+---
+### 
+
+- magnificent
+  * 词义：  a.壮丽的，宏伟的
+  * 例句：  What a magnificent sight it is!
+  * 翻译：  多么壮观的景色啊！
+  <br>
+
+- encyclopedia / encyclopaedia
+  * 词义：  n.百科全书
+  * 例句：  Elliott opened up an encyclopedia and pointed to California on a map of the United States.
+  * 翻译：  埃利奥特打开了一本百科全书，在一张美国地图上指出了加利福尼亚州。
+  <br>
+
+- superfluous
+  * 词义：  a.过剩的，多余的
+  * 例句：  We are not so fond of vain and superfluous ceremonies.
+  * 翻译：  我们不喜欢繁文缛节。
+  <br>
+
+- variation
+  * 词义：  n.变化，变动， 变种，变异
+  * 例句：  Some botanists found rich variation of butterfly in temperate or tropical regions.
+  * 翻译：  一些植物学家在温和地带地区发现了丰富的蝴蝶变种。
+  <br>
+
+- microphone
+  * 词义：  n.话筒，扩音器
+  * 例句：  The spokesman used a microphone so that everyone could hear him.
+  * 翻译：  发言人借助扩音器使每个人都能听清他的讲话。
+  <br>
+
+- anchor
+  * 词义：  n.锚 v.抛锚，停泊
+  * 例句：  We anchored our chip close to the shore.
+  * 翻译：  我们靠岸停船。
+  <br>
+
+- quit
+  * 词义：  vt. 从(某处离开)，退出，辞职，停止，放弃
+  * 例句：  Lucy wants to quit her job in the chemistry lab.
+  * 翻译：  露西想要辞去自己在化学实验室的工作。
+  * 短语：  quit smoking / drinking 戒烟/酒
+  <br>
+
+- glory
+  * 词义：  n.光荣，荣誉，荣耀的事
+  * 例句：  We should win glory for our motherland.
+  * 翻译：  我们应该为国争光。
+  <br>
+
+- spicy
+  * 词义：  a.味道浓厚的，辛辣的，香的，多香料的，有刺激性的，有趣味的(由指猥亵或丑事成分的)
+  * 例句：  The spicy food burned my mouth.
+  * 翻译：  这种辛辣视频让我的嘴发烫。
+  * 例句：  Don't tell such spicy joke!
+  * 翻译：  别讲这种下流笑话！
+  <br>  
+
+- geology
+  * 词义：  n.地质(学)
+  * 例句：  Mary wasn't interested in geology before she had some some knowledge about it.
+  * 翻译：  玛丽在对地质学有所了解之前，对它并不感兴趣。
+  * 派生：  geological (a.地质的) geologist (n.地质学家) 
+  * 参考：  methodology (n.方法学，方法论)
+  <br>
+  
+- skilful / skillful
+  * 词义：  a.(in, at)灵巧的，娴熟的
+  * 例句：  Fred is the most skillful surgical operator in this hospital.
+  * 翻译：  弗雷德是这家医院里艺术最高明的外科医生。
+  * 派生：  skillfully (ad.巧妙地，精巧地)
+  <br>
+  
+- multiply
+  * 词义：  v. (by)乘，使相乘，繁殖，(使)倍增，增加
+  * 例句：  Buying lots of raffle tickets can multiply your chances of success.
+  * 翻译：  多买些彩票可以增加你中奖的几率。
+  <br>
+  
+- consist
+  * 词义：  v. (in) 在于，存在于, (of) 由...组成，由...构成
+  * 例句：  Snowflakes in snowfall consist of broken fragments and clusters of adhering ice crystals.
+  * 翻译：  降落中的雪花由破碎的雪片和大量黏在一起的冰晶组成。
+  * 参考：  persist (vi.坚持) subsist (v.生存)
+  <br>
+  
+> 名言：
+>
+> For attractive lips, speak words of kindness. For lovely eyes, seek out the good in people. For a slim figure, share your food with the hungry.<br>
+> -- Audrey　Hepburn
+>
+> 若要有优美的嘴唇，要说友善的话，若要可爱的眼睛，要看到别人的好处，若要苗条的身材，把你的食物分给饥饿的人。<br>
+> -- 尼赫鲁
