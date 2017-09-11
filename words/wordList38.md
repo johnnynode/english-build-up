@@ -506,7 +506,9 @@
 > 名言：
 >
 > For attractive lips, speak words of kindness. For lovely eyes, seek out the good in people. For a slim figure, share your food with the hungry.<br>
+>
 > -- Audrey　Hepburn
 >
 > 若要有优美的嘴唇，要说友善的话，若要可爱的眼睛，要看到别人的好处，若要苗条的身材，把你的食物分给饥饿的人。<br>
-> -- 尼赫鲁
+>
+> -- 奥黛丽·赫本
