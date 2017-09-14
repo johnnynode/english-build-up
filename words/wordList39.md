@@ -65,3 +65,67 @@
   * 例句：  We have our furnace inspected each year for carbon monoxide leaks.
   * 翻译：  我们每年都对炉子进行检查，以防止一氧化碳泄漏。
   <br>
+  
+---
+### 2017年09月14日 20:14:05
+
+- appeal
+  * 词义：  vi.(to) 呼吁，要求 (to)对...有吸引力 (to)呼吁，要求 吸引力， 申诉，上述
+  * 例句：  The case is on appeal.
+  * 翻译：  此案正在上诉中。
+  * 同义：  accuse (vt.起诉)
+  <br>
+
+- waken
+  * 词义：  v.醒，弄醒，唤醒
+  * 例句：  If individuals are wakened each time they begin a dream phase of sleep, they are likely to become irritable .
+  * 翻译：  如果人们每次刚进入梦想就被弄醒，他们有可能变得暴躁。
+  <br>
+
+- background
+  * 词义：  n.背景，经历
+  * 短语：  background music 背景音乐
+  <br>
+
+- junk
+  * 词义：  n.废旧杂物，垃圾 vt. 丢弃，废弃
+  * 例句：  We junked all those old-fashioned clothes.
+  * 翻译：  我们把那些过时的衣服都扔掉了。
+  <br>
+
+- combine
+  * 词义：  v. (with) (使)结合，联合； (使)化合
+  * 例句：  I just figured whether we could combine work and relaxation together.
+  * 翻译：  我只是琢磨我们能否把工作和娱乐结合起来。
+  * 派生：  combined (a.组合的，结合的) recombine (vt.重组)
+  <br>
+ 
+- thermometer
+  * 词义：  n.温度计
+  * 例句：  The thermometer shows the temperature sinks to 2 degrees below zero today.
+  * 翻译：  温度计显示今天气温下降到零下2度。
+  <br>
+
+- guideline
+  * 词义：  n.指导方针，准则
+  <br>
+
+- assist
+  * 词义：  vt.帮助，协助
+  * 例句：  Susan has always been willing to assist those who are in need.
+  * 翻译：  苏姗总是很乐意帮助那些有困难的人。
+  <br>
+
+- reserve
+  * 词义：  n.保留地，储备(物) 储藏量，储备金，缄默，谨慎 vt.保留，储备，预定，预约
+  * 例句：  All the things are reserved for the coming winter.
+  * 翻译：  所有的东西都是为即将到来的冬天储备的。
+  * 派生：  reserved (a.有节制的)
+  <br>
+
+- rip
+  * 词义：  vt.扯破，撕坏 n.裂口，裂缝
+  * 例句：  Amy is sewing the rip in Jack's pants.
+  * 翻译：  埃米在缝补杰克裤子上的裂口。
+  * 同义：  tear (v.扯，撕) crack (n.裂缝) crevice (n.裂缝，缝隙)
+  <br>
