@@ -129,3 +129,70 @@
   * 翻译：  埃米在缝补杰克裤子上的裂口。
   * 同义：  tear (v.扯，撕) crack (n.裂缝) crevice (n.裂缝，缝隙)
   <br>
+  
+---
+### 2017年09月15日 07:22:48
+
+- comedy
+  * 词义：  n.喜剧，喜剧性事件
+  * 例句：  The joy of this comedy is the interesting plots.
+  * 翻译：  这部喜剧的乐趣在于其有趣的情节。
+  * 参考：  tragedy (n.悲剧)
+  <br>
+
+- interval
+  * 词义：  n.间隔，间距；(幕间或工间)休息
+  * 例句：  There will be an interval of 20 mijnutes after the second act.
+  * 翻译：  第二幕结束之后会有20分钟的幕间休息时间。
+  <br>
+
+- perpetual
+  * 词义：  a.永久的，永恒的，长期的
+  * 例句：  As to the parents with five children, life was a perpetual struggle against poverty.
+  * 翻译：  对有五个孩子的父母来说，生活就是长期与贫穷做斗争。
+  <br>
+
+- electronic
+  * 词义：  a.电子的
+  * 例句：  One interesting application for Internet is the electronic bulletin board.
+  * 翻译：  互联网一个有趣的应用就是电子留言板。
+  * 派生：  electronically (ad.电子地) electronics (n.电子学)
+  <br>
+
+- tease
+  * 词义：  v. 戏弄(某人)，取笑， 挑逗，招惹 n.(爱) 戏弄他人者，戏弄，挑逗
+  * 例句：  The dog may bite you if you keep teasing him.
+  * 翻译：  要是你不停地招惹那条狗，它也许会咬你。
+  * 同义：  kid (v.开玩笑，取笑) toy (v.戏弄)
+  <br>
+
+- trail
+  * 词义：  n.踪迹，痕迹， (乡间)小道 vt.追踪，跟踪
+  * 例句：  The hunter trailer a wild animal to its den.
+  * 翻译：  猎人追踪一头野兽来到它的巢穴。
+  <br>
+
+- fry
+  * 词义：  v.油煎，油炸
+  * 例句：  Do you fry your chicken in corn oil?
+  * 翻译：  你用玉米油炸鸡肉吗？
+  <br>
+
+- moderate
+  * 词义：  n.中等的，适度的，温和的，稳健的
+  * 例句：  I wore a light jacket because today's temperature was moderate.
+  * 翻译：  今天温度适中，我就穿了件薄夹克。
+  <br>
+
+- banner
+  * 词义：  n.旗(帜)
+  * 例句：  The fresh banner is flying free in the wind.
+  * 翻译：  鲜艳的旗帜在风中自由飘扬。
+  <br>
+
+- cycle
+  * 词义：  n.自行车，周期，循环 vi.骑自行车，循环，轮转
+  * 例句：  We are planning for a cycle ride in the suburbs this weekend.
+  * 翻译：  我们正打算这个周末骑自行车去市郊游玩。
+  * 考点：  business cycle 商业周期
+  <br>
