@@ -196,3 +196,72 @@
   * 翻译：  我们正打算这个周末骑自行车去市郊游玩。
   * 考点：  business cycle 商业周期
   <br>
+  
+---
+### 2017年09月16日 07:11:00
+
+- irrespective
+  * 词义：  a.(of)不顾的，不考虑的
+  * 例句：  Irrespective of race, sex, occupation and family background, we all have the right to vote.
+  * 翻译：  无论何种种族，性别，职业，家庭背景，我们都享有选举权。
+  * 派生：  irrespectively (ad.不顾地，无关地)
+  <br>
+
+- fore
+  * 词义：  a./ad.在前部的(地)
+  * 例句：  The little child was laid in the fore cabin of the ferry boat.
+  * 翻译：  那个小孩被放在渡船的前舱里。
+  <br>
+
+- realistic
+  * 词义：  a.现实(主义)的
+  * 例句：  I encouraged Ellen to be realistic about her future.
+  * 翻译：  我鼓励艾伦现实地面对自己的未来。
+  * 派生：  unrealistic (a.不切实际的，不实在的)
+  <br>
+
+- stroll
+  * 词义：  n./vi. 闲逛，漫步
+  * 例句：  I decided to take a stroll in the park after dinner.
+  * 翻译：  我决定晚饭后去公园散步。
+  * 同义：  saunter (n./v.闲逛，漫步) wander (n./v.漫步，徘徊)
+  <br>
+
+- flare
+  * 词义：  vi.闪耀，闪烁，突然烧起来，突然发怒 n.闪耀，闪烁
+  * 例句：  The flare of a flashlight in the darkness gave them the hope to survive.
+  * 翻译：  黑暗中闪耀的手电筒的逛给了他们生还的希望。
+  <br>
+
+- rude
+  * 词义：  a.粗鲁的，无力的，猛烈的，残暴的，粗鲁的，粗陋的
+  * 例句：  The Queen was sailing on the rude sea.
+  * 翻译：  "皇后"号航行在汹涌的大海上。
+  * 参考：  crude (a.天然的，粗糙的，粗鲁的)
+  <br>
+
+- beam
+  * 词义：  n.(横)梁，(光线的)束，柱 vi.(微笑)，发光
+  * 例句：  The light beams up into the night sky, shinning like a beacon.
+  * 翻译：  这束光射向夜空，像灯塔一样明亮。
+  <br>
+
+- sunshine
+  * 词义：  n.日光，日照
+  * 参考：  sunbath (n.日光浴)
+  <br>
+
+- gracious
+  * 词义：  a.亲切的，有礼的，仁慈的
+  * 例句：  The new manager was trying to be gracious.
+  * 翻译：  新上任的经理正努力使自己显得亲切。
+  * 同义：  cordial (a.友好的，热忱的) benevolent (a.善心的，仁慈的) affable (a.和蔼的)
+  * 反义：  rude (a.粗鲁的，无礼的) inconsiderate (a.不体贴别人的)
+  <br>
+
+- distinguish
+  * 词义：  vt.区别，辨别，辨认出，使杰出，使著名
+  * 例句：  The actress never has an opportunity to distinguish herself till now.
+  * 翻译：  这位女演员直到现在还没有机会出名。
+  * 派生：  distinguishing (a.有区别的)
+  <br>
