@@ -417,7 +417,7 @@
   * 翻译：  你明白作者的意图了吗？
   <br>
 
--　optical
+- optical
   * 词义：  a.眼的，视力的，光学的
   * 例句：  Microscopes and telescopes are optical instruments.
   * 翻译：  显微镜和望远镜都是光学仪器。
