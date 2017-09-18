@@ -336,3 +336,74 @@
   * 同义：  endeavor (v.努力，尽力) struggle (v.奋斗，努力)
   * 参考：  stride (v.大步走)
   <br>
+  
+---
+### 2017年09月18日 20:19:30
+
+- steer
+  * 词义：  v.驾驶，掌舵，指导
+  * 例句：  The teacher steered the teenagers away from drugs.
+  * 翻译：  老师教导青少年远离毒品。
+  <br>
+
+- peculiar
+  * 词义：  a.古怪的，异常的，特殊的，特有的
+  * 例句：  A peculiar noise from the forest scared us.
+  * 翻译：  森林中传来的怪声把我们呢吓坏了。
+  * 短语：  peculiar to 特有的，独具的
+  * 派生：  peculiarity (n.怪癖，特性)
+  * 参考：  particular (a.特殊的)
+  <br>
+
+- valid
+  * 词义：  a.有效的，合理的，有根据的
+  * 例句：  Your experiment is scientific, so your conclusions are valid.
+  * 翻译：  你的实验是科学的，因此你得出的结论是合理的。
+  * 派生：  validity (n.有效性，合理性) validate (vt.使有效，使合理) invalid (a.无用的，作废的) invalidity (n.无效) invalidate (vt.使无效)
+  <br>
+
+- represent
+  * 词义：  vt.描述，表示，代表，代理，阐明，说明
+  * 例句：  They represented their grievances to he mayor.
+  * 翻译：  他们像市长申诉冤情。
+  <br>
+
+- restraint
+  * 词义：  n.(on)抑制，制止
+  * 例句：  Jessica went mad and had to be kept under restraint.
+  * 翻译：  杰西卡疯了，得对她进行管束。
+  * 短语：  break all restraint 打破一切束缚。 self-restraint 自律
+  <br>
+
+- description
+  * 词义：  n.描写，形容，种类
+  * 例句：  I gave a general description of what the thief looked like.
+  * 翻译：  我大概描述了一下小偷的长相。
+  <br>
+
+- luxury
+  * 词义：  n.奢侈，华贵，奢侈品
+  * 例句：  Perfume is a luxury for us.
+  * 翻译：  香水对我们来说是种奢侈品。
+  <br>
+
+- reject
+  * 词义：  vt.拒绝，抵制，驳回，丢弃，排斥，退掉。
+  * 例句：  The patient's body rejected the transplanted heart.
+  * 翻译：  那个病人的身体对移植的心脏产生了排斥反应。
+  * 派生：  rejection (n.拒绝，抵制，排斥)
+  * 参考：  eject (vt.逐出) inject (vt.注射) deject (vt.使沮丧)
+  <br>
+
+- inhale
+  * 词义：  v.吸入，吸(烟), 吸气
+  * 例句：  Jack inhaled deeply before diving.
+  * 翻译：  杰克潜水前深深地吸了一口气。
+  * 参考：  exhale (v.呼气)
+  <br>
+
+- quiz
+  * 词义：  n.小型考试，测验，问答比赛
+  * 例句：  The students are all preparing for the quiz next week.
+  * 翻译：  学生们都在为下周的测验做准备。
+  <br>
