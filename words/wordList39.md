@@ -407,3 +407,93 @@
   * 例句：  The students are all preparing for the quiz next week.
   * 翻译：  学生们都在为下周的测验做准备。
   <br>
+  
+---
+### 2017年09月19日 06:21:15
+
+- penetrate
+  * 词义：  v.穿过，渗入，看穿，洞察
+  * 例句：  Have you penetrated the author's intention?
+  * 翻译：  你明白作者的意图了吗？
+  <br>
+
+-　optical
+  * 词义：  a.眼的，视力的，光学的
+  * 例句：  Microscopes and telescopes are optical instruments.
+  * 翻译：  显微镜和望远镜都是光学仪器。
+  <br>
+
+- reign
+  * 词义：  vi.(over)统治，支配；盛行，占优势 n.统治，支配，统治时期，朝代
+  * 例句：  People lived and worked in peace and contentment during the reign of the king.
+  * 翻译：  在这位国王统治期间，人民安居乐业。
+  * 同义：  rule (v.统治，管辖)
+  <br>
+
+- remote
+  * 词义：  a.远的，长久的，偏僻的，关系疏远的，漠不关心的。
+  * 例句：  My pain is remote from his concerns.
+  * 翻译：  他多我的痛苦漠不关心。
+  * 短语：  remote control 遥控器
+  <br>
+
+- relief
+  * 词义：  n.(痛苦等)减轻，解除，援救，救济
+  * 例句：  The soldiers were sent to the relief of a besieged town.
+  * 翻译：  战士们都派去解救一坐被围困的城镇。
+  <br>
+
+- sophomore
+  * 词义：  n.(大学)二年级学生
+  * 参考：  freshman (n.大学一年级学生) junior (n.大学三年纪的学生) senior(n.大学四年级的学生)
+  <br>
+
+- loom
+  * 词义：  vi.隐现，赫然耸现 n.织布机
+  * 例句：  The dark outline of a boat loomed through the fog.
+  * 翻译：  一条小船的黑色轮廓在雾中若隐若现。
+  * 考点：  looming danger 逐步凸显的危险
+  <br>
+
+- seminar
+  * 词义：  n.(大学的)研究班，研讨会
+  * 例句：  The biology professor conducted a seminar on mammal.
+  * 翻译：  生物教授召开了一次关于哺乳动物的研讨会。
+  <br>
+
+- inhabitant
+  * 词义：  n.居民，住户
+  * 例句：  aboriginal inhabitant 土著居民
+  <br>
+
+- vehicle
+  * 词义：  n. 车辆，交通工具，媒介，载体
+  * 例句：  Each language is a perfect vehicle for thoughts.
+  * 翻译：  每种语言都是思想的完美载体。
+  <br>
+  
+- orchestra
+  * 词义：  n.管弦乐队
+  <br>
+  
+- eccentric 
+  * 词义：  a.古怪的，反常的 n.古怪的人
+  * 例句：  The teachers are accustomed to the boy's eccentric behaviour.
+  * 翻译：  老师们对那个男孩儿的古怪行为已经习以为常了。
+  * 同义：  abnormal (a.反常的，变态的) peculiar (n.奇特的，罕见的)
+  * 反义：  ordinary (a.平常的，普通的) normal (a.正常的，标准的)
+  <br>
+  
+- imperial
+  * 词义：  a.帝国的，帝王的，至尊的，最高权利的，专横的，傲慢的，(度量衡)英制的
+  * 例句：  The Chinese imperial family in the Qing Dynasty is of Manchu origin.
+  * 翻译：  中国清朝的皇族是满足血统。
+  <br>
+  
+> 名言：
+>
+> We often hear of people breaking down from overwork, but in mine cases out of ten they are really suffering from worry or anxiety.<br>
+> -- John Lubbock
+>
+> 我们常常听人说，人们因工作过渡而垮下来，但是实际上十有八九是因为饱受担忧或焦虑的折磨。<br>
+> -- 卢伯克.J.
