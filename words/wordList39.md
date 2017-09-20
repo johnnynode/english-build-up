@@ -495,5 +495,5 @@
 > We often hear of people breaking down from overwork, but in mine cases out of ten they are really suffering from worry or anxiety.<br>
 > -- John Lubbock
 >
-> 我们常常听人说，人们因工作过渡而垮下来，但是实际上十有八九是因为饱受担忧或焦虑的折磨。<br>
+> 我们常常听人说，人们因工作过度而垮下来，但是实际上十有八九是因为饱受担忧或焦虑的折磨。<br>
 > -- 卢伯克.J.
