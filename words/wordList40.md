@@ -141,3 +141,69 @@
   * 翻译：  工人们不知道该如解决燃煤过程中硫的排放问题。
   * 派生：  sulfuric (a.硫的，含硫的)
   <br>
+  
+---
+### 2017年09月22日 06:30:40
+
+- quiver
+  * 词义：  v.(使某物)颤抖，抖动 n.颤抖，抖动
+  * 例句：  There was a little quiver in Jack's voice when he answered the question.
+  * 翻译：  杰克回答问题时，声音有一些颤抖。
+  * 同义：  quake (v.震动，颤抖) shake (v.(使)颤抖，(使)震动)
+  <br>
+
+- sow
+  * 词义：  vt.播种
+  * 例句：  Harry wanted to sow a few wild oats in this field.  
+  * 翻译：  哈里想在这块地里种些野燕麦。
+  <br>
+
+- melon
+  * 词义：  n.瓜，甜瓜
+  <br>
+
+- outline
+  * 词义：  n.轮廓，略图，大纲，梗概 vt.概述，略述
+  * 例句：  We all listened carefully as the director outlined his intentions.
+  * 翻译：  导演概述他的用意时，我们都仔细的听着。
+  <br>
+
+- slippery
+  * 词义：  a. 滑的，滑溜的，狡猾的
+  * 例句：  Though the criminal's slippery, he still got caught.
+  * 翻译：  尽管罪犯很狡猾，但还是被抓了.
+  <br>
+
+- beard
+  * 词义：  n.胡须
+  * 例句：  Except for the beard， he hasn't changed in five years.
+  * 翻译：  这五年来，他除了长了胡子之外没有什么变化。
+  <br>
+
+- reap
+  * 词义：  v.收割，收获
+  * 例句：  We reap what we sow.
+  * 翻译：  种瓜得瓜，种豆得豆。
+  * 派生：  reaper (n.收割者)
+  * 同义：  gain (vt.获得，赢得) obtain (v.获得，得到)
+  * 反义：  sow (v.播，播种)
+  <br>
+
+- offend
+  * 词义：  vi. 冒犯，触犯，得罪 vt.使不快，使恼火
+  * 例句：  Bad manners may offend.
+  * 翻译：  粗暴无礼会得罪人。
+  <br>
+
+- discern
+  * 词义：  vt. 认出，发现，辨别，识别
+  * 例句：  The boy is too young to be able to discern good and evil.
+  * 翻译：  那个男孩的年纪太小了，还无法识别善恶。
+  <br>
+
+- doom
+  * 词义：  厄运，劫数 vt.注定，命定
+  * 例句：  Their marriage was doomed from the beginning.
+  * 翻译：  他们的婚姻从一开始就是命中注定的。
+  * 同义：  fate (n.命运)
+  <br>
