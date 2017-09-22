@@ -207,3 +207,69 @@
   * 翻译：  他们的婚姻从一开始就是命中注定的。
   * 同义：  fate (n.命运)
   <br>
+  
+---
+### 2017年09月23日 06:32:43
+
+- twinkle
+  * 词义：  n./vi.闪烁，闪亮
+  * 例句：  We could see the distant twinkle of the harbor lights on the deck.
+  * 翻译：  我们在甲板上能看到远处港湾的灯火在闪烁。
+  <br>
+
+- metric
+  * 词义：  a.米制的，公制的
+  * 短语：  a metric conversion chart 一张公制换算表
+  <br>
+
+- intermediate
+  * 词义：  a.中间的，居间的，中级的 n.中间体，媒介物
+  * 例句：  Butterflies are intermediate for  transferring pollen.
+  * 翻译：  蝴蝶是传播花粉的媒介。
+  <br>
+
+- bulb
+  * 词义：  n.灯泡，球状物
+  * 例句：  a light bulb 电灯泡 // a flash bulb 闪光灯，镁光灯
+  <br>
+
+- private
+  * 词义：  a.私人的,个人的，秘密的，私下的
+  * 例句：  Don't tell anyone else what I told you, it's private.
+  * 翻译：  别把我说的话高速别人，这是秘密。
+  * 派生：  privately (ad.私下地，秘密地)
+  <br>
+
+- memory
+  * 词义：  n.记忆，回忆，记忆力，存储(器)
+  * 例句：  The company almost has a monopoly of the memory chip market in our country.
+  * 翻译：  该公司几乎垄断了我国的内存芯片市场。
+  * 参考：  memorize (v.记住，记忆)
+  <br>
+
+- border
+  * 词义：  n.边界，国界，边(沿) vt.交界，与...接壤，接近
+  * 例句：  Bordering the chateau is a natural forest.
+  * 翻译：  城堡旁是一片天然森林。
+  <br>
+
+- diligent
+  * 词义：  a.勤奋的，用功的
+  * 例句：  Although Tom was not a diligent student, he passed the exam.
+  * 翻译：  汤姆虽然不是个用功的学生，但他用过了考试。
+  * 同义：  painstaking (a.辛苦的，辛勤的) industrious (a.勤勉的，刻苦的)
+  * 反义：  idle (adj.空闲的，懒惰的) lazy (adj.懒惰的，懒散的)
+  <br>
+
+- agitate
+  * 词义：  vi.鼓动， vt.使激动，使不安，搅动，搅拌
+  * 例句：  Don't agitate yourself over it.
+  * 翻译：  别为这件事焦虑。
+  * 派生：  agitated (a.激动的)
+  <br>
+
+- layoff
+  * 词义：  n.解雇，失业工人
+  * 例句：  Bill's dad is a layoff and can't afford his tuition.
+  * 翻译：  比尔的爸爸是个下岗工人，负担不起他的学费。
+  <br>
