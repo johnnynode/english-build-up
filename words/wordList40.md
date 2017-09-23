@@ -273,3 +273,68 @@
   * 例句：  Bill's dad is a layoff and can't afford his tuition.
   * 翻译：  比尔的爸爸是个下岗工人，负担不起他的学费。
   <br>
+  
+---
+### 2017年09月24日 06:26:25
+
+- massive
+  * 词义：  a.大而重的，厚实的，粗大的，大规模的，大量的
+  * 例句：  I saw massive black clouds boiling up from the west.
+  * 翻译：  我看到大块的乌云从西边翻涌而至。
+  <br>
+
+- pickup
+  * 词义：  n.拾起，获得
+  * 例句：  Ellen took charge of the daily pickup of mails in the office.
+  * 翻译：  艾伦每天负责收取办公室的邮件。
+  <br>
+
+- platform
+  * 词义：  n.台，平台，站台，月台，政纲，党纲
+  * 例句：  Their action is opposite to their initial platform.
+  * 翻译：  他们的行为与当初的政治纲领背道而驰。
+  <br>
+
+- vapor / vapour
+  * 词义：  n.蒸汽
+  * 例句：  water vapour 水蒸气
+  <br>
+
+- constrain
+  * 词义：  vt.束缚，限制，强迫，强制
+  * 例句：  I am constrained to abide by what the robbers said.
+  * 翻译：  我被迫按照劫匪的要求去做。
+  <br>
+
+- ashore
+  * 词义：  ad.在岸上，上岸
+  * 例句：  Many beautiful shells were washed ashore in the morning.
+  * 翻译：  清晨，许多魅力的贝壳被冲到了岸上。
+  <br>
+
+- faithfully
+  * 词义：  ad.忠诚地，如实地
+  * 例句：  I had the right to describe faithfully what was before me.
+  * 翻译：  我有权如实地描述发生在我眼前的一切。
+  <br>
+
+- cord
+  * 词义：  n.绳，索
+  * 例句：  Martin cut the cord of the package.
+  * 翻译：  马丁剪短了包裹上的绳子。
+  * 参考：  chore (n.家务活) chord (n.和弦)
+  <br>
+
+- impair
+  * 词义：  vt.损害，损伤，削弱，减少
+  * 例句：  Too long jogging can impair your lungs.
+  * 翻译：  过长时间的慢跑可能会伤到肺部。
+  <br>
+
+- tragic
+  * 词义：  a.悲剧的，悲惨的
+  * 例句：  People all became quiet at the tragic and terrible plot of the play.
+  * 翻译：  看到戏中悲惨而可怕的情节时，人们都安静了下来。
+  * 同义：  catastrophic (a.悲惨的，灾难的) disastrous (a.悲惨的，损失惨重的)
+  * 反义：  comic (a.滑稽的，喜剧的)
+  <br>
