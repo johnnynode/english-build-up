@@ -338,3 +338,71 @@
   * 同义：  catastrophic (a.悲惨的，灾难的) disastrous (a.悲惨的，损失惨重的)
   * 反义：  comic (a.滑稽的，喜剧的)
   <br>
+  
+---
+### 2017年09月25日 06:10:18
+
+- pop
+  * 词义：  a.流行的，通俗的 n.(发出)砰的一生 v.突然出现，发生
+  * 例句：  A wonderful idea popped into Anne's head.
+  * 翻译：  安妮的脑海中突然闪现了一个绝妙的注意。
+  <br>
+
+- fossil
+  * 词义：  n.化石
+  * 例句：  living fossil 活化石
+  <br>
+
+- removal
+  * 词义：  n.移动，迁居， 除去
+  * 例句：  We didn't see him again since our removal to London.
+  * 翻译：  自从我们搬到伦敦后就再也没有见过他。
+  * 短语：  a removal company 搬运公司
+  <br>
+
+- assert
+  * 词义：  vt.断言，宣称
+  * 例句：  She continued to assert that she was innocent.
+  * 翻译：  她坚称自己是无辜的。
+  * 派生：  assertion (n.断言，主张，声明)
+  <br>
+
+- daunt
+  * 词义：  vt.使气馁， 使猥琐
+  * 例句：  He was always a brave man but now he is daunted by the task ahead.
+  * 翻译：  一直以来他都是个勇敢的人。
+  * 同义：  dispirit (vt.使气馁，使沮丧) discourage (vt.使气馁)
+  <br>
+
+- stable
+  * 词义：  a.稳定的，安定的 n.马厩，马棚
+  * 例句：  The famous movie star has been longing for a stable marriage.
+  * 翻译：  这个著名影星已知渴望有个稳定的婚姻。
+  <br>
+
+- basement
+  * 词义：  n.建筑物的底部，地下室，地窖
+  * 例句：  It is rather damp in the basement.
+  * 翻译：  地下室相当潮湿。
+  <br>
+
+- rival
+  * 词义：  n.竞争者，对手 vt.竞争，对抗 a.竞争的，对手的
+  * 例句：  Tennis cannot rival basketball in excitement.
+  * 翻译：  网球不如篮球刺激。
+  <br>
+
+- sympathy
+  * 词义：  n.同情，同情心，赞同
+  * 例句：  Charles never expressed any sympathy when I was injured.
+  * 翻译：  我受伤时查尔斯从未表示过一丝同情。
+  * 考点：  in sympathy with 赞同
+  * 短语：  have sympathy for sb. 怜悯某人 // awake one's sympathy 唤起某人的同情心
+  <br>
+
+- signify
+  * 词义：  vt.表示，意味 vi.要紧，有重要性  
+  * 例句：  It doesn't signify, so you needn't worry about it.
+  * 翻译：  这无关紧要，所以你不必担心。
+  * 同义：  denote (v.表示，意味) imply (v.意味，暗示)
+  <br>
