@@ -406,3 +406,97 @@
   * 翻译：  这无关紧要，所以你不必担心。
   * 同义：  denote (v.表示，意味) imply (v.意味，暗示)
   <br>
+  
+---
+### 2017年09月26日 04:34:48
+
+- lottery
+  * 词义：  n.彩票，抽彩给奖法，碰运气的事
+  * 例句：  Arthur always said that life was a lottery.
+  * 翻译：  阿瑟总说人生就是碰运气。
+  <br>
+
+- elect
+  * 词义：  vt.选举，推选，选择
+  * 例句：  The student elected an art course instead of commerce.
+  * 翻译：  那名学生选修了一门艺术课程而不是贸易课程。
+  * 派生：  election (n.选举) elector (n.由选举权的人) re-elected (a.再次当选的)
+  <br>
+
+- lapse
+  * 词义：  n.失误，疏忽，行为失检，失足，(时间的)流逝，间隔 vi.终止，失效，陷入(或进入)...状态
+  * 例句：  Annie lapsed into a comma in the car accident.
+  * 翻译：  安妮在车祸中陷入了昏迷。
+  <br>
+
+- conviction
+  * 词义：  n.深信，确信
+  * 例句：  Jack's words lacked conviction, because he had made such promises before.
+  * 翻译：  杰克的话不可信，因为他以前做过这样的承诺。
+  * 参考：  command (n./v. 命令) consent (n./vi.同意) compromise (n./v.妥协)
+  <br>
+
+- horizon
+  * 词义：  n.地平线，范围，眼界，见识
+  * 例句：  The sun has sunk beneath the horizon.
+  * 翻译：  太阳已经落山了。
+  * 考点：  broaden one's horizon 拓宽眼界
+  <br>
+
+- intersection
+  * 词义：  n.十字路口，交点
+  * 例句：  Let up on the gas as you approach an intersection.
+  * 翻译：  接近十字路口时，要收油门。
+  <br>
+
+- destiny
+  * 词义：  n.命运，天数，天命
+  * 例句：  Destiny willed it so, and no one could change it.
+  * 翻译：  天命如此，没有人能够改变。
+  <br>
+
+- vegetation
+  * 词义：  n.植物，草木
+  * 例句：  Vegetation can consume carbon dioxide.
+  * 翻译：  植物能吸收二氧化碳。
+  * 短语：  vegetation cover 植被
+  <br>
+
+- carriage
+  * 词义：  n. (四轮) 马车， (火车)可车厢
+  * 例句：  It's impossible to get a bunk in such a crowded carriage.
+  * 翻译：  想在如此拥挤的车厢中得到一个铺位是不可能的。
+  <br>
+
+- prominent
+  * 词义：  a. 突起，凸出的，杰出的，著名的
+  * 例句：  Dr.Stuart's a very prominent surgeon.
+  * 翻译：  斯图亚特是位非常杰出的外科医生。
+  <br>
+  
+- editorial
+  * 词义：  n.社论 
+  * 例句：  The editorial chastised the corrupt politicians.
+  * 翻译：  该社论抨击了那些腐败的政客。
+  <br>
+  
+- ingredient
+  * 词义：  n.组成部分，成分
+  * 例句：  The ingredients of the cake included sugar, flour, eggs and milk.
+  * 翻译：  蛋糕的配料包括糖，面粉，鸡蛋和牛奶。
+  <br>
+  
+- crow
+  * 词义：  n.乌鸦，鸡啼，鸣叫 vi.鸡啼，鸣叫
+  * 例句：  The rooster crows at daybreak.
+  * 翻译：  公鸡啼鸣报晓。
+  * 参考：  crown (n.王冠) clown (n.小丑) cow (n.牛)
+  <br>
+  
+> 名言：
+>
+> Jovons saw the kettle boil and cried out with the delighted voice of a child; Marshal too had seen the kettle boil and sat down silently to build an engine.<br>
+> -- John Maynard Keynes
+>
+> 杰文斯看见壶开了，高兴得像孩子似地叫了起来，马歇尔也看见壶开了，却悄悄地坐下来做了一部蒸汽机。<br>
+> -- 凯恩斯. J.M.
