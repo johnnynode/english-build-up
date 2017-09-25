@@ -463,7 +463,7 @@
   <br>
 
 - carriage
-  * 词义：  n. (四轮) 马车， (火车)可车厢
+  * 词义：  n. (四轮) 马车， (火车)客车厢
   * 例句：  It's impossible to get a bunk in such a crowded carriage.
   * 翻译：  想在如此拥挤的车厢中得到一个铺位是不可能的。
   <br>
