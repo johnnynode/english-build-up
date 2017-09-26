@@ -42,3 +42,4 @@
 - [wordList38](./words/wordList38.md)
 - [wordList39](./words/wordList39.md)
 - [wordList40](./words/wordList40.md)
+- [wordList41](./words/wordList41.md)
