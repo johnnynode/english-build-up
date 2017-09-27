@@ -67,3 +67,69 @@
   * 例句：  It's not good for you to addict to heroin.
   * 翻译：  沉迷于海洛因对你没有好处。
   <br>
+  
+---
+### 2017年09月28日 04:35:58
+
+- ambition
+  * 词义：  n.雄心，野心
+  * 短语：  fulfill one's ambition 实现抱负
+  <br>
+
+- define
+  * 词义：  vt.给...下定义，限定，规定
+  * 例句：  It is hard for us to define those abstract items.
+  * 翻译：  我们很难给那些抽象的事物下定义。
+  * 同根：  confine (vt.限制)
+  <br>
+
+- fiscal
+  * 词义：  a.财政的，国库的
+  * 例句：  Value Added Tax (VAT) is of great significance for the country's fiscal revenue.
+  * 翻译：  增值税对国家的财政收入有着重大的意义。
+  <br>
+
+- obesity
+  * 词义：  n.肥大，肥胖
+  * 例句：  The doctor said that obesity could increse the risk of heart disease.
+  * 翻译：  医生说肥胖会增加罹患心脏病的危险。
+  <br>
+
+- partial
+  * 词义：  a.部分的，不完全的， 偏袒的，不公平的
+  * 例句：  Parents should not be partial to any one of their children.
+  * 翻译：  父母对自己的任何一个孩子都不应该偏心。
+  * 派生：  partially (ad.部分地，不公平地) impartial (a.公平的，不偏不倚的)
+  <br>
+
+- reveal
+  * 词义：  vt.展现，展示，揭示，揭露，高速，泄漏
+  * 例句：  We don't reveal the names of our guests to protect their privacy.
+  * 翻译：  为了保护客户的隐私，我们不会泄漏他们的名字。
+  * 短语：  to reveal a secret 泄漏秘密
+  <br>
+
+- submerge
+  * 词义：  vt.沉没，淹没，潜入
+  * 例句：  The scuba diver submerged and swam toward a coral reef.
+  * 翻译：  带着呼吸器的潜水员潜入水底，朝珊瑚礁游了过去。
+  <br>
+
+- suspicion
+  * 词义：  n.猜疑，怀疑
+  * 例句：  A parcel express caught the guard's attention and suspicion.
+  * 翻译：  一个快递包裹引起了保安的注意和怀疑。
+  <br>
+
+- amuse
+  * 词义：  vt. 逗...笑， 给...以娱乐(或消遣)
+  * 例句：  Some movies are designed primarily to amuse and entertain people.
+  * 翻译：  有些电影主要是工人消遣和娱乐的。
+  * 派生：  amused (a.愉快的) amusement (n.娱乐) amusing (a.有趣的)
+  <br>
+
+- symptom 
+  * 词义：  症状，症候，征兆
+  * 例句：  This demonstration was a symptom of discontent among the students.
+  * 翻译：  这次游行表明了学生中的不满情绪。
+  <br>
