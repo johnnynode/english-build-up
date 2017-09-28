@@ -133,3 +133,69 @@
   * 例句：  This demonstration was a symptom of discontent among the students.
   * 翻译：  这次游行表明了学生中的不满情绪。
   <br>
+  
+---
+### 2017年09月29日 04:25:17
+
+- session
+  * 词义：  n.会议，一届会议
+  * 例句：  The Third Session of Ninth NPC was held in March 2000 in Beijing.
+  * 翻译：  2000年3月，第九届全国人民代表大会第三次会议在北京举行。
+  * 考点：  in session 正在开会
+  <br>
+
+- silicon
+  * 词义：  n.硅
+  * 短语：  Silicon Valley 美国硅谷
+  <br>
+
+- incline
+  * 词义：  v. (使)倾斜，(使)偏向，(使)倾向于，赞同 n. 斜坡，斜面
+  * 例句：  The old man inclined towards the speaker to hear more clearly.
+  * 翻译：  老人朝讲话者倾过身去以便听的更清楚些。
+  * 考点：  be inclined to do sth. 倾向于做某事
+  <br>
+
+- poster
+  * 词义：  n.招贴(画)，海报，广告
+  * 例句：  I posters of my favorite movie stars in my bedroom.
+  * 翻译：  我在卧室里贴上了自己最喜欢的电影明星的海报。
+  <br>
+
+- attain
+  * 词义：  vt.达到，获得
+  * 短语：  attain knowledge 获得知识 // attain power 获得权利
+  * 参考：  obtain (v.获得) abstain(vi.放弃)
+  <br>
+
+- prose
+  * 词义：  n.散文
+  * 例句：  The girl wrote a very clear and simple prose.
+  * 翻译：  那个女孩写了一篇相当简洁、明快的散文。
+  <br>
+
+- absolute
+  * 词义：  a.绝对的，完全的
+  * 例句：  The President won absolute victory in the election.
+  * 翻译：  总统在大选中赢得了绝对的胜利。
+  * 考点：  absolute trust 绝对信任 // absolute zero 绝对零度
+  * 派生：  absolutely (ad.绝对地，完全地)
+  <br>
+
+- exceedingly
+  * 词义：  ad.极端地，非常
+  * 例句：  He found it exceedingly difficult to get a job.
+  * 翻译：  他发现找工作及其困难。
+  <br>
+
+- delicate
+  * 词义：  a.纤弱的，精致的，微妙的，灵敏的
+  * 例句：  A dog has a delicate sense of smell.
+  * 翻译：  狗的嗅觉很灵敏。
+  <br>
+
+- analog / analogue
+  * 词义：  n.类似物，模拟
+  * 例句：  A vegetarian gets protein not from meat but from its analogs.
+  * 翻译：  素食者摄取的蛋白质并非来自肉类，而是来自肉类的类似食物。
+  <br>
