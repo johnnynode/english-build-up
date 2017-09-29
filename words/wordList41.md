@@ -199,3 +199,71 @@
   * 例句：  A vegetarian gets protein not from meat but from its analogs.
   * 翻译：  素食者摄取的蛋白质并非来自肉类，而是来自肉类的类似食物。
   <br>
+  
+---
+### 2017年09月30日 06:17:30
+
+- circuit
+  * 词义：  周线，巡回，环形，电路，线路
+  * 例句：  The old scientist runs three circuits of the track every morning.
+  * 翻译：  那位老科学家每天早晨绕着跑道跑三圈。
+  * 考点：  integrated circuit 集成电路 transistor circuit 晶体管电路
+  * 派生：  circuitry (n.电路，线路)
+  <br>
+
+- precede
+  * 词义：  v.领先(于)，在...之前，优先，先于
+  * 例句：  A rare climate pattern may precede outbreaks of the disease.
+  * 翻译：  这种疾病爆发之前可能会出现一种罕见的气候。
+  * 参考：  proceed (vi.进行，继续)
+  <br>
+
+- dinosaur
+  * 词义：  n.恐龙，过时的人或事物
+  * 例句：  He really can't bear the lengthy speeches by some of the party's dinosaurs.
+  * 翻译：  党内一些老政治家冗长的发言让他实在不能忍受。
+  <br>
+
+- acute
+  * 词义：  a.敏锐的，尖锐的，(疾病)急性的
+  * 例句：  My younger brother got the acute appendicitis.
+  * 翻译：  我弟弟得了急性阑尾炎。
+  <br>
+
+- discharge
+  * 词义：  vt.卸货；释放，遣散，解雇，解除 vi.发射，排出，流出，放(电)
+  * 例句：  The Air Force discharged some of the pilots after the war.
+  * 翻译：  战后，空军遣散了部分飞行员。
+  <br>
+
+- rumor / rumour
+  * 词义：  n.传闻，谣言
+  * 例句：  Various rumors about Lisa having an affair with the actor are going around.
+  * 翻译：  到处流传着丽萨和那位男演员的种种绯闻。
+  <br>
+
+- ideology
+  * 词义：  n.思想体系，思想意识，意识形态
+  <br>
+
+- talent
+  * 词义：  n.天才，天资，人才
+  * 例句：  Our company has always been looking for new talents.
+  * 翻译：  我们公司一直在招揽新人才。
+  * 派生：  talented (a.有才能的，能干的)
+  <br>
+
+- creative
+  * 词义：  a.有创造力的，创造性的
+  * 例句：  Martin is a creative man of many interests.
+  * 翻译：  马丁兴趣广泛，富有创造力。
+  * 派生：  creativity (n.创造力)
+  <br>
+
+- block
+  * 词义：  n.块，木块，石块，一片楼群，街区，阻塞(物) v.阻塞，拦截，封锁
+  * 例句：  The backward economy blocks the development of this country.
+  * 翻译：  经济的衰退阻碍了该国的发展。
+  * 派生：  blockage (n.阻碍，封锁)
+  * 考点：  office blocks (办公大楼)
+  <br>
