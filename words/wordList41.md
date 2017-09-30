@@ -267,3 +267,70 @@
   * 派生：  blockage (n.阻碍，封锁)
   * 考点：  office blocks (办公大楼)
   <br>
+  
+---
+### 2017年10月01日 04:26:25
+
+- inspire
+  * 词义：  vt.激起，鼓舞，使产生灵感
+  * 例句：  The beautiful scene inspired the poet to write.
+  * 翻译：  美景激发了诗人的创作灵感。
+  <br>
+
+- occupy
+  * 词义：  vt.占，占用，占据，占领，使忙碌，使从事
+  * 例句：  The writer occupied himself in reading recently.
+  * 翻译：  这位作家近来忙着看书。
+  * 考点：  occupy oneself with/in 忙于某事
+  <br>
+
+- preclude
+  * 词义：  vt.妨碍，阻止
+  * 例句：  The storm precluded our going for a walk outside.
+  * 翻译：  暴风雨阻止了我们外出散步。
+  * 同义：  bar (v.阻碍，妨碍)
+  <br>
+
+- seaside
+  * 词义：  n.海滨，海边
+  * 例句：  We're heading for seaside for holidays.
+  * 翻译：  我们正前往海边度假。
+  <br>
+
+- minimum
+  * 词义：  n.最小值，最低限度 a.最小的，最低的
+  * 例句：  The minimum speed on the freeway is 45km per hour.
+  * 翻译：  高速公路上的最低时速是45公里。
+  <br>
+
+- exotic
+  * 词义：  a.由外国引进的，外国风味(或气派)的，奇异的，异乎寻常的
+  * 例句：  The water tanks were all filled with exotic fish.
+  * 翻译：  水箱里全是些奇怪的鱼。
+  * 同义：  foreign (a.外国的，外来的) strange (a.奇怪的，奇异的)
+  * 反义：  native (a.本国的，本地的) indigenous (a.本土的)
+  <br>
+
+- stun
+  * 词义：  vt.把...打昏，使...昏迷 使...震惊，使...目瞪口呆
+  * 例句：  The resignation of the Secretary of State stunned the political world.
+  * 翻译：  这位国务卿的辞职震惊了政坛。
+  <br>
+
+- universe
+  * 词义：  n.宇宙，万物
+  * 例句：  The unlimited universe aroused great interests of the scientists.
+  * 翻译：  无尽的宇宙激起了科学家们的极大兴趣。
+  <br>
+
+- judgment / judgement
+  * 词义：  n.审判，判决，判断力，识别力，看法，意见
+  * 例句：  In the manager's judgement, we should continue our investment.
+  * 翻译：  根据经理的判断，我们应该继续我们的投资。
+  <br>
+
+- locality
+  * 词义：  n.位置，地点
+  * 例句：  Nobody would like to be confined to a single locality all his life.
+  * 翻译：  没人愿意一辈子待在一个地方。
+  <br>
