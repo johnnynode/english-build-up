@@ -334,3 +334,67 @@
   * 例句：  Nobody would like to be confined to a single locality all his life.
   * 翻译：  没人愿意一辈子待在一个地方。
   <br>
+  
+---
+### 2017年10月02日 05:01:39
+
+- debt
+  * 词义：  n.债，债务
+  * 例句：  Jack was so extravagant that he was always in debt.
+  * 翻译：  杰克生活得非常奢侈，总是债务缠身。
+  <br>
+
+- bowling
+  * 词义：  n.保龄球运动
+  * 例句：  I find bowling to be a very relaxing pastime.
+  * 翻译：  我发现保龄球运动是一种非常放松的娱乐方式。
+  <br>
+
+- nonsense
+  * 词义：  n.胡说，废话
+  * 例句：  talk nonsense 胡说八道 // sheer nonsense 一派胡言
+  <br>
+
+- underline
+  * 词义：  vt.在...下画线，强调
+  * 例句：  The teacher underlined the incorrectly spelled words in my report.
+  * 翻译：  老师在我报告中的错别字下面画上了横线。
+  <br>
+
+- heal
+  * 词义：  v. (使)治愈，愈合
+  * 例句：  Anna's leaving is an everlasting pain in you, a wound that does not heal.
+  * 翻译：  安娜的离去是你永远的痛，一个无法愈合的伤口。
+  <br>
+
+- inevitable
+  * 词义：  a.不可避免的，必然发生的
+  * 例句：  Corruption is inevitable when a country is in the course of development.
+  * 翻译：  腐败在一个国家的发展过程中是不可避免的。
+  * 派生：  inevitably (ad.不可避免的)
+  <br>
+
+- monument
+  * 词义：  n.纪念碑，纪念馆
+  * 例句：  The monument has been a symbol of liberty.
+  * 翻译：  这座纪念碑已成为了自由的象征。
+  <br>
+
+- erect
+  * 词义：  vt.树立，建立，使竖立 a.直立的，垂直的
+  * 例句：  Erect poplars lined both sides of the road.
+  * 翻译：  道路两旁笔直的白杨排成行。
+  <br>
+
+- acquaintance
+  * 词义：  n.熟人，相识
+  * 例句：  I'm very happy to make your acquaintance.
+  * 翻译：  很高兴认识你。
+  <br>
+
+- fantastic / fantastical
+  * 词义：  a.奇异的，幻想的，异想天开的， 极好的
+  * 例句：  Could I have another piece of your fantastic lemon pie?
+  * 翻译：  我能再吃一块你那美味的柠檬派吗?
+  * 考点：  fantastic novel 幻想小说
+  <br>
