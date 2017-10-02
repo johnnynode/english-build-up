@@ -398,3 +398,94 @@
   * 翻译：  我能再吃一块你那美味的柠檬派吗?
   * 考点：  fantastic novel 幻想小说
   <br>
+  
+---
+###
+
+- locker
+  * 词义：  n.储物柜，有锁的橱柜
+  * 例句：  Laura opens her locker to reveal a redd dress.
+  * 翻译：  劳拉打开自己的储物柜，露出意见红色的晚礼服。
+  * 参考：  lockout (n.停工)
+  <br>
+
+- dean
+  * 词义：  n.教长，主持牧师，(大学的)学院院长,系主任，训导主任
+  * 例句：  The dean of our college set up a special award for the students who studied hard but failed the exam.
+  * 翻译：  我们学院的院长为那些刻骨学习但没有通过考试的学生设立了一个特别奖项。
+  <br>
+
+- likelihood
+  * 词义：  n.可能性
+  * 例句：  In all likehood, Chunk will be late for the class.
+  * 翻译：  这堂课查克十有八九会迟到。
+  * 同义：  probability (n.可能性) possibility (n.可能，可能性) potentiality (n.潜力，可能性)
+  <br>
+
+- intensity
+  * 词义：  n.强烈，剧烈，强度
+  * 例句：  An earthquake of similar intensity shook another village 8 miles away.
+  * 翻译：  距此地8英里的另一个村子也发生了一次同样强度的地震。
+  <br>
+
+- wagon / waggon
+  * 词义：  n. 运货马车，运货车，敞篷车厢
+  * 例句：  Merrick was standing unsteadily in the wagon and talking with others.
+  * 翻译：  梅里克摇摇晃晃地站在敞篷车厢里，与别人聊着天。
+  <br>
+
+- slide
+  * 词义：  v.(使)滑动,滑行，下滑 n.滑动，降低，滑坡，滑道，幻灯片
+  * 例句：  Jacob watched a slide of Peggy in her wedding dress.
+  * 翻译：  雅各布看了佩吉穿婚纱的幻灯片。
+  <br>
+
+- pattern
+  * 词义：  n. 图案,图样，式样 v.仿制，模仿
+  * 例句：  This tapestry's pattern is very fashionable.
+  * 翻译：  这块壁毯的图案很时尚。
+  <br>
+ 
+- notable
+  * 词义：  a.值得注意的，显著的，著名的
+  * 例句：  Richard was one of the most notable figures in our town.
+  * 翻译：  理查德是我们镇上最有名望的人之一。
+  <br>
+
+- unique
+  * 词义：  a.独特的，独一无二的
+  * 例句：  Tom's unique concern was his own profit.
+  * 翻译：  汤姆唯一关心的就是自身的利益。
+  <br>
+
+- lounge
+  * 词义：  n.休息室，起居室，客厅 vi.斜倚，躺卧，闲逛
+  * 同义：  lobby (n.大厅，休息室) recline (vi.斜倚，躺卧) loaf (vi.虚度时光，游荡)
+  <br>
+  
+- thereby
+  * 词义：  因此，从而
+  * 例句：  The strike closed the ports, thereby affecting the import and export.
+  * 翻译：  罢工导致那些港口关闭，从而对进出口产生了不利影响。
+  <br>
+
+- suck
+  * 词义：  vt.吸，吮
+  * 例句：  The baby was sucking greedily its mother's breast.
+  * 翻译：  婴儿贪婪地吸吮着母乳。
+  <br>
+  
+- tempo
+  * 词义：  n.节奏，(音乐的)速度，行进速度
+  * 例句：  This music should be played at a fast tempo.
+  * 翻译：  这首曲子应该以快节奏弹奏。
+  <br>
+
+> 名言：
+>
+> To strive for a specific aim is the "ideal". 
+> To get something done with one vigorous effort is the "willpower". The combination of the two is "ambition".<br>
+> -- Dale Carnegie
+>
+> 朝着一个目标奋斗是志,一股作气、中途绝不停止是"气"，两者结合起来就是"志气"。<br>
+> -- 戴尔·卡耐基
