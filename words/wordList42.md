@@ -135,3 +135,70 @@
   * 例句：  The elastic in my pants has gone.
   * 翻译：  我裤子的松紧带坏了。
   <br>
+  
+---
+### 2017年10月06日 04:56:40
+
+- circulate
+  * 词义：  v. (使)循环,(使)流通，传播
+  * 例句：  The news of the President's death circulated quickly.
+  * 翻译：  总统离世的消息很快就传开了。
+  * 派生：  circulation (n.循环，流通; (出版物的)发行)
+  <br>
+
+- intimidate
+  * 词义：  vt.恐吓，威胁，胁迫
+  * 例句：  The criminal intended to intimidate the witness.
+  * 翻译：  罪犯打算恐吓母鸡目击证人。
+  <br>
+
+- dairy
+  * 词义：  n.牛奶厂，奶店
+  * 例句：  diary products 乳制品
+  <br>
+
+- chop
+  * 词义：  vt.砍，劈，斩 n.排骨，肉块
+  * 例句：  My wife was cooking pork chops when I returned.
+  * 翻译：  我到家时，妻子正在炖猪排。
+  <br>
+
+- pest
+  * 词义：  n.害虫，有害物
+  * 例句：  The rabbit is regarded as a serious pest in Australia.
+  * 翻译：  在澳大利亚兔子被视为一大祸害。
+  * 同义：  nuisance (n.讨厌的人或东西)
+  <br>
+
+- primary
+  * 词义：  a.最初的，初级的，首要的，主要的，基本的
+  * 例句：  Could you explain the primary meaning of the word?
+  * 翻译：  你能解释一下这个单词的基本含意吗?
+  * 派生：  primarily (ad.首先，起初)
+  * 参考：  primacy (n.首位)
+  <br>
+
+- stir
+  * 词义：  v.搅拌，搅动，煽动，鼓动，(使)动，(使)摇动
+  * 例句：  Not a leaf is stirring in such hot days.
+  * 翻译：  这么热的天，树叶纹丝不动。
+  * 派生：  stirring (n.涌动)
+  <br>
+
+- appraisal
+  * 词义：  n.估计，估量，评价
+  * 例句：  Susan's appraisal of the writer's work was favorable.
+  * 翻译：  苏珊对这位作家的作品给与了肯定的评价。
+  <br>
+
+- layout
+  * 词义：  n.布局，陈列，版面
+  * 例句：  These blueprints show the layout of the office building inside.
+  * 翻译：  这些展示图战死了办公楼内部的布局。
+  <br>
+
+- survival
+  * 词义：  n.幸存，生存 幸存者，残存物
+  * 例句：  This ceremony is a survival from pre-Christian times.
+  * 翻译：  这是一个从公元前沿袭下来的礼仪活动。
+  <br>
