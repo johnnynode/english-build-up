@@ -202,3 +202,69 @@
   * 例句：  This ceremony is a survival from pre-Christian times.
   * 翻译：  这是一个从公元前沿袭下来的礼仪活动。
   <br>
+  
+---
+### 2017年10月07日 06:56:27
+
+- entertain
+  * 词义：  v.招待，款待 vt.使娱乐，使欢乐
+  * 例句：  I am here to entertain you guys with my humorous stories!
+  * 翻译：  我来给你们讲幽默故事吧。
+  * 派生：  entertainer (n.款待者，演艺人员) entertaining (a.有趣的)
+  <br>
+
+- moan
+  * 词义：  n.呻吟声，呜咽声 vi.呻吟，抱怨，发牢骚 vt.以呻吟(或呜咽)声说出
+  * 例句：  Susan moaned that she was so still that she couldn't move.
+  * 翻译：  苏珊呻吟着说她僵硬得动弹不得。
+  <br>
+
+- locate
+  * 词义：  vt.查找...的位置， 使...坐落于，位于
+  * 例句：  The university is located in a quiet community.
+  * 翻译：  这所大学位于一个安静的社区。
+  <br>
+
+- publish
+  * 词义：  vt.出版，刊印，公布，发布
+  * 例句：  The group has published 90 books this year.
+  * 翻译：  该集团今年出版了九十本书。
+  * 派生：  publisher (n.出版者，发行人)
+  <br>
+
+- pace
+  * 词义：  n.步，步伐 vi.踱步
+  * 例句：  The prisoner paced back and forth in his jail cell, thinking of the way to escape.
+  * 翻译：  那名囚犯在监牢里来回踱步，想着如何逃跑。
+  <br>
+
+- hearing
+  * 词义：  n.听，倾听，听力，审讯
+  * 例句：  Martin's hearing was impaired by the continuous great noise from the airport for a long period of time.
+  * 翻译：  长期受机场持续巨大噪音的影响，马丁的听力受到了损伤。
+  * 考点：  hearing loss 失聪
+  <br>
+
+- zebra
+  * 词义：  n.斑马
+  * 短语：  zebra crossing 斑马线
+  <br>
+
+- explosive
+  * 词义：  a.爆炸(性)的，爆发(性)的，使人冲动的，导致猛烈爆发的 n.爆炸物，炸药
+  * 例句：  The issue was so explosive that all the local papers reported it.
+  * 翻译：  当地所拥有报纸到报道了这一极具爆炸性的时间。
+  * 考点：  nuclear explosives 核炸药
+  <br>
+
+- cricket
+  * 词义：  n.板球，蟋蟀
+  * 例句：  We heard a cricket singing under the window.
+  * 翻译：  我们听到一只蟋蟀在窗下唱歌。
+  <br>
+
+- voltage
+  * 词义：  n.电压
+  * 例句：  The electrician checked the voltage on all batteries.
+  * 翻译：  电工检测了所有电池的电压。
+  <br>
