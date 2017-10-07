@@ -268,3 +268,72 @@
   * 例句：  The electrician checked the voltage on all batteries.
   * 翻译：  电工检测了所有电池的电压。
   <br>
+  
+---
+### 2017年10月08日 05:12:21
+
+- footstep
+  * 词义：  n.脚步声，足迹
+  * 例句：  I turned around quickly when I heard footsteps behind me.
+  * 翻译：  我听到身后有脚步声便迅速回头。
+  * 短语：  follow in sb.'s footsteps 效仿某人
+  <br>
+
+- ghost
+  * 词义：  n.鬼魂，幽灵
+  * 例句：  You are so pale and look like you have seen a ghost.
+  * 翻译：  你脸色如此苍白，好想见了鬼似得。
+  * 考点：  believe in ghost. 信奉灵魂
+  <br>
+
+- tug
+  * 词义：  v.用力拖(或拉) n.猛拉，牵引，拖船
+  * 例句：  We hired a tug to drag our broken-down ship into the port.
+  * 翻译：  我们雇佣了一艘拖船把我们抛锚的船拖进港口。
+  <br>
+
+- slave
+  * 词义：  n.奴隶，苦工 vi.做苦工，拼命地干
+  * 例句：  I have been slaving away at this report.
+  * 翻译：  我一直在拼命赶写这个报告。
+  <br>
+
+- peak
+  * 词义：  n.顶点，最高点，峰，山峰 a.高峰的，最高的
+  * 例句：  We set off early so as to avoid the peak hours of the traffic.
+  * 翻译：  为避开交通高峰，我们早早就出发了。
+  <br>
+
+- exemplify
+  * 词义：  vt.举例证明，是...的榜样
+  * 例句：  This article exemplifies the writer's early style.
+  * 翻译：  这篇文章代表了该作家早期的风格。
+  * 同义：  demonstrate (vt.证明，论证) illustrate (vt.举例说明，阐明)
+  <br>
+
+- finance
+  * 词义：  n.财政，金融 vt.为...提供资金
+  * 例句：  Wilson principally learned finance in college.
+  * 翻译：  威尔逊在大学里主修金融。
+  * 派生：  financing (n.筹资，提供资金)
+  <br>
+
+- zone
+  * 词义：  地区，区域 vt.分区，划分地带
+  * 例句：  The city council zoned the new neighborhood as residential.
+  * 翻译：  市政局将新的周边地区华为住宅区。
+  * 参考：  ozone (n.臭氧)
+  <br>
+
+- conflict
+  * 词义：  n.战斗，斗争， 矛盾，冲突 vi. (with) 抵触，冲突
+  * 例句：  All these actions by the NATO conflicted with the universally accepted international laws.
+  * 翻译：  北约的这些行动都与公认的国际法相抵触。
+  * 参考：  inflict (v.造成) afflict (vt.使痛苦)
+  <br>
+
+- overnight
+  * 词义：  a.一夜间的，一下子的，突然的 ad.一夜间，一下子，突然
+  * 例句：  Famous paintings aren't created overnight.
+  * 翻译：  名画不是一夜间就可以创造出来的。
+  <br>
