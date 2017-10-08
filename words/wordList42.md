@@ -337,3 +337,68 @@
   * 例句：  Famous paintings aren't created overnight.
   * 翻译：  名画不是一夜间就可以创造出来的。
   <br>
+  
+---
+### 2017年10月09日 04:24:02
+
+- evade
+  * 词义：  vt.逃避，躲避，躲开，回顾(处理或谈论某事)
+  * 例句：  The spokesman evaded all the difficult questions.
+  * 翻译：  发言人回避了所有难以答复的问题。
+  <br>
+
+- assemble
+  * 词义：  v.集合，集会，装配，组装
+  * 例句：  Do you know how to assemble the new machine?
+  * 翻译：  你知道如何装配这台新机器吗？
+  * 参考：  resemble (vt.像，类似) ensemble (n.全体)
+  <br>
+
+- certainty
+  * 词义：  n.必然，肯定，必然的事
+  * 例句：  Her success was a certainty from the first.
+  * 翻译：  她的成功从一开始就是必然的事。
+  <br>
+
+- conquer
+  * 词义：  vt.征服，战胜，占领，克服，破除(换习惯等)
+  * 例句：  I will conquer my shyness in the class.
+  * 翻译：  我要克服自己在课堂上的害羞感。
+  <br>
+
+- cradle
+  * 词义：  n.摇篮，发源地
+  * 例句：  The Yellow River is the cradle of Chinese culture.
+  * 翻译：  黄河是中华文明的发源地。
+  <br>
+
+- terrify
+  * 词义：  vt.使害怕，使惊恐
+  * 例句：  The ghost story terrified the children.
+  * 翻译：  那个鬼故事让孩子们非常害怕。
+  * 派生：  terrifying (a.可怕的)
+  <br>
+
+- split
+  * 词义：  v.(使)裂开，劈开；(up)(使)分裂，分离 n.分化，分裂，裂口
+  * 例句：  The party was split in two because of difference in opinions.
+  * 翻译：  该政党由于意见不一，分裂成两派。
+  <br>
+
+- pearl
+  * 词义：  n.珍珠
+  * 例句：  Annie wrote a string of pearls in the party.
+  * 翻译：  安妮参加晚会时戴了一串珍珠项链。
+  <br>
+
+- reel
+  * 词义：  n.卷筒，线轴 vt.卷，绕
+  * 例句：  The captain ordered the sailors to reel the log line up.
+  * 翻译：  船长命令水手们把计程绳卷起来。
+  <br>
+
+- fireplace
+  * 词义：  n.壁炉
+  * 例句：  Let's build a fire in the fireplace.
+  * 翻译：  我们在壁炉里生堆火吧。
+  <br>
