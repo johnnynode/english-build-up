@@ -402,3 +402,69 @@
   * 例句：  Let's build a fire in the fireplace.
   * 翻译：  我们在壁炉里生堆火吧。
   <br>
+  
+---
+### 2017年10月10日 05:05:12
+
+- launch
+  * 词义：  vt. 发射，使(船)下水，发动，开展 n.发射，下水，新产品的投放或投产
+  * 例句：  The lunch of their new saloon car received much media coverage.
+  * 翻译：  他们投产的新轿车得到媒体的广泛报道。
+  <br>
+
+- flaw
+  * 词义：  n.裂缝，缺陷
+  * 例句：  The flaw in your theory is that you didn't account for gravity.
+  * 翻译：  你的理论缺陷在于没有把重力因素考虑在内。
+  * 同义：  defect (n.缺点，不足之处) imperfection (n.不完美，缺点) blemish (n.瑕疵，缺点)
+  <br>
+
+- sacrifice
+  * 词义：  n.牺牲，献身，牺牲品，祭品，供物 vt.献祭，献出，牺牲
+  * 例句：  Her son gave his life as a sacrifice for his country.
+  * 翻译：  她的儿子为国捐躯了。
+  * 考点：  personal sacrifices　个人牺牲　sacrifice for/to 献祭，献出，牺牲
+  <br>
+
+- injury
+  * 词义：  n.损伤，损害，毁坏
+  * 例句：  The jury agreed that nature of American football, not the helmet, was the reason for the athlete's injury. 
+  * 翻译：  陪审团一致认为，造成球员受伤的不是头盔，而是美式橄榄球这项运动本身(的危险性)
+  <br>
+
+- threaten
+  * 词义：  vt.恐吓，威胁 vi.有...危险，预示凶兆
+  * 例句：  A heavy rain threatened, so we canceled our picnic.
+  * 翻译：  要下大雨了，于是我们取消了野餐。
+  <br>
+
+- largely
+  * 词义：  ad.主要地，基本上；大量地，大规模地
+  * 例句：  The vast frontier would be largely explored and developed.
+  * 翻译：  广袤的边境地区将会被大规模地勘探和开发。
+  <br>
+
+- gratitude
+  * 词义：  n.感谢，感激
+  * 例句：  We avail ourselves of this opportunity to express our heartful gratitude to you.
+  * 翻译：  借此机会我们向您表示衷心的感谢。
+  <br>
+
+- expense
+  * 词义：  n.花费，消费，消耗
+  * 例句：  The engineers are going through with their highway project, even though the expenses have risen.
+  * 翻译：  尽管费用增加了，工程师们仍继续着他们的高速公路项目。
+  <br>
+
+- fund
+  * 词义：  n.专款，基金; [pl.] 资金，现款 vt.拨款，资助
+  * 短语：  government-funded 政府拨款的 publicly-funded 公办的 privately-funded 私人投资的 emergency funding 紧急拨款
+  * 考点：  raise funds 筹集资金 additional/extra fund 额外款项 mutual fund 互助基金 trust funds 信托基金 federal funds 联邦资金 foreign funds 外资  
+  * 派生：  funding (n.拨款) overfunding (n.过渡投资) underfunding (n.资金不足)  
+  <br>
+
+- tactics
+  * 词义：  n.策略，战术
+  * 例句：  These tactics are unlikely to help us.
+  * 翻译：  这些策略对我们未必管用。
+  <br>
