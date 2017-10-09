@@ -468,3 +468,22 @@
   * 例句：  These tactics are unlikely to help us.
   * 翻译：  这些策略对我们未必管用。
   <br>
+  
+- paddle
+  * 词义：  n.桨 vt.用桨划  
+  * 例句：  We have paddled a boat in the lake for an hour.
+  * 翻译：  我们在湖上划了一小时的船。
+  <br>
+  
+- hospitality
+  * 词义：  n.好客，殷勤，款待
+  * 例句：  The old tradition of hospitality to strangers is still very strong in the US, especially in the smaller cities and towns away from the busy tourist trails.
+  * 翻译：  款待陌生人的古老传统在美国依然很盛行，尤其是远离旅游胜地的小城镇中。
+  <br>
+  
+- monster
+  * 词义：  n.怪物，妖怪
+  * 例句：  A hideous monster attacked the helpless villagers.
+  * 翻译：  一个可怕的怪物袭击了无助的村民。
+  * 派生：  monstrous (a.怪异的，恐怖的)
+  <br>
