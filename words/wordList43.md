@@ -73,3 +73,72 @@
   * 例句：  Scarcely had we gathered in the grain when it began to rain.
   * 翻译：  我们刚把粮食收进来就开始下雨了。
   <br>
+  
+---
+### 2017年10月12日 21:55:20
+
+- spiral
+  * 词义：  a.螺旋形的，盘旋的 vi.盘旋上升(或下降) (物价等)不断急剧地上升(或下降) n.螺旋(线),螺旋式的上升(或下降)
+  * 例句：  A spiral of black smoke twisted upward from the field.
+  * 翻译：  一股螺旋形的黑烟从地里盘旋着升了起来。
+  <br>
+
+- flee
+  * 词义：  vi. 逃走，逃避，消失
+  * 例句：  Mists fled before the rising sun.
+  * 翻译：  日出雾散。
+  <br>
+
+- prejudice
+  * 词义：  n.偏见，成见，损害，侵害 v.使报偏见, 影响(某人), 损害
+  * 例句：  Smoking will prejudice your health.
+  * 翻译：  吸烟会损害健康。
+  * 派生：  prejudiced (a.怀有偏见的)
+  <br>
+
+- humorous
+  * 词义：  a.幽默的，诙谐的
+  * 例句：  If you feel awkward being humorous, you must practice so that it becomes more natural.
+  * 翻译：  如果表现得有幽默感会让你赶到不自在，你就必须多练习，这样才会感觉会自然。
+  <br>
+
+- legend
+  * 词义：  n.传说，传奇
+  * 短语：  a popular legend 民间传说
+  * 同义：  fable (n.寓言，神话，传说) tale (n.故事,传说)
+  <br>
+
+- prey
+  * 词义：  n.猎物，捕获物，受害者 vi.猎取食物
+  * 例句：  The tiger seized its prey at last.
+  * 翻译：  老虎最终逮住了自己的猎物。
+  * 考点：  prey on 捕食，杀害，折磨
+  <br>
+
+- receipt
+  * 词义：  n.收据，收条，收到，接到
+  * 例句：  We are in receipt of your letter of the 15th.
+  * 翻译：  我们受到了您15日的来信。
+  * 参考：  receive (vt.收到，接到) receiver (n.接受者，接收器)
+  <br>
+
+- screen
+  * 词义：  n.屏幕，屏风，帘 vt.掩蔽，包庇，筛选
+  * 例句：  The candidates are being screened.
+  * 翻译：  候选人正在接受筛选。
+  * 参考：  windscreen (n.挡风玻璃)
+  <br>
+
+- certify
+  * 词义：  vt.证明，保证，发证书(或执照)给
+  * 例句：  Jack was certified as a professional.
+  * 翻译：  杰克被赋予了专业证书。
+  * 同义：  attest (vt.证明，证实) witness (vt.证明，表明)
+  <br>
+
+- heritage
+  * 词义：  n.遗产，继承物，传统
+  * 例句：  I like everything from our Scottish heritage.
+  * 翻译：  我喜欢来自我们苏格兰传统中的一切。
+  * 同义：  legacy (n.遗产，遗留之物，遗赠物) inheritance (n.遗产，继承物，遗赠)
+  <br>
