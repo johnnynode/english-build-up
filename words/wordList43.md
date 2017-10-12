@@ -142,3 +142,71 @@
   * 翻译：  我喜欢来自我们苏格兰传统中的一切。
   * 同义：  legacy (n.遗产，遗留之物，遗赠物) inheritance (n.遗产，继承物，遗赠)
   <br>
+  
+---
+### 2017年10月13日 04:56:51
+
+- avenue
+  * 词义：  n.林荫道，大街，途径，手段
+  * 例句：  The IT Legend introduced the avenue to success to us.
+  * 翻译：  这位IT业的传奇人物向我们传授了成功之道。
+  * 参考：  revenue (n.总收入,税收)
+  <br>
+
+- rejoice
+  * 词义：  vi.欢庆，高兴
+  * 例句：  I rejoice exceedingly to hear of your good fortune.
+  * 翻译：  听说你交上了好运，我感到特别高兴。
+  * 同义：  delight (v.(使)高兴) gladden (v.(使)欢喜)
+  * 反义：  sadden (v.(使)悲伤)
+  <br>
+
+- anecdote
+  * 词义：  n.短故事，轶事，奇闻
+  * 例句：  The professor opened her lecture with a brief anecdote.
+  * 翻译：  教授用一个简短的小故事作为她讲座的开场白。
+  * 参考：  apologue (n.寓言) fable (n.寓言，神话)
+  <br>
+
+- ambassador
+  * 词义：  a.有能力的，能...的
+  * 例句：  Some children are capable of learning language rapidly.
+  * 翻译：  有些小孩能很快就会说话。
+  * 派生：  capability (n.本领，能力，性能) incapable (a.无能力的)
+  <br>
+
+- radius
+  * 词义：  n.半径
+  * 例句：  This machine only picks up signals in a half-mile radius.
+  * 翻译：  这台机器只能接收到半径在半英里以内的信号。
+  <br>
+
+- hail
+  * 词义：  vi.下雹 vt.向...欢呼，欢迎 n.冰雹
+  * 例句：  It hailed last night. 
+  * 翻译：  昨夜下冰雹了。
+  * 同义：  acclaim (vt.向...欢呼,为...喝彩) celebrate (vt.赞扬，歌颂) extol (vt.赞颂，赞美，颂扬)
+  <br>
+
+- marble
+  * 词义：  n.大理石，云石
+  <br>
+
+- anyhow
+  * 词义：  ad.不管怎样，无论如何，不论用何种办法
+  * 例句：  Anyhow I won't tell you the secret.
+  * 翻译：  不管怎样，我都不会告诉你这个秘密。
+  <br>
+
+- displace
+  * 词义：  vt.移置，转移，取代，置换
+  * 例句：  Many feared that radio would displace the newspaper industry.
+  * 翻译：  许多人担心广播会取代报纸业。
+  <br>
+
+- qualify
+  * 词义：  v.(使)具有资格，证明合格，限制，限定，修饰
+  * 例句：  In most situations, adjectives are used to qualify nouns.
+  * 翻译：  在大多数情况下，形容词都被用于修饰名词。
+  * 派生：  qualified (a.合格的，有资格的)
+  <br>
