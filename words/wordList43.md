@@ -210,3 +210,69 @@
   * 翻译：  在大多数情况下，形容词都被用于修饰名词。
   * 派生：  qualified (a.合格的，有资格的)
   <br>
+  
+---
+###
+
+- patent
+  * 词义：  a.专利的，特许的 n.专利，专利品，专利权 vt.批准专利，获得专利
+  * 例句：  It is much cheaper to buy an old patent than a new one.
+  * 翻译：  买就专利要比买新专利便宜的多。
+  * 考点：  patent holder 专利持有者 patent office 专利局
+  * 参考：  potent (a.有力的)
+  <br>
+
+- leading
+  * 词义：  a.处于领导地位的，前列的 首位的，领衔的，最重要的
+  * 例句：  The leading actor on the stage captured our attention.
+  * 翻译：  台上的主角吸引了我们的注意。
+  * 考点：  leading actor 主角
+  * 参考：  misleading (a.易误解的，令人误解的)
+  <br>
+
+- ridge
+  * 词义：  n.岭，山脉，屋脊，鼻梁
+  * 例句：  There is a scar on the robber's ridge.
+  * 翻译：  那个强盗的鼻梁上有一道伤疤。
+  <br>
+
+- maximum
+  * 词义：  n.最大值，极限 a.最大的，最高的
+  * 例句：  Each reporter can ask a maximum of ten questions in the press conference.
+  * 翻译：  在新闻发布会上，每个记者最多能问十个问题。
+  * 参考：  maximize (vt.最大化，取...最大值) maximal (a.最大的，最高的)
+  <br>
+
+- shield
+  * 词义：  n.防护物，护罩，盾，盾状物 vt.保护，防护
+  * 例句：  At the end of the fight, the knight took off his helmet and shield.
+  * 翻译：  战斗快结束时，这位骑士取下了头盔和护盾。
+  <br>
+
+- spear
+  * 词义：  n.矛，枪，渔叉
+  * 例句：  The fisherman threw a spear at the fish.
+  * 翻译：  渔夫用渔叉向那条鱼刺过去。
+  <br>
+
+- chapter
+  * 词义：  n.章(节)
+  * 例句：  The first four chapters of the book give a very brief introduction to evolution.
+  * 翻译：  该书的前四章简要介绍了进化论。
+  <br>
+
+- singular
+  * 词义：  a.非凡的，卓越的，单数的，唯一的
+  * 例句：  Mary had a singular talent for singing.
+  * 翻译：  玛丽在歌唱方面极有天赋。
+  <br>
+
+- county
+  * 词义：  n.(英国)郡，(美国)县
+  * 例句：  People of the neighbor country lead a wealthy life.
+  * 翻译：  邻县的人们过着富足的生活。
+  <br>
+
+- mayor
+  * 词义：  n.市长
+  <br>
