@@ -276,3 +276,71 @@
 - mayor
   * 词义：  n.市长
   <br>
+  
+---
+### 2017年10月15日 09:49:29
+
+- saw
+  * 词义：  n.锯子，锯床 v.锯，锯开
+  * 例句：  The carpenter sawed the thick bean carefully.
+  * 翻译：  木匠很小心地锯开了那根粗横梁。
+  <br>
+
+- predecessor
+  * 词义：  n.前任，前辈，(被取代的)原有事物，前身
+  * 例句：  The new law was bound to share the fate of its predecessor.
+  * 翻译：  这部新法必将遭受与前一部同样的命运。
+  * 同义：  forerunner (n.先驱者)
+  * 反义：  successor (n.继承者，接任者)
+  <br>
+
+- susceptible
+  * 词义：  a.易受感染的，过敏的，易受影响的 (of)能经受的，有某种能力的
+  * 例句：  His strong will renders him susceptible of any torture.
+  * 翻译：  坚强的意志使他能够经得住任何折磨。
+  * 同义：  allergic (a.过敏的) vulnerable (n.易受供给的，易受影响的)
+  * 反义：  immune (a.免疫的，不受影响的)
+  <br>
+
+- puppet
+  * 词义：  n.木偶，傀儡
+  * 例句：  Our family were invited to see a puppet show.
+  * 翻译：  我们一家人受邀去观看木偶演出。
+  * 考点：  economic puppet 经济傀儡
+  <br>
+
+- eve
+  * 词义：  n.(节日等的)前夜，前夕
+  <br>
+
+- release
+  * 词义：  vt.释放，解放，发表，发行 n.发表，发布
+  * 例句：  The release of the singer's new album is set on 9th of September.
+  * 翻译：  这位歌手的新专辑定于9月9日发布。
+  <br>
+
+- colleague
+  * 词义：  n.同事，同僚
+  * 例句：  I still keep in touch with my former colleagues.
+  * 翻译：  我仍和以前的同事保持联络。
+  <br>
+
+- arrest
+  * 词义：  n./vt. 逮捕，拘留
+  * 例句：  The arrest of the drug dealers was made quickly by the police.
+  * 翻译：  警方很快逮捕了这伙毒贩。
+  <br>
+
+- shift
+  * 词义：  v.替换，转移，移动 n.转移，转换，转变, (轮)班，(换)班
+  * 例句：  My shift begins at 6:00 p.m. and ends at midnight.
+  * 翻译：  我下午6点钟上班，午夜12点交班。
+  * 参考：  downshift (vt.调低速档)
+  <br>
+
+- vicious
+  * 词义：  a.邪恶的，恶毒的，凶残的
+  * 例句：  The world was stunned by the vicious defamation.
+  * 翻译：  这种恶意诽谤令世界震惊。
+  * 同义：  savage (a.野蛮的，凶猛的，残忍的) malicious (a.怀恶意的，恶毒的)
+  <br>
