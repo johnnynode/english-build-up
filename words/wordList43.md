@@ -344,3 +344,69 @@
   * 翻译：  这种恶意诽谤令世界震惊。
   * 同义：  savage (a.野蛮的，凶猛的，残忍的) malicious (a.怀恶意的，恶毒的)
   <br>
+  
+---
+### 2017年10月16日 04:51:25
+
+- magnet
+  * 词义：  n.磁体，磁铁
+  * 派生：  magnetism (n.磁力，磁学)
+  <br>
+
+- resolution
+  * 词义：  n.坚决，决心，决定，会议
+  * 例句：  They will postpone a vote on the congressional resolution to next week.
+  * 翻译：  他们将有关国会决议的投票推迟到下周。
+  <br>
+
+- resultant
+  * 词义：  a.作为结果而发生的，合成的
+  * 例句：  Our teacher is explaining the resultant acceleration to us.
+  * 翻译：  老师正在给我们讲解什么是合成加速度。
+  * 同义：  consequent (a.作为结果的，随之发生的)
+  * 参考：  resulting (a.作为结果的，因而发生的)
+  <br>
+
+- impression
+  * 词义：  n.印象，感想，盖印，压痕
+  * 例句：  Mike held a diamond firmly against the window and made a deep impression in the glass.
+  * 翻译：  迈克把一颗钻石使劲按在窗户上，在窗玻璃上面留下一个深深的印痕。
+  <br>
+
+- fluctuate
+  * 词义：  vi.波动，起伏
+  * 例句：  Grain price fluctuated in response to harvests or natural disasters.
+  * 翻译：  谷物的价格随着收成的好坏或有无自然灾害而涨落。
+  <br>
+
+- dependent
+  * 词义：  a.依靠的，依赖的，从属的， 随...而定的
+  * 例句：  Going camping or not is dependent on the weather.
+  * 翻译：  是否去野营要视天气好坏而定。
+  * 参考：  dependable (a.可靠的，值得信赖的)
+  <br>
+
+- elementary
+  * 词义：  a.初等的，基本的
+  * 例句：  You can start with these elementary exercises as a refresher course.
+  * 翻译：  你可以从这些初级练习入手，将其作为复习课程。
+  * 考点：  elementary-particle 基本粒子
+  <br>
+
+- fashionable
+  * 词义：  a.流行的，时髦的
+  * 例句：  She is dressed in a fashionable business suit that clings to every curve of her body.
+  * 翻译：  她穿着入时又合身的职业装。
+  <br>
+
+- applause
+  * 词义：  n.鼓掌，欢呼
+  * 例句：  The biggest applause of the night went to Nicole Kidman - the winner of the best actress Oscar.
+  * 翻译：  那晚，最热烈的掌声送给了妮可.基德曼 - 奥斯卡最佳女主角获得者
+  <br>
+
+- festival
+  * 词义：  n.节日，欢宴，音乐节，戏剧节
+  * 例句：  The town's annual festival features bands from every high school.
+  * 翻译：  小镇一年一度的音乐节以来自各所中学的乐队为特色。
+  <br>
