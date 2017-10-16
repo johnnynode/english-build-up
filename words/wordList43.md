@@ -410,3 +410,86 @@
   * 例句：  The town's annual festival features bands from every high school.
   * 翻译：  小镇一年一度的音乐节以来自各所中学的乐队为特色。
   <br>
+  
+---
+### 2017年10月17日 06:57:07
+
+- gender
+  * 词义：  n.性，性别；(语法中的)性
+  * 例句：  I was puzzled by the gender in French.
+  * 翻译：  我被语法中的性搞晕了头。
+  <br>
+
+- tumble
+  * 词义：  v.(使)摔倒，打滚，翻腾 n.摔跤，跌倒
+  * 例句：  Martin almost went for a tumble when he climbed the stairs.
+  * 翻译：  马丁上楼时差点儿摔了一跤。
+  * 同义：  fall (v.倒下，落下)
+  * 参考：  humble (a.卑下的) stumble (v.绊倒)
+  <br>
+
+- modernization
+  * 词义：  n.现代化
+  * 例句：  Modernization has changed life in cities greatly.
+  * 翻译：  现代化大大改变了城市的生活。
+  <br>
+
+- admission
+  * 词义：  n.允许进入，接纳，收容，入场费，入场券，承认
+  * 例句：  The suspect's admission to being at the crime scene convinced the jury of his guilt.
+  * 翻译：  嫌疑人承认曾在案发现场，这使陪审团确信他有罪。
+  * 参考：  inadmissible (a.不许可的，不能承认的)
+  <br>
+
+- chemist
+  * 词义：  n.化学家，药剂师
+  <br>
+
+- strategy
+  * 词义：  n.战略，策略
+  * 例句：  The best strategy is to use the agent as a kind of tip service to keep abreast of jobs in a particular database.
+  * 翻译：  最佳的策略是把代理当作一种提示服务来跟踪某一资料库里的岗位信息。
+  * 派生：  strategic (a.战略的，战略上的)
+  <br>
+
+- apparent
+  * 词义：  a.明显额，显而易见的，表面的，貌似的
+  * 例句：  It is this apparent transcendence of politics that explains monarchs' continuing popularity as heads of states.
+  * 翻译：  正式这种明显的超越政治的存在解释了君主为什么能持续受欢迎而担任国家元首。
+  * 派生：  apparently (a.显然地)
+  <br>
+
+- moral
+  * 词义：  a.道德上的，道义的 n.道德，伦理，寓意，教育意义
+  * 例句：  The moral of this story is "Where there is a will,there is a way".
+  * 翻译：  这个故事的寓意是有志者，事竟成。
+  * 派生：  morally (ad.道德上，精神上) immoral(a.不道德的)
+  <br>
+
+- saturate
+  * 词义：  vt.使浸透,渗透，使充满
+  * 例句：  The air was saturate with the perfume of the flowers。
+  * 翻译：  空气中充满了花的芬芳。
+  * 派生：  saturated (a.饱和的) saturation (n.饱和，浸透)
+  * 同义：  drench (vt.使湿透，使浸透) soak (vt.使浸透)
+  <br>
+
+- toe
+  * 词义：  n.脚趾，足尖
+  * 例句：  From head to toe, the fisherman was soaked with water.
+  * 翻译：  那渔夫从头到脚全都湿透了
+  * 参考：  tiptoe (n.脚尖，趾头)
+  <br>
+  
+- shipment
+  * 词义：  n.转船，装运，转载的货物，装货物
+  * 例句：  The tornado accident wiped out the entire shipment.
+  * 翻译：  龙卷风把整批货物席卷一空。
+  * 同义：  cargo (n.货物) freight (n.货物，重载)
+  * 参考：  shipper (n.托运人，发货人)
+  <br>
+  
+- vicinity
+  * 词义：  n.临近，附近
+  * 短语：  in the vicinity 在附近 // in close vicinity to 在靠近...的地方 // in the vicinity of 大约
+  <br>
