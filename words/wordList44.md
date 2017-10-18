@@ -67,3 +67,72 @@
   * 例句：  That company almost has a monopoly of the domestic memory-chip market.
   * 翻译：  那个公司几乎垄断了国内的存储芯片市场。
   <br>
+  
+---
+### 2017年10月19日 04:25:12
+
+- beverage
+  * 词义：  n.饮料
+  * 例句：  Nina didn't intend to serve food and beverages at the party.
+  * 翻译：  妮娜没打算在晚会上提供食物和饮料。
+  <br>
+
+- simulate
+  * 词义：  vt.模仿，模拟，假装，冒充
+  * 例句：  The professor showed us some insects that simulated dead leaves. 
+  * 翻译：  教授向我们展示了一些伪装成枯叶的昆虫。
+  * 同义：  imitate (v.模仿，效仿) ape (v.模仿) affect (vt.假装)
+  <br>
+
+-　stove
+  * 词义：  n.炉子，火炉
+  * 例句：  There's no gas range in the kitchen, but you can use the electric stove.
+  * 翻译：  厨房里没通煤气，但你可以用电炉。
+  <br>
+
+- censorship
+  * 词义：  n.审查制度
+  * 例句：  Censorship of books is very strict this year.
+  * 翻译：  书籍审查制度今年非常严格。
+  <br>
+
+- refute
+  * 词义：  vt.反驳，驳斥
+  * 例句：  The student boldly refuted the professor's opinions.
+  * 翻译：  那个学生大胆地反驳了教授的观点。
+  * 短语：  refute an opponent 驳倒对方
+  * 同义：  confute (v.驳斥，驳倒) contradict (v.驳斥)
+  <br>
+
+- gently
+  * 词义：  ad.文雅地，有礼貌地，轻轻地，温和地
+  * 例句：  She looked at her baby gently.
+  * 翻译：  他温柔地注视着自己的宝宝。
+  <br>
+
+- rehearse
+  * 词义：  v.排练，预演
+  * 例句：  We were given only two to rehearse, so hurry up please.
+  * 翻译：  我们只有两周时间排练，所以请快点。
+  * 派生：  rehearsal (n.排练，预演)
+  <br>
+
+- hammer
+  * 词义：  n.铁锤，槌，榔头 v.捶击，敲打
+  * 例句：  The horses panted hard and their hofs hammered at the ground.
+  * 翻译：  这些马喘得很厉害，蹄子重重地砸在地面。
+  <br>
+
+- profit
+  * 词义：  n.利润，收益，益处 v.(by,from)得到，获益，一用，有利于
+  * 例句：  One can profit by reading.
+  * 翻译：  阅读可以使人受益。
+  * 考点：  the profit motive 追求利润的动机。
+  <br>
+
+- dull
+  * 词义：  a.单调的，枯燥无味的，迟钝的，愚笨的，不锋利的 vt.使迟钝
+  * 例句：  The eyes and ears may be dulled by age.
+  * 翻译：  我的耳目可能会因年老而变得迟钝。
+  * 派生：  dullness (n.单调)
+  <br>
