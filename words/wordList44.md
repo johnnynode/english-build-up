@@ -84,7 +84,7 @@
   * 同义：  imitate (v.模仿，效仿) ape (v.模仿) affect (vt.假装)
   <br>
 
--　stove
+- stove
   * 词义：  n.炉子，火炉
   * 例句：  There's no gas range in the kitchen, but you can use the electric stove.
   * 翻译：  厨房里没通煤气，但你可以用电炉。
