@@ -136,3 +136,71 @@
   * 翻译：  我的耳目可能会因年老而变得迟钝。
   * 派生：  dullness (n.单调)
   <br>
+  
+---
+### 2017年10月20日 05:00:14
+
+- contribution
+  * 词义：  n.贡献，捐献(物)，捐款
+  * 例句：  All the contributions have already been delivered to Asia and Africa to help victims of the war.
+  * 翻译：  所有的捐赠物资都已经运往亚洲和非洲来帮助战争中的受害者。
+  <br>
+
+- coil
+  * 词义：  v.卷，盘绕 n.(一)卷，(一)圈，线圈，绕组
+  * 例句：  With a coil of clothesline in his hand, the naughty boy run away.
+  * 翻译：  这个淘气的男孩拿着一卷晾衣绳跑开了。
+  * 参考：  soil (n.土地)
+  <br>
+
+- probability
+  * 词义：  n.可能性，概率
+  * 例句：  Seeing such movies may increase the probability of a child committing a criminal act.
+  * 翻译：  看这些电影会增加儿童犯罪的可能性。
+  <br>
+
+- faculty
+  * 词义：  n.才能 (大学的)系，科，院 (学院或系的)全体教学人员
+  * 例句：  Jane is a member of the faculty at the university.
+  * 翻译：  简是这所大学的一名教员。
+  <br>
+
+- rigid
+  * 词义：  a.刚性的，刻板的，严格的，严厉的，严明的
+  * 例句：  Ellen goes rigid, staring at her underling without expression.
+  * 翻译：  艾伦变得严厉起来，面无表情地盯着自己的下属。
+  * 派生：  rigidly (ad.坚硬地，严格地)
+  <br>
+
+- modify
+  * 词义：  vt.更改，修改，改造，缓和，减轻，降低
+  * 例句：  You'd better modify your tone to make it more gentle.
+  * 翻译：  你最好能缓和一下语句，说得温和一点。
+  * 派生：  modification (n.更改，修饰)
+  <br>
+
+- expert
+  * 词义：  n.专家，能手 a.熟练的，有经验的，专门的
+  * 例句：  This is an expert job,and you need certain skills to do it.
+  * 翻译：  这是一项专业性的工作，你要掌握特定的技术才能做。
+  * 派生：  expertise (n.专家的意见，专门的技术)
+  <br>
+ 
+- clap
+  * 词义：  vt.拍手，拍，轻拍 n.拍(手)，击掌声，击掌声，霹雳声
+  * 例句：  We hear a loud clap of thunder inside the concert hall.
+  * 翻译：  我们听到音乐厅想起了雷鸣般的掌声。
+  * 参考：  slap (vt.拍，掌击)
+  <br>
+
+- weave
+  * 词义：  编，编织
+  * 例句：  Spiders weave a web in a corner of the storage unit.
+  * 翻译：  蜘蛛在仓库的一个角落里织了张网。
+  <br>
+
+- criminal
+  * 词义：  n.罪犯，刑事犯 a.犯罪的，刑事的
+  * 例句：  The discontent may lead more youths into criminal behavior.
+  * 翻译：  这种不满情绪可能会导致更多的青少年走上犯罪的道路。
+  <br>
