@@ -204,3 +204,71 @@
   * 例句：  The discontent may lead more youths into criminal behavior.
   * 翻译：  这种不满情绪可能会导致更多的青少年走上犯罪的道路。
   <br>
+  
+---
+### 2017年10月21日 06:32:31
+
+- battery
+  * 词义：  n.电池(组), 炮兵连，排炮
+  * 例句：  This new type of warship is armed with an advanced battery.
+  * 翻译：  这种新型军舰配备了先进的排炮。
+  <br>
+
+- highland
+  * 词义：  n.高地，高原
+  * 例句：  There are waterfalls feeding highland rivers.
+  * 翻译：  瀑布滋养着高原地区的河流。
+  <br>
+
+- skeptical
+  * 词义：  a.怀疑的
+  * 例句：  A skeptical jury doubted the witness's testimony.
+  * 翻译：  心存疑虑的陪审团对证人的证词表示怀疑。
+  * 同义：  dubious (a.可疑的) doubting (a.有疑心的，不相信的)
+  * 反义：  trustful (a.相信的，信任的)
+  <br>
+
+- so-called
+  * 词义：  a.所谓的，号称的
+  * 例句：  This so-called outstanding painter is really a cheat.
+  * 翻译：  这个所谓的杰出画家其实是个骗子。
+  <br>
+
+- grown-up
+  * 词义：  a.成长的，成熟的，成人的 n.成年人
+  * 例句：  The grown-up should be responsible for what he has done.
+  * 翻译：  一个成年人应该为自己所做的事负责。
+  * 参考：  outgrow (v.出生，长出)
+  <br>
+
+- extravagant
+  * 词义：  a.奢侈的，过分的，(言行等)放肆的
+  * 例句：  Mr.Duncan was extravagant in conduct at party yesterday.
+  * 翻译：  在昨晚的聚会上，邓肯先生的行为极为放肆。
+  * 派生：  extravagantly (ad.过分地，挥霍无度地)
+  * 同义：  lavish (a.过分慷慨的，浪费的)
+  <br>
+
+- turkey
+  * 词义：  n.火鸡(肉)
+  <br>
+
+- colonel
+  * 词义：  n.(陆军)上校
+  * 例句：  The colonel was awarded a medal for his bravery.
+  * 翻译：  这位陆军上校因勇敢而被授予了勋章。
+  <br>
+
+- payment
+  * 词义：  n.支付，付款额
+  * 例句：  My new car is paid for in eight monthly payments of $500.
+  * 翻译：  我的新车月供500美元，八个月付清。
+  * 派生：  repayment (n.偿还款项，报答，报复)
+  <br>
+
+- broke
+  * 词义：  n.小河，溪
+  * 例句：  They are seated beside the brook, gazing into each other's eyes.
+  * 翻译：  他们坐在小溪旁，深情地凝视着对方的眼睛。
+  * 参考：  stream (n.小溪)
+  <br>
