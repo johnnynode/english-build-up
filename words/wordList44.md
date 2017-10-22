@@ -266,9 +266,77 @@
   * 派生：  repayment (n.偿还款项，报答，报复)
   <br>
 
-- broke
+- brook
   * 词义：  n.小河，溪
   * 例句：  They are seated beside the brook, gazing into each other's eyes.
   * 翻译：  他们坐在小溪旁，深情地凝视着对方的眼睛。
   * 参考：  stream (n.小溪)
+  <br>
+  
+---
+### 2017年10月22日 15:20:42
+
+- simplify
+  * 词义：  vt.简化，使单纯
+  * 例句：  The teacher simplified the problem so that the students could understand it.
+  * 翻译：  老师把问题简化了,这样学生们才能够理解。
+  <br>
+
+- stab
+  * 词义：  vt.刺，戳 n.刺，戳
+  * 例句：  In the urgent situation, the girl picked up a knife and stabbed the heart of the gangster.
+  * 翻译：  危及关头，女孩捡起一把刀向歹徒的心脏刺去。
+  * 同义：  thrust (n./v. 刺，戳) poke (n./v. 刺，戳，捅)
+  <br>
+
+- accuse
+  * 词义：  v.(of)控告，谴责
+  * 例句：  The police accused the young man of setting fire to the building.
+  * 翻译：  警方指控那个年轻人放火烧这栋大楼。
+  * 派生：  accusing (a.责难的，问罪的)
+  <br>
+
+- outskirts
+  * 词义：  n.郊区
+  * 例句：  The orphanage I visited was on the outskirts of the city.
+  * 翻译：  我访问的那家孤儿院在市郊。
+  <br>
+
+- enable
+  * 词义：  vt.使能够，使成为可能
+  * 例句：  This telephone enables Robin to communicate every transaction done in the Exchange.
+  * 翻译：  这部电话使罗宾能够就交易所里的每一笔交易进行交流。
+  <br>
+
+- inform
+  * 词义：  vt.通知，告诉，报告 vi.(against, on)高发，告密
+  * 例句：  We were surprised that it was David's wife who informed on him.
+  * 翻译：  是戴维的妻子告发了他，我们对此感到很惊讶。
+  * 派生：  informed (a.已知的，见多识广的) // uninformed (a.不了解真相的，不清除的) // ill-informed (a.消息不灵通的) // informative (a.富含信息的) // information (n.信息)
+  * 参考：  informal (a.不正式的)
+  <br>
+
+- nasty
+  * 词义：  肮脏的，卑劣的，下流的，令人厌恶的
+  * 例句：  The smell of the soup is really nasty.
+  * 翻译：  那汤的气味真让人作呕。
+  * 同义：  disgusting (a.令人厌恶的，使人反感的) offensive (a.使人不快的，讨厌的)
+  <br>
+
+- wreath
+  * 词义：  n.花环，花圈
+  <br>
+
+- brass
+  * 词义：  n.黄铜，铜器
+  * 例句：  There is a small wooden door sealed with a brass padlock.
+  * 翻译：  那扇小木门用一把黄铜挂锁锁着。
+  <br>
+
+- transcend
+  * 词义：  vt.超出，超越
+  * 例句：  These issues transcend the limits of human imagination.
+  * 翻译：  这些问题超出了人类的想象。
+  * 派生：  transcendentalist (n.超越论者 a.超越论者的)
+  * 同义：  surpass (vt.超越，超过) exceed (v.超越，胜过)
   <br>
