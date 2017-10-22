@@ -340,3 +340,71 @@
   * 派生：  transcendentalist (n.超越论者 a.超越论者的)
   * 同义：  surpass (vt.超越，超过) exceed (v.超越，胜过)
   <br>
+  
+---
+###　2017年10月23日 06:23:54
+
+- turnover
+  * 词义：  n.翻倒(物)，翻转(物), 人员调整, (资金等的)周转，成交量，营业额 sales turnover
+  * 例句：  The company tried its best to lower down the turnover.
+  * 翻译：  改公司尽力降低人员更替率。
+  <br>
+
+- summarise / summarize
+  * 词义：  v.概括，总结
+  * 例句：  The speaker summarized the important points of her lecture.
+  * 翻译：  演讲者概括了她演讲中的重点。
+  <br>
+
+- allege
+  * 词义：  vt.断言，宣称
+  * 例句：  It has been alleged that Jack stole the money.
+  * 翻译：  有人声称杰克偷了钱。
+  * 同义：  assert (vt.断言) affirm (vt.确认，肯定)
+  <br>
+
+- longitude
+  * 词义：  n.经度
+  * 例句：  We determine geographical position through latitude and longitude.
+  * 翻译：  我们通过经纬度确定地理位置。
+  * 参考：  latitude (n.维度)
+  <br>
+
+- forbid
+  * 词义：  vt.禁止，不许
+  * 例句：  I forbid you to smoke again.
+  * 翻译：  我不准你再吸烟。
+  <br>
+
+- sculpture
+  * 词义：  n.雕刻(术)，雕塑(术)，雕刻作品，雕塑品
+  * 例句：  The Greek gods are the theme of the massive sand sculptures.
+  * 翻译：  希腊诸神是这些大型沙滩雕塑品的主题。
+  * 同义：  carving (n.雕刻品，雕刻) statuette (n.小雕像)
+  <br>
+
+- scent
+  * 词义：  n.气味，香味，香水
+  * 例句：  The quaint little shop was filled with the scent of fresh flowers.
+  * 翻译：  这个奇特的小店里充满了鲜花的香味。
+  * 同义：  fragrance (n.芬芳，香气) odor (n.气味)
+  * 反义：  stench (n.恶臭，臭气)
+  * 参考：  descent (n.降落，世系) adolescent (a.青春期的 n.青少年)
+  <br>
+
+- stack
+  * 词义：  n.堆，一堆 vt.堆积，堆起
+  * 例句：  The desk was stacked high with piles of books.
+  * 翻译：  书桌上高高地堆放着一摞一摞的书。
+  <br>
+
+- blade
+  * 词义：  n.刃，刀片，叶片
+  * 例句：  While playing in the garden, the boy got a cut in his hand by a blade of the grass.
+  * 翻译：  小男孩儿在花园里玩的时候被草叶划伤了手。
+  <br>
+
+- trench
+  * 词义：  n.沟，沟渠
+  * 派生：  entrenched　(a.根深蒂固的)
+  <br>
