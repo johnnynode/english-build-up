@@ -408,3 +408,90 @@
   * 词义：  n.沟，沟渠
   * 派生：  entrenched　(a.根深蒂固的)
   <br>
+  
+---
+### 2017年10月24日 06:38:37
+
+- dot
+  * 词义：  n.点，圆点 vt.在...上打点
+  * 例句：  In the distance, the horse trailer looked like a dot on the horizon.
+  * 翻译：  远处的马车看起来就像是地平线上的一个小圆点。
+  <br>
+
+- maintain
+  * 词义：  vt.维修，保养，维持，保持，坚持，主张，支持
+  * 例句：  He failed again and again simply because he had maintained his defeatist attitude.
+  * 翻译：  因为他一直坚持失败主义的态度，所以他一次有一次的失败。
+  <br>
+
+- spit
+  * 词义：  vi.吐(唾沫),吐痰 n.唾液，口水
+  * 例句：  Mom wiped the spit off the child's chin.
+  * 翻译：  妈妈擦去了孩子下巴上的口水。
+  <br>
+
+- deck
+  * 词义：  n.甲板
+  * 例句：  The captain and his daughter stand steady on the deck in a tight embrace.
+  * 翻译：  船长和他的女儿站在甲板上一动不动，紧紧地拥抱在一起。
+  <br>
+
+- tow
+  * 词义：  n./vt. 拖，牵引
+  * 例句：  My car broke down but luckily someone gave me a tow.
+  * 翻译：  我的车抛锚了，幸运的是有人让我把车挂在车后面拖行。
+  * 同义：  drag (v.拖，拖拽) haul (v.拖，拉)
+  <br>
+
+- cocaine
+  * 词义：  n.可卡因
+  * 例句：  The police found cocaine in Mike's house.
+  * 翻译：  警方在迈克家里发现了可卡因。
+  * 参考：  heroin (n.海洛因)
+  <br>
+
+- disturbance
+  * 词义：  n.动乱，骚乱，干扰
+  * 例句：  A disturbance took place in the factory last night.
+  * 翻译：  昨晚这家工厂里发生了一场骚乱。
+  <br>
+
+- formidable
+  * 词义：  n.可怕的，令人敬畏的，强大的，难以应付的
+  * 例句：  In debate he is a formidable opponent.
+  * 翻译：  在辩论中他是位难应付的对手。
+  <br>
+
+- defect
+  * 词义：  n.缺点，缺陷
+  * 例句：  Kate thought that her husband had no defect.
+  * 翻译：  凯特认为自己的丈夫毫无缺点。
+  * 派生：  defective (a.有缺陷的，欠缺的)
+  <br>
+
+- pathetic
+  * 词义：  a.可怜的，引起怜悯的，令人难过的
+  * 例句：  It was pathetic to watch Kate's condition deteriorate day by day.
+  * 翻译：  眼看着凯特的病情一天天恶化，真是令人难过。
+  * 派生：  sympathetically (ad.同情地，怜悯地)
+  <br>
+  
+- ownership
+  * 词义：  n.所有(权)，所有制
+  * 例句：  The rich man has entered into an absolute ownership of the farms and fields.
+  * 翻译：  这个有钱人已经完全获得了这些农场和土地的所有权。
+  <br>
+  
+- rug
+  * 词义：  n.(小)地毯，围毯
+  * 例句：  I accidentally spilled some milk on the rug.
+  * 翻译：  我不小心将牛奶洒到了地毯上。
+  * 参考：  carpet (n.地毯)
+  <br>
+  
+- archeology / archaeology
+  * 词义：  n.考古学
+  * 例句：  Michael specialized in economics while he seemed to be very interested in archaeology.
+  * 翻译：  迈克尔所学专业是经济学，但他似乎对考古学非常感兴趣。
+  * 派生：  archaeological (a.考古学的)
+  <br>
