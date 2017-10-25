@@ -69,3 +69,73 @@
   * 例句：  The minister was found guilty of bribery.
   * 翻译：  部长被发现犯有受贿罪。
   <br>
+
+### 2017年10月26日 07:15:27
+
+- comparison
+  * 词义：  n.比较，对比；比喻，比拟
+  * 例句：  This blouse looks more elegant by comparison.
+  * 翻译：  相比较而言，这件上衣看起来更雅致一些。
+  <br>
+
+- profitable
+  * 词义：  a.有利可图的，有益的
+  * 例句：  This deal is profitable to both companies.
+  * 翻译：  这笔交易对两家公司来说都是有利可图的。
+  * 派生：  profitability (n.收益性，利益律)
+  * 同义：  beneficial (a.有益的，有利的) lucrative (a.赚钱的，有利可图的)
+  * 反义：  unprofitable (n.无利益的，无益的) worthless (a.无价值的，无益的)
+  <br>
+
+- permanent
+  * 词义：  a.永久的，持久的
+  * 例句：  I'm hoping to get a permanent job here.
+  * 翻译：  我希望在这里找到一份长期的工作。
+  * 派生：  permanently (ad.永存地，不变地)
+  <br>
+
+- roast
+  * 词义：  vt.烤，炙, 烘
+  * 例句：  We shall roast goose to eat tonight.
+  * 翻译：  我们今晚要吃烤鹅。
+  * 参考：  coast (n.海岸) roast (v.烤) boast(n./v.自夸) toast (n.吐司 vt.祝酒)
+  <br>
+
+- sphere
+  * 词义：  n.球，球体，范围，领域
+  * 例句：  Jane's sphere of interest is broad.
+  * 翻译：  简的爱好非常广泛。
+  * 参考：  atmosphere (n.空气，气氛) hemisphere (n.半球)
+  <br>
+
+- sham
+  * 词义：  n.假冒，虚伪 v.假冒，虚伪
+  * 例句：  The criminal shammed to be a priest to escape from the policemen.
+  * 翻译：  罪犯打扮成牧师以逃离警察的视线。
+  <br>
+
+- carve
+  * 词义：  v.(雕)刻
+  * 例句：  Tom carved the figure of Venus from a piece of wood.
+  * 翻译：  汤姆用一块木头雕刻除了维纳斯像。
+  <br>
+
+- trivial
+  * 词义：  a.琐碎的，无足轻重的 trivial matters 琐事
+  * 派生：  triviality (n.琐事)
+  * 同义：  trifling (n.不重要的) petty (a.琐碎的，不重要的)
+  * 反义：  important (a.重要的，重大的)  main (a.主要的，重要的)
+  * 参考：  trifle (n.少量，琐事)
+  <br>
+
+- lyric
+  * 词义：  抒情诗，个词 a.抒情的
+  * 例句：  The lyric music in this cafe reduced him to tears.
+  * 翻译：  这间咖啡馆的抒情音乐让他不禁潸然泪下。
+  <br>
+
+- crush
+  * 词义：  n.压碎，压坏 vt.压碎，压坏，压服，压垮
+  * 例句：  The rebellion has been crushed.
+  * 翻译：  那场叛乱已经被镇压了。
+  <br>
