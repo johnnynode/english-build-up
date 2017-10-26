@@ -139,3 +139,70 @@
   * 例句：  The rebellion has been crushed.
   * 翻译：  那场叛乱已经被镇压了。
   <br>
+  
+---
+### 2017年10月27日 07:02:42
+
+- scattered
+  * 词义：  a.离散的，分散的
+  * 例句：  In this search the evidence found is always incomplete and scattered.
+  * 翻译：  此次搜寻中发现的证据总是不太完整，而且比较分散。
+  <br>
+
+- tenant
+  * 词义：  n.承租人，房客，佃户
+  * 例句：  This apartment building has fifty tenants.
+  * 翻译：  这栋公寓大楼有50位房客。
+  <br>
+
+- deficiency
+  * 词义：  n.缺乏，不足, 缺陷，缺点
+  * 例句：  Human beings need thirteen or more kinds of vitamins, and if any is missing a deficiency disease becomes apparent.
+  * 翻译：  人类至少需要13种维生素，缺少其中任何一种，都会明显地表现出营养缺乏的症状。
+  * 短语：  deficiency disease 营养缺乏症
+  * 同义：  inadequacy (n.不充分，不足)
+  * 参考：  sufficiency (n.充足)
+  <br>
+
+- ape
+  * 词义：  n.猿 vt.模仿
+  * 例句：  Nowadays there are many cheap clothes which ape the high brand fashions of the day.
+  * 翻译：  现如今许多模仿时下高级品牌的廉价服饰。
+  <br>
+
+- lower
+  * 词义：  a.较低的，下级的，下游的 vt.使降低，放低
+  * 例句：  Potential home buyers would cheer for lower interest rates.
+  * 翻译：  潜在的购房者将会为较低的利率欢呼。
+  <br>
+
+- appetite
+  * 词义：  n.食欲，胃口，欲望，爱好，要求
+  * 例句：  The students in this class have a great appetite for knowledge.
+  * 翻译：  这个班的学生有很强的求知欲。
+  <br>
+
+- courtyard
+  * 词义：  n.庭院，院子
+  * 例句：  The antiquate bronze statue stood in the middle of courtyard.
+  * 翻译：  古老的铜像树立在院子中央。
+  <br>
+
+- breed
+  * 词义：  vi. 繁殖,生殖 vt.造成，引起，教养，抚养 n.品种，种类
+  * 例句：  Spoiling child may breed his selfish behavior.
+  * 翻译：  溺爱会让孩子养成自私的性格。
+  <br>
+
+- infrared
+  * 词义：  a.红外线的 n.红外线
+  * 例句：  The detective attached the infrared video camera on the ceiling of the hall.
+  * 翻译：  侦探把红外线摄影机安装在大厅的天花板上。
+  <br>
+
+- coherent
+  * 词义：  a.黏着的，黏附的，条理清楚的，连贯的
+  * 例句：  Mum picked out a coherent mass of sticky candies to calm down the child.
+  * 翻译：  妈妈拿出一团粘乎乎的糖块来安抚孩子。
+  * 同义：  cohesive (a.黏着的)
+  <br>
