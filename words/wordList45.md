@@ -206,3 +206,69 @@
   * 翻译：  妈妈拿出一团粘乎乎的糖块来安抚孩子。
   * 同义：  cohesive (a.黏着的)
   <br>
+
+---
+### 2017年10月28日 08:20:02
+
+- assistance
+  * 词义：  n.帮助，援助
+  * 例句：  The government is responsible for assistance to indigent people.
+  * 翻译：  政府有责任给穷人提供援助。
+  <br>
+
+- curse
+  * 词义：  n./v. 诅咒，咒骂 vt.违反，违背
+  * 例句：  It is better to light one candle than curse the darkness.
+  * 翻译：  点过一根蜡烛总好过咒骂黑暗。
+  <br>
+
+- violate
+  * 词义：  vt.违反，违背
+  * 例句：  Such import restrictions would violate world trade rules.
+  * 翻译：  这种进口限制将违反世界贸易规则。
+  * 派生：  violation (n.违反，违背)
+  <br>
+
+- zigzag
+  * 词义：  n.之字形 a.之字形的 v.(使)成之字形，曲折盘旋
+  * 例句：  A glittering stream zigzags through the woods.
+  * 翻译：  一条波光粼粼的小溪弯弯曲曲地流过这片森林。
+  <br>
+
+- instruct
+  * 词义：  vt.教，教授，命令，指示
+  * 例句：  The forces are instructed to wait here until the commander arrives.
+  * 翻译：  军队接到命令在此地等候，直到指挥官到达。
+  * 派生：  instructive (a.有教育意义的) instructor (n.教师) instruction (n.教育，指导)
+  <br>
+
+- rarely
+  * 词义：  ad.很少，难得，稀有地
+  * 例句：  Modern sculpture rarely surprises us any more.
+  * 翻译：  现代雕刻很少再让我们吃惊了。
+  <br>
+
+- evolution
+  * 词义：  n.进化，渐进，演化
+  * 例句：  Scientists believe that human evolution has largely been affected by climatic changes.
+  * 翻译：  科学家们认为人类的进化在很大程度上受到了气候变化的影响。
+  * 派生：  evolutionary (a.进化的，进化论的) evolutionist (n.进化论者)
+  <br>
+
+- entry
+  * 词义：  n.进入，入口，通道，记载，条目
+  * 例句：  The very last entry on this page was a strange word.
+  * 翻译：  这页最后一个词条是个陌生的单词。
+  <br>
+
+- plantation
+  * 词义：  n.种植园
+  * 例句：  The planter had eighty plantations in this country.
+  * 翻译：  这个种植园主在这个国家拥有80个种植园。
+  <br>
+
+- landlady
+  * 词义：  n.女房东，女地主
+  * 例句：  The landlady also runs a coffee shop in the center of the town.
+  * 翻译：  这个女房东还在镇中心经营着一家咖啡店。
+  <br>
