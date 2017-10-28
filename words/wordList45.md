@@ -272,3 +272,71 @@
   * 例句：  The landlady also runs a coffee shop in the center of the town.
   * 翻译：  这个女房东还在镇中心经营着一家咖啡店。
   <br>
+
+---
+### 2017年10月29日 07:36:44
+
+- engagement
+  * 词义：  n.约会，约定，婚约，订婚
+  * 例句：  If Tom hd had no other engagement, he would have taken part in the party.
+  * 翻译：  要不是有其他的约会，汤姆就来参加这次晚会了。
+  * 短语：  make an engagement 约会
+  <br>
+
+- strengthen
+  * 词义：  v.加强，巩固
+  * 例句：  The conference will strengthen linkages between the two countries.
+  * 翻译：  这次会议将加强两国之间的联系。
+  <br>
+
+- embrace
+  * 词义：  v.拥抱 vt.包含
+  * 例句：  Sally embraced her mother before getting on the train.
+  * 翻译：  萨莉在上火车前拥抱了自己的母亲。
+  <br>
+
+- parliament
+  * 词义：  n.国会，议会
+  * 例句：  This time the parliament passed all of the pending legislation.
+  * 翻译：  这次会议通过了所有待定法规。
+  * 派生：  parliamentary (a.国会的，议会的)
+  <br>
+
+- pose
+  * 词义：  vt.造成(困难等); 提出(问题等)，陈述(观点等) vi.摆姿势，假装，冒充
+  * 例句：  You have only two minutes to pose your idea in the meeting.
+  * 翻译：  你在会上只有两分钟的时间来陈述自己的观点。
+  * 参考：  compose (v.组成，写作) dispose (v.处理，处置) expose (v.使暴露) impose(vt.征税,强加) oppose (v.反对) purpose (v.打算) suppose (vt.推想,假设)
+  <br>
+
+- shopkeeper
+  * 词义：  n.店主
+  * 例句：  The shopkeeper reduced the prices of all his goods by 20% for promotion.
+  * 翻译：  为了促销，店主将所有货物降价20%。
+  <br>
+
+- enthusiastic
+  * 词义：  a.热情的，热心的
+  * 例句：  Fanny was not so enthusiastic as her little sister.
+  * 翻译：  范妮没有她妹妹那么热情。
+  * 派生：  enthusiastically (ad.热心地，狂热地)
+  <br>
+
+- merely
+  * 词义：  ad.仅仅，只不过
+  * 例句：  Thomas argued that he was merely taking a nap.
+  * 翻译：  托马斯争辩说自己只是打了个盹而已。
+  <br>
+
+- mortgage
+  * 词义：  n.抵押(借款)
+  * 例句：  Now my houses and lands are all mortgaged.
+  * 翻译：  现在我的房子和地产都抵押出去了。
+  <br>
+
+- notorious
+  * 词义：  a.臭名昭著的，声名狼藉的，众所周知的
+  * 例句：  The bar has become notorious as a meeting place for drug dealers.
+  * 翻译：  这间酒吧作为毒品贩子接头的场所，已变得声名狼藉。
+  * 同义：  infamous (a.声名狼藉的，臭名昭著的) disreputable (a.声明狼藉的)
+  <br>
