@@ -340,3 +340,67 @@
   * 翻译：  这间酒吧作为毒品贩子接头的场所，已变得声名狼藉。
   * 同义：  infamous (a.声名狼藉的，臭名昭著的) disreputable (a.声明狼藉的)
   <br>
+
+---
+### 2017年10月30日 07:07:18
+
+- disturb
+  * 词义：  vt.扰乱，妨碍，使不安，使烦恼
+  * 例句：  Tom was disturbed to hear of his mother's illness.
+  * 翻译：  听说母亲生病了，汤姆感到很不安。
+  <br>
+
+- parasite
+  * 词义：  n.寄生虫
+  * 例句：  This creature is parasite that infects the brain.
+  * 翻译：  这种生物是一种能使脑部收到感染的寄生虫。
+  <br>
+
+- confidential
+  * 词义：  a.秘密的，机密的
+  * 例句：  Monica read the letter to all her confidential friends.
+  * 翻译：  莫妮卡将这封信读给了所有好朋友听。
+  <br>
+
+- dramatic
+  * 词义：  a.戏剧的，戏剧性的，巨大的，突然的
+  * 例句：  The earth's climate may go through dramatic changes in the future.
+  * 翻译：  将来全球气候可能会发生巨大的变化。
+  * 派生：  dramatically (a.戏剧性的，显著地)
+  <br>
+
+- chip
+  * 词义：  n.碎片，(土豆等的)薄片，芯片
+  * 例句：  There's a computer chip inside an IC.
+  * 翻译：  IC卡里有一个电脑芯片。
+  <br>
+
+- sincere
+  * 词义：  a.诚挚的，诚恳的，忠实的，忠诚的
+  * 例句：  I expect to have very sincere conversations with friends.
+  * 翻译：  我希望能给朋友进行非常诚恳的交谈。
+  * 派生：  sincerely (ad.真诚地)
+  <br>
+
+- vertical
+  * 词义：  a.垂直的，竖的 n.垂线
+  * 短语：  a vertical line 垂直线 // vertical motion 竖直运动 
+  * 派生：  vertically (ad.垂直地)  
+  <br>
+
+- marine
+  * 词义：  a.海的，海生的，船舶的，航海的
+  * 例句：  The government regulates marine navigation. 
+  * 翻译：  船舶的航行由政府调控。
+  <br>
+
+- impetus
+  * 词义：  n.推动(力)，促进
+  * 例句：  The treaty will give an impetus to trade between the two countries.
+  * 翻译：  该条约将促进两国间的贸易发展。
+  * 同义：  stimulus (n.促进(因素)，刺激(物)) spur (n.刺激(物),激励)
+  <br>
+
+- nephew
+  * 词义：  n.侄子，外甥
+  <br>
