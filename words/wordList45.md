@@ -404,3 +404,91 @@
 - nephew
   * 词义：  n.侄子，外甥
   <br>
+  
+---
+### 2017年10月31日 09:21:41
+
+- naughty
+  * 词义：  a.顽皮的，淘气的，猥亵的
+  * 例句：  Tom was punished for using naughty words.
+  * 翻译：  汤姆因使用污言秽语而受到了惩罚
+  <br>
+
+- apart
+  * 词义：  ad.撇开，分开，分离，相距，相隔
+  * 例句：  Jane and her husband currently live apart because they have jobs in different cities.
+  * 翻译：  简和丈夫在不同的城市工作，所以目前两地分居。
+  * 考点：  apart from 除去
+  <br>
+
+- perform
+  * 词义：  v.履行，执行，做，表演，演出
+  * 例句：  The children performed a three-act play.
+  * 翻译：  孩子们表演了一出三幕剧。
+  <br>
+
+- punctual
+  * 词义：  a.严守时刻的，准时的，正点的
+  * 例句：  I was punctual in all my blind dates.
+  * 翻译：  我相亲一向很准时。
+  <br>
+
+- boycott
+  * 词义：  n./vi. (联合)抵制，拒绝参与
+  * 例句：  People began a commercial boycott of English goods in India.
+  * 翻译：  印度境内开始对英国货物进行商业上的联合抵制。
+  <br>
+
+- license / licence
+  * 词义：  n.许可证，执照 vt.准许，认可
+  * 例句：  My drive license has been revoked again for speeding.
+  * 翻译：  我因为超速行驶再次被吊销了驾照。
+  <br>
+
+- theft
+  * 词义：  n.偷窃，盗窃行为
+  * 例句：  Chris has spent five years in jail on the theft.
+  * 翻译：  克里斯因盗窃做了五年牢。
+  <br>
+
+- alphabet
+  * 词义：  n.字母表
+  * 派生：  alphabetical (a.依字母数序的) alphabetically (ad.一字母顺序地)
+  <br>
+
+- scarf
+  * 词义：  n.围巾，头巾
+  <br>
+
+- litter
+  * 词义：  n.垃圾，一窝(动物) vt.乱扔 v.产(仔)
+  * 例句：  The mother dog gave birth to a litter of 5 puppies.
+  * 翻译：  狗妈妈一次产下五只小狗。
+  * 同义：  trash (n.垃圾，废物) rubbish (n.垃圾，废物)
+  <br>
+  
+- overcome
+  * 词义：  vt.战胜，克服
+  * 例句：  You must overcome your limitations if you're going to succeed.
+  * 翻译：  要想成功就必须超越自身的局限。
+  <br>
+  
+- sponge
+  * 词义：  n.海绵
+  * 例句：  Many soaked up the spilled water with a sponge.
+  * 翻译：  玛丽用海绵吸干了溢出的水。
+  <br>
+  
+- slight
+  * 词义：  a.轻微地，微小的，纤细的，瘦弱的
+  * 例句：  John helped the slight old man walk up the stairs.
+  * 翻译：  约翰扶着那个瘦弱的老人上楼梯。
+  <br>
+  
+> 名言：
+> 
+> One's development, like the nature, is fluctuating. It is possible to have a high tide after a low ebb.<br>
+> -- Fu Lei
+>
+> 人的发展和自然界一样，总是波浪式的；低潮之后还有高潮再起的可能。<br>
+> -- 傅雷
