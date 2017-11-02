@@ -68,3 +68,68 @@
   * 例句：  The lash made Mike black and blue all over.
   * 翻译：  鞭打使迈克浑身青一块紫一块。
   <br>
+
+--- 
+### 2017年11月02日 08:54:35
+
+- prudent
+  * 词义：  a.谨慎的，深谋远虑的
+  * 例句：  I don't think it's a prudent move at this juncture.
+  * 翻译：  我认为在这个节骨眼儿上，这种做法是不谨慎的。
+  <br>
+
+- factor
+  * 词义：  n.因素，要素
+  * 例句：  Those scientists believe that our personalities and behavior patterns are largely determined by biological factors.
+  * 翻译：  那些科学家认为，我们的个性和行为模式主要是由生物因素决定的。
+  * 参考：  factual (a.事实的，实际的)
+  <br>
+
+- nap
+  * 词义：  n.小睡，打盹
+  * 例句：  If you want, you could take a nap right here.
+  * 翻译：  如果你愿意，可以在这里打个盹儿。
+  <br>
+
+- finding
+  * 词义：  n.发现，发现物 [pl.]调查(研究)结果
+  * 例句：  The humour in the life takes finding.
+  * 翻译：  生活中的幽默需要人们去发掘。
+  <br>
+
+- astronaut
+  * 词义：  n.宇航员
+  * 例句：  The astronauts bag their wastes and return them to the earth.
+  * 翻译：  宇航员把垃圾装袋并带回地球。
+  <br>
+
+- overpass
+  * 词义：  n.过街天桥
+  * 短语：  an expressway overpass 高速公路立交桥
+  * 同义：  overbridge (n.天桥)
+  <br>
+
+- plight
+  * 词义：  n.困境，苦境
+  * 例句：  The plight of children in the orphanage was terrible.
+  * 翻译：  孤儿院里孩子们的处境很糟糕。
+  <br>
+
+- muscular
+  * 词义：  a.肌肉的，肌肉发达的，强健的
+  * 例句：  The muscular man lifted the heavy barbell over his head.
+  * 翻译：  这个肌肉发达的男人把沉重的杠铃举过头顶。
+  <br>
+
+- video
+  * 词义：  n.电视，视频，录像 a.电视的，视频的，录像的
+  * 例句：  I bought a video camera so I could record my wedding.
+  * 翻译：  我买了一台摄像机，这样我就可以把自己的婚礼拍下来。
+  * 参考：  videophone (n.电视电话)
+  <br>
+
+- vocabulary
+  * 词义：  n.词汇，词汇量，词汇表
+  * 例句：  At eighteen months Martin has a vocabulary of thirty to fifty words.
+  * 翻译：  在18个月大的时候，马丁就有30-50的词汇量了。
+  <br>
