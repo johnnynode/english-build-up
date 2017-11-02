@@ -133,3 +133,71 @@
   * 例句：  At eighteen months Martin has a vocabulary of thirty to fifty words.
   * 翻译：  在18个月大的时候，马丁就有30-50的词汇量了。
   <br>
+
+---
+### 2017年11月03日 04:07:27
+
+- cite
+  * 词义：  vt.引用，引证, 举(例)
+  * 例句：  Mrs.White cited the high unemployment figures as evidence of the failure of government policy.
+  * 翻译：  怀特夫人引用了庞大的失业人数来证明政府政策的失误。
+  * 参考：  excite (vi.兴奋)
+  <br>
+
+- portray
+  * 词义：  vt.描写，描绘，扮演，饰演
+  * 例句：  The actor portrayed Othello very successfully.
+  * 翻译：  这位男演员十分成功地饰演了奥赛罗。
+  * 同义：  depict (v.描述，描写) describe (v.描写，形容) represent (v.描绘，扮演)
+  <br>
+
+- unfortunately
+  * 词义：  ad.不幸地，可惜地
+  * 例句：  Your explanation is persuasive,but unfortunately, there is a little defect in it.
+  * 翻译：  你的解释很有说服力，但可惜的是，其中有些小小的不足。
+  <br>
+
+- adolescent
+  * 词义：  n.青少年 a.青春期的，青少年的
+  * 例句：  At the age of sixteen the adolescent is granted certain adult rights.
+  * 翻译：  年满16周岁的青少年可以享有成年人的某些权利。
+  * 考点：  adolescent period 青春期
+  <br>
+
+- mug
+  * 词义：  n.大怀 vt.对...行凶抢劫
+  * 例句：  I got mugged when I had a walk in the park last night.
+  * 翻译：  昨晚，我在公园里散步时被抢了。
+  <br>
+
+- controversy
+  * 词义：  n.争论，辩论
+  * 例句：  Their ideas caused violent controversy and irrational anger.
+  * 翻译：  他们的意见引发了激烈的争论和无名的怒火。
+  <br>
+
+- barn
+  * 词义：  n.谷仓，畜棚
+  * 例句：  The cowboys got the cows in the barn easily.
+  * 翻译：  牛仔们轻松地将牛群赶进了畜棚。
+  <br>
+
+- possibility
+  * 词义：  n.可能，可能性；可能的事，希望
+  * 例句：  There is no possibility that the football team will win tomorrow.
+  * 翻译：  明天那支足球队不可能赢。
+  <br>
+
+- sociology
+  * 词义：  n.社会学
+  * 例句：  Mary majored in sociology in the university.
+  * 翻译：  玛丽读大学时主修社会学。
+  * 派生：  socioeconomic (a. 社会经济学的)
+  <br>
+
+- skeleton
+  * 词义：  n.骨骼，骨架，框架，梗概，提要
+  * 例句：  The artist wrote the skeleton of his drama.
+  * 翻译：  这位艺术家为自己的戏剧写了提纲。
+  * 同义：  cadre (n.骨骼) framework (n.构架，框架) abstract (n.概要，摘要)
+  <br>
