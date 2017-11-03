@@ -201,3 +201,68 @@
   * 翻译：  这位艺术家为自己的戏剧写了提纲。
   * 同义：  cadre (n.骨骼) framework (n.构架，框架) abstract (n.概要，摘要)
   <br>
+  
+---
+### 2017年11月04日 04:22:40
+
+- rent
+  * 词义：  vt.租，租金 n.租金
+  * 例句：  I rented an apartment from workmate.
+  * 翻译：  我租了同事的一套公寓。
+  <br>
+
+- horn
+  * 词义：  n.角，触角，号，喇叭，角状物，角质品
+  * 例句：  A small tree was pierced by a curved bronze horn.
+  * 翻译：  一颗小树被一个弯曲的铜角刺穿了。
+  <br>
+
+- imagine
+  * 词义：  vt.想象，设想，料想
+  * 例句：  Can you imagine what it would be like to live without electricity?
+  * 翻译：  你能想象如果没有电，生活将会是一幅怎样的情景吗？
+  <br>
+
+- bureaucracy
+  * 词义：  n.官僚，官僚主义，官僚作风 (公司的)管理人员
+  * 例句：  The bureaucracy is usually an inefficient form of government.
+  * 翻译：  官僚主义往往是政府效率低下的一种形式。
+  * 参考：  bureaucratic (a.官僚主义的) bureaucratically (ad.官僚政治地)
+  <br>
+
+- hysterical
+  * 词义：  情绪异常激动的，歇斯底里的
+  * 例句：  At the terrible new, Joan let out a few hysterical shrieks.
+  * 翻译：  听到这个可怕的消息，琼发出几声歇斯底里的尖叫。
+  <br>
+
+- greedy
+  * 词义：  a.贪婪的，贪吃的，渴望的
+  * 例句：  Being greedy costs you in the end.
+  * 翻译：  你最终会因为贪婪而付出代价的。
+  <br>
+
+- conscientious
+  * 词义：  a.认真的，勤勤恳恳的
+  * 例句：  Ann was a very conscientious administrant.
+  * 翻译：  安是一位尽职尽责的管理者。
+  * 同义：  scrupulous (a.谨慎的，细心的)
+  <br>
+
+- participant
+  * 词义：  n.参加者，参与者
+  * 例句：  The number of registered participants in this year's marathon was half that of last year's.
+  * 翻译：  今年报名参加马拉松的人数是去年的一半。
+  <br>
+
+- transit
+  * 词义：  n.运输，载运 vt.通过，经过
+  * 例句：  The ship is currently transiting the Gulf of Mexico.
+  * 翻译：  这艘船正在横渡墨西哥湾。
+  <br>
+
+- therapy
+  * 词义：  n.治疗，理疗
+  * 例句：  The doctor adopted a new therapy to cure the cancer.
+  * 翻译：  医生采用了一种新的疗法来治疗癌症。
+  <br>
