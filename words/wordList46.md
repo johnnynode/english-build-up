@@ -266,3 +266,70 @@
   * 例句：  The doctor adopted a new therapy to cure the cancer.
   * 翻译：  医生采用了一种新的疗法来治疗癌症。
   <br>
+  
+---
+### 2017年11月05日 04:37:15
+
+- sour
+  * 词义：  a.酸的，发酸的，酸痛的，脾气坏的，刻薄的
+  * 例句：  Martin looked at Connie and made a sour face.
+  * 翻译：  马丁看着康妮，摆着一副刻薄的样子。
+  <br>
+
+- sensation
+  * 词义：  n.感觉，知觉，激动，轰动，轰动一时的事情
+  * 例句：  The prominent politician was quite a sensation the banquet.
+  * 翻译：  那位杰出的政治家在宴会上引起了巨大轰动。
+  * 派生：  sensational (a.耸人听闻的) sensationalize (vt.使引起轰动；以夸张的手法处理)
+  * 同义：  sense (n.感觉，直觉) perception (n.感知，感觉)
+  <br>
+
+- label
+  * 词义：  n.标签，标记 vt.贴标签于... 把...称为
+  * 例句：  Ellen starts labeling the books bought from a bookstore.
+  * 翻译：  艾伦开始给从书店买回的书贴标签。
+  <br>
+
+- electrical
+  * 词义：  a.电的，电学的
+  * 短语：  electrical equipment 电器设备 // electrical communications 电子通讯
+  * 参考：  electrify (vt.使充电，使通电，使电气化)  
+  <br>
+
+- scholarship
+  * 词义：  n.奖学金，学问，学识
+  * 例句：  Her scholarship in philosophy was quite weak.
+  * 翻译：  她的哲学知识非常薄弱
+  <br>
+
+- rational
+  * 词义：  a.理性的，合理的
+  * 例句：  There is no rational explanation for his actions.
+  * 翻译：  对于他的行为没有合理的理解。
+  * 派生：  irrational (a.不合理的，无理性的)
+  <br>
+
+- passive
+  * 词义：  a.被动的，消极的
+  * 例句：  Hours of watching TV shows with canned laughter only teacher kids to process information in a passive way.
+  * 翻译：  接连几个小时看录有笑声的电视节目只会教会孩子们以被动方式处理信息。
+  <br>
+
+- responsibility
+  * 词义：  n.责任，责任心，职责，任务
+  * 例句：  Typing and filing are Tony's responsibilities at work.
+  * 翻译：  托尼的工作职责就是打字和整理文件。
+  * 派生：  irresponsibility (n.无责任，不负责任)
+  <br>
+
+- odd
+  * 词义：  a.奇数的，单的，奇怪的，古怪的，临时的，不固定的，带零头的，余的
+  * 例句：  Tina wears rather odd clothes.
+  * 翻译：  蒂娜身着奇装异服。
+  <br>
+
+- gossip
+  * 词义：  n.流言蜚语, 说长道短的人 vt.传播流言蜚语，说长道短
+  * 例句：  I want to know who have spread such vicious gossip about me.
+  * 翻译：  我想知道谁散布了关于我的恶毒谣言。
+  <br>
