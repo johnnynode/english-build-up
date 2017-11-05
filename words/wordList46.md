@@ -333,3 +333,74 @@
   * 例句：  I want to know who have spread such vicious gossip about me.
   * 翻译：  我想知道谁散布了关于我的恶毒谣言。
   <br>
+
+---
+### 2017年11月06日 05:34:24
+
+- glacier
+  * 词义：  n.冰河，冰川
+  * 例句：  How to deal with potential catastrophes such as the sea level's rise which resulted from melting glaciers?
+  * 翻译：  怎样应对如冰川融化导致的海平面上升这种潜在的灾难呢?
+  <br>
+
+- routine
+  * 词义：  n.例行公事，常规 a.常规的，例行的
+  * 例句：  I have a few routine questions to ask you.
+  * 翻译：  我有一些常规性的问题要问你。
+  * 短语：  a routine task 日常事物
+  * 派生：  ad.例行公事地，常规地
+  <br>
+
+- saddle
+  * 词义：  n.鞍，马鞍，鞍状物
+  * 例句：  Hundreds of thousands of hides were turned into shoes, harness and saddles.
+  * 翻译：  成千上万张皮革被加工成鞋子、马具和马鞍。
+  * 考点：  in the saddle 在职，掌权
+  * 参考：  sandal (n.凉鞋)
+  <br>
+
+- correspondence
+  * 词义：  n.通信，信件，符合，一致，相当，相似
+  * 例句：  There was some correspondence in temperament between the two actresses.
+  * 翻译：  这两位女演员气质有些相似。
+  <br>
+
+- submarine
+  * 词义：  n.潜水艇 a.水底的，海底的
+  * 例句：  The diver moves forward a vast submarine cavern.
+  * 翻译：  潜水员朝海底深处游去。
+  * 同义：  underwater (a.水下面的) submerged (a.在水中的，淹没的)
+  <br>
+
+- finite
+  * 词义：  有限的
+  * 例句：  Natural resources are finite on the earth.
+  * 翻译：  地球上的自然资源是有限的。
+  * 反义：  boundless (a.无限的，无边际的)
+  <br>
+
+- candidate
+  * 词义：  n.候选人，申请人，报考者
+  * 例句：  Nearly one-third candidates were students.
+  * 翻译：  报考者中三分之一是学生。
+  <br>
+
+- mystery
+  * 词义：  n.神秘，神秘的事物，神秘小说，侦探小说
+  * 例句：  John hoped to write dozens of murder mysteries.
+  * 翻译：  约翰希望自己能写成许多谋杀侦探小说。
+  <br>
+
+- garbage
+  * 词义：  n.垃圾
+  * 例句：  I dumped the coffee grounds into the garbage.
+  * 翻译：  我把咖啡渣倒进了垃圾里。
+  <br>
+
+- resemblance
+  * 词义：  n.相似，相似处
+  * 例句：  The resemblance between the two signatures was remarkable.
+  * 翻译：  两个签名的相似之处是明显的。
+  * 同义：  similarity (n.相似处) likeness (n.相像，相似物)
+  * 反义：  dissimilarity (n.相异)
+  <br>
