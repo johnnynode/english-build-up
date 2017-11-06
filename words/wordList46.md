@@ -404,3 +404,100 @@
   * 同义：  similarity (n.相似处) likeness (n.相像，相似物)
   * 反义：  dissimilarity (n.相异)
   <br>
+
+---
+### 2017年11月07日 04:17:37
+
+- dimension
+  * 词义：  n.尺寸，尺度，维数，度数，元
+  * 短语：  the dimensions of the room 房间的面积 // three dimensions 三维(空间)  
+  <br>
+
+- resolve
+  * 词义：  v.决心，决定, (使)分解，溶解，决议，解决；n. 解决，解答，决心，决议
+  * 例句：  The school board didn't accept this resolve.
+  * 翻译：  学校董事会没有接受这个决议。
+  * 派生：  resolved (a.下定决心的，断然的)
+  <br>
+
+- album
+  * 词义：  n.粘贴簿，集邮簿，相册
+  * 例句：  Jane showed me several albums of photographs of her family.
+  * 翻译：  简给我看了几本她家的相册。
+  <br>
+
+- insurance
+  * 词义：  n.保险，保险费，保险业
+  * 例句：  With the risks obvious and growing, prudent people would take out an insurance policy now.
+  * 翻译：  随着风险变得明显并日益增加，谨慎的人现在会拿出一套保险方案。
+  * 考点：  accident insurance 意外险 // life insurance 人寿险
+  <br>
+
+- drum
+  * 词义：  n.鼓，圆桶
+  * 例句：  One of the drums had a leak, and oil flowed everywhere.
+  * 翻译：  有个圆桶漏了，油流得到处都是。
+  * 派生：  drummer (n.鼓手) 
+  * 参考：  drum beat (n.鼓声，鼓点)
+  <br>
+
+- clay
+  * 词义：  n.黏土，泥土
+  * 例句：  Mary gave me a clay model of a bird as a birthday present.
+  * 翻译：  玛丽把一个用泥土捏成的小鸟作为生日礼物送给了我。
+  <br>
+
+- regulate
+  * 词义：  vt.管制，控制，调节，校准，调整
+  * 例句：  How can you regulate your sleep during the trip?
+  * 翻译：  你在旅行时是怎样调整睡眠的?
+  <br>
+
+- likely
+  * 词义：  a.很有可能的；有希望的 ad.大概，多半
+  * 例句：  As likely as not, Joe's forgotten all about her matter.
+  * 翻译：  乔大概已经把这事忘得一干二净了。
+  * 派生：  likeliness (n.可能,大概) unlikely(a.未必的，不太可能的)
+  <br>
+
+- conceive
+  * 词义：  v.摄像，想象，构思，以为
+  * 例句：  I cannot conceive of the reason why you wouldn't present the meeting.
+  * 翻译：  我想不出你有什么理由不出席会议。
+  * 派生：  inconceivable (a.难以想象的)
+  * 同义：  think (vt.想，认为) imagine (vt.想象，设想)
+  <br>
+
+- discreet
+  * 词义：  a.谨慎的，慎重的
+  * 例句：  Reporters asked some discreet questions about the politician.
+  * 翻译：  记者们小心谨慎地问了几个关于那位政治家的问题。
+  * 参考：  discrete (a.不连续的)
+  <br>
+  
+- trademark
+  * 词义：  n.商标
+  * 例句：  Coca-Cola is one of the most famous trademarks in the world.
+  * 翻译：  可口可乐是世界上最著名的商标之一。
+  * 同义：  brand (n.商标，牌子)
+  <br>
+  
+- gross
+  * 词义：  a.总的，毛(重)的， 显而易见的，粗鲁的 n.总额
+  * 例句：  My gross income is too poor to support the family.
+  * 翻译：  我的总收入少得可怜，无法养家糊口。
+  <br>
+  
+- infinite
+  * 词义：  n.无限的，无穷的 n.无限的
+  * 例句：  The infinite of the space is still a mystery to us human beings.
+  * 翻译：  无限的太空对我们人类来说仍然是个谜。
+  <br>
+  
+> 名言：
+>
+> Weep no more, no sign, nor groan. Sorrow calls no time that's gone.<br>
+> -- John Fletcher
+>
+> 别哭泣，别叹息，别呻吟；悲伤唤不回流逝的时光。<br>
+> -- 弗莱沏.J.
