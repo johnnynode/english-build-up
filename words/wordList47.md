@@ -66,3 +66,69 @@
   * 例句：  Pigeon is the symbol of peace.
   * 翻译：  鸽子是和平的象征。
   <br>
+
+---
+### 2017年11月09日 06:51:09
+
+- toss
+  * 词义：  v.(使)摇摆, 颠簸, 向上扔, 辗转反侧
+  * 例句：  Our ship was tossed by the rough waves.
+  * 翻译：  我们的船在惊涛骇浪中颠簸。
+  <br>
+
+- criticism
+  * 词义：  n.批评，评论
+  * 短语：  accept criticism from
+  * 翻译：  接受...的批评
+  <br>
+
+- differ
+  * 词义：  vi.(from) 与...不同，与...意见不同
+  * 例句：  Whatever the father said, the boy would differ with him.
+  * 翻译：  无论父亲说什么，男孩总是跟他持不同意见。
+  <br>
+
+- aerial
+  * 词义：  a.空中的，航空的 n.天线
+  * 短语：  TV broadcast aerial 电视广播天线 // aerial port 航空港，航空港，空运站
+  <br>
+
+- radar
+  * 词义：  n.雷达
+  * 例句：  The pilot's radar indicated there was another plane nearby.
+  * 翻译：  飞行员的雷达显示附近有另一架飞机。
+  * 考点：  radar screen 雷达屏幕
+  <br>
+
+- reciprocal
+  * 词义：  a.相互的，往复的，互利的
+  * 例句：  These countries have a reciprocal agreement to combat terrorism.
+  * 翻译：  这些国家达成了一个互利协议，共同对抗恐怖主义。
+  * 同义：  mutual (a.相互的，彼此的) // unilateral (a.单边的)
+  <br>
+
+- poultry
+  * 词义：  n.家禽
+  * 例句：  The restaurant offers a varied enu of fish and poultry.
+  * 翻译：  这家餐馆提供各种鱼类和禽类菜肴。
+  <br>
+
+- reputation
+  * 词义：  n.名声，声望
+  * 例句：  The scandal damaged the reputation of the President.
+  * 翻译：  这次丑闻使总统的声望受损。
+  <br>
+
+- fracture
+  * 词义：  n.裂缝，裂痕，骨折 v.(使)断裂，(使)折断
+  * 例句：  One of the chair legs fractured when I knocked it over.
+  * 翻译：  椅子被我弄翻时断了一条腿。
+  * 同义：  crack (v.使破裂，使发出爆裂声 n.裂缝，爆裂声) split (v.(使)分裂,分离 n.裂口)
+  <br>
+
+- starve
+  * 词义：  v.(使)饿死,挨饿
+  * 例句：  Most people believe that the government would no longer allow them to starve.
+  * 翻译：  大多数人相信，政府不会再让他们挨饿。
+  * 派生：  starvation (n.饥饿，饿死)
+  <br>
