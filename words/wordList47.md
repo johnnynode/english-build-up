@@ -132,3 +132,71 @@
   * 翻译：  大多数人相信，政府不会再让他们挨饿。
   * 派生：  starvation (n.饥饿，饿死)
   <br>
+
+---
+### 2017年11月10日 05:13:51
+
+- decrease
+  * 词义：  v.(使)减少，减小 n.减少，减小
+  * 例句：  Retail stores were experiencing a decrease in revenues.
+  * 翻译：  零售商正在经历收入的减少。
+  * 反义：  increase (n./.增加，增大)
+  <br>
+
+- accessory
+  * 词义：  n.附件，配件 a.附属的
+  * 例句：  This university has several accessory factories.
+  * 翻译：  这所大学有几家校办工厂。
+  <br>
+
+- witness
+  * 词义：  n.目击者，证人，证据，证明 vt.目击，目睹，作证
+  * 例句：  None could witness the suspect was present at that time.
+  * 翻译：  没有证据可以证明嫌疑人当时在场。
+  <br>
+
+- stagger
+  * 词义：  vt.使吃惊，使错开，使交错 vi.蹒跚，摇晃 n.蹒跚，踉跄
+  * 例句：  The drunkard gave a stagger when he stood up.
+  * 翻译：  醉鬼站起来的时候踉跄了一下。
+  * 同义：  shamble (v.蹒跚而行) astound (v.使惊骇，使大吃一惊)
+  <br>
+
+- departure
+  * 词义：  n.离开，启程
+  * 例句：  Everyone of us was anxious to know the hour of our departure.
+  * 翻译：  我们每个人都急切地想知道起程的时间。
+  <br>
+
+- optimum
+  * 词义：  a.最好的，最有利的
+  * 例句：  The research shows the optimum distance to watch the animal is about 20 meters.
+  * 翻译：  研究显示观察该动物的最佳距离是20米左右。
+  <br>
+
+- tender
+  * 词义：  a.嫩的，脆弱的，敏感的，温柔的，温厚的 v.提出，提供，投标
+  * 例句：  Many companies tender for the contract to build the Olympic stadiums.
+  * 翻译：  很多公司投标承建奥林匹克运动场馆。
+  <br>
+
+- scenario
+  * 词义：  n.情境，剧本
+  * 例句：  Ella accepted this drama because it had such a moving scenario.
+  * 翻译：  艾拉觉得剧本很感人，所以接下了这部戏。
+  <br>
+
+- automatic
+  * 词义：  n.自动机械 a.自动的，机械的，无意识的
+  * 例句：  I don't like automatic washing machine.
+  * 翻译：  我不喜欢自动洗衣机。
+  * 派生：  automatically (ad.自动地，机械地)
+  <br>
+
+- furious
+  * 词义：  a.狂怒的，狂暴的，猛烈的
+  * 例句：  The professor will be furious with us if we're late again.
+  * 翻译：  如果我们再迟到，教授会对我们大发雷霆的。
+  * 同义：  irate (a.发怒的，愤怒的) fierce(a.强烈的，狂热的) turbulent(a.汹涌的，狂暴的)
+  * 反义：  meek (a.温顺的，驯服的) calm (a.镇静的,平静的) unperturbed (a.汹涌的，狂暴的)
+  <br>
