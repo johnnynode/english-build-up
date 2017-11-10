@@ -200,3 +200,73 @@
   * 同义：  irate (a.发怒的，愤怒的) fierce(a.强烈的，狂热的) turbulent(a.汹涌的，狂暴的)
   * 反义：  meek (a.温顺的，驯服的) calm (a.镇静的,平静的) unperturbed (a.汹涌的，狂暴的)
   <br>
+  
+---
+### 2017年11月11日 04:44:39
+
+- botany
+  * 词义：  n.植物学
+  * 例句：  They were discussing the questions which the professor asked in the botany class.
+  * 翻译：  他们在讨论植物学课上教授提出的问题。
+  * 派生：  botanical (a.植物学的) botanist (n.植物学家)
+  <br>
+
+- puzzle
+  * 词义：  n.难题，谜，迷惑 vt.使迷惑，使为难
+  * 短语：  be puzzled about 对...迷惑不解 // puzzle over 对...苦心思考 // puzzle out 经过苦苦思考得出  
+  * 派生：  botanical (a.植物学的) botanist (n.植物学家)
+  <br> 
+
+- span
+  * 词义：  n.跨度，跨距，范围
+  * 例句：  The workers completed the building within the span of six months.
+  * 翻译：  工人们在短短六个月里就建成了这栋大楼。
+  * 参考：  lifespan 寿命。
+  <br>
+
+- territory
+  * 词义：  n.领土，版图，领域，范围
+  * 例句：  The explorers claimed the land as Chinese territory.
+  * 翻译：  探险家们声称这块土地是中国的领土。
+  <br>
+
+- giant
+  * 词义：  n.巨人，巨物 a.巨大的
+  * 例句：  To me you seem like a giant, both in body and soul.
+  * 翻译：  对我来说，无论从身体上还是从精神上看，你都是个巨人。
+  * 考点：  industrial giants 工业巨头
+  <br>
+
+- economics
+  * 词义：  n.经济学，经济情况 
+  * 例句：  Social science disciplines include geography, economics, political science, psychology and sociology.
+  * 翻译：  社会科学学科包括地理学，经济学，政治学，心理学和社会学。
+  <br>
+
+- ignite
+  * 词义：  v.点火，引燃
+  * 例句：  The liquid ignited when somebody dropped a match in it accidentally.
+  * 翻译：  有人无意中将一根火柴掉到了这种液体里，它就着了起来。
+  * 同义：  light (vi.点，点燃) kindle (vt.点燃，引起 vi.着火)
+  * 反义：  extinguish (vt.熄灭，扑灭)
+  <br>
+
+- civilise / civilize
+  * 词义：  vt.使文明，教化
+  * 例句：  The African countries hoped to civilize all the primitive tribes on the land.
+  * 翻译：  非洲国家希望把所有的原始部落都变成文明社会。
+  * 派生：  civilized (a.文明的) uncivilized (a.不文明的)
+  <br>
+
+- sunset
+  * 词义：  n.日落
+  * 例句：  The sky was already aflame with the sunset.
+  * 翻译：  天空已被落日映红。
+  <br>
+
+- pursuit
+  * 词义：  n.追赶，追求，职业，工作
+  * 例句：  The writer devoted all his life to the literary pursuit.
+  * 翻译：  那位作家将自己的毕生精力都献给了文学事业。
+  * 同义：  chase (n.追逐)
+  <br>
