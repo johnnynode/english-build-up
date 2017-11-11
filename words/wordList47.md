@@ -270,3 +270,72 @@
   * 翻译：  那位作家将自己的毕生精力都献给了文学事业。
   * 同义：  chase (n.追逐)
   <br>
+
+---
+###
+
+- column
+  * 词义：  n.圆柱，柱状物，列；(报刊中的)专栏
+  * 例句：  I wanted to have my own column in the magazine.
+  * 翻译：  我想在这本杂志上开设自己的专栏。
+  <br>
+
+- resent
+  * 词义：  vt.对...表示愤恨，怨恨
+  * 例句：  Young people deeply resent any criticism of their friends by their parents.
+  * 翻译：  年轻人极为反感父母对自己朋友的任何批评。
+  * 派生：  resentment (n.愤恨，怨恨)
+  * 同义：  hate (v.憎恨，讨厌) grude(v.怨恨)
+  * 参考：  recent （a.新近的） present (a.现在的 vt.提出，发表)
+  <br>
+
+- mature
+  * 词义：  a.成熟的，熟的，成年人的
+  * 例句：  As a 28-year-old man,you should think and speak like a mature adult.
+  * 翻译：  作为一个28岁的男人，你应该像个成年人一样思考和说话。
+  * 派生：  maturity (n.成熟，完备) permaturely (ad.早熟地)
+  <br>
+
+- diabetes
+  * 词义：  n.糖尿病，多尿症
+  * 例句：  You should keep your blood sugar under control if you have diabetes.
+  * 翻译：  如果你有糖尿病，就应该控制好血糖。
+  <br>
+
+- cyberspace
+  * 词义：  n.计算机世界，网络空间
+  * 例句：  In cyberspace, reward comes only to those willing to take a chance.
+  * 翻译：  在网络空间里奖赏只会降临到那些甘愿冒险的人身上。
+  <br>
+
+- revolve
+  * 词义：  v.(使)旋转
+  * 例句：  The planets rotate as they revolve around the sun.
+  * 翻译：  行星围绕太阳旋转的同时也在自转。
+  <br>
+
+- enroll
+  * 词义：  v.招收，登记，入学
+  * 例句：  Bill enrolled in a four-year teacher-training course.
+  * 翻译：  比尔注册了一个四年的教师培训课程。
+  * 同义：  register (vt.登记，注册)
+  <br>
+
+- feudal
+  * 词义：  a.封建的
+  * 例句：  The government abolished the land ownership of the feudal landlord class.
+  * 翻译：  政府废除了封建地主阶级的土地所有权。
+  <br>
+
+- minimize
+  * 词义：  vt.使减到最少，使降到最低
+  * 例句：  Clean energy will be adopted to help minimize air pollution.
+  * 翻译：  人们将采用清洁能源从而把空气污染降到最低限度。
+  <br>
+
+- heap
+  * 词义：  n.(一)堆，大量，许多
+  * 例句：  We‘ve got to get going because we got a heap of work waiting at the institute.
+  * 翻译：  我们得走了，因为研究所里有一大堆工作要做。
+  * 短语：  a big heap of books 一大堆书
+  <br>
