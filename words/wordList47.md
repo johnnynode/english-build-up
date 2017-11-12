@@ -272,7 +272,7 @@
   <br>
 
 ---
-###
+### 2017年11月12日 05:59:38
 
 - column
   * 词义：  n.圆柱，柱状物，列；(报刊中的)专栏
@@ -338,4 +338,75 @@
   * 例句：  We‘ve got to get going because we got a heap of work waiting at the institute.
   * 翻译：  我们得走了，因为研究所里有一大堆工作要做。
   * 短语：  a big heap of books 一大堆书
+  <br>
+
+---
+### 2017年11月13日 05:30:37
+
+- shorthand
+  * 词义：  n.速记
+  * 例句：  The researchers found that Newton's books contained some strange shorthand symbols.
+  * 翻译：  研究人员发现牛顿书里有许多奇怪的速记符号。
+  <br>
+
+- reluctant
+  * 词义：  a.(to do) 不愿的，勉强的
+  * 例句：  Tom was reluctant to admit his mistakes.
+  * 翻译：  汤姆不愿承认自己的错误。
+  * 派生：  ad. 不情愿地，勉强地
+  <br>
+
+- bride
+  * 词义：  n.新娘
+  * 例句：  Anna was the bride of my dreams.
+  * 翻译：  安娜是我梦中的新娘。
+  * 参考：  bribe (n.贿赂)
+  <br>
+
+- plunge
+  * 词义：  v.(使)投入，(使)插入,陷入,猛冲 n.投入，尝试
+  * 例句：  Two men plunged into the water to save the boy.
+  * 翻译：  两个人一头扎进水里去救那个男孩。
+  * 同义：  dive (n./vi.潜水，跳水)
+  <br>
+
+- velvet
+  * 词义：  n.丝绒，天鹅绒 a.丝绒制的，柔软的
+  * 例句：  Mr fabrics are as soft as velvet.
+  * 翻译：  很少有布料像天鹅绒那么柔软。
+  <br>
+
+- hollow
+  * 词义：  a.空的，中空的，空洞的，空虚的 vi.(out)挖空，凿空
+  * 例句：  The carver hollowed out the wooden stick to make a flute.
+  * 翻译：  雕刻匠把木棍掏空做了一支长笛。
+  <br>
+
+- retort
+  * 词义：  vt.反驳，回嘴 n.反驳，回嘴
+  * 例句：  Mary responded to her rival's insult with a very clever retort.
+  * 翻译：  玛丽非常机智地回击了对手的侮辱。
+  * 同义：  rebut (v.反驳，驳斥) // refute (v.反驳，驳倒)
+  * 参考：  distort (vt.歪曲) // tortuous (a.弯曲的)
+  <br>
+
+- striking
+  * 词义：  a.显著的，惊人的
+  * 例句：  Mary‘s similarity to her mother is striking.
+  * 翻译：  玛丽和她妈妈惊人地相像。
+  * 派生：  strikingly (ad.显著地，惊人地)
+  <br>
+
+- exclaim
+  * 词义：  v.呼喊，惊叫，大声说
+  * 例句：  The frightened girl started shivering and exclaiming.
+  * 翻译：  受惊的女孩开始颤抖并惊叫起来。
+  <br>
+
+- expel
+  * 词义：  vt. 把...开除，驱逐，排出
+  * 例句：  The mine expelled great quantities of crude oil.
+  * 翻译：  矿井中喷出了大量的原油。
+  * 同义：  banish (vt.流放，驱逐) // dismiss (vt.开除，解雇) // ejct (vt.撵出，驱赶)
+  * 考点：  expel sb. from the school. 开除某人的学籍。
   <br>
