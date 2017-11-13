@@ -410,3 +410,85 @@
   * 同义：  banish (vt.流放，驱逐) // dismiss (vt.开除，解雇) // ejct (vt.撵出，驱赶)
   * 考点：  expel sb. from the school. 开除某人的学籍。
   <br>
+
+---
+### 2017年11月14日 04:21:07
+
+- sometime
+  * 词义：  ad.曾经，在某一时刻，有一天
+  * 例句：  The house was built sometime around 1991.
+  * 翻译：  房子是1991年前后建造的
+  <br>
+
+- duplicate
+  * 词义：  n.复制品，副本 a.复制的，二重的，二倍的 vt.复写，复制，使加倍
+  * 例句：  Mary's daughter is an exact duplicate of herself.
+  * 翻译：  玛丽的女儿活脱脱就是她的翻版。
+  * 短语：  a duplicate of the document 文件副本 // a duplicate key 一把备用钥匙 // duplicate a key
+  <br>
+
+- diagram
+  * 词义：  a.图解，图表
+  * 例句：  The architech laid out the diagrams of the bridge on the table.
+  * 翻译：  建筑师将几张桥梁图样摊在桌子上。
+  <br>
+
+- chronic
+  * 词义：  a.(疾病)慢性的，积习难改的，严重的，坏的
+  * 例句：  Pollution is the chronic problem of the country.
+  * 翻译：  环境污染是该国的大难题。
+  * 同义：  inveterate (a.根深蒂固的，成癖的)
+  <br>
+
+- vast
+  * 词义：  a.巨大的，辽阔的，大量的，巨额的
+  * 例句：  The actors were brought from Paris to London at vast expense.
+  * 翻译：  这些演员是花巨额从巴黎请到伦敦的。
+  * 派生：  vastly (ad.很，非常)
+  <br>
+
+- nowhere
+  * 词义：  ad.任何地方都不，没有地方
+  * 例句：  Nowhere in nature is aluminum found free.
+  * 翻译：  自然界中不存在游离状态的铝。
+  * 考点：  nowhere near 离...很远
+  <br>
+
+- independent
+  * 词义：  a.独立的，自主的
+  * 例句：  The art exhibit is self-supporting and is independent of government funding.
+  * 翻译：  这个艺术展览是靠自己的力量举办的，没有依赖政府的资助。
+  * 派生：  independently (ad.独立地，自立地)
+  <br>
+
+- tolerate
+  * 词义：  vt.容忍，默许
+  * 例句：  I will not tolerate your insolence!
+  * 翻译：  我绝不会容忍你的傲慢无礼！
+  <br>
+
+- religious
+  * 词义：  a.宗教的，信教的，虔诚的
+  * 例句：  China respects different cultural backgrounds, religious beliefs and moral concepts.
+  * 翻译：  中国尊重不同的文化背景、宗教信仰和道德观念。
+  <br>
+
+- unlikely
+  * 词义：  a.未必的，不可能的，靠不住的
+  * 例句：  However, that rate of growth seems unlikely to continue, given the market turmoil.
+  * 翻译：  然而考虑到市场的动荡，这种增长速度似乎不太可能持续下去。
+  <br>
+
+- abolish
+  * 词义：  vt.废除，取消
+  * 例句：  Racially discriminatory laws should be abolished.
+  * 翻译：  带有种族歧视的法律应该被废除。
+  * 同义：  annul (vt.废除，取消) destroy (vt.破坏，消灭)
+  <br>
+
+- lens 
+  * 词义：  n.透镜，镜头
+  * 例句：  The sailor's face is pressed up against the lens of the periscope.
+  * 翻译：  那名税收的脸津贴着潜望镜的镜头。
+  * 考点：  contact lens 隐形眼镜
+  <br>
