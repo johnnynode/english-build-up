@@ -68,3 +68,69 @@
   * 例句：  In less than a fornight now, you'll be a free man.
   * 翻译：  从现在起，再有不到两个星期你就自由了。
   <br>
+
+---
+### 2017年11月16日 04:24:34
+
+- brilliant
+  * 词义：  a.光辉的，灿烂的，卓越的，有才华的
+  * 例句：  Dali is considered as a brilliant painter.
+  * 翻译：  人们认为，达利是一位才华横溢的画家。
+  <br>
+
+- liberty
+  * 词义：  n.自由
+  * 例句：  The authors of the United States Constitution attempted to establish an effective national government while preserving autonomy for the states and liberty for individuals.
+  * 翻译：  美国宪法的制定者们试图在保持国家自治和人民自由的同时建立一个有效的国家政府。
+  * 考点：  at liberty 自由，有空
+  <br>
+
+- bulk
+  * 词义：  n.体积，容积，大批，大量，大块
+  * 例句：  The bulk of the block of steel almost crushed the delivery truck.
+  * 翻译：  zhe这一大堆钢块几乎把货运卡车压垮了。
+  * 考点：  in bulk 散装，大批，大量
+  <br>
+
+- cope
+  * 词义：  vi.(with)竞争，对抗 (with)对付，应付，妥善处理
+  * 例句：  To cope with their competition, famers and ranchers started to work together.
+  * 翻译：  为了应对竞争，农场主和牧场主开始合作了。
+  <br>
+
+- aluminum / alumnum
+  * 词义：  n.铝
+  <br>
+
+- porter
+  * 词义：  n.搬运工人，门房
+  * 例句：  Mrs. White gave her luggage to the porter.
+  * 翻译：  怀特太太把行李交给了搬运工。
+  <br>
+
+- acclaim
+  * 词义：  vt.向...欢呼，为...喝彩 n.称赞
+  * 例句：  The whole city turned out to acclaim the hero.
+  * 翻译：  人们倾城而出为英雄欢呼喝彩。
+  * 参考：  proclaim (vt.宣告，声明) exclaim (v.呼喊)
+  <br>
+
+- disastrous
+  * 词义：  a.灾难性的
+  * 例句：  The damage caused by the disastrous war is unprecedented.
+  * 翻译：  这场灾难性的战争所造成的破坏是空前的
+  * 同义：  calamitous (a.多灾难的，不幸的)
+  <br>
+
+- erupt
+  * 词义：  vi.(尤指火山)爆发
+  * 例句：  The volcano erupted after years of dormancy.
+  * 翻译：  那座火山在休眠多年之后爆发了。
+  <br>
+
+- tune
+  * 词义：  n.调子，曲调 v.调音，调频，调整，调节
+  * 例句：  Listeners from out of China can also tune in to CRI.
+  * 翻译：  中国以外的听众也能收听中国国际广播电台。
+  * 考点：  tune in (to sth.) 收听
+  <br>
