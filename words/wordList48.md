@@ -134,3 +134,70 @@
   * 翻译：  中国以外的听众也能收听中国国际广播电台。
   * 考点：  tune in (to sth.) 收听
   <br>
+
+---
+### 2017年11月17日 04:36:55
+
+- energetic
+  * 词义：  a.有力的，精力旺盛的
+  * 例句：  Energetic people now rouinely work through their 60s and beyond, and remian dazzlingly productive.
+  * 翻译：  现在精力充沛的人通常能工作到60多岁或更久，而且还保持着非凡的生产力。
+  * 考点：  energy-intensive 能源密集型的
+  <br>
+
+- sarcastic
+  * 词义：  a.讽刺的，挖苦的，嘲笑的
+  * 例句：  John's sarastic comments insulted David.
+  * 翻译：  约翰带有讽刺意味的评论侮辱了戴维。
+  <br>
+
+- chap
+  * 词义：  n.小伙子，家伙
+  * 例句：  Mary fell in love with the chap from New York.
+  * 翻译：  玛丽爱上那个从纽约来的小伙子。
+  <br>
+
+- hug
+  * 词义：  n./vt.热烈拥抱，紧抱
+  * 例句：  He extends his arms out for a bear hug.
+  * 翻译：  他张开双臂准备来一个热烈的拥抱。
+  <br>
+
+- brake
+  * 词义：  v.刹车 n.制动(器)，闸，刹车
+  * 例句：  The kind driver braked for the animals.
+  * 翻译：  这位好心的司机看到动物时踩了刹车。
+  <br>
+
+- annual
+  * 词义：  a.每年的，年度的 n.年刊，年鉴
+  * 例句：  My husband was the editor in chief of the annual.
+  * 翻译：  我丈夫是那本年鉴的主编。
+  <br>
+
+- snatch
+  * 词义：  n.抢夺 v.抢夺
+  * 例句：  The young boy made a snatch at the bag on the table but was caught by a big hand.
+  * 翻译：  那个小男孩神兽想抢桌上的书包，却被一只大手抓住了。
+  * 同义：  grab (v.抢夺) clutch (v.抓住，抓取)
+  <br>
+
+- miniture
+  * 词义：  n.缩小的模型，缩图 a.微型的，缩小的
+  * 例句：  James took out his miniature camera from the bag.
+  * 翻译：  詹姆斯从包里掏出了微型照相机。
+  * 派生：  miniaturization (n.小型化，微型化)
+  * 同义：  tiny (a.极小的，微小的) minute (a.微小的)
+  * 反义：  giant (a.巨大的，庞大的)
+  <br>
+
+- epoch
+  * 词义：  n.时期，时代
+  * 短语：  a new epoch 新纪元
+  <br>
+
+- conversely
+  * 词义：  ad.相反
+  * 例句：  You can add the fluid to the powder or, conversely, the powder to the fluid.
+  * 翻译：  你可以将液体倒进粉末里，或者反过来将粉末加进液体里。
+  <br>
