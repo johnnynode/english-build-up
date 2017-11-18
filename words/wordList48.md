@@ -268,3 +268,75 @@
   * 例句：  Mary used a towel to dry her hair.
   * 翻译：  玛丽用一条毛巾擦干她的头发。
   <br>
+
+---
+### 2017年11月19日 04:51:35
+
+- lunar
+  * 词义：  a. 月的，月亮的
+  * 例句：  Today's lunar and solar eclipses can be predicted within seconds of their occurrences.
+  * 翻译：  现在对日食和月食发生时间的预测能够精确到秒。
+  * 考点：  lunar calendar 农历
+  <br>
+
+- relax
+  * 词义：  v.(使)松弛，放松，休息
+  * 例句：  The athletes need massages to help them relax.
+  * 翻译：  运动员们需要用按摩来帮助自己放松。
+  * 派生：  relaxation (n.松弛，放松) // relaxed (a.轻松的，不紧张的)
+  <br>
+
+- beneficial
+  * 词义：  a.有力的，有益的
+  * 例句：  Fresh air is beneficial to health.
+  * 翻译：  新鲜空气有益健康。
+  * 参考：  beneficence (n.善行)
+  <br>
+
+- suicide
+  * 词义：  n.自杀，自取灭亡
+  * 例句：  The girl tried to commit suicide, but failed.
+  * 翻译：  女孩自杀未遂。
+  * 考点：  physician-assisted suicide 医生帮助下的自杀
+  * 派生：  suicidal (a.自杀的，自毁的，自杀式的)
+  <br>
+
+- gorgeous
+  * 词义：  a.华丽的，绚丽的，令人十分愉快的，极好的
+  * 例句：  Charlie plays a simple but absolutely gorgeous melody.
+  * 翻译：  查理放了一首简单但好听的曲子。
+  * 同义：  splendid (a.令人惊奇的，极好的) // resplendent (a.华丽的，辉煌的)
+  <br>
+
+- requirement
+  * 词义：  n.(for,of)需要，需要的东西，要求
+  * 例句：  Could you tell me the rquirement for my term paper?
+  * 翻译：  你能告诉我期末论文有什么要求吗？
+  * 参考：  required (a.必需的)
+  <br>
+
+- coke
+  * 词义：  n.焦炭，焦煤 [C-]可口可乐， 可卡因 
+  * 例句：  The coke is used to produce steel.
+  * 翻译：  煤炭用来炼钢。
+  <br>
+
+- consume
+  * 词义：  vt.消费，消耗，耗尽
+  * 例句：  This kind of car consumes much gasoline.
+  * 翻译：  这种车很费油。
+  * 派生：  consumer (n.消费者) // consumerism (n.用户至上主义)
+  <br>
+
+- lord
+  * 词义：  n.上帝，主，主人，长官，君主，贵族
+  * 例句：  The servants'subjection to their lord was not of their own faith.
+  * 翻译：  这些仆人对主人的顺从并非己愿。
+  * 考点：  the Lord Chancellor 大法官
+  <br>
+
+- bandage
+  * 词义：  n.绷带 vt.用绷带扎缚
+  * 例句：  The doctor bandaged Ben's arm.
+  * 翻译：  医生用绷带把本的胳膊包扎了起来。
+  <br>  
