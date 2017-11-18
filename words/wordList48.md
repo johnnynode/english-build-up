@@ -201,3 +201,70 @@
   * 例句：  You can add the fluid to the powder or, conversely, the powder to the fluid.
   * 翻译：  你可以将液体倒进粉末里，或者反过来将粉末加进液体里。
   <br>
+
+--- 
+### 2017年11月18日 08:23:18
+
+- equip
+  * 词义：  vt.(with) 装备，配备
+  * 例句：  The traveler equipped himself for a long journey.
+  * 翻译：  旅行者为长途旅行准备好了行装。
+  * 派生：  equipment (n.设备)
+  <br>
+
+- prosecute
+  * 词义：  vt.继续从事，对...提起公诉，告发，检举
+  * 例句：  They prosecuted me and it turned out that I went to jail.
+  * 翻译：  他们对我提起公诉，结果我进了监狱。
+  <br>
+
+- hike
+  * 词义：  n.徒步旅行，(数量，价格等)增加，上升 vi.徒步旅行 vt.提高(价格等)
+  * 例句：  The ferry hiked the fare to forty cents.
+  * 翻译：  船费涨到了40美分。
+  <br>
+
+- particle
+  * 词义：  n.粒子，微粒， 小品词，虚词
+  * 例句：  The teacher asked Mary to make a sentence with this particle.
+  * 翻译：  老师让玛丽用这个小品词造句。
+  <br>
+
+- genetics
+  * 词义：  n.遗传学
+  * 例句：  The science of genetics is the biggest thing to hit drug research since penicillin was discovered.
+  * 翻译：  自从发现青霉素以来，遗传学对药物研究的影响最大。
+  <br>
+
+- formulate
+  * 词义：  vt.构想，形成，系统地阐述
+  * 例句：  The scholars formulated possible solutions to the problem.
+  * 翻译：  学者们系统地阐述了几种有可能解决这个问题的方案。
+  * 派生：  formulation (n.规划，构想)
+  <br>
+
+- pneumonia
+  * 词义：  n.肺炎
+  * 例句：  My mother died of pneumonia when I was just a kid.
+  * 翻译：  当我还是个孩子的时候，母亲就患肺炎去世了。
+  <br>
+
+- impulse
+  * 词义：  n.推动(力) 冲动，刺激
+  * 例句：  I didn't need a cell phone, and I jsut bought it on impulse.
+  * 翻译：  我不需要手机，只是一时冲动太买的。
+  * 考点：  a healthy impulse 健康的推动力。// a charitable impulse 怜悯 // on (the) impulse （of...) 凭(...的)冲动
+  * 同义：  desire (n.愿望，欲望) urge (n.强烈的欲望，迫切的要求)
+  <br>
+
+- naval
+  * 词义：  a.海军的，军舰的
+  * 例句：  Yesterday I came across a retired naval officer in the street.
+  * 翻译：  昨天我在街上偶遇意味退役的海军军官。
+  <br>
+
+- towel
+  * 词义：  n.毛巾
+  * 例句：  Mary used a towel to dry her hair.
+  * 翻译：  玛丽用一条毛巾擦干她的头发。
+  <br>
