@@ -340,3 +340,70 @@
   * 例句：  The doctor bandaged Ben's arm.
   * 翻译：  医生用绷带把本的胳膊包扎了起来。
   <br>  
+
+---
+### 2017年11月20日 05:09:03
+
+- sanction
+  * 词义：  vt.批准，认可 n.批准，认可，约束因素，约束力，国际制裁
+  * 例句：  Economic sanctions meant not trading with other countries.
+  * 翻译：  经济制裁意味着不能与其他国家进行贸易往来。
+  <br>
+
+- agenda
+  * 词义：  n.议事日程
+  <br>
+
+- breast
+  * 词义：  n.胸膛，乳房
+  * 例句：  Jay look out a MP4 player fromm his breast pocket.
+  * 翻译：  杰伊从胸前的口袋里掏出一个MP4播放器。
+  * 参考：  beast (n.兽) abreast (ad.并肩地，并排地)
+  <br>
+
+- guild
+  * 词义：  n.协会，行会
+  * 例句：  The Screen Actors’ Guild was the only group who protested his movie at that time.
+  * 翻译：  美国演员工会是当时唯一反对这部影片的组织。
+  <br>
+
+- seemingly
+  * 词义：  ad.表面上，看上去
+  * 例句：  Seemingly there is nothing we can do, so we'd better go now.
+  * 翻译：  看来我们帮不上忙，还是走吧。
+  * 同义：  apparently (ad.显然，表面上) ostensibly (ad.表面上)
+  <br>
+
+- veto 
+  * 词义：  n.否决权 vt.否决
+  * 例句：  I have the veto for this project.
+  * 翻译：  我不同意这个方案。
+  * 同义：  prohibit (v.禁止，阻止) interdiction （n.禁止)
+  * 反义：  approve (v.批准，通过)
+  * 参考：  vote (n./v.投票)
+  <br>
+
+- alcohol
+  * 词义：  n.酒精，乙醇
+  * 例句：  Some people think alcohol and tobacco are as addictive as heroin and cocaine.
+  * 翻译：  有些人认为酒精和烟草像海洛因和可卡因一样会使人上瘾。
+  * 派生：  alcoholism (n.酒精中毒)
+  <br>
+
+- province
+  * 词义：  n.省，领域，范围
+  * 例句：  In the province of biology, Dr. Smith is very respeted.
+  * 翻译：  史密斯博士在生物学领域非常受人尊敬。
+  <br>
+
+- fell
+  * 词义：  vt.砍倒，砍伐
+  * 例句：  The woodcutter felled five huge trees in one hour.
+  * 翻译：  伐木者一个小时砍倒了五棵大树。
+  <br>
+
+- sob
+  * 词义：  vi.哭泣，呜咽 n.哭泣，呜咽
+  * 例句：  Her little thunderstorm cleared off in a sob.
+  * 翻译：  她小小的"雷阵雨"在一阵啜泣声中转晴了。
+  <br>
