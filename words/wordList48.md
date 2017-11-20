@@ -407,3 +407,75 @@
   * 例句：  Her little thunderstorm cleared off in a sob.
   * 翻译：  她小小的"雷阵雨"在一阵啜泣声中转晴了。
   <br>
+
+---
+### 2017年11月21日 03:21:48
+
+- prospect
+  * 词义：  n. 景色，前途，展望
+  * 例句：  From the top of the hill, there's a beautiful prospect over the vally.
+  * 翻译：  从山顶俯视，山谷的景色很美。
+  <br>
+
+- crawl
+  * 词义：  vi.爬行，蠕动，缓慢(地)行进 n.爬行，蠕动，缓慢(地)行进。
+  * 例句：  Traffic on the fourthring road was moving at a cral.
+  * 翻译：  四环路上的车辆缓慢地行进着。
+  <br>
+
+- philosopher
+  * 词义：  n.哲学家，哲人
+  <br>
+
+- geometry
+  * 词义：  n.几何学
+  <br>
+
+- tilt
+  * 词义：  v.(使)倾斜,（使)倾侧
+  * 例句：  The earthquae tilted the house to one side.
+  * 翻译：  地震使房子向一边倾斜了。
+  * 考点：  at full tilt 全速地，全力地
+  * 同义：  incline (v.(使)倾斜) lean (v.(使)倾斜)
+  <br>
+
+- per
+  * 词义：  每
+  * 例句：  The package was sent per post.
+  * 翻译：  这个包裹是邮寄过来的。
+  * 考点：  per hour 每小时
+  <br>
+
+- density
+  * 词义：  n.密集，密度，浓度
+  * 例句：  The doctors wanted to find drugs that could increase bonedensity.
+  * 翻译：  医生们想找到能增加骨密度的药。
+  * 短语：  population density 人口密度
+  <br>
+
+- beloved
+  * 词义：  a.受爱戴的，敬爱的
+  * 例句：  My beloved grandmother would like to see us next week.
+  * 翻译：  我亲爱的祖母下周想来看望我们。
+  <br>
+
+- quota
+  * 词义：  n.定额，限额，配额
+  * 例句：  Each member has a quota of ten tickts to sell for the performance.
+  * 翻译：  每位成员限额出售10张演员门票。
+  <br>
+
+- historian
+  * 词义：  n.历史学家
+  * 例句：  The historian has authored several books on the Civil War.
+  * 翻译：  这位历史学家写了多本关于内战的书。
+  <br>
+
+
+> 名言：
+>
+> Ideal is the beacon. Without ideal, there is no secure direction; without direction, there is no life.<br>
+> -- Leo Tolstoy
+>
+> 理想是指路明灯。没有理想，就没有坚定的方向；没有方向，就没有生活。<br>
+> -- 托尔斯泰.L.
