@@ -50,3 +50,4 @@
 - [wordList46](./words/wordList46.md)
 - [wordList47](./words/wordList47.md)
 - [wordList48](./words/wordList48.md)
+- [wordList49](./words/wordList49.md)
