@@ -69,3 +69,77 @@
   * 例句：  Tom asked a clergy to preside over his wedding.
   * 翻译：  汤姆请一位牧师为他主婚。
   <br>
+
+---
+### 2017年11月23日 06:17:06
+
+- destuctive
+  * 词义：  a.破坏(性)的
+  * 例句：  An unusually destructive drought prevailed throughout the region.
+  * 翻译：  一场罕见的具有破坏性的干旱在该地区肆虐。
+  <br>
+
+- sole
+  * 词义：  a.单独的，唯一的，专有的，独用的 n.脚垫，鞋底
+  * 例句：  The sole survivor of the accident is a cild.
+  * 翻译：  这场车祸的唯一幸存者是一个孩子。
+  * 短语：  sole agent 独家代理
+  * 派生：  solely (ad.独自地，单独地)
+  <br>
+
+- gut
+  * 词义：  n.勇气，胆量，内脏，肠，肠线 a.本能的，直觉的 vt.毁坏，取出...的内置
+  * 例句：  The lion gutted the buffalo.
+  * 翻译：  狮子挖出了野牛的内脏。
+  <br>
+
+- paralyze / paralyse
+  * 词义：  vt.使瘫痪(麻痹)，使丧失作用
+  * 例句：  Martin's father was paralyzed from the waist down in an accident.
+  * 翻译：  马丁的父亲在一次事故中下肢瘫痪了。
+  <br>
+
+- calculate
+  * 词义： v.计算，推算，计划，打算
+  * 例句： We calculate the trip will take about eight days.
+  * 翻译： 我们推算这次旅行大概要花8天的时间。
+  * 派生： calculation (n.计算) calculator (n.计算器)
+  <br>
+
+- yield
+  * 词义：  vt.出产，生长 vi.屈服，服从 n.产量，收获
+  * 例句：  We must do everything to raise the per unit yield.
+  * 翻译：  我们要千方百计提高单位面积产量。
+  * 考点：  yield to 屈服，服从
+  <br>
+
+- create
+  * 词义：  vt.创造，创作，引起，造成，建立
+  * 例句：  In the discussion, I tried to create a friendly atmosphere, but failed.
+  * 翻译：  在讨论会上，我试图营造一种友好的气氛，但没有奏效。
+  * 派生：  creation (n.创造，创作物) creationism (n.神创论) creationist (n.神创论者)
+  <br>
+
+- blossom
+  * 词义：  n.花
+  * 例句：  What a riot of color there is with all kinds of flowers in blossom!
+  * 翻译：  百花齐放，姹紫嫣红！
+  * 短语：  be in blossom 开花(强调状态) // come into blossom 开花 (强调动作)
+  * 同义：  flower (n.花) // bloom (vi.开花) // develop (vi.发展)
+  * 参考：  bloom (vi.开花) bosom (n.胸部)
+  <br>
+
+- predominant
+  * 词义：  a.（over）占优势的，主要的，突出的
+  * 例句：  The predominant colors were red and yellow in the designs.
+  * 翻译：  红色和黄色是这些设计图样中的主色调。
+  * 派生：  predominance (n.优势) predominantly （ad.主要地，占优势地）
+  * 同义：  chief （a.主要的，首要的） leading (a.领导的，最主要的)
+  <br>
+
+- glimpse
+  * 词义：  n./vt. 一瞥，瞥见
+  * 例句：  Lucy caught a glimpse of herself in the mirror and then left the room.
+  * 翻译：  露西瞥了一眼镜子里的自己，然后离开了房间。
+  * 考点：  catch/get a glimpse of 瞥见
+  <br>
