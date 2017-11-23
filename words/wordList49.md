@@ -20,15 +20,16 @@
 
 - excerpt
   * 词义：  n.摘录，选录，节录
-  * 例句：  I have seen a short excerp from the film on television.
+  * 例句：  I have seen a short excerpt from the film on television.
   * 翻译：  我已经在电视上看过这部影片的片段了。
   * 参考：  except (prep.除...之外) expect (vt.期待) exempt (v.免除)
   <br>
 
 - missile
   * 词义：  n.导弹，发射物
+  * 例句：  Anything that is thrown as a weapon can be called a missile.
+  * 翻译：  任何投掷的武器都可以称为导弹。
   * 短语：  a nuclear missile 核导弹 // a missile base 导弹基地  
-  * 翻译：
   <br>
 
 - franchise
@@ -81,7 +82,7 @@
 
 - sole
   * 词义：  a.单独的，唯一的，专有的，独用的 n.脚垫，鞋底
-  * 例句：  The sole survivor of the accident is a cild.
+  * 例句：  The sole survivor of the accident is a child.
   * 翻译：  这场车祸的唯一幸存者是一个孩子。
   * 短语：  sole agent 独家代理
   * 派生：  solely (ad.独自地，单独地)
@@ -142,4 +143,65 @@
   * 例句：  Lucy caught a glimpse of herself in the mirror and then left the room.
   * 翻译：  露西瞥了一眼镜子里的自己，然后离开了房间。
   * 考点：  catch/get a glimpse of 瞥见
+  <br>
+
+---
+### 2017年11月24日 03:34:00
+
+- whirl
+  * 词义：  v.（使) 旋转，打转 n.旋转，急转
+  * 例句：  The apprentice started to whirl a wooden cylinder round and round under the guidance of his master.
+  * 翻译：  学徒在师傅的指导下开始一圈圈地转着一个木制圆筒。
+  <br>
+
+- diliver
+  * 词义：  v.交付，递送，释放，发表，表达，接生
+  * 例句：  The doctor delivered the woman of twinboys.
+  * 翻译：  医生为这名妇女接生了一对孪生男婴。
+  <br>
+
+- escalate
+  * 词义：  v.(使)逐步增长或发展，(使)更紧张，逐步上升，逐步加强，扩大
+  * 例句：  The government is deliberately escalating the war for political resons.
+  * 翻译：  出于政治原因，政府蓄意使战争逐步升级。
+  <br>
+
+- sorrow
+  * 词义：  n.悲哀，悲痛
+  <br>
+
+- thereof
+  * 词义：  ad.由此，因此
+  * 例句：  You are a person with all the privileges and responsibilities, therof.
+  * 翻译：  你享受各种特权，也由此承担相应的责任。
+  <br>
+
+- drip
+  * 词义：  vi.滴下，漏水 n.滴，水滴，点滴
+  * 例句：  Marsha likes to listen to the steady drip of the rain quietly.
+  * 翻译：  玛莎喜欢静静聆听连绵不断的雨滴声。
+  <br>
+
+- canvas
+  * 词义：  n.帆布，油画布，油画
+  * 例句：  Lucy always wears her neat little canvas shoes.
+  * 翻译：  露西总是穿着她那双小巧的帆布鞋。
+  <br>
+
+- trash
+  * 词义：  n.垃圾，废物，拙劣的文学(或艺术)作品，没用的人，社会渣滓 vt.捣毁，破坏
+  * 例句：  Would you trash twenty years of friendship just because of the rumors? 
+  * 翻译：  你会紧紧因为这些谣言毁掉20年的友谊吗?
+  <br>
+
+- detail
+  * 词义：  n.细节，详情 vt.详述
+  * 例句：  The witness described the traffic accident in great detail.
+  * 翻译：  目击证人极为详细地描述了那起交通事故。
+  <br>
+
+- hatch
+  * 词义：  vi.孵，孵出 vt.策划，图谋 n.舱口，小门
+  * 例句：  John was persuaded to hatch some wrongdoings once.
+  * 翻译：  约翰曾经被诱导策划过一些坏事。
   <br>
