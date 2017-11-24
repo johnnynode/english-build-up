@@ -205,3 +205,69 @@
   * 例句：  John was persuaded to hatch some wrongdoings once.
   * 翻译：  约翰曾经被诱导策划过一些坏事。
   <br>
+
+---
+### 2017年11月25日 06:55:08
+
+- statue
+  * 词义：  n.塑像，雕像
+  * 例句：  The statue would be perfect but for a few small flaws in its base.
+  * 翻译：  要不是底部有一些瑕疵的话，这座雕像应该是很完美的。
+  <br>
+
+- orchard
+  * 词义：  n.果园
+  * 例句：  We went into the orchard to help the farmers pick apples yesterday.
+  * 翻译：  我们昨天去果园帮助农民采摘苹果了。
+  <br>
+
+- practitioner
+  * 词义：  n.开业者(尤指医生、律师等)，从业者
+  * 例句：  When a person is sick, he may go to a general practitioner.
+  * 翻译：  一个人生病时可以去看全科医师。
+  <br>
+
+- impress
+  * 词义：  vt.(on)印，盖印，留下印象，引人注目 n.印记
+  * 例句：  The massacre left inerasable impress in the survivors' hearts.
+  * 翻译：  大屠杀在幸存者心中留下了无法抹去的印记。
+  * 派生：  impressed (a.感到印象深刻的)
+  <br>
+
+- tariff
+  * 词义：  n.关税，税率，(旅馆，旅店等)价目表，收费表
+  * 例句：  The telephone company published its tariffs in the telephone book.
+  * 翻译：  电话公司在电话手册上公布了其收费表。
+  * 同义：  duty (n.税) tax (n.税，税款)
+  <br>
+
+- section
+  * 词义：  n.章节，部分，地区，部门，科，截面，剖面
+  * 例句：  The doctors are studying the section of the human brain.
+  * 翻译：  医生们正在研究人脑的剖面图。
+  * 参考：  session (n.会议，开庭)
+  <br>
+
+- superficial
+  * 词义：  a.表面的，肤浅的，浅薄的
+  * 短语：  superficial phenomenon 表面现象 // a superficial resemblance 外表的相似 // superficial knowledge 肤浅的知识
+  <br>
+
+- ceremony
+  * 词义：  n.典礼，仪式，礼节，礼仪
+  * 例句：  The couple still use much ceremony with each other now.
+  * 翻译：  这对夫妇现在依然相敬如宾。
+  * 考点：  opening/closing ceremony 开/闭幕式 // graduation ceremony 毕业典礼
+  <br>
+
+- ankle
+  * 词义：  n.踝
+  * 例句：  Tim twisted his ankle while he was playing basketball.
+  * 翻译：  蒂姆打篮球的时候扭伤了脚踝。
+  <br>
+
+- recruit
+  * 词义：  v.招募(新兵)，招收(新成员) n.新兵，新成员
+  * 例句：  The Argentine ants can quickly recruit a huge army from their network of nests.
+  * 翻译：  阿根廷蚁类能很快从巢穴网中招募一支庞大的蚁军。
+  <br>
