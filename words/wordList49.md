@@ -271,3 +271,75 @@
   * 例句：  The Argentine ants can quickly recruit a huge army from their network of nests.
   * 翻译：  阿根廷蚁类能很快从巢穴网中招募一支庞大的蚁军。
   <br>
+
+---
+### 2017年11月26日 04:33:37
+
+- priority
+  * 词义：  n.先，前，优先，优先权
+  * 例句：  The badly wounded should take priority for medical attention over those sightly hurt.
+  * 翻译：  重伤员较之轻伤员应该优先接受治疗。
+  <br>
+
+- scare
+  * 词义：  n.惊恐，恐慌 v.（使）惊吓，受惊
+  * 例句：  What the hell does your girl want to do? Does she want to scare everybody to death?
+  * 翻译：  你女朋友究竟想干什么？难道她想把每个人都吓死吗？
+  * 派生：  scared (a.感到恐惧的，受到惊吓的) scary (a.吓人的，易受惊的)
+  * 短语：  scare sb. stiff 把某人吓得僵住
+  <br>
+
+- nationality
+  * 词义：  n.国际，民族
+  * 例句：  Linda married a foreigner who has Egyptian nationality.
+  * 翻译：  琳达嫁给了一个有埃及国籍的人。
+  * 参考：  nationally (ad.全国地) nationwide（a.全国性的) nultinational (a.多国的)
+  <br>
+
+- leather
+  * 词义：  n.皮革，皮革制品
+  * 例句：  Tom lounged in the capacious leather chair reading a newspaper.
+  * 翻译：  汤姆懒洋洋地躺在宽大的皮椅里看报纸。
+  <br>
+
+- transport
+  * 词义：  vt.运输，运送，搬运 n.运输，运送，运输系统，运载工具
+  * 例句：  The farmers use tractors to transport the wheat from the farm to the mill.
+  * 翻译：  农民们用拖拉机将小麦从农场运到面粉厂。
+  * 派生：  transportation （n.运输，运送)
+  <br>
+
+- casual
+  * 词义：  a.偶然的，碰巧的，临时的，非正式的
+  * 例句：  The handsome man is dressed in simple casual clothes.
+  * 翻译：  这个英俊的发男子穿着简单的便装。
+  * 参考：  causal （a.原因的，因果关系的）
+  * 派生：  casually (ad.偶然地，临时地)
+  <br>
+
+- inject
+  * 词义：  vt.注射，注入
+  * 例句：  The nurse injected the patient with painkiller.
+  * 翻译：  护士给病人注射了止痛药。
+  * 考点：  inject with... 用...注入
+  * 派生：  injection (n.注射，注射剂)
+  <br>
+
+- descend
+  * 词义：  v.下来，下降
+  * 例句：  The fire ballon begant to descend and landed near the airfield.
+  * 翻译：  热气球开始下降，在机场附近着陆了。
+  <br>
+
+- mission
+  * 词义：  n.使命，任务，使团，代表团
+  * 短语：  carry out one's mission 执行任务  
+  * 考点：  military mission 军事任务 // urgent mission 紧急任务  
+  * 参考：  adminssion (n.允许进入) // commission (n.许可) // transmission (n.播送，发射)
+  <br>
+
+- scan
+  * 词义：  vt.细看，审视，浏览，扫描 n.粗略一看，扫描
+  * 例句：  His eyes scanned the room for any other exit.
+  * 翻译：  他用目光审视着整个房间，寻找其他出口。
+  <br>  
