@@ -343,3 +343,68 @@
   * 例句：  His eyes scanned the room for any other exit.
   * 翻译：  他用目光审视着整个房间，寻找其他出口。
   <br>  
+
+---
+### 2017年11月27日 05:41:00
+
+- ministry
+  * 词义：  n.(政府的)部门，牧师
+  * 例句：  People can call the ministry of justice for free legal advice.
+  * 翻译：  人们可以打电话到司法部门进行免费的法律咨询。
+  <br>
+
+- tackle
+  * 词义：  n.用具，器械，滑车 vt.处理，解决，对付
+  * 例句：  Don't forget to bring your fishing tacke when we go comaping by the lake.
+  * 翻译：  我们去湖边露营的时候你不要忘了带上钓具。
+  * 短语：  tackle a problem 着手解决问题 // shaving tackle 剃须用具
+  <br>
+
+- magnetic
+  * 词义：  a.磁的，有磁性的，有吸引力的
+  * 例句：  To be a good teacher, you must be enthusiastic and magnetic.
+  * 翻译：  要当好一名好老师，你就必须热情、有吸引力。
+  <br>
+
+- jewel
+  * 词义：  n.宝石，宝石饰物
+  * 例句：  Her joy lay deep in her heart like a jewel at the bottom of a clear pool.
+  * 翻译：  她的快乐深藏在心灵的最深处，就像沉入清澈池底的一颗宝石。
+  <br>
+
+- masculine
+  * 词义：  a.男性的，男子的，男子气概的，男子气的
+  * 例句：  Sfamantha looks rather masculine in tht suit.
+  * 翻译：  萨曼莎穿着那套衣服看上去很男性化。
+  * 同义：  macho (a.男子的，大男子气的) male (a.男性的)
+  * 反义：  effeminate （a.（男人) 女子气的） feminine (a.女性的，女人般的)
+  <br>
+
+- counter
+  * 词义：  n.柜台，计数器，计算器 a.相反的 v.抵制，反对，反击 ad.相反
+  * 例句：  I work at the check-out counter.
+  * 翻译：  我在收银台工作。
+  * 参考：  counteract (vt.抵消，中和) counterbalance （n.平衡力，势均力敌）
+  <br>
+
+- alarm
+  * 词义：  n.警报，惊恐，惊慌 vt.使惊恐，惊动，惊吓，向...报警，警告
+  * 例句：  John didn't take alarm at the news.
+  * 翻译：  约翰听到消息后，并没有惊慌。
+  <br>
+
+- Christ
+  * 词义：  n.基督，救世主
+  <br>
+
+- jargon
+  * 词义：  n.行话，术语
+  * 例句：  The report is full of statistical jargons.
+  * 翻译：  这份报告里充满了统计学术语。
+  <br>
+
+- identification
+  * 词义：  n.识别，鉴别
+  * 例句：  Just let us have your name and bank identification for VIP.
+  * 翻译：  请告诉我您的名字并出示银行贵宾卡。
+  <br>
