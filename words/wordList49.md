@@ -474,3 +474,37 @@
   * 翻译：  鲍勃在给警方的陈述中从自己的角度描述了这次事故。
   * 派生：  diversion (n.转移，转换)
   <br>
+
+- enclose
+  * 词义：  vt.围住，圈起，封入
+  * 例句：  The famer enclosed his land and kept cattle away from his crops.
+  * 翻译：  那个农民把自己田地圈了起来以防牲畜糟蹋庄稼。
+  <br>
+
+- articulate
+  * 词义：  a.善于表达的 vt.清晰明白地说
+  * 例句：  We each should articulate what we want.
+  * 翻译：  我们每个人应该说清楚自己需要什么。
+  <br>
+
+- subtle
+  * 词义：  a.精巧的，巧妙的，细微的，微妙的
+  * 例句：  That mysterious call was the beginning of a substle change in our family.
+  * 翻译：  那个神秘电话是我们家发生微妙变化的开端。
+  * 派生：  subtly (a.巧妙地，精细地, 细微地)
+  * 同义：  delicate (a.微妙的)
+  <br>
+
+- grain
+  * 词义：  n.谷物，谷类，粮食，颗粒，细粒
+  * 例句：  The young man can't hold with a grain of sand in his eyes.
+  * 翻译：  这个年轻人的眼里容不进一粒沙子。
+  <br>
+
+> 名言：
+>
+> Don't part with your illusions. When they are gone you may still exist, but you have ceased to live.<br>
+> -- Mark Twain
+>
+> 不要放弃你的幻想。当幻想没有了以后，你还可以生存，但是你虽生犹死。<br>
+> --马克·吐温
