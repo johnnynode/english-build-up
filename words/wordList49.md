@@ -408,3 +408,69 @@
   * 例句：  Just let us have your name and bank identification for VIP.
   * 翻译：  请告诉我您的名字并出示银行贵宾卡。
   <br>
+
+---
+### 2017年11月28日 04:17:59
+
+- analyse / analyze
+  * 词义：  vt.分析，分解
+  * 例句：  We must analyze every failure to find its cause.
+  * 翻译：  我们必须对每次失败进行分析，以找出失败的原因。
+  <br>
+
+- civilisation / civilization
+  * 词义：  n.文化，文明
+  * 例句：  human civilization 人类文明 // the Chinese civilization 中国文明
+  <br>
+
+- military
+  * 词义：  a.军事的，军用的，军队的
+  * 例句：  According to the Constitution of the country, all the young men do a year's military service.
+  * 翻译：  该国宪法规定，所有的男青年都要服一年兵役。
+  * 考点：  military-intelligence 军事情报
+  <br>
+
+- circumstance  
+  * 词义：  n. [pl.] 情况，形势，环境
+  * 例句：  Henry was forced by circumstances to leave his beloved.
+  * 翻译：  亨利被形势所迫，离开了心爱的人。
+  <br>
+
+- witch
+  * 词义：  n.女巫，巫婆 v.施巫术，迷惑
+  * 例句：  The princess was witched by the evil queen.
+  * 翻译：  公主被邪恶的王后施了巫术。
+  * 参考：  swith (n.开关)
+  <br>
+
+- award
+  * 词义：  n.奖(品)，授予，奖给
+  * 例句：  The soldier was awarded a medal for bravery.
+  * 翻译：  那名军人因勇敢而获得奖章。
+  <br>
+
+- awful
+  * 词义：  a.极度的，极坏的，糟糕的，威严的，可怕的 ad.十分，极度地
+  * 例句：  My roommates have been awful fractious these days.
+  * 翻译：  这些天，我的室友们特别容易发脾气。
+  <br>
+
+- glorious
+  * 词义：  a.壮丽的，辉煌的，光荣的
+  * 例句：  The hero died a glorious death.
+  * 翻译：  这位英雄死的光荣。
+  <br>
+
+- adopt
+  * 词义：  vt.采用，采纳，通过，收养
+  * 例句：  The divorced woman adopted two homeless children.
+  * 翻译：  这个离异的女人收养了两个无家可归的孩子。
+  * 参考：  adapt (vt.使适应，改编) adept (n.内行，老手)
+  <br>
+
+- version
+  * 词义：  n.型，版本，译本，译文，说法，描述
+  * 例句：  Bob gave his version of the accident in a statement to the police.
+  * 翻译：  鲍勃在给警方的陈述中从自己的角度描述了这次事故。
+  * 派生：  diversion (n.转移，转换)
+  <br>
