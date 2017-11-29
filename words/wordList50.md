@@ -72,3 +72,70 @@
   * 例句：  Dave's account for why he was late for work was totally fiction.
   * 翻译：  戴夫对自己上班迟到的解释纯粹是胡编乱造的。
   <br>
+
+---
+### 2017年11月30日 06:56:03
+
+- fiction
+  * 词义：  n.虚构，编造，小说
+  * 例句：  Dave's account for why he was late for work was totally fiction.
+  * 翻译：  戴维对自己上班迟到的解释纯粹是胡编乱造。
+  * 考点：  science fiction 科幻小说
+  <br>
+
+- niece
+  * 词义：  n.侄女，外甥女
+  <br>
+
+- accustom
+  * 词义：  vt.使习惯于
+  * 例句：  They had to accustom themselves to the cold weather.
+  * 翻译：  他们不得不使自己习惯于寒冷的天气。
+  * 派生：  accustomed (a.习惯于，通常的) accustom oneself/sb./sth. to sth.
+  * 短语：  使自己/某人/某物习惯于某事
+  <br>
+
+- resistance
+  * 词义：  n.（to) 抵抗，反抗，抵抗力，阻力，电阻
+  * 例句：  The reduction in white blood-cell counts lowers resistance to disease.
+  * 翻译：  白细胞数量的减少会降低身体对疾病的抵抗能力。
+  * 考点：  disease resistance 抗病能力
+  <br>
+
+- champion
+  * 词义：  n.冠军，得胜者，拥护者，勇士
+  * 例句：  Please make me your champion and I will always fight in your place.
+  * 翻译：  请让我成为你的勇士吧，我将永远为你而战。
+  * 参考：  champagne (n.香槟酒) compaign (n.战役)
+  <br>
+
+- obedience
+  * 词义：  n.服从，顺从
+  * 例句：  Obedience to orders is obigatory on a soldier.
+  * 翻译：  服从命令是军人的天职。
+  <br>
+
+- laboratory 
+  * 词义：  n.实验室，研究室
+  * 例句：  Research institutions show that laboratory animals receive humane care.
+  * 翻译：  研究机构表示实验室的动物得到了人道关怀。
+  <br>
+
+- sway
+  * 词义：  v.摇摆，摇动
+  * 例句：  The little girl swayed her head from side to side while reading.
+  * 翻译：  小女孩读书时，摇头晃脑的。
+  <br>
+
+- opaque
+  * 词义：  a.不透明(光)的，难理解的，晦涩的
+  * 例句：  Willy was confused by the opaque words in this message.
+  * 翻译：  威利被这条信息上含糊其辞的话给弄糊涂了。
+  <br>
+
+- perspective
+  * 词义：  n.透视画法，透视图，愿景，前途，观点，砍伐
+  * 例句：  I hope you can view the problem from a different perspective.
+  * 翻译：  我希望你能以不同的观点来看待这个问题。
+  * 考点：  in perspective 正确地
+  <br>
