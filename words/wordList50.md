@@ -139,3 +139,68 @@
   * 翻译：  我希望你能以不同的观点来看待这个问题。
   * 考点：  in perspective 正确地
   <br>
+
+---
+### 2017年12月01日 05:30:46
+
+- interview
+  * 词义：  vt.采访，面试 n.接见，会见，采访，面试
+  * 例句：  The newspaper sent over a reporter in the morning to interview the football player.
+  * 翻译：  该报早上派了一名记者去采访那名足球运动员。
+  * 考点：  phone interview 电话采访
+  * 派生：  interviewer (n.采访者，主持面试者)
+  <br>
+
+- accent
+  * 词义：  n.腔调，口音，重音(符号)
+  * 例句：  In the first sentence, "present" is a noun and the accent falls on the first syllable.
+  * 翻译：  在第一个句子里，"present"是名词，重音落在第一个音节上。
+  * 参考：  assent (v.同意) ascent (n.上升)
+  <br>
+
+- superstition
+  * 词义：  n.迷信，迷信行为；盲目的恐惧
+  * 例句：  It is a common supersition tht the number "4" is not good in China.
+  * 翻译：  中国有一种普遍的迷信，认为“4”是个不吉利的数字。
+  <br>
+
+- holder
+  * 词义：  n.持有者，占有者，支持物
+  * 例句：  Betty bought a mirror holder from the store.
+  * 翻译：  贝蒂从商店里买了一个镜架。
+  <br>
+
+- alternative
+  * 词义：  a.供选择的 n.替换物，选择对象
+  * 例句：  We chose Mary's plan as an altrnative to the former one.
+  * 翻译：  我们用玛丽的方案来代替从前的方案。
+  * 派生：  alternatively (ad.作为选择，二者择一地)
+  <br>
+
+- thorn
+  * 词义：  n.刺，荆棘
+  <br>
+
+- bewilder
+  * 词义：  vt.使迷惑，难住
+  * 例句：  The driver was bewildered by the sudden accident.
+  * 翻译：  司机被突如其来的事故弄得手足无措。
+  <br>
+
+- cargo
+  * 词义：  n.船货，货物
+  * 例句：  The ship carried cargoes of coal, lumber, and other goods.
+  * 翻译：  这艘船载有煤、木材以及其他货物。
+  <br>
+
+- turmoil
+  * 词义：  n.混乱，骚动
+  * 例句：  The witness's final statement threw the court into turmoil.
+  * 翻译：  证人的最后陈述让法庭陷入一片混乱。
+  <br>
+
+- auditorium
+  * 词义：  n.礼堂，观众席
+  * 例句：  The female singer boed and gestured to the audiorium.
+  * 翻译：  女歌手鞠躬并向观众席挥手示意。
+  <br>
