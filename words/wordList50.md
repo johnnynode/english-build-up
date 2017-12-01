@@ -204,3 +204,72 @@
   * 例句：  The female singer boed and gestured to the audiorium.
   * 翻译：  女歌手鞠躬并向观众席挥手示意。
   <br>
+
+> 每天十个单词，本博客收集整理自《考研英语词汇》，仅供学习和个人积累。
+>
+> [新东方单词在线阅读地址](http://download.dogwood.com.cn/online/kychlx/iPhone.html) ，希望这个链接一直都有效 :)
+
+---
+### 2017年12月02日 04:32:54
+
+- mosquito
+  * 词义：  n.蚊子
+  * 例句：  We heard a faint mosuito humming in the quiet dark room.
+  * 翻译：  在安静而漆黑的屋子里，我们听到蚊子微弱的嗡嗡声。
+  <br>
+
+- arithmetic 
+  * 词义：  n.算术
+  <br>
+
+- distress
+  * 词义：  n.苦恼，危难，不幸 v.使苦恼
+  * 例句：  We'll get out of the distress because some people will send a rescue ship for us.
+  * 翻译：  我们会脱离困境的，因为会有人派救生船来营救我们。
+  * 短语：  be distresed about/over... 为了...而苦恼
+  <br>
+
+- panic
+  * 词义：  n.恐慌，惊慌
+  * 例句：  The audiences were thrown into a pnic when the fire started.
+  * 翻译：  起火时，观众们选入一阵恐慌。
+  <br>
+
+- civilian
+  * 词义：  n.平民 a.平民的，民用的
+  * 例句：  The prince married a civilian.
+  * 翻译：  王子与一位平民结了婚。
+  * 短语：  civilian life 平民生活
+  <br>
+
+- April
+  * 词义：  n.四月
+  <br>
+
+- wicked
+  * 词义：  a.邪恶的，恶劣的，恶意的
+  * 例句：  The man in darkness smiled a wicked smile.
+  * 翻译：  黑暗中的那个人不怀好意的笑了笑。
+  <br>
+
+- stock
+  * 词义：  n.备料，库存，现货， n.股票，公债 vt.库存
+  * 例句：  We regret to inform you that the materials you ordered are out of stock.
+  * 翻译：  很遗憾告诉您，您订购的原料现在脱销了。
+  * 考点：  stockholder 股东 // stockmarket 股市
+  * 参考：  stockpile (n.积蓄，库存)
+  <br>
+
+- sympathetic
+  * 词义：  a.同情的，共鸣的
+  * 例句：  Sympathetic vibrations sometimes cause accidents.
+  * 翻译：  共振有时会引发事故。
+  * 派生：  sympathetically (ad.同情地，怜悯地，共鸣地)
+  <br>
+
+- melt  
+  * 词义：  v.(使)融化，(使)熔化
+  * 例句：  The snow on the tops of the mountains melted away.
+  * 翻译：  山顶上的冰雪融化了。
+  * 派生：  melting (a.融化的，融化的)
+  <br>
