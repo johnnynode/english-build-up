@@ -269,3 +269,70 @@
   * 翻译：  山顶上的冰雪融化了。
   * 派生：  melting (a.融化的，融化的)
   <br>
+
+---
+### 2017年12月03日 06:45:28
+
+- approximate
+  * 词义：  vi.(to) 接近 vt.估计 a.近似的
+  * 例句：  What was the approximate price per gallon of gasoline?
+  * 翻译：  每加仑汽油的价格大概是多少？
+  * 派生：  approximately (ad.近似地，大约)
+  <br>
+
+- hydrogen
+  * 词义：  n.氢
+  * 参考：  oxygen (n.氧)，nitrogen (n.氮)
+  <br>
+
+- creep
+  * 词义：  vi.爬，爬行，(植物)蔓延
+  * 例句：  Ivy creeps up on the wall.
+  * 翻译：  常春藤沿着墙向上蔓延。
+  <br>
+
+- pond
+  * 词义：  n.池塘
+  * 例句：  The local people raised hundreds of fish in this pond.
+  * 翻译：  当地人在这个池塘里养了几百条鱼。
+  * 参考：  respond (v.回答，响应) correspond (vi.符合，通信)
+  <br>
+
+- ritual
+  * 词义：  n.典礼，(宗教等的)仪式， 例行公事，老规矩 a.作为仪式一部分的，例行的
+  * 例句：  Amy speaks in Araic, exchanging the ritual greetings.
+  * 翻译：  艾米用阿拉伯语与人互致例行问候。
+  * 同义：  ceremony (n.仪式，典礼) formality (n.礼节，仪式)
+  * 参考：  spiritual (a.精神上的)
+  <br>
+
+- rank
+  * 词义：  n.军衔，社会阶层，排，横列 vt.分等级，把...分类，排列
+  * 例句：  Arizona was ranked second of all states in its growth rate of population.
+  * 翻译：  亚利桑那州的人口增长率在美国所有州中排名第二。
+  * 参考：  frank (a.坦白的，率直的)
+  <br>
+
+- adapt
+  * 词义：  v.(to)(使)适应，适合，改编，改写
+  * 例句：  Some of Dicken's novels were adapted for the stage and film.
+  * 翻译：  狄更斯的一些小说被改编成了戏剧和电影。
+  * 派生：  adaptability (n.适应性) adaptive (a.适应的)
+  <br>
+
+- irritate
+  * 词义：  vt.激怒，使恼火，使急躁，刺激
+  * 例句：  I was irritated by my roommate's loud music.
+  * 翻译：  室友喧闹的音乐声让我很恼火。
+  * 派生：  irritated (a.恼怒的，生气的) irritating (a.令人愤怒的，气人的) irritation (n.激怒，生气，刺激) irritable (a.易怒的，急躁的)
+  * 同义：  agitate (vt.使不安，使焦虑) disturb (vt.打扰，使烦恼)
+  <br>
+
+- kid
+  * 词义：  n.小孩，儿童 v.戏弄，取笑
+  * 例句：  My friends kidded me about my new avocation.
+  * 翻译：  朋友们拿我的新爱好开玩笑。
+  <br>
+
+- fur
+  * 词义：  n.毛，皮毛
