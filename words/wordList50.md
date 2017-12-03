@@ -336,3 +336,72 @@
 
 - fur
   * 词义：  n.毛，皮毛
+
+---
+### 2017年12月04日 07:07:33
+
+- subjective
+  * 词义：  a.主观(上)的，个人的
+  * 例句：  The taste preference of people is hightly subjective.
+  * 翻译：  人们的喜好带有很大的主观性。
+  * 同义：  personal (a.个人的) individual (a.个人的)
+  * 反义：  objective (a.客观上的，客观的)
+  <br>
+
+- shed
+  * 词义：  vt.流出，发散，散发，脱落，拜托 n.棚，小屋
+  * 例句：  Mary keeps her gardening supplies in a small shed.
+  * 翻译：  玛丽将她的园艺工具放在一间小屋里。
+  <br>
+
+- curb
+  * 词义：  vt.控制，路缘，(街道的)镶边石，勒马绳
+  * 例句：  What can we do to curb abused of Intellectual Property?
+  * 翻译：  我们怎样才能控制知识产权的滥用呢？
+  * 同义：  control (vt.控制) restrain (vt.抑制)
+  <br>
+
+- accountant
+  * 词义：  n.会计人员，会计师
+  * 短语：  certified/registered accountant 注册会计师
+  <br>
+
+- policy
+  * 词义：  n.政策，仿真
+  * 例句：  All the citizens support this foreign policy.
+  * 翻译：  所有市民都支持这一外交政策。
+  * 参考：  politics (n.政治)
+  <br>
+
+- ascend
+  * 词义：  v.上升
+  * 例句：  The rocket continues to ascend up and up and out of view.
+  * 翻译：  火箭继续越升越高，最后看不见了。
+  * 同义：  climb (vi.攀登，上升) descend (vi.下来，下降)
+  <br>
+
+- royal
+  * 词义：  a.王室的，皇家的，一流的，高贵的
+  * 例句：  The hotel prepared royal feasts for its guests.
+  * 翻译：  这家饭店为客人提供一流的宴席。
+  * 考点：  the royal family 王室成员
+  <br>
+
+- viewpoint
+  * 词义：  n.观点
+  * 例句：  Susan compared her viewpoint on gun control with mine.
+  * 翻译：  苏珊对比了我和她关于枪支控制的观点。
+  <br>
+
+- whisky / whiskey
+  * 词义：  n.威士忌酒
+  <br>
+
+- specific
+  * 词义：  a.明确的，具体的，特定的，特有的
+  * 例句：  The witness gave specific facts in the court.
+  * 翻译：  目击者在法庭上提供了具体的证据。
+  * 派生：  specifically (ad.明确地，特定地)
+  * 参考：  special (a.特别的，特殊的)
+  * 考点：  have a specific aim 有明确的目标
+  <br>
