@@ -405,3 +405,45 @@
   * 参考：  special (a.特别的，特殊的)
   * 考点：  have a specific aim 有明确的目标
   <br>
+
+---
+### 2017年12月05日 06:59:44
+
+- hitherto
+  * 词义：  ad.到目前为止，迄今
+  * 例句：  Hitherto, much of the attention has centered on foreign investment.
+  * 翻译：  迄今，人们的注意力主要集中在国外投资上。
+  <br>
+
+- rear
+  * 词义：  n.后部，尾部 a.后方的，后部的，背后的 vt.饲养，抚养
+  * 例句：  The garden is in the rear part of a large and handsome house.
+  * 翻译：  那个花园位于一座巨大的、富丽堂皇的房子后面。
+  * 考点：  rear-view mirror 后视镜
+  * 短语：  at/in the rear of ... 在...的后面
+  <br>
+
+- enquire / inquire
+  * 词义：  v. (of) 询问， (about)打听, (after) 问好，问候
+  * 例句：  Have they inquired after me?
+  * 翻译：  他们可曾向我问好?
+  * 参考：  require (vt.需要) acquire (vt.获得)
+  <br>
+
+- microscope
+  * 词义：  n.显微镜 
+  * 短语：  an electron microscope 电子显微镜
+  * 参考：  submicroscopic (a.亚微观的)
+  <br>
+
+- ethic
+  * 词义：  n.道德准则，行为准则，伦理标准 [-s]伦理学
+  * 例句：  The old ethic of hard work has given way to a new ethic of instant gratification.
+  * 翻译：  旧时辛勤劳作的伦理观念已经让位于一种新的道德标准：追求即时满足感。
+  <br>
+
+- recession
+  * 词义：  n.(经济的) 衰退， 衰退期
+  * 例句：  As the recession is looming large, people are getting anxious.
+  * 翻译：  随着经济衰退越来越明显，人们也开始焦虑起来。
+  <br>
