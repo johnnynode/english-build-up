@@ -6,7 +6,7 @@
 
 - abase
   * 词义：  vt.降低自己，贬低，使卑下
-  * 例句：  A man who uses had language will only abase himself.
+  * 例句：  A man who uses bad language will only abase himself.
   * 翻译：  说脏话的人只会自贬身份。
   <br>
 
@@ -63,4 +63,61 @@
   * 词义：  a.近似的，有关系的
   * 例句：  Although different, the two approaches are closely akin and equally effective.
   * 翻译：  这两种方法虽然有所不同，但极为相似，且同样有效。
+  <br>
+
+---
+### 2017年12月07日 05:22:18
+
+- allegation
+  * 词义：  n.主张，断言，陈词，指控。
+  * 例句：  What allegations has Jack made against his attacker?
+  * 翻译：  杰克指控了攻击他的人什么？
+  <br>
+
+- allergic
+  * 词义：  a.过敏的，讨厌...的
+  * 例句：  I am allergic to shellfish.
+  * 翻译：  我对贝类过敏。
+  <br>
+
+- allot
+  * 词义：  vt.分配，拨给
+  * 例句：  The President's budgets have failed to allot enough money for schools.
+  * 翻译：  总统的预算没能给学校拨足款项。
+  <br>
+
+- amber
+  * 词义：  n.琥珀
+  <br>
+
+- amphibian
+  * 词义：  n.两栖动物，水陆两用飞行器。
+  <br>
+
+- anabolism
+  * 词义：  n.合成代谢
+  * 例句：  Anabolism is one aspect of metabolism.
+  * 翻译：  合成代谢是新陈代谢的一个方面。
+  <br>
+
+- anatomy
+  * 词义：  n.解剖学，解剖构造
+  <br>
+
+- anew
+  * 词义：  ad.重新，再
+  * 例句：  The bankrupt decided to start anew.
+  * 翻译：  那位破产者决心从头再来。
+  <br>
+
+- annex  
+  * 词义：  n.附属建筑物，附件 vt.吞并
+  * 例句：  The dictator tried to annex the neighboring country.
+  * 翻译：  那位独裁者试图吞并邻国。
+  <br>
+
+- antagonist
+  * 词义：  n.敌手，对手
+  * 例句：  The rebels were antagonists of the ruling party.
+  * 翻译：  叛乱者是执政党的敌人。
   <br>
