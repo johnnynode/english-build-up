@@ -121,3 +121,63 @@
   * 例句：  The rebels were antagonists of the ruling party.
   * 翻译：  叛乱者是执政党的敌人。
   <br>
+
+---
+### 2017年12月08日 07:11:03
+
+- anthropology
+  * 词义：  n.人类学
+  * 派生：  anthropological (a.人类学的) // anthropologist (n.人类学家)  
+  <br>
+
+- antibacterial
+  * 词义：  a.抗菌的
+  * 例句：  The doctors washed their hands with antibacterial soap before operation.
+  * 翻译：  在做手术前，医生们用抗菌皂洗手。
+  <br>
+
+- appraise
+  * 词义：  vt.评价，评定
+  * 例句：  An antique dealer appraised my china.
+  * 翻译：  一位古董商给我的瓷器股了价。
+  <br>
+
+- apprehensive
+  * 词义：  a.忧虑的，担心的，有理解力的
+  * 例句：  The student was quite apprehensive about the result of the exam.
+  * 翻译：  那名学生很担心这次考试的成绩。
+  <br>
+
+- aquatic
+  * 词义：  a.水生的，水中的
+  * 例句：  The first link in aquatic food chains is algae.
+  * 翻译：  水生食物链的第一环是藻类。
+  <br>
+
+- archaeologist
+  * 词义：  n.考古学家
+  <br>
+
+- arduous
+  * 词义：  a.费力的，艰巨的
+  * 例句：  A student of music needs a long and arduous training to become a prerformer.
+  * 翻译：  学音乐的学生需要经过漫长而艰苦的训练，才能成为表演家。
+  <br>
+
+- artifice
+  * 词义：  n.巧妙办法，欺骗
+  * 例句：  There was no room in law for artifice.
+  * 翻译：  法律绝不容许欺骗。
+  <br>
+
+- artillery
+  * 词义：  n.火炮，大炮, (the ~) 炮兵(部队)
+  * 例句：  An artillery shell blew that building.
+  * 翻译：  一枚炮弹炸毁了那栋楼。
+  <br>
+
+- aspiration
+  * 词义：  n.强烈的愿望，志向，抱负
+  * 例句：  She has no aspiration for fame or gain.
+  * 翻译：  她不图名利。
+  <br>
