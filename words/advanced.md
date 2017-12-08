@@ -181,3 +181,63 @@
   * 例句：  She has no aspiration for fame or gain.
   * 翻译：  她不图名利。
   <br>
+
+---
+### 2017年12月09日 06:32:51
+
+- aspirin
+  * 词义：  n.阿司匹林
+  * 例句：  The nurse gave me an aspirin for my headache.
+  * 翻译：  护士给我一片阿司匹林来止头痛。
+  <br>
+
+- assent
+  * 词义：  n./vi. 同意，赞成
+  * 例句：  Mary didn't give her assent as to be my partner in the ball.
+  * 翻译：  玛丽不同意做我的舞伴。
+  <br>
+
+- assort
+  * 词义：  n.分类
+  * 例句：  It took me a lot of time to assort persents out on Christmas Eve.
+  * 翻译：  圣诞前夜,我花了好长时间才把礼物分好类。
+  <br>
+
+- astrology
+  * 词义：  n.占星术，占星学
+  * 派生：  astrological (a.占星的，占星术的)
+  <br>
+
+- astrophysicist
+  * 词义：  n.天体物理学家
+  <br>
+
+- attentively
+  * 词义：  ad. 聚精会神地
+  * 例句：  Bill listened attentively to the lecture.
+  * 翻译：  比尔聚精会神地听讲座。
+  <br>
+
+- authorize
+  * 词义：  vt.授权，批准
+  * 例句：  The company has authorized the Navy's use of this facility for a rescue operation.
+  * 翻译：  该公司已授权海军使用这种设备进行救援工作。
+  <br>
+
+- avenge
+  * 词义：  vt.为...复仇， 为...报仇
+  * 例句：  He wanted to avenge his brother's death.
+  * 翻译：  他想为兄弟的死报仇。
+  <br>
+
+- backbone
+  * 词义：  n.主干，主要成分
+  * 例句：  The youths are the backbones of the country.
+  * 翻译：  年轻人是国家的栋梁。
+  <br>
+
+- baffle
+  * 词义：  vt.使困惑，难倒 n.屏蔽，挡板
+  * 例句：  The police were baffled as to the whereabouts of the kidnappers.
+  * 翻译：  绑架者的行踪难倒了警方。
+  <br>
