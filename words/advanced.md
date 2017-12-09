@@ -241,3 +241,64 @@
   * 例句：  The police were baffled as to the whereabouts of the kidnappers.
   * 翻译：  绑架者的行踪难倒了警方。
   <br>
+
+---
+### 2017年12月10日 06:53:21
+
+- bakery
+  * 词义：  n.面包店
+  <br>
+
+- barter
+  * 词义：  n.易货，易货贸易 v.进行易货贸易，作物物交换
+  * 例句：  Food could also be bartered for other necessities.
+  * 翻译：  食物也可用于交换其他生活必需品。
+  <br>
+
+- berry
+  * 词义：  n.浆果
+  * 例句：  Bananas, grapes and tomatoes are all berries.
+  * 翻译：  香蕉，葡萄和西红柿都是浆果。
+  <br>
+
+- besiege
+  * 词义：  vt.围攻，困扰
+  * 例句：  The host of the party besieged Debbie with questions.
+  * 翻译：  晚会主持人连珠炮似的问题让戴比应接不暇。
+  <br>
+
+- biomedical
+  * 词义：  n.生物医学的
+  * 例句：  The biomedical research depends on public funding.
+  * 翻译：  这项生物医学研究依靠政府拨款。
+  <br>
+
+- blanch
+  * 词义：  v.(使)变白，(使脸色)变苍白
+  * 例句：  Habitual headaches have been known to blanch the hair prematurely.
+  * 翻译：  大家知道，习惯性头疼会使头发过早变白。
+  <br>
+
+- bland
+  * 词义：  a.温和的，柔和的，(食物)清淡的
+  * 例句：  The cafeteria's food was really bland.
+  * 翻译：  那家自助餐厅的食物真是清淡。
+  <br>
+
+- blockade
+  * 词义：  n./vt.封锁
+  * 例句：  The terrorists will not give in if we lift the blockade.
+  * 翻译：  如果我们解除封锁，恐怖分子就不会投降。
+  <br>
+
+- blockage
+  * 词义：  n.堵塞，封锁，妨碍
+  * 例句：  The blockage in the water course should be cleared.
+  * 翻译：  应该对河道中的堵塞物进行清理。
+  <br>
+
+- blot
+  * 词义：  v.弄脏 n.污点，污渍
+  * 例句：  My sister's skirt was blotted by some juice.
+  * 翻译：  姐姐的裙子被果汁弄脏了。
+  <br>
