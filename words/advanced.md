@@ -302,3 +302,64 @@
   * 例句：  My sister's skirt was blotted by some juice.
   * 翻译：  姐姐的裙子被果汁弄脏了。
   <br>
+
+---
+### 2017年12月11日 06:42:32
+
+- bluff
+  * 词义：  n.虚张声势，悬崖峭壁 v.虚张声势，吓唬 a.直率的
+  * 例句：  The gangster bluffed the police into thinking that he had a gun.
+  * 翻译：  歹徒虚张声势，让警方误以为他有枪。
+  <br>
+
+- bravery
+  * 词义：  n.勇敢
+  * 例句：  The soldier deserves the highest praise for his bravery.
+  * 翻译：  这个战士如此勇敢，他得到最高荣誉受之无愧。
+  <br>
+
+- breakout
+  * 词义：  n.引发，越狱
+  * 例句：  The reporter said three guards were injured in the breakout, one seriously.
+  * 翻译：  据记者报道，有三名看守在这次越狱事件中受伤，其中一名伤势严重。
+  <br>
+
+- breakthrough
+  * 词义：  n.突破
+  * 例句：  The invention of airbags was a breakthrough in automobile safety.
+  * 翻译：  安全气囊的发明是汽车安全方面的一项重大突破。
+  <br>
+
+- brood
+  * 词义：  n.一窝，一伙 v.焦虑，忧思
+  * 例句：  Corbett stared out the window and brooded.
+  * 翻译：  科比特凝视着窗外，忧郁地沉思者。
+  <br>
+
+- brotherhood
+  * 词义：  n.手足情谊，兄弟关系
+  * 例句：  Soldiers who were fighting together often have a strong feeling of brotherhood.
+  * 翻译：  一起作战的士兵常怀有深厚的兄弟情谊。
+  <br>
+
+- Buddhist
+  * 词义：  n./a.佛教徒的
+  <br>
+
+- bust
+  * 词义：  n.半身雕像，胸部 v.打破
+  * 例句：  The tailor started measuring Leila's hips, waist and bust.
+  * 翻译：  裁缝开始为莉拉量臀围、腰围和胸围。
+  <br>
+
+- calamity
+  * 词义：  n.大灾祸，灾难
+  * 例句：  The tsunami was the worst calamity in the country's history.
+  * 翻译：  这次海啸是该国有史以来最严重的灾难。
+  <br>
+
+- calculus
+  * 词义：  n.微积分学；结石
+  * 例句：  Jimmy was sent to the hospital because of calculus.
+  * 翻译：  吉米因结石病被送到医院。
+  <br>
