@@ -363,3 +363,64 @@
   * 例句：  Jimmy was sent to the hospital because of calculus.
   * 翻译：  吉米因结石病被送到医院。
   <br>
+
+---
+### 2017年12月12日 05:53:51
+
+- calf
+  * 词义：  n.小牛
+  <br>
+
+- caption
+  * 词义：  n.标题， (图片) 说明文字， (电影)字幕
+  * 例句：  The editor will add a caption to the photo.
+  * 翻译：  编辑要给那张照片加一张文字说明。
+  <br>
+
+- carefree
+  * 词义：  a.无忧无虑的
+  * 例句：  The carefree children played happily in the garden.
+  * 翻译：  无忧无虑的孩子们在花园里开心地玩耍。
+  <br>
+
+- catalyze
+  * 词义：  vt.催化，促成，刺激
+  * 例句：  The reform catalyzed the economic growth of the country.
+  * 翻译：  这项改革促进了该国经济的发展。
+  <br>
+
+- cataract
+  * 词义：  n.白内障，大瀑布
+  * 例句：  A cataract affects the vision of my right eye.
+  * 翻译：  白内障影响了我右眼的视力。
+  <br>
+
+- causal
+  * 词义：  a.原因的，因果关系的  
+  * 例句：  A causal relationship between hair dyes and cancer has not been demonstrated.
+  * 翻译：  染发与癌症中间的因果关系尚未得到证实。
+  <br>
+
+- censor
+  * 词义：  vt.审查检查(出版物等) n.检察员
+  * 例句：  All movies must be rigorously censored by the committee.
+  * 翻译：  所有电影都要接受该委员会的严格审查。
+  <br>
+
+- centralization
+  * 词义：  n.集中(化)，中央集权化
+  * 例句：  With conomic growth has come centralizaion.
+  * 翻译：  随着经济增长而来的是集中化。
+  <br>
+
+- championship
+  * 词义：  n.冠军地位，锦标赛，有力的支持
+  * 例句：  The football team hope that they can keep the championship.
+  * 翻译：  那支足球队希望能蝉联冠军。
+  <br>
+
+- chargeable
+  * 词义：  a.可能被控诉的
+  * 例句：  Tony was chargeable with theft.
+  * 翻译：  托尼可能被控犯有盗窃罪。
+  <br>
