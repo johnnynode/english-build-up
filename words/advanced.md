@@ -424,3 +424,63 @@
   * 例句：  Tony was chargeable with theft.
   * 翻译：  托尼可能被控犯有盗窃罪。
   <br>
+
+---
+### 2017年12月13日 06:48:00
+
+- checkup
+  * 词义：  n.体检，审查
+  * 例句：  The doctor asked Kate to bring her kid here for a checkup.
+  * 翻译：  医生让凯特带着她的小孩来体检
+  * 短语：  check up 仔细检查
+  <br>
+
+- cheery
+  * 词义：  a.乐观的，愉快的
+  * 例句：  On Christmas Eve, the cheery atmosphere filled the restaurant.
+  * 翻译：  圣诞前夜，那家餐厅里喜气洋洋。
+  <br>
+
+- cholesterol
+  * 词义：  n.胆固醇
+  * 例句：  Western diets rusult in high blood cholesterol level.
+  * 翻译：  西餐会导致血液中的胆固醇含量过高。
+  <br>
+
+- chromosome
+  * 词义：  n.染色体
+  <br>
+
+- chunk
+  * 词义：  n.厚片，大块，相当大的部分(或数量)
+  * 例句：  While it hailed, lots of ice chunks banged against the windshield.
+  * 翻译：  下雹子时，大量的冰块撞击着挡风玻璃。
+  <br>
+
+- circulation
+  * 词义：  n.循环，流通，流传，发行
+  * 例句：  The action of chewing gum improves the circulation of blood in the jaw.
+  * 翻译：  嚼口香糖可以促进下颚的血液循环。
+  <br>
+
+- clique
+  * 词义：  n.私党，小集团，派系
+  * 例句：  It is said that this club is dominated by a small clique of intellectuals.
+  * 翻译：  据说这个俱乐部被一个知识分子小集团左右。
+  <br>
+
+- coffin
+  * 词义：  n.棺材
+  <br>
+
+- cog
+  * 词义：  n.(齿轮的)钝齿
+  * 例句：  The mechanic welded a cog to the gear.
+  * 翻译：  机修工在齿轮上焊了一个钝齿。
+  <br>
+
+- colossal
+  * 词义：  a.巨大的，庞大的
+  * 例句：  Even by modern standards, the Titanic was a colossal ship.
+  * 翻译：  即使按照现在的标准来看，泰坦尼克号也称得上是一艘巨轮。
+  <br>
