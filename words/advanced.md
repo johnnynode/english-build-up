@@ -484,3 +484,66 @@
   * 例句：  Even by modern standards, the Titanic was a colossal ship.
   * 翻译：  即使按照现在的标准来看，泰坦尼克号也称得上是一艘巨轮。
   <br>
+
+---
+### 2017年12月14日 07:07:33
+
+- comeback
+  * 词义：  n.恢复，复原
+  * 例句：  Jazz is making a comeback recently.
+  * 翻译：  最近爵士乐再度流行起来。
+  <br>
+
+- competence
+  * 词义：  n.胜任，能力
+  * 例句：  We doubted his competence as a teacher.
+  * 翻译：  我们怀疑他们能否胜任教师的工作。
+  <br>
+
+- complexion
+  * 词义：  n.肤色，局面，性质
+  * 例句：  The patient had a pale complexion.
+  * 翻译：  那位病人面色苍白。
+  <br>
+
+- compulsion
+  * 词义：  n.强迫，强制
+  * 例句：  The witness will not volunteer relevant information without compulsion.
+  * 翻译：  如果不是被迫，那个证人是不会自愿提供相关信息的。
+  <br>
+
+- confound
+  * 词义：  vt.使混乱，使迷惑，混淆，弄错
+  * 例句：  Don't confound the means with the ends.
+  * 翻译：  不要把手段和目的混淆起来。
+  <br>
+
+- congestion
+  * 词义：  n.拥塞，充血
+  * 例句：  How to reduce the congestion of ground transportation?
+  * 翻译：  如何才能缓解路面交通拥挤的状况呢？
+  <br>
+
+- connotation
+  * 词义：  n.(词的)含义，内涵
+  * 例句：  The word "amateur" does carry a connotation that the person is not fully integrated into the scientific community.
+  * 翻译：  "amateur" 一词确实含有一个人并没有完全融入专业团体的含义。
+  <br>
+
+- consequent
+  * 词义：  a.随之发生的，作为结果(或后果)的
+  * 例句：  Bill's mistake and consequent dismisal depressed him.
+  * 翻译：  比尔的失误以及随之而来的解雇使他灰心丧气。
+  <br>
+
+- conserve
+  * 词义：  vt.保全，保持
+  * 例句：  To live a good life is to conserve your health.
+  * 翻译：  想要生活幸福就得保持身体健康。
+  <br>
+
+- consul
+  * 词义：  n.领事；(古罗马帝国的)执政官
+  * 例句：  Wilson was sent to this country as a consul.
+  * 翻译：  威尔逊被派到该国做领事。
+  <br>
