@@ -547,3 +547,63 @@
   * 例句：  Wilson was sent to this country as a consul.
   * 翻译：  威尔逊被派到该国做领事。
   <br>
+
+---
+### 2017年12月15日 04:33:14
+
+- contention
+  * 词义：  n.争论，论点，争夺
+  * 例句：  The scientist's contention was that on day people would live on the moon.
+  * 翻译：  那位科学家的论点是：有一天，人类将会在月球上居住。
+  <br>
+
+- coral
+  * 词义：  n.珊瑚，珊瑚虫 a.珊瑚色，珊瑚红色
+  * 例句：  Pacific coral grows at a rate of an inch a year.
+  * 翻译：  太平洋的珊瑚以每年一英寸的速度生长。
+  <br>
+
+- corporate
+  * 词义：  a.公司的，团体的，法人的
+  * 例句：  Corporate executives usually have high salaries.
+  * 翻译：  公司的主管人员通常享有高薪。
+  <br>
+
+- corpse
+  * 词义：  n.尸体
+  <br>
+
+- coverage
+  * 词义：  n.新闻报道
+  * 例句：  I turned on the radio to hear the coverage of the earthquake.
+  * 翻译：  我打开收音机收听有关地震的新闻报道。
+  <br>
+
+- cram
+  * 词义：  v.填塞，塞满，为应考而学习
+  * 例句：  Mary is trying to cram the tennis racket into her bag.
+  * 翻译：  玛丽正想把网球拍塞进包里。
+  <br>
+
+- crater
+  * 词义：  n.火山口，坑(如陨石坑，弹坑等)
+  * 例句：  The scientists found the craters caused by meteories smashing into the earth.
+  * 翻译：  科学家们发现了陨星撞击地球时留下的大坑。
+  <br>
+
+- credible
+  * 词义：  a.可信的，可靠的
+  * 例句：  This witness presents credible information to convict his crime.
+  * 翻译：  这名证人提供了可靠的证据证明他有罪。
+  * 派生：  credibility (n.可信性)
+  <br>
+
+- Danube
+  * 词义：  n.多瑙河
+  <br>
+
+- debase
+  * 词义：  vt.降低，贬损
+  * 例句：  Sport is being debased by commercialism.
+  * 翻译：  体育运动的价值受商业化的影响而下降。
+  <br>
