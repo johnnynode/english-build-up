@@ -607,3 +607,64 @@
   * 例句：  Sport is being debased by commercialism.
   * 翻译：  体育运动的价值受商业化的影响而下降。
   <br>
+
+---
+### 2017年12月16日 05:49:30
+
+- debris
+  * 词义：  n.废墟，残骸，碎片
+  * 例句：  People finally found the debris of the crashed plane in the forest.
+  * 翻译：  人们最终在森林里找到了失事飞机的残骸。
+  <br>
+
+- decode
+  * 词义：  vt.译(码),解(码)
+  * 例句：  It took Tom just a minute to decode the secret message.
+  * 翻译：  汤姆只用了一分钟就破译了这条密信。
+  <br>
+
+- delinquency
+  * 词义：  n.不良行为，(青少年的)不法行为
+  * 例句：  Deliquency was a serious problem in the high school.
+  * 翻译：  青少年犯罪是高中的一个严重的问题。
+  <br>
+
+- demographer
+  * 词义：  n.人口统计学家
+  <br>
+
+- depletion
+  * 词义：  n.损耗，耗尽
+  * 例句：  People all round the world should pay more attention to the energy depletion.
+  * 翻译：  全世界的人们都应该更加关注能源枯竭问题。
+  <br>
+
+- depreciate
+  * 词义：  v.贬值，贬低，轻视
+  * 例句：  It is wrong to depreciate other people's achievements.
+  * 翻译：  轻视他人的成就是不对的。
+  <br>
+
+- detrimental
+  * 词义：  a.有害的
+  * 例句：  Smoking is detrimental to your health.
+  * 翻译：  吸烟有害健康。
+  <br>
+
+- devalue
+  * 词义：  v.减值，贬值
+  * 例句：  The antique jade was devalued by the flaw.
+  * 翻译：  这块古玉因有瑕疵而贬值。
+  <br>
+
+- devour
+  * 词义：  vt.吞食，(一口气)读完，充满(好奇等)，挥霍，毁灭
+  * 例句：  I devoured the books my classmate lent me.
+  * 翻译：  我一口气读完了同学借给我的那些书。
+  <br>
+
+- disparaging
+  * 词义：  a.蔑视的，轻视的
+  * 例句：  He regarded his girlfriend with critical and disparaging eyes.
+  * 翻译：  他用挑剔的眼光看待自己的女朋友。
+  <br>
