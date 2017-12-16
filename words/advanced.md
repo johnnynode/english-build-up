@@ -668,3 +668,62 @@
   * 例句：  He regarded his girlfriend with critical and disparaging eyes.
   * 翻译：  他用挑剔的眼光看待自己的女朋友。
   <br>
+
+---
+### 2017年12月17日 07:04:59
+
+- disproportionate
+  * 词义：  a.不相称的，不成比例的
+  * 例句：  Tom spends a disproportionate amount of his time on sport.
+  * 翻译：  汤姆在运动方面花费的时间过多。
+  <br>
+
+- disseminate
+  * 词义：  vt.散布，传播
+  * 例句：  The Internet is mainly used to disseminate information.
+  * 翻译：  互联网主要用于传播信息。
+  <br>
+
+- diverge
+  * 词义：  vi.(指道路、线条等)分开，偏离，分歧
+  * 例句：  My teacher asked me to tell the story without diverging from the truth.
+  * 翻译：  老师要求我讲述这件事的时候不要偏离事实。
+  <br>
+
+- diversify
+  * 词义：  v.(使)多样化
+  * 例句：  Our factory must try to diversify for further development.
+  * 翻译：  为了得到进一步的发展，我们厂必须努力使产品多样化。
+  <br>
+
+- dormant
+  * 词义：  a.休眠的，静止的，隐匿的
+  * 例句：  Emily has awakened the dormant emotion of love in his heart.
+  * 翻译：  艾米丽唤醒了他心中沉睡已久的爱情。
+  <br>
+
+- downshifting
+  * 词义：  n.(汽车等)调低速档
+  <br>
+
+- downsizing
+  * 词义：  n.裁员，缩小化
+  * 例句：  Downsizing is only one of the contributions to the overall productivity of an economy.
+  * 翻译：  裁员仅仅是提高经济整体生产力水平的一种措施。
+  <br>
+
+- drudgery
+  * 词义：  n.苦差事，苦工
+  * 例句：  I don't mind drudgery if it pays well.
+  * 翻译：  如果酬劳不错，我不介意干苦差事。
+  <br>
+
+- dynamics
+  * 词义：  n.动力，动力学，动态
+  <br>
+
+- egalitarian
+  * 词义：  a.平等主义的
+  * 例句：  egalitarian sentiment
+  * 翻译：  平等主义观念
+  <br>
