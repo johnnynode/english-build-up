@@ -727,3 +727,66 @@
   * 例句：  egalitarian sentiment
   * 翻译：  平等主义观念
   <br>
+
+---
+### 2017年12月18日 06:38:24
+
+- elude
+  * 词义：  v. 不记得，不理解
+  * 例句：  The distinction between these two words eludes me.
+  * 翻译：  这两个单词之间的区别我不记得了。
+  <br>
+
+- emancipate
+  * 词义：  vt.解放，解除
+  * 例句：  She decided to emancipate herself from hard housework.
+  * 翻译：  他决定摆脱繁重的家务。
+  <br>
+
+- ember
+  * 词义：  n.余火，灰烬
+  * 例句：  The embers of the bonfire remained.
+  * 翻译：  那堆购货余烬尚存。
+  <br>
+
+- emulation
+  * 词义：  n.竞争，赶超
+  * 例句：  Annie worked hard in emulation of others.
+  * 翻译：  安妮努力赶超其他人。
+  <br>
+
+- encompass
+  * 词义：  vt.围绕，包含
+  * 例句：  My wardrobe encompasses a rainbow of colors.
+  * 翻译：  我衣柜里的衣服五颜六色。
+  <br>
+
+- encroach
+  * 词义：  vi.侵入，侵害
+  * 例句：  The pests encroached on farms and damaged the crops.
+  * 翻译：  害虫侵入了农场，毁坏了庄稼。
+  <br>
+
+- engrave
+  * 词义：  vt. (在...上)雕刻，铭记
+  * 例句：  He engraved a poem on his wife's tombstone.
+  * 翻译：  他在妻子的墓碑上刻了一首诗。
+  <br>
+
+- entangle
+  * 词义：  vt.使...纠缠，卷入
+  * 例句：  A big fish got entangeld in the net.
+  * 翻译：  一条大鱼被缠在了网里。
+  <br>
+
+- entreat
+  * 词义：  vt.祈求，恳求
+  * 例句：  Tom entreated the teacher to forgive his cheating.
+  * 翻译：  汤姆恳求老师原谅他的作弊行为。
+  <br>
+
+- entrust
+  * 词义：  vt.委托
+  * 例句：  We entrusted the babysitter with our children.
+  * 翻译：  我们把孩子们托付给保姆照料。
+  <br>
