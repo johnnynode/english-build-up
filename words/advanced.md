@@ -25,7 +25,7 @@
 
 - abstain
   * 词义：  vt.戒绝，废除，弃权
-  * 例句：  Susan persuades here husband to abstain from drinking.
+  * 例句：  Susan persuades her husband to abstain from drinking.
   * 翻译：  苏珊劝丈夫戒酒。
   <br>
 
@@ -49,6 +49,10 @@
 
 - aeronautics
   * 词义：  n.航空学，航空术
+  <br>
+
+- affinity
+  * 词义：  n.构造相似，特点相近，关系
   * 例句：  There is a close affinity between apes and monkeys.
   * 翻译：  猿和猴极为相似。
   <br>
@@ -409,7 +413,7 @@
 
 - centralization
   * 词义：  n.集中(化)，中央集权化
-  * 例句：  With conomic growth has come centralizaion.
+  * 例句：  With conomic growth has come centralization.
   * 翻译：  随着经济增长而来的是集中化。
   <br>
 
@@ -431,7 +435,7 @@
 - checkup
   * 词义：  n.体检，审查
   * 例句：  The doctor asked Kate to bring her kid here for a checkup.
-  * 翻译：  医生让凯特带着她的小孩来体检
+  * 翻译：  医生让凯特带着她的小孩来体检。
   * 短语：  check up 仔细检查
   <br>
 
@@ -553,7 +557,7 @@
 
 - contention
   * 词义：  n.争论，论点，争夺
-  * 例句：  The scientist's contention was that on day people would live on the moon.
+  * 例句：  The scientist's contention was that one day people would live on the moon.
   * 翻译：  那位科学家的论点是：有一天，人类将会在月球上居住。
   <br>
 
@@ -790,3 +794,66 @@
   * 例句：  We entrusted the babysitter with our children.
   * 翻译：  我们把孩子们托付给保姆照料。
   <br>
+
+---
+### 2017年12月19日 07:08:47
+
+- envision
+  * 词义：  v.想象
+  * 例句：  The automaker envisions that customers initially attracted by the discounts may become loyal customers.
+  * 翻译：  汽车制造商想象那些最初被折扣吸引的顾客可能会成为忠实的客户。
+  <br>
+
+- enzyme
+  * 词义：  n.[生化] 酶
+  * 例句：  The students learned how digestive enzymes break food down.
+  * 翻译：  学生们了解了消化酶是如何分解食物的。
+  <br>
+
+- epithet
+  * 词义：  n.绰号，侮辱性词语
+  * 例句：  For that epithet of yours, I will devise a new punishment for you.
+  * 翻译：  就为你那句骂人的话，我会再给你加一条新的惩罚。
+  <br>
+
+- espionage
+  * 词义：  n.间谍活动
+  * 例句：  The man was charged with economic espionage.
+  * 翻译：  这个人被控告从事商业间谍活动。
+  <br>
+
+- euthanasia
+  * 词义：  n.安乐死
+  * 例句：  The doctor was accused of performing euthanasia on a suffering patient.
+  * 翻译：  这位医生被指控对一名受病痛折磨的病人实行安乐死。
+  <br>
+
+- excavate
+  * 词义：  vt.挖掘，掘出
+  * 例句：  The archaeologists excavated the bones of 17 Mayans in that tomb.
+  * 翻译：  考古学家们从那座墓中挖掘出17个玛雅人的骨头。
+  <br>
+
+- excavation
+  * 词义：  n.挖掘，发掘 [pl.] 挖掘的地方
+  * 例句：  We found some gold coins in the excavations.
+  * 翻译：  我们在挖掘的地方发现了一些金币。
+  <br>
+
+- facial
+  * 词义：  a.面孔的，面部的，面部用的
+  * 例句：  Facial expressions are a conveyance of emotion.
+  * 翻译：  面部表情是表达感情的一种方式。
+  <br>
+
+- fallacy
+  * 词义：  n.谬误，谬论
+  * 例句：  The fallacy in your thinking is based on ignorance.
+  * 翻译：  你思想中的谬误基于无知。
+  <br>
+
+- fallout
+  * 词义：  n.附带结果，余波
+  * 例句：  The fallout of the scandal cost him his job.
+  * 翻译：  丑闻的余波让他丢了工作。
+  <br>  
