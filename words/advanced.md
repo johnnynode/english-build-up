@@ -857,3 +857,66 @@
   * 例句：  The fallout of the scandal cost him his job.
   * 翻译：  丑闻的余波让他丢了工作。
   <br>  
+
+---
+### 2017年12月20日 08:07:20
+
+- fanatic
+  * 词义：  n.狂热者，盲信者 a.狂热的，入迷的
+  * 例句：  Dr. Smith was one of the President's most fanatic supporters.
+  * 翻译：  史密斯博士是总统最狂热的支持者之一。
+  <br>
+
+- farfetched
+  * 词义：  a.牵强的
+  * 例句：  His explanation for being late sounds too farfetched.
+  * 翻译：  他迟到的理由听起来过去牵强。
+  <br>
+
+- fascism
+  * 词义：  n.法西斯主义，极端的国家主义
+  * 例句：  This scientist was persecuted by fascism and was obliged to flee to Switzerland.
+  * 翻译：  这位科学家受到法西斯主义的迫害，被迫逃亡到瑞士。
+  <br>
+
+- federation
+  * 词义：  n.联合会，联邦
+  * 例句：  The small kingdoms joined together into a federation for their mutual benefits.
+  * 翻译：  这些小王国为了他们共同的利益联合起来组成了一个联邦。
+  <br>
+
+- feminist
+  * 词义：  n.女权主义者
+  * 例句：  Feminists believe in equal pay for equal work, regardless of the worker's sex.
+  * 翻译：  女权主义者们认为： 不应考虑工人的性别，应该同工同酬。
+  <br>
+
+- feverishly
+  * 词义：  ad.兴奋地
+  * 例句：  Barnes worked feverishly on the computer keyboard suddenly and frightened his partners.
+  * 翻译：  巴恩斯突然兴奋地敲击键盘，吓了同事们一跳。
+  <br>
+
+- fissure
+  * 词义：  n.裂缝，裂沟
+  * 例句：  I covered the fissure in the wall with plaster.
+  * 翻译：  我用灰泥把墙上的裂缝填上了。
+  <br>
+
+- flake
+  * 词义：  n.薄片 v.使成薄片，雪片般落下
+  * 例句：  The snow began to flake down from the sky when the church bell roared.
+  * 翻译：  教堂的钟声响起时，雪花开始从天空飘落。
+  <br>
+
+- flick
+  * 词义：  n./v.轻拍，(轻而快地)移动
+  * 例句：  Tom flicked the whip, and the hourse went faster.
+  * 翻译：  汤姆轻挥了一下鞭子，马儿跑得更快了。
+  <br>
+
+- flicker
+  * 词义：  vi.闪动，闪烁
+  * 例句：  The single light flickered and went out.
+  * 翻译：  仅有的灯光闪动了几下也熄灭了。
+  <br>
