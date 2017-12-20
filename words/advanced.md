@@ -920,3 +920,64 @@
   * 例句：  The single light flickered and went out.
   * 翻译：  仅有的灯光闪动了几下也熄灭了。
   <br>
+
+---
+### 2017年12月21日 06:41:40
+
+- flip
+  * 词义：  n./v. 轻抛，蹦跳，快速翻动 a.无礼的
+  * 例句：  Mary flipped through the menu to choose her favorite dishes.
+  * 翻译：  玛丽费快递翻着菜单，挑选自己最喜欢的菜。
+  <br>
+
+- flutter
+  * 词义：  v.(鸟等)振翼，飘动，(心脏等) 快速跳动 n.摆动，紧张
+  * 例句：  She was in a state of flutter and wonder when hearing Tom's proposal.
+  * 翻译：  当听到汤姆的求婚时，她既紧张又惊讶。
+  <br>
+
+- foe
+  * 词义：  n.敌人，仇敌
+  * 例句：  The soldiers fought bravely with the foe on the battlefield.
+  * 翻译：  战士们在战场上奋勇杀敌。
+  <br>
+
+- frenzy
+  * 词义：  n.狂暴，狂怒
+  * 例句：  Billy was agitated, pacing back and forth in a frenzy.
+  * 翻译：  比利非常不安，暴躁地来回踱着步子。
+  <br>
+
+- frigid
+  * 词义：  a.寒冷的，冷淡的
+  * 例句：  No one would like to go out for a walk in such a frigid weather.
+  * 翻译：  在这样寒冷的天气里，没有人想出去散步。
+  <br>
+
+- fungus
+  * 词义：  n.(fungi) 真菌，菌类植物
+  * 例句：  Mildew and mushrooms are fungi.
+  * 翻译：  霉和蘑菇都是真菌。
+  <br>
+
+- fury
+  * 词义：  n.狂怒，激烈，猛烈
+  * 例句：  She always flies into a fury for the slightest matter.
+  * 翻译：  她总是为微不足道的事情大动肝火。
+  <br>
+
+- futurist
+  * 词义：  a.未来派的 n.未来派画家，未来信徒
+  * 例句：  Susan fell in love with a futurist.
+  * 翻译：  苏珊爱上了一个未来派画家。
+  <br>
+
+- futurologist
+  * 词义：  n.未来学家
+  <br>
+
+- geophysical
+  * 词义：  a.地球物理学的
+  * 例句：  Thank you for furnishing me with so many geophysical data.
+  * 翻译：  谢谢你给我提供这么多地球物理学的资料。
+  <br>
