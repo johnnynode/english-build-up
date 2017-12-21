@@ -981,3 +981,67 @@
   * 例句：  Thank you for furnishing me with so many geophysical data.
   * 翻译：  谢谢你给我提供这么多地球物理学的资料。
   <br>
+
+---
+### 2017年12月22日 07:44:51
+
+- gizmo
+  * 词义：  n.小发明
+  * 例句：  Tom shows all his gizmos to us.
+  * 翻译：  汤姆把他所有的小发明都展示给我们看。
+  <br>
+
+- glamour / glamor
+  * 词义：  n.魅力，吸引力
+  * 例句：  To study abroad has lost its glamour for me.
+  * 翻译：  出国留学对我来说已经失去了吸引力。
+  <br>
+
+- gland
+  * 词义：  n.（解) 腺
+  * 例句：  
+  * 翻译：  
+  <br>
+
+- gratify
+  * 词义： v.使满意，使高兴，纵容
+  * 例句： It has always been our aim to gratify and satisfy our clients. 
+  * 翻译： 令客户高兴和满意一直是我们的目标。
+  <br>
+
+- gravel
+  * 词义：  n.砂砾，砾石
+  * 例句：  The road to our village was paved with gravel.
+  * 翻译：  通往我们村庄的公路铺上了砾石。
+  <br>
+
+- groove
+  * 词义：  n.沟，槽，唱片上的纹路
+  * 例句：  I wiped the dust from the record's grooves with a piece of felt.
+  * 翻译：  我用一块毛布擦去唱片纹路里的灰尘。
+  <br>
+
+- growl
+  * 词义：  v.咆哮，发牢骚地说
+  * 例句：  The lame lion growls at me now and then.
+  * 翻译：  这只跛腿狮子时不时地冲我吼叫。
+  <br>
+
+- guardian
+  * 词义：  保护者，守护者，监护人
+  * 例句：  Tom was sent to live with his guardian at the age of eight when his parents died.
+  * 翻译：  汤姆的父母在他八岁时去世了，此后他被送去与监护人一起生活。
+  <br>
+
+- gunpowder
+  * 词义：  n.黑色火药，有烟火药
+  * 例句：  He poured gunpowder from the shell to the ground.
+  * 翻译：  他把弹壳里的火药倒在了地上。
+  <br>
+
+- hallucination
+  * 词义：  n.幻觉，幻想
+  * 例句：  He is suffering from visual hallucinations.
+  * 翻译：  他正遭受幻视的痛苦。
+  * 参考：  hallucinogen (n.迷幻剂)
+  <br>
