@@ -1045,3 +1045,64 @@
   * 翻译：  他正遭受幻视的痛苦。
   * 参考：  hallucinogen (n.迷幻剂)
   <br>
+
+---
+### 2017年12月23日 00:01:36
+
+- harass
+  * 词义：  vt.侵扰，骚扰
+  * 例句：  She claims she has been sexually harassed at work.
+  * 翻译：  她声称在工作中遭到了性骚扰。
+  <br>
+
+- haunt
+  * 词义：  v.神鬼出没
+  * 例句：  The villagers said that the woods were all haunted up there.
+  * 翻译：  村民们说那儿的的树林里整天有鬼魂出没。
+  <br>
+
+- hectare
+  * 词义：  n.公顷
+  * 例句：  The park has an area of only several hectares.
+  * 翻译：  这个公园占地只有几公顷。
+  <br>
+
+- heed
+  * 词义：  v.注意，留心 n.关心，注意
+  * 例句：  These young men pay very little heed to the passing of time.
+  * 翻译：  这些年轻人几乎注意不到时光飞逝。
+  <br>
+
+- helix
+  * 词义：  n.螺旋，螺旋(状物)
+  * 例句：  A new double helix has been built.
+  * 翻译：  一种新的双螺旋结构诞生了。
+  <br>
+
+- hockey
+  * 词义：  n.曲棍球
+  * 例句：  Wayne is great palyer in hockey.
+  * 翻译：  维恩是个曲棍球高手。
+  <br>
+
+- homicide
+  * 词义：  n.杀人者，杀人
+  * 例句：  He was suspected of homicides in the states of Utah and Washington.
+  * 翻译：  他涉嫌在犹他州和华盛顿州杀人。
+  <br>
+
+- honesty
+  * 词义：  n.诚实，正直，坦率
+  * 例句：  The movie isn't, in all honesty, as good as I expected.
+  * 翻译：  说实在的，这部电影没有我预期的那么好。
+  <br>
+
+- hospice
+  * 词义：  n.收容所，济贫院
+  <br>
+
+- hospitable
+  * 词义：  a.好客的，(气候等)宜人的，(对新思想等)易接受的
+  * 例句：  Most Americans consider themselves hospitable people.
+  * 翻译：  大多数美国人认为自己很好客。
+  <br>
