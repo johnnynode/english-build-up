@@ -1169,3 +1169,66 @@
   * 例句：  This little girl has an inborn talent for music.
   * 翻译：  这个小女孩有音乐天赋。
   <br>
+
+---
+### 2017年12月25日 07:05:50
+
+- incoming
+  * 词义：  a.引入的，来临的
+  * 例句：  Jane chagned her phone number, so no incoming calls could get through.
+  * 翻译：  简换了电话号码，所以打给她的电话都无法接通。
+  <br>
+
+- imcomplete
+  * 词义：  a.不完整的，不完善的
+  * 例句：  My novel is incomplete because I don't know how to end it.
+  * 翻译：  我的小说没写完，因为我不知道如何结尾。
+  <br>
+
+- indistinct
+  * 词义：  a.不清楚的
+  * 例句：  I heard an indistinct whisper in the next room.
+  * 翻译：  我听到隔壁有隐约的私语声。
+  <br>
+
+- ineptly
+  * 词义：  ad.不适当地，无能地
+  * 例句：  Some of the business restructuring of recent years have been ineptly done.
+  * 翻译：  近年来的一些业务重组并不合适。
+  <br>
+
+- inexorable
+  * 词义：  a.无情的，不可动摇的
+  * 例句：  Time is more inexorable far than empty tigers or the roaring sea.
+  * 翻译：  时光比饥饿的老虎或狂啸的大海更无情。
+  <br>
+
+- infection
+  * 词义：  n.传染，感染，传染病，传播
+  * 例句：  SARS is a very serious infection. 
+  * 翻译：  "非典"是一种很严重的传染病。
+  <br>
+
+- innate
+  * 词义：  a.先天的，天生的
+  * 例句：  The ability to learn language is an innate human ability.
+  * 翻译：  学习语言的能力是人类与生俱来的。
+  <br>
+
+- innovate
+  * 词义：  vi.革新，创新
+  * 例句：  The true wealth of a nation lies in its people's ability to create, communicate and innovate.
+  * 翻译：  一个国家真正的财富在于其人民创造、沟通和革新的能力。
+  <br>
+
+- insane
+  * 词义：  a.蠢级的，荒唐的，(患)精神病的，疯狂的
+  * 例句：  I think this bad news would drive him insane.
+  * 翻译：  我觉得这个坏消息会让他发疯的
+  <br>
+
+- insidious
+  * 词义：  a.隐蔽的，阴险的
+  * 例句：  We have seen through his insidious plan.
+  * 翻译：  我们已经看穿了他的阴谋。
+  <br>
