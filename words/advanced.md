@@ -1106,3 +1106,66 @@
   * 例句：  Most Americans consider themselves hospitable people.
   * 翻译：  大多数美国人认为自己很好客。
   <br>
+
+---
+### 2017年12月24日 22:06:52
+
+- husbandry
+  * 词义：  n.管理，牧畜
+  * 例句：  He was opposed to using this usually animal husbandry tehnique to clone humans.
+  * 翻译：  他反对用这种特殊的动物繁殖技术克隆人。
+  <br>
+
+- hydroelectric
+  * 词义：  a.水力电器的
+  * 例句：  Hydroelectric power and flood control and irrigation are possible without building monster dams.
+  * 翻译：  无论是水利发电、治水还是灌溉，未必只有通过建设庞大的大坝才能实现。
+  <br>
+
+- hysteria
+  * 词义：  n.歇斯底里
+  * 例句：  crowds of football supporters gripped by mass hysteria.
+  * 翻译：  众多歇斯底里的球迷。
+  <br>
+
+- iceberg
+  * 词义：  n.冰山
+  * 例句：  The huge ship sank after colliding with an iceberg.
+  * 翻译：  巨轮撞到冰山后沉没了。
+  <br>
+
+- icon
+  * 词义：  n.(东正教的)圣像，肖像，图标
+  * 例句：  An icon of the saint was placed on the wall of the kitchen.
+  * 翻译：  厨房的墙上挂着一副圣像。
+  <br>
+
+- impoverished
+  * 词义：  a.穷困的，无力的
+  * 例句：  It's well-known that that's an impoverished Third World country.
+  * 翻译：  众所周知，它是个贫穷的第三世界国家。
+  <br>
+
+- imprint
+  * 词义：  vt.印，压印，铭记 n.印记，深刻的印象，持久的特征、标志
+  * 例句：  I have imprinted your words on my memory.
+  * 翻译：  你的话我已铭记在心。
+  <br>
+
+- imprison
+  * 词义：  vt.禁锢，关押
+  * 例句：  Someone thinks that language imprisons the mind.
+  * 翻译：  有人认为语言禁锢了思维。
+  <br>
+
+- improper
+  * 词义：  a.不合适的，不正确的
+  * 例句：  Laughing and joking are improper at a meeting.
+  * 翻译：  开会时，嬉笑和逗乐都是不得体的。
+  <br>
+
+- inborn
+  * 词义：  a.天生的，生来的
+  * 例句：  This little girl has an inborn talent for music.
+  * 翻译：  这个小女孩有音乐天赋。
+  <br>
