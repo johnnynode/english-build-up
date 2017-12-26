@@ -1297,3 +1297,66 @@
   * 翻译：  数百万的犹太人在 "二战" 中遭到迫害
   * 派生：  Jewish (a.犹太人的，犹太的)
   <br>
+
+---
+### 2017年12月27日 07:17:00
+
+- juggle
+  * 词义：  v.用戏法
+  * 例句：  The magician juggled some organes into pigeons.
+  * 翻译：  魔术师将一些橙子变成鸽子。
+  <br>
+
+- keyword
+  * 词义：  n.重要字，关键字
+  * 例句：  He input some keywords and began to search on the Internet.
+  * 翻译：  他输入了一些关键字，然后在网上搜索起来。
+  <br>
+
+- kindle
+  * 词义：  v.点燃，激起，照亮
+  * 例句：  They kindled a fire to make themselves feel warmer.
+  * 翻译：  他们生火来取暖。
+  <br>
+
+- laid-off
+  * 词义：  a.被解雇的，下岗的
+  * 例句：  The poor student came from a laid-off family.
+  * 翻译：  这名贫困生来自一个下岗家庭。
+  <br>
+
+- lavish
+  * 词义：  a.过分慷慨的，浪费的，丰富的 v.浪费，挥霍
+  * 例句：  This playboy is lavish and willful.
+  * 翻译：  这个花花公子奢侈且任性。
+  <br>
+
+- lawsuit
+  * 词义：  n.诉讼(尤指非刑事案件)
+  * 例句：  With the help of our lawyer, we won the lawsuit.
+  * 翻译：  在律师的帮助下，沃恩胜诉了。
+  <br>
+
+- legible
+  * 词义：  a.(印刷或字迹)清楚的，易读的
+  * 例句：  The interpreter tanslated this novel into a legible English version.
+  * 翻译：  译者把这本小说翻译成了通俗易懂的英文版。
+  <br>
+
+- light-year
+  * 词义：  n.光年
+  * 例句：  The distance from the earth to that planet is about several hundreds of light-years.
+  * 翻译：  从地球到那颗行星的距离大概是几百光年。
+  <br>
+
+- limpid
+  * 词义：  a.清澈的，透明的
+  * 例句：  The water looks limpid, but it's not safe to drink.
+  * 翻译：  这水看起来很清澈，但是不能饮用。
+  <br>
+
+- livelihood
+  * 词义：  n.生活，生计
+  * 例句：  Tom wrote for a livelihood.
+  * 翻译：  汤姆以写作为生。
+  <br>
