@@ -1232,3 +1232,68 @@
   * 例句：  We have seen through his insidious plan.
   * 翻译：  我们已经看穿了他的阴谋。
   <br>
+
+---
+### 2017年12月26日 22:42:40
+
+- intake
+  * 词义：  n.吸入，吸纳
+  * 例句：  Tom's food intake is hindered by his severe sore throat.
+  * 翻译：  汤姆喉咙疼得厉害，吃不下东西。
+  <br>
+
+- intent
+  * 词义：  n.意图，目的 a.(on) 专心的，专注的，急切的
+  * 例句：  He was indent on saving money so that he could buy his own house.
+  * 翻译：  他一心想攒钱，买自己的房子。
+  <br>
+
+- interlocking
+  * 词义：  a.相连的，连锁的
+  * 例句：  The five interlocking rings in the Olympic flag symbolize the uniting of all five continents.
+  * 翻译：  奥运旗帜上相连的五环象征着五大洲团结在一起。
+  <br>
+
+- intranet
+  * 词义：  n.企业内部互联网
+  * 例句：  We share the information through the company's intranet.
+  * 翻译：  我们通过公司的局域网实现信息共享。
+  <br>
+
+- inventive
+  * 词义：  a.善于创造的，发明的
+  * 例句：  Edison was very inventive.
+  * 翻译：  爱迪生非常发明创造。
+  * 派生：  inventiveness (n.独创性，独创能力)
+  <br>
+
+-  invoice (n.独创性，独创能力)
+  * 词义：  n.发票，发票清单 vt.给...开发票,记清单
+  * 例句：  After we paid him, the saleman made out an invoice for us.
+  * 翻译：  我们付了钱后，售货员给我们开了发票。
+  <br>
+
+- irrigation
+  * 词义：  n.灌溉，冲洗法
+  * 例句：  One advantage of modern irrigation methods is that they can save water.
+  * 翻译：  现代灌溉方法的优势之一是节水。
+  <br>
+
+- itinerary
+  * 词义：  n.行程表，旅行路线。
+  * 例句：  I bought a road map so I could plan my itinerary better.
+  * 翻译：  我买了一本公路地图，这样可以更好地计划自己的旅行路线。
+  <br>
+
+- jeer
+  * 词义：  n./vi.嘲笑
+  * 例句：  Don't jeer at the poor - it's very unkind.
+  * 翻译：  不要嘲笑穷人，这事很不友善的。
+  <br>
+
+- Jew
+  * 词义：  n.犹太人，犹太教徒
+  * 例句：  Millions of Jews were persecuted during World War II.
+  * 翻译：  数百万的犹太人在 "二战" 中遭到迫害
+  * 派生：  Jewish (a.犹太人的，犹太的)
+  <br>
