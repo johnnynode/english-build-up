@@ -1360,3 +1360,65 @@
   * 例句：  Tom wrote for a livelihood.
   * 翻译：  汤姆以写作为生。
   <br>
+
+---
+### 2017年12月28日 05:22:17
+
+- lobster
+  * 词义：  n.龙虾
+  * 例句：  Mary is allergic to lobster and peanuts.
+  * 翻译：  玛丽对龙虾过敏。
+  <br>
+
+- lookout
+  * 词义：  n.前景
+  * 例句：  The lookout of this country's economy is not optimistic.
+  * 翻译：  该国的经济前景不容乐观。
+  <br>
+
+- maize
+  * 词义：  n.（植）玉蜀黎，玉米 a.玉米色的，黄色的
+  * 例句：  The farmers here usually grow maize and beans.
+  * 翻译：  这里的农民通常种植玉米和大豆。
+  <br>
+
+- makeup  
+  * 词义：  补考
+  * 例句：  The teacher promised to give Tom a makeup examination.  
+  * 翻译：  老师允许给汤姆一次补考机会。
+  * 短语：  a makeup examination 补考
+  <br>
+
+- mania
+  * 词义：  n.狂热，癖好
+  * 例句：  Keep-fit mania has hit many girls in the office.
+  * 翻译：  办公室的很多女生加入了减肥热。
+  <br>
+
+- manicurist
+  * 词义：  n.指甲修饰师
+  <br>
+
+- Mars
+  * 词义：  n.火星
+  * 例句：  Our spaceship succeeded in landing on the Mars.
+  * 翻译：  我们的宇宙飞船成功的登陆了火星。
+  <br>
+
+- media
+  * 词义：  n.媒体，介质
+  * 例句：  The media are to blame for starting the rumors.
+  * 翻译：  对于这些谣言的兴起，媒体难辞其咎。
+  <br>
+
+- mediate
+  * 词义：  v.调解，调停
+  * 例句：  The two parties invited Tom to mediate their serious disagreement.
+  * 翻译：  双方邀请汤姆来调停他们激烈的争执。
+  <br>
+
+- Medicare
+  * 词义：  n.医疗保险(制度)
+  * 例句：  The payment of the Mediare this year is five million dollars.
+  * 翻译：  今年的医疗保险支出是500万美元。
+  <br>
