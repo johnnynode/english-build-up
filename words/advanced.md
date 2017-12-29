@@ -1422,3 +1422,66 @@
   * 例句：  The payment of the Mediare this year is five million dollars.
   * 翻译：  今年的医疗保险支出是500万美元。
   <br>
+
+---
+### 2017年12月29日 08:11:31
+
+- medication
+  * 词义：  n.药物治疗，药物
+  * 例句：  Medication and rest are the best ways to treat your disease.
+  * 翻译：  药物治疗和休息是给你治病的最好方法。
+  <br>
+
+- mediocrity
+  * 词义：  n.平常,平庸(的人)
+  * 例句：  The world is a republic of the mediocrities and always was.
+  * 翻译：  世界是一个由平凡人组成的共同体，历来如此。
+  <br>
+
+- merrymaking
+  * 词义：  n.尽情欢乐，欢宴做了
+  * 例句：  The yong people lingered on marrymaking till midnight.
+  * 翻译：  这些年轻人尽情欢乐到午夜。
+  <br>
+
+- microprocessor
+  * 词义：  n.（计）微处理器
+  * 例句：  The hope that these microprocessors might be able to copy the action of the human brain.
+  * 翻译：  他们希望这些微处理器能够模仿人脑的功能
+  <br>
+
+- mighty
+  * 词义：  a.巨大的，强大的，有势力的
+  * 例句：  This mighty continent was covered with thick ice.
+  * 翻译：  这一大块陆地被厚厚的冰雪覆盖着。
+  <br>
+
+- milestone
+  * 词义：  n.里程碑，重大事件
+  * 例句：  The year 2000 was a milestone in the course of China's development.
+  * 翻译：  2000年是中国发展过程中的一个里程碑。
+  <br>
+
+- millennium
+  * 词义：  n.一千年
+  * 例句：  This ancient city celebrated its second millennium last year.
+  * 翻译：  去年古老的城市度过了它两千岁的生日。
+  <br>
+
+- misguided
+  * 词义：  a.被误导的
+  * 例句：  You are not totally wrong, for you are only misguided.
+  * 翻译：  不能全怪你，你只是被误导了。
+  <br>
+
+- misuse
+  * 词义：  n./v.误用，滥用
+  * 例句：  Tom started a fire when he misused the lighter.
+  * 翻译：  汤姆滥用打火机，酿成了一场火灾。
+  <br>
+
+- modem
+  * 词义：  n.（计)调制解调器
+  * 例句：  Mary's computer has a built-in modem.
+  * 翻译：  玛丽的电脑配有内置调制解调器。
+  <br>
