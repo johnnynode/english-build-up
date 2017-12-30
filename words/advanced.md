@@ -1485,3 +1485,66 @@
   * 例句：  Mary's computer has a built-in modem.
   * 翻译：  玛丽的电脑配有内置调制解调器。
   <br>
+
+---
+### 2017年12月30日 13:51:57
+
+- modulate
+  * 词义：  n. 调整(音的强弱)
+  * 例句：  I can recognize you even you modulate your voice.
+  * 翻译：  即使你改变了声音，我也能听得出来。 
+  <br>
+
+- monarchy
+  * 词义：  n.君主制
+  * 例句：  The poeple in this country demanded that the monarchy should be abolished.
+  * 翻译：  该国人民要求废除君主制。
+  <br>
+
+- monk
+  * 词义：  n.和尚，僧侣，修道士
+  * 例句：  The orphan was brought up by an old monk.
+  * 翻译：  这个孤儿是被一个老和尚带大的。
+  <br>
+
+- morphine
+  * 词义：  n.吗啡
+  * 例句：  The doctor used some doses of morphine to control the patients' pain.
+  * 翻译：  医生用几剂吗啡为病人止痛。
+  <br>
+
+- mortify
+  * 词义：  v.使屈辱，使痛心
+  * 例句：  Susan was mortified when her mother read her diary secretly.
+  * 翻译：  母亲偷看自己的日记时，苏珊感受到了羞辱。
+  <br>
+
+- motorist
+  * 词义：  n.驾驶者，坐汽车的人
+  * 例句：  Two motorists died in this accident.
+  * 翻译：  两名驾驶者在这场事故中丧生。
+  <br>
+
+- motorway
+  * 词义：  n.高速公路
+  * 例句：  The motorway is closed because of the thick fog.
+  * 翻译：  因为大雾，高速公路封闭了。
+  <br>
+
+- mummy
+  * 词义：  n.（埃及的)木乃伊，干尸，<口>妈妈
+  * 例句：  Many mummies are kept well in the Egypt pyramids.
+  * 翻译：  许多木乃伊被很好地保存在埃及的金字塔中。
+  <br>
+
+- Muslim
+  * 词义：  n.穆斯林，伊斯兰教徒 a.穆斯林的，伊斯兰信徒的
+  * 例句：  Thousands of Muslims were displaced in the war. 
+  * 翻译：  这场战争迫使成千上万的穆斯林离开家园。
+  <br>
+
+- muster
+  * 词义：  n.召集，检验，被集合在一起的人(物)，花名册，清单，样品 v.集合，召集，搜集，鼓起(勇气等)，激起(感情等)
+  * 例句：  The general mustered the troops to fight against the enemy.
+  * 翻译：  将军召集部队抗击敌人。
+  <br>
