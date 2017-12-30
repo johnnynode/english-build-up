@@ -1548,3 +1548,62 @@
   * 例句：  The general mustered the troops to fight against the enemy.
   * 翻译：  将军召集部队抗击敌人。
   <br>
+
+---
+### 2017年12月31日 04:40:56
+
+- mutability
+  * 词义：  n.可变性，易变性
+  * 例句：  The theory of the meteorologist explained the weather's mutability in that area.
+  * 翻译：  这一气象学家的理论解释了那一地区气候的易变性。
+  <br>
+
+- narrowly
+  * 词义：  ad. 勉强地，狭隘地，严密地，仔细地
+  * 例句：  The police observed the suspect narrowly.
+  * 翻译：  警方严密监视着疑犯的一举一动。
+  <br>
+
+- navigate
+  * 词义：  v.测定位置，导航，驾驶，航行于，横渡，<喻> 设法穿越
+  * 例句：  I navigated while Tom drove during our trip.
+  * 翻译：  旅行中我导航，汤姆驾驶。
+  <br>
+
+- Nazism
+  * 词义：  n.纳粹主义
+  * 例句：  Einstein was driven out of Germany by Nazism because he was a Jew.
+  * 翻译：  因为是犹太人，爱因斯坦被纳粹赶出了德国。
+  <br>
+
+- neon
+  * 词义：  n.霓虹灯，(化)氖
+  * 例句：  Neon flickers outside the club.
+  * 翻译：  俱乐部外霓虹闪烁。
+  <br>
+
+- neurology
+  * 词义：  n.神经学，神经病学
+  <br>
+
+- newborn
+  * 词义：  n.婴儿
+  * 例句：  We named the newborn Tom.
+  * 翻译：  我们给这个婴儿取名叫汤姆。
+  <br>
+
+- newsletter
+  * 词义：  n.时事通讯，业务通讯
+  * 例句：  There is an article about my boss in the magazine's newsletter.
+  * 翻译：  这本杂志的业务通讯中又一篇报道我老板的文章。
+  <br>
+
+- newsroom
+  * 词义：  n.新闻编辑室
+  <br>
+
+- nicety
+  * 词义：  n.精确，准确
+  * 例句：  He has a nicety in the discernment of others' characters.
+  * 翻译：  他对别人的性格有准确的洞察力。
+  <br>
