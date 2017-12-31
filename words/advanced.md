@@ -1607,3 +1607,66 @@
   * 例句：  He has a nicety in the discernment of others' characters.
   * 翻译：  他对别人的性格有准确的洞察力。
   <br>
+
+---
+### 2018年01月01日 04:15:52
+
+- noteworthy
+  * 词义： a.值得注意的，显著的
+  * 例句： What is noteworthy is that these standards have almost been embraced across the whole United States.
+  * 翻译：  值得注意的是，这些标准几乎在整个美国都得到了采用。
+  <br>
+
+- oasis
+  * 词义：  n.(<pl.>oases) 绿洲； <喻> (困境中的)令人宽慰的事物或处所
+  * 例句：  The university was an oasis of calm in the noisy city.
+  * 翻译：  这所大学是喧闹的城市中的一片净土。
+  <br>
+
+- obsess
+  * 词义：  vt.迷住，使...困窘，使...烦扰
+  * 例句：  Modern people are obsessed by the fear of unemployment.
+  * 翻译：  现代人被失业的恐惧搞得心神不宁。
+  <br>
+
+- offshore
+  * 词义：  a.近海的，海面上的
+  * 例句：  A lot of oil comes from offshore drilling sites.
+  * 翻译：  近海的钻井台开采出了很多石油。
+  <br>
+
+- off-the-cuff
+  * 词义：  a.临时的，即兴的
+  * 例句：  The headmaster didn't prepare a speech but gave some off-the-cuff remarks in the meeting.
+  * 翻译：  校长没有准备演讲，但还是在会上即兴讲了几句。
+  <br>
+
+- olive
+  * 词义：  n.橄榄树，橄榄枝
+  * 例句：  All the winners were honored by having a ring of holy olive leaves placed on their heads in this game.
+  * 翻译：  本次运动会上，所有获胜者都荣幸地头戴神圣的橄榄枝花环。
+  <br>
+
+- oncologist
+  * 词义： n.肿瘤学家
+  * 例句： The oncologist claimed that the tumor in Tom's brain is benign.
+  * 翻译： 肿瘤学家称汤姆颅内的肿瘤是良性的。
+  <br>
+
+- oncoming
+  * 词义：  a.即将来临的，接近的
+  * 例句：  We are looking forward to the oncoming spring.
+  * 翻译：  我们期待着即将来临的春天。
+  <br>
+
+- online
+  * 词义：  a.网上的，在线的
+  * 例句：  The students can check the library's online directory for the books they want.
+  * 翻译：  学生可以通过检索图书馆的网上数目找到想要的书。
+  <br>
+
+- optimism
+  * 词义：  n.乐观，乐观主义
+  * 例句：  Optimism is good for your health.
+  * 翻译：  乐观有益健康。
+  <br>
