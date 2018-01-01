@@ -1670,3 +1670,66 @@
   * 例句：  Optimism is good for your health.
   * 翻译：  乐观有益健康。
   <br>
+
+---
+### 2018年01月02日 04:19:32
+
+- outburst
+  * 词义：  n.（火山、感情等)爆发，突发
+  * 例句：  After hearing the bad news, Tom's outbrust of cry was heard throughout the building.
+  * 翻译：  听到坏消息后，汤姆失声痛苦，哭声传遍了整栋大楼。
+  <br>
+
+- outcry
+  * 词义：  n.大声疾呼；强烈抗议
+  * 例句：  There was a outcry when the respected leader was arrested.
+  * 翻译：  那位受人尊敬的领袖被捕，这激起了人们强烈的抗议。
+  <br>
+
+- outdated
+  * 词义：  a.过时的，不流行的
+  * 例句：  The girl made fun of Meg's outdated clothes.
+  * 翻译：  女孩子们取笑梅格那些过时的衣服。
+  <br>
+
+- overrated
+  * 词义：  a.评价过高的
+  * 例句：  Critics claim that many soccer players are overpaid and overrated.
+  * 翻译：  评论家称许多足球运动员拿的薪水过多，给他们的评价也高了。
+  <br>
+
+- oversee
+  * 词义：  v.俯瞰，眺望，监督，监视(某人或某物)
+  * 例句：  Ted was sent to oversee every act of the suspect.
+  * 翻译：  特德派去监视嫌疑犯的一举一动。
+  <br>
+
+- painstaking
+  * 词义：  a.辛勤的，艰苦的
+  * 例句：  We have made painstaking efforts to obtain this goal.
+  * 翻译：  为了达到这一目标，我们付出了艰苦的努力。
+  <br>
+
+- paraphrase
+  * 词义：  v.解释，释义
+  * 例句：  The newspaper paraphrased the President's comments.
+  * 翻译：  报纸解释了总统的评论。
+  <br>
+
+- passionate
+  * 词义：  a.充满激情的，热切的，强烈的
+  * 例句：  Lily is very passionate about writing poems.
+  * 翻译：  莉莉热衷于写诗。
+  <br>
+
+- pathway
+  * 词义：  n.道路，途径，方式
+  * 例句：  Tony shoveled snow off the pathway to his front door.
+  * 翻译：  托尼铲掉了通往他家门前路上的雪。
+  <br>
+
+- patriarchal
+  * 词义：  a.家长的，族长的，由男性统治的
+  * 例句：  The tribe abolished the partriarchal system ten years ago.
+  * 翻译：  这个部落四年前废除了族长制。
+  <br>
