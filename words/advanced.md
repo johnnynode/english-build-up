@@ -1796,3 +1796,66 @@
   * 例句：  Their products contain a cancer-causing preservative.
   * 翻译：  他们的产品含有一种致癌的防腐剂。
   <br>
+
+---
+### 2018年01月04日 07:12:39
+
+- procure
+  * 词义：  v.取得，获得
+  * 例句：  I procured the train ticket after waiting in line for a day.
+  * 翻译：  我排了一天队才买到火车票。
+  <br>
+
+- profess
+  * 词义：  v.声称，自称，公开声明
+  * 例句：  He has never professed to be fond of me.
+  * 翻译：  他从没承认过喜欢我。
+  <br>
+
+- profuse
+  * 词义：  a.很多的，浪费的，慷慨的
+  * 例句：  Nick gave profuse thanks to the police who found his lost child.
+  * 翻译：  尼克向找到他走时的孩子的警察连声道谢。
+  <br>
+
+- proliferate
+  * 词义：  v.(迅速)繁殖，繁衍；激增
+  * 例句：  The vines on the wall proliferated after a heavy rain.
+  * 翻译：  大雨过后，墙上的蔓藤迅速生长。
+  <br>
+
+- pronounced
+  * 词义：  a.显著的，非常明显的
+  * 例句：  Ms.Jones walks with a pronounced limp.
+  * 翻译：  琼斯女士走起路来跛得很明显。
+  <br>
+
+- proponent
+  * 词义：  n.建议者，支持者
+  * 例句：  Her father was one of the leading proponents of the Channel Tunnel.
+  * 翻译：  她父亲是修建英吉利海峡隧道的主要倡议者之一。
+  <br>
+
+- Protestant
+  * 词义：  n.新教徒，新教 a.新教徒的，新教的
+  * 例句：  Angry Protestant youths threw bottles and bricks at the police.
+  * 翻译：  愤怒的新教青年向警察投掷瓶子和砖头。
+  <br>
+
+- psychedelic
+  * 词义：  n.迷幻剂，幻觉剂
+  * 例句：  Psychedelic seems to radically alter one's state of consciousness.
+  * 翻译：  迷幻剂似乎能彻底改变人的意识状态。
+  <br>
+
+- quadruple
+  * 词义：  n.成四倍
+  * 例句：  In 1973, the oil prices quadrupled.
+  * 翻译：  1973年，石油的价格增长为原来的四倍。
+  <br>
+
+- query
+  * 词义：  n.疑问，问题
+  * 例句：  If anyone has a query, I'll deal with it at the end of the meeting.
+  * 翻译：  如果有问题的话，我将在会议结束后进行解答。
+  <br>
