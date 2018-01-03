@@ -1733,3 +1733,66 @@
   * 例句：  The tribe abolished the partriarchal system ten years ago.
   * 翻译：  这个部落四年前废除了族长制。
   <br>
+
+---
+### 2018年01月03日 12:20:22
+
+- peddle
+  * 词义：  v.兜售，宣传，散播
+  * 例句：  We are all disgusted with her because she peddles gossip.
+  * 翻译：  她四处散播留言，所以我们都厌恶她。
+  <br>
+
+- penicillin
+  * 词义：  n.青霉素，盘尼西林
+  * 例句：  The discovery of penicillin is accidental.
+  * 翻译：  青霉素的发现很偶然。
+  <br>
+
+- periodic
+  * 词义：  a.周期的，定期的
+  * 例句：  Elephants in captivity have periodic fits of violence.
+  * 翻译：  被关起来的大象会出现周期性的暴力发作现象。
+  <br>
+
+- pervasive
+  * 词义：  a.弥漫的，广泛存在的，普遍的
+  * 例句：  Sexual harassment and discrimination are pervasive throughout this country's army.
+  * 翻译：  性骚扰和性别歧视的现象在该国军队中很普遍。
+  <br>
+
+- plagiarize
+  * 词义：  v.剽窃，抄袭
+  * 例句：  Sam has plagiarized most of my book.
+  * 翻译：  塞姆剽窃了我书中的大部分内容。
+  <br>
+
+- plank
+  * 词义：  n.厚木板(条)； 政策要点，政纲条目
+  * 例句：  The yard was divided by some planks from another yard.
+  * 翻译：  一些厚木板将这个院子与另一个院子隔开了。
+  <br>
+
+- popularity
+  * 词义：  n.普及，流行，声望
+  * 例句：  Linda' book have grown in popularity recently.
+  * 翻译：  最近，琳达的书越来越受欢迎。
+  <br>
+
+- populist
+  * 词义：  n.平民党党员
+  * 例句：  Some populists died in this confilict.
+  * 翻译：  一些平民党党员在这次冲突中牺牲了。
+  <br>
+
+- prelude
+  * 词义：  n.(行动或事件的)序幕，前奏，前奏曲
+  * 例句：  The prelude of the great symphony aroused the interest of all the audience.
+  * 翻译：  这首伟大的交响曲的前奏激起了所有听众的兴趣。
+  <br>
+
+- preservative
+  * 词义：  a.（能)保存的，储藏的，防腐的 n.保护剂，防腐剂
+  * 例句：  Their products contain a cancer-causing preservative.
+  * 翻译：  他们的产品含有一种致癌的防腐剂。
+  <br>
