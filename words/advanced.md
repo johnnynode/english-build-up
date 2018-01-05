@@ -1922,3 +1922,66 @@
   * 例句：  From this moment, I renounce this man as my friend.
   * 翻译：  从这一刻起,我和这个人不再是朋友。
   <br>
+
+---
+### 2018年01月06日 06:23:55
+
+- residue
+  * 词义：  n.剩余物,残余，剩余遗产
+  * 例句：  Gary's father died when he was young and left him little residue.
+  * 翻译：  加里的父亲在他年幼时就去世了，也没给他留下什么遗产。
+  <br>
+
+- revere
+  * 词义：  v.尊敬，敬畏，崇敬
+  * 例句：  The old aged were revered in our society.
+  * 翻译：  在我们的社会里，老年人收到尊敬。
+  <br>
+
+- rhythmical
+  * 词义：  a.有韵律的，有节奏的
+  * 例句：  It's a very rhythical music and it's so closely associagted with dancing.
+  * 翻译：  这首乐曲节奏感很强，非常适合跳舞。
+  <br>
+
+- roadhog / road hog
+  * 词义：  n.自私的司机，鲁莽的驾驶员
+  * 例句：  We shouldn't tolerate the road hog.
+  * 翻译：  我们不应该容忍鲁莽的驾驶员。
+  <br>
+
+- roam
+  * 词义：  v.随便走，漫游，徜徉，漫谈某事 n.漫步，徘徊
+  * 例句：  The sheep roamed the meadow as they grazed.
+  * 翻译：  羊在草地上四处走动，休闲地吃着草。
+  <br>
+
+- sanitary
+  * 词义：  a.清洁的，保健的 n.(有卫生设备的)公共厕所
+  * 例句：  You can't keep dogs in your apartment!
+  * 翻译：  你们不能在公寓里养狗，他们不干净。
+  <br>
+
+- sardine
+  * 词义：  n.沙丁鱼；<俚>庸碌无能的人
+  * 例句：  We were packed like sardines into a coach without a breath of air.
+  * 翻译：  我们像沙丁鱼一样被塞进密不透风的客车里。
+  <br>
+
+- scapegoat
+  * 词义：  n.替罪羊
+  * 例句：  It was the others who started the fire, but I was made the scapegoat.
+  * 翻译：  别人放的火，却拿我当替罪羊。
+  <br> 
+
+- schism
+  * 词义：  n.分裂，分歧，分派
+  * 例句：  Some people think the schism between science and the humanities has deepened in this century.
+  * 翻译：  有些人认为，本世纪科学与人文的分裂加深了。
+  <br>
+
+- sediment
+  * 词义：  n.沉淀物，沉积物
+  * 例句：  They are searching the markup of the sediment on the ocean floor.
+  * 翻译：  他们正在研究海底沉淀物的构成。
+  <br>
