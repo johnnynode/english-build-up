@@ -1859,3 +1859,66 @@
   * 例句：  If anyone has a query, I'll deal with it at the end of the meeting.
   * 翻译：  如果有问题的话，我将在会议结束后进行解答。
   <br>
+
+---
+### 2018年01月05日 19:57:49
+
+- quirk
+  * 词义：  n.偶然发生的事情，巧合
+  * 例句：  Years later, by a quirk of fate, Ben found himself sitting next to his ex-wife on a plane.
+  * 翻译：  几年后，十分巧合地，本发现他与前妻在同一架飞机上做邻座。
+  <br>
+
+- ranch
+  * 词义：  n.大牧场，饲养场
+  * 例句：  The farmers raised horses, cattle, sheep and chickens on this ranch.
+  * 翻译：  农民们在这个牧场上饲养马、牛、羊和鸡。
+  <br>
+
+- rating
+  * 词义：  n.级别，等级，收视率，收听率，信用程度
+  * 例句：  Our show has gone up in the ratings and got the highest of the year.
+  * 翻译：  我们节目的收视率一路飙升，最终成为年度收视率最高的节目。
+  <br>
+
+- rattlesnake
+  * 词义：  n.响尾蛇
+  * 例句：  The rattlesnake is extinct in our country.
+  * 翻译：  响尾蛇在我国已经绝迹。
+  <br>
+
+- raze
+  * 词义：  v.彻底破坏或摧毁(建筑物,城镇等)
+  * 例句：  The ememies razed our villages and towns.
+  * 翻译：  敌人将我们的村庄和城镇夷为平地。
+  <br>
+
+- ready-made
+  * 词义：  a.现成的，做好的
+  * 例句：  Now in the market the ready-made clothes are cheap and plentiful.
+  * 翻译：  现在市场上的成衣价格便宜、花样繁多。
+  <br>
+
+- red-hot
+  * 词义：  a.炙热的，激烈的，狂热的
+  * 例句：  The economist admitted that America's redhot economy is cooling.
+  * 翻译：  该经济学家承认美国炙热的经济正在降温。
+  <br>
+
+- refrigerated
+  * 词义：  a.冷冻的，冰冻的
+  * 例句：  The refrigerated foods are perishable without refrigeration.
+  * 翻译：  冷冻食品如果不冷藏容易腐烂。
+  <br>
+
+- regain
+  * 词义：  v.收回，恢复，重新夺得
+  * 例句：  The government set up a rehabilitation system to help injured workers regain the ability to work.
+  * 翻译：  政府建立了康复体制来帮助受伤的工人恢复工作能力。
+  <br>
+
+- renounce
+  * 词义：  v.声明放弃，抛弃，宣布终止
+  * 例句：  From this moment, I renounce this man as my friend.
+  * 翻译：  从这一刻起,我和这个人不再是朋友。
+  <br>
