@@ -1985,3 +1985,66 @@
   * 例句：  They are searching the markup of the sediment on the ocean floor.
   * 翻译：  他们正在研究海底沉淀物的构成。
   <br>
+
+---
+### 2018年01月07日 07:44:41
+
+- selective
+  * 词义：  a.选择的，选择性的，精挑细选的
+  * 例句：  A selective buyer compares many brands.
+  * 翻译：  精挑细选的买主买东西时会对比很多牌子。
+  <br>
+
+- separation
+  * 词义：  n.分离，分开
+  * 例句：  The growth of limited liability companies resulted in the separation of capital from management.
+  * 翻译：  有限责任公司的发展导致资产与管理的分离。
+  <br>
+
+- sexually
+  * 词义：  ad.性别地，两性之间地
+  * 例句：  Tom got some sexually transmitted disease.
+  * 翻译：  汤姆得了某种性传染病。
+  <br>
+
+- shimmer
+  * 词义：  v.闪烁，微微发亮
+  * 例句：  The tower with glass shimmers golden in the late day sun.
+  * 翻译：  那座镶有玻璃的塔在夕阳下闪烁着金色的光芒。
+  <br>
+
+- shortlist
+  * 词义：  n.候选人名单
+  * 例句：  He was at the top of the shortlist for job interviews.
+  * 翻译：  他位居面试的候选人名单之首。
+  <br>
+
+- shovel
+  * 词义：  n.铲，单斗挖掘机
+  * 例句：  Tom was very hungry and shoveled the food into his mouth at an alarming rate.
+  * 翻译：  汤姆快要饿疯了，他以惊人的速度狼吞虎咽起来。
+  <br>
+
+- shrivel
+  * 词义：  v.(使)蔫，(使)束手无策
+  * 例句：  Plants shrivel as they dry out in the sunlight.
+  * 翻译：  植物暴晒在阳光下会枯萎。
+  <br>
+
+- shudder
+  * 词义：  n./vi.战栗，发抖
+  * 例句：  Ann shuddered as she saw the snake.
+  * 翻译：  安看到蛇吓得浑身发抖。
+  <br>
+
+- shuffle
+  * 词义：  n./v.拖着脚步走，洗(纸牌)，蒙混，搅乱
+  * 例句：  Dad shuffled into his bedroom after a day's work.
+  * 翻译：  爸爸在工作了一天后拖着脚步走进了卧室。
+  <br>
+
+- sidewalk
+  * 词义：  n.人行道
+  * 例句：  The car rushed to the sidewalk and knocked down a passerby.
+  * 翻译：  汽车冲到人行道上，撞到了一个行人。
+  <br>
