@@ -2048,3 +2048,64 @@
   * 例句：  The car rushed to the sidewalk and knocked down a passerby.
   * 翻译：  汽车冲到人行道上，撞到了一个行人。
   <br>
+
+---
+### 2018年01月08日 08:43:51
+
+- slit
+  * 词义：  n.泥沙，淤泥
+  * 例句：  The flooding went by but left the fertile silt.
+  * 翻译：  虽然洪水席卷了一切，却留下了肥沃的淤泥。
+  <br>
+
+- similarly
+  * 词义：  ad.同样地，类似于
+  * 例句：  Mary was late and similarly I was delayed.
+  * 翻译：  玛丽迟到了，我也晚了。
+  <br>
+
+- site
+  * 词义：  n.位置，场所 v.使坐落在，设置
+  * 例句：  The detectives surveyed the construction site for a moment.
+  * 翻译：  侦探们在建筑工地上调查了片刻。
+  <br>
+
+- slash
+  * 词义：  v.砍 n.砍；斜线号
+  * 例句：  The robber slashed at a customer with a big knife.
+  * 翻译：  劫匪挥着一把大刀朝一位顾客砍去。
+  <br>
+
+- sledge
+  * 词义：  n.雪橇
+  <br>
+
+- slowdown
+  * 词义：  n.降低速度，减速
+  * 例句：  The country has been fighting an economic slowdown for more than 10 years.
+  * 翻译：  该国与经济减速对抗已达十余年之久。
+  <br>
+
+- small-minded
+  * 词义：  a.心胸狭窄的，固执己见的
+  * 例句：  You are small-mined and ignorant.
+  * 翻译：  你心胸狭窄，且愚昧无知。
+  <br>
+
+- smallpox
+  * 词义：  ad.顺利抵，光滑地，平稳地
+  * 例句：  We all should work together smoothly toward common goals. 
+  * 翻译：  我们大家要一起奋斗,向我们的共同目标稳步前进。
+  <br>
+
+- smother
+  * 词义：  v.把(火)焖熄,抑制,使窒息
+  * 例句：  John put his hand over his mouth, trying to smother his laughter.
+  * 翻译：  约翰用手捂住嘴，想止住笑.
+  <br>
+
+- smudge
+  * 词义：  v.弄脏，渍痕
+  * 例句：  You won't get refund if you smudge the cover of the book.
+  * 翻译：  如果你弄脏了书的封面，将得不到退款。
+  <br>  
