@@ -2172,3 +2172,66 @@
   * 例句：  Traffic came to a standstill because of an accident.
   * 翻译：  由于发生了事故，交通停滞。
   <br>
+
+---
+### 2018年01月10日 06:11:35
+
+- starch
+  * 词义：  n.淀粉
+  * 例句：  You don't need so much starch. You're getting too fat.
+  * 翻译：  你不需要那么多富含淀粉的食物，你太胖了。
+  <br>
+
+- stature
+  * 词义：  n.身高
+  * 例句：  My son-in-law is about six feet in stature.
+  * 翻译：  我女婿大概有六英尺高。
+  <br>
+
+- stead
+  * 词义：  n.替代，有用
+  * 例句：  Tom couldn't attend the meeting but he sent his assistant in his stead.
+  * 翻译：  汤姆不能来参加这个会议，但他派了助手替他出席。
+  <br>
+
+- sterile
+  * 词义：  a.不育的，贫瘠的，无结果的，无菌的
+  * 例句：  No crops could grow in the sterile soil.
+  * 翻译：  这片贫瘠的土地上长不出农作物。
+  <br>
+
+- stifle
+  * 词义：  v.使窒息，扼杀，抑制
+  * 例句：  The smoke in the room stifled the children.
+  * 翻译：  房间里的烟让孩子们窒息。
+  <br>
+
+- stimulus
+  * 词义：  n.(<pl.>stimuli) 鼓励，刺激(物)，促进因素
+  * 例句：  The nutrient in the soil acts as a stimulus to make the plants grow.
+  * 翻译：  土壤中的养分是促进植物生长的因素。
+  <br>
+ 
+- stockpile
+  * 词义：  n.积蓄，库存，资源
+  * 例句：  During the winter, we keep a stockpile of coal in the backyard.
+  * 翻译：  冬天的时候，我们在后院存积了一些煤。
+  <br>
+
+- stomp
+  * 词义：  v.重踏，跺，践踏
+  * 例句：  The drunk grabbed the food and suddenly stomped over a table.
+  * 翻译：  醉汉一把夺过食物，突然猛地踏上了桌子。
+  <br>
+
+- stout
+  * 词义：  a.健壮的，结实的
+  * 例句：  He has a stout makeup.
+  * 翻译：  他体格强壮。
+  <br>
+
+- stow
+  * 词义：  v.装跺，装载
+  * 例句：  I stowed my luggage in a large truck.
+  * 翻译：  我将行李装到了一辆大卡车上。
+  <br>
