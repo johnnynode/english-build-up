@@ -2109,3 +2109,66 @@
   * 例句：  You won't get refund if you smudge the cover of the book.
   * 翻译：  如果你弄脏了书的封面，将得不到退款。
   <br>  
+
+---
+### 2018年01月09日 20:41:58
+
+- sneer
+  * 词义：  n./vi. (at) 嗤笑，嘲笑
+  * 例句：  The other students in the class sneered at the poor girl.
+  * 翻译：  班里其他的孩子都嘲笑那个贫穷的女孩。
+  <br>
+
+- soothe
+  * 词义：  v.安慰，使平静，缓和(痛苦等)，减轻
+  * 例句：  The Party has taken action to soothe the citizens' wrath.
+  * 翻译：  该党已采取行动以平息市民的愤怒。
+  <br>
+
+- sparing
+  * 词义：  a.节俭的，保守的
+  * 例句：  Our manager is sparing with words.
+  * 翻译：  我们经理惜字如金。
+  <br>
+ 
+- sparse
+  * 词义：  a.稀疏的，稀落的，稀少的
+  * 例句：  Jack was sitting on the curb, watching sparse headlights on the nearby freeway.
+  * 翻译：  杰克坐在路边，望着附近高速公路上稀落的车灯。
+  <br>
+
+- spatial
+  * 词义：  a.空间的
+  * 例句：  The spatial arrangement of the furniture was pleasing to the eye.
+  * 翻译：  这套家具的空间布局让人赏心悦目。
+  <br>
+
+- spotlight
+  * 词义：  n.聚光灯，公众的注意
+  * 例句：  The strongest earthquake in the world for 40 years was the spotlight of today's news.
+  * 翻译：  这次40年来世界上最严重的地震是今年
+  <br>
+
+- sprawl
+  * 词义：  v.四肢摊开坐、卧或倒下；蔓延
+  * 例句：  Lorna sprawed on her bed with her eyes open.
+  * 翻译：  罗娜睁着眼睛，摊开手脚躺在床上。
+  <br>
+
+- squat
+  * 词义：  n./vi. 蹲坐
+  * 例句：  John squatted and picked up the book that he'd dropped.
+  * 翻译：  约翰尊下捡起掉在地上的书。
+  <br>
+
+- stamina
+  * 词义：  n.持久力，耐力，精力
+  * 例句：  You need stamina to be a long-distance runner.
+  * 翻译：  要想成为长跑运动员，你得有耐力。
+  <br>
+
+- standstill
+  * 词义：  n.停止，停顿
+  * 例句：  Traffic came to a standstill because of an accident.
+  * 翻译：  由于发生了事故，交通停滞。
+  <br>
