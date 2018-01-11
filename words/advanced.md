@@ -2235,3 +2235,66 @@
   * 例句：  I stowed my luggage in a large truck.
   * 翻译：  我将行李装到了一辆大卡车上。
   <br>
+
+---
+### 2018年01月11日 08:10:24
+
+- strait
+  * 词义：  n.海峡， [常pl.]困境，危难
+  * 例句：  The company was in desperate straits.
+  * 翻译：  公司陷入了重重困境。
+  <br>
+
+- strand
+  * 词义：  n.（线等的)股，缕
+  * 例句：  The shy girl fingers a strand of her hair and says nothing.
+  * 翻译：  那个害羞的女孩用手拨弄着一缕头发，一言不发。
+  <br>
+
+- stratum
+  * 词义：  n.(<pl.>strata) 层(尤指岩层)，底层，社会阶层
+  * 例句：  The reporter interviewed people of different strata.
+  * 翻译：  这位记者采访过社会各阶层的人。
+  <br>
+
+- subdue
+  * 词义：  v.征服，减轻，抑制
+  * 例句：  Do snakes subdue their prey with injecting poison?
+  * 翻译：  蛇是通过注射毒液来制服猎物的吗？
+  <br>
+
+- surmise
+  * 词义：  n./vt.推测，猜测
+  * 例句：  We surmised that the traffic jam was caused by some accident.
+  * 翻译：  我们猜测交通堵塞是因为发生了事故。
+  <br>
+
+- surveillance
+  * 词义：  n.监视，挂念，悬而未决
+  * 例句：  The operation of the company is under the surveillance of the government.
+  * 翻译：  该公司的运营受政府监督。
+  <br>
+
+- suspense
+  * 词义：  n.悬念，挂念，悬而未决
+  * 例句：  The detective novel is full of suspense.
+  * 翻译：  这部侦探小说充满悬念。
+  <br>
+
+- suspension
+  * 词义：  n.暂停，悬，挂
+  * 例句：  An old-fashioned sedan drives over the rusty suspension bridege.
+  * 翻译：  一辆老式轿车驶过这座锈迹斑斑的吊桥。
+  <br>
+
+- sustenance
+  * 词义：  n.食物，生计，营养
+  * 例句：  Water has been a prime source of sustenance to people.
+  * 翻译：  水是人类维持生命的基本物质。
+  <br>
+
+- swollen
+  * 词义：  a.肿起的
+  * 例句：  My face was swollen with toothache.
+  * 翻译：  我的脸因牙痛肿了起来。
+  <br>
