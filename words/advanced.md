@@ -2298,3 +2298,66 @@
   * 例句：  My face was swollen with toothache.
   * 翻译：  我的脸因牙痛肿了起来。
   <br>
+
+---
+### 2018年01月12日 08:34:42
+ 
+- symbolize
+  * 词义：  v.象征
+  * 例句：  Rose is used to symbolize love.
+  * 翻译：  玫瑰往往象征爱情。
+  <br>
+
+- syndicate
+  * 词义：  n.辛迪加，企业联合组织 v.(使)联合组成辛迪加
+  * 例句：  The local businessmen were planning to syndicagte next month.
+  * 翻译：  本地的商家正打算下个月联合组成辛迪加。
+  <br>
+
+- tack
+  * 词义：  n.大头钉，行动方向，方针 v.用平头钉钉
+  * 例句：  She tacked a notice to the board.
+  * 翻译：  她在布告栏上订了一份通知。
+  <br>
+
+- tangible
+  * 词义：  a.确实，触摸得到的，具体的
+  * 例句：  One tangible benefit of my new job is a company car.
+  * 翻译：  新工作给我一个实实在在的好处是公司给我配了一辆车。
+  <br>
+
+- tardy
+  * 词义：  a.迟缓的，迟的
+  * 例句：  I apologize for my tardy response to your letter.
+  * 翻译：  很抱歉没能及时回复你的来信。
+  <br>
+
+- teens
+  * 词义：  n.十几岁(13~19岁)
+  * 例句：  Bob is not yet out of his teens.
+  * 翻译：  鲍勃还不到二十岁。
+  <br>
+
+- temperate
+  * 词义：  a.温带的，(气候)温和的，自制的
+  * 例句：  We have the largest temperate rainforest of the world in our country.
+  * 翻译：  我国有世界最大的温带雨林。
+  <br>
+
+- template
+  * 词义：  n.模样，样板，模式
+  * 例句：  Mary used a template to cut out paper snowflakes.
+  * 翻译：  玛丽用样板剪出纸雪花。
+  <br>
+
+- terrestrial
+  * 词义：  a.陆生的，陆栖的，地球的
+  * 例句：  Now the mamalia, whether terrestrial or aquatic, bear so small a proportion to other classes of animals.  
+  * 翻译：  如今哺乳动物，无论是陆生的还是水生的，相对于其他动物种类而言，所占比例非常小。
+  <br>
+
+- tinge
+  * 词义：  vt.染 n.(较淡的)色调，气息
+  * 例句：  The artist tinged his long hair with red.
+  * 翻译：  那位艺术家把自己的头发染成了红色。
+  <br>
