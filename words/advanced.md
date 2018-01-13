@@ -2361,3 +2361,62 @@
   * 例句：  The artist tinged his long hair with red.
   * 翻译：  那位艺术家把自己的头发染成了红色。
   <br>
+
+---
+### 2018年01月13日 21:48:06
+
+- tonic
+  * 词义：  n.滋补品，滋补的
+  * 例句：  Marty got a bottle of tonic medicine from the doctor.
+  * 翻译：  马蒂从医生那里拿了一瓶补药。
+  <br>
+
+- tornado
+  * 词义：  n.龙卷风
+  <br>
+
+- tort
+  * 词义：  n.[律] 民事侵权行为
+  * 例句：  He won the tort lawsuit and got one million dollars as compensation.
+  * 翻译：  他赢得了这场民事侵权诉讼，并获得了一百万美元的赔偿。
+  <br>
+
+- tortuous
+  * 词义：  a.曲折的，转弯抹角的，含混不清的
+  * 例句：  This author is famous for his tortuous detective stories.
+  * 翻译：  这位作家以他跌宕起伏的侦探故事而出名。
+  <br>
+
+- tournament
+  * 词义：  n.锦标赛，比赛
+  * 例句：  The tournament has become one of the highlights of this rugby season.
+  * 翻译：  这次比赛已经成为该橄榄球赛季的一个亮点。
+  <br>
+
+- transfusion
+  * 词义：  n.输血，输液，灌输
+  * 例句：  You could get hepatitis from transfusion.
+  * 翻译：  输血可能会感染肝炎。
+  <br>
+
+- translucent
+  * 词义：  a.(半)透明的
+  * 例句：  The newly built skyscraper has a translucent glass door.
+  * 翻译：  那座新建的摩天大楼装有一扇半透明的玻璃门。
+  <br>
+
+- traverse
+  * 词义：  v.横穿过，横跨
+  * 例句：  Our team traversed the difficult terrain at a snail's pace.
+  * 翻译：  我们队伍蜗牛般缓缓横穿过这片险峻的地区。
+  <br>
+
+- trickle
+  * 词义：  v.一滴滴地流 n.细流
+  * 例句：  A trickle of blood from his nose.
+  * 翻译：  一细行血从他的鼻子里流出。
+  <br>
+
+- trigonometry
+  * 词义：  n.三角法
+  <br>
