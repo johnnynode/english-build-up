@@ -2420,3 +2420,56 @@
 - trigonometry
   * 词义：  n.三角法
   <br>
+
+---
+### 2018年01月14日 09:54:39
+
+- trillion
+  * 词义：  num.万亿
+  <br>
+
+- trot
+  * 词义：  v.快走，小跑 n.小炮，骑马
+  * 例句：  Peter slows the horse to a trot, and then to a complete stop.
+  * 翻译：  彼得让马减速至小跑，然后完全停了下来。
+  <br>
+
+- turtle
+  * 词义：  n.海龟
+  <br>
+
+- ulcer
+  * 词义：  n.溃疡，腐烂物
+  <br>
+
+- undue
+  * 词义：  a.不适当的，过度的
+  * 例句：  I think you have punished Fred with perhaps undue severity.
+  * 翻译：  我觉得你对弗雷德的惩罚可能过于严厉了。
+  <br>
+
+- unearth
+  * 词义：  v.发掘或挖出某物，搜寻到某物，发现并披露
+  * 例句：  The famers helped to unearth the survived people in the mine accident.
+  * 翻译：  农民们帮着挖掘矿难中的幸存者。
+  <br>
+
+- unilateralism
+  * 词义：  n.单边主义
+  <br>
+
+- upbringing
+  * 词义：  n.抚育，教养
+  * 例句：  Mary's country upbinging explains her love of nature.
+  * 翻译：  玛丽是在乡下长大的，所以她非常热爱大自然。
+  <br>
+
+- uranium
+  * 词义：  n.铀
+  <br>
+
+- vaccination
+  * 词义：  n.(医) 接种疫苗，种痘
+  * 例句：  The doctor gave vaccination by injection.
+  * 翻译：  医生通过注射来接种疫苗。
+  <br>
