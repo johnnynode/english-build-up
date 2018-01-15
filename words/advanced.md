@@ -2473,3 +2473,66 @@
   * 例句：  The doctor gave vaccination by injection.
   * 翻译：  医生通过注射来接种疫苗。
   <br>
+
+---
+### 2018年01月15日 08:27:57
+
+- vaunt
+  * 词义：  v.自夸，吹嘘
+  * 例句：  Amanda likes vaunting her achievements.
+  * 翻译：  阿曼达喜欢吹嘘自己的成就。
+  <br>
+
+- vendor
+  * 词义：  n.小贩，卖主
+  * 例句：  The vendor of the hourse asked Jack to pay the deposit right away.
+  * 翻译：  卖房者要求杰克马上付定金。
+  <br>
+
+- viable
+  * 词义：  a.可行的，可实施的 能独立的，能独立发展的
+  * 例句：  Recording the elecgtrical activity of single brain cells in mamals only became a viable proposition in 1950s.
+  * 翻译：  记录哺乳动物单个脑细胞电子活动的提议到二十世纪五十年代才变得可行。
+  <br>
+
+- vibration
+  * 词义：  n.振动，颤动
+  * 例句：  The vibrations of the earthquake shattered the glass.
+  * 翻译：  地震震碎了玻璃。
+  <br>
+
+- vigilance
+  * 词义：  n.警戒，警惕
+  * 例句：  Because of the police's vigilance, the crime was prevented.
+  * 翻译：  因为警方的警惕，犯罪行为被阻止了。
+  <br>
+
+- volatile
+  * 词义：  a.不稳定的，反复无常的，挥发性的
+  * 例句：  Turpentine is a volatile oil obtained from pine trees.
+  * 翻译：  松节油是一种采自松树的具有挥发性的油。
+  <br>
+
+- wade
+  * 词义：  v.涉水，跋涉，费力地行走
+  * 例句：  The enemy wade across the river toward us.
+  * 翻译：  敌人涉水过河朝我们这边来了。
+  <br>
+
+- wait-and-see
+  * 词义：  Many people are taking a wait-and-see attitude towards the future of euthanasia.
+  * 例句：  很多人对安乐死的前景抱着一种观望的态度。
+  * 翻译：
+  <br>
+
+- warranty
+  * 词义：  n.担保书，证书，保单，权威，根据
+  * 例句：  Mary's new car came with a one-year-warranty.
+  * 翻译：  玛丽的新车保修一年。
+  <br>
+
+- waver
+  * 词义：  n./vi. 摇摆，犹豫，动摇
+  * 例句：  While we were wavering, somebody else bought the house. 
+  * 翻译：  就在我们犹豫不决的时候，别人把那栋房子买了下来。
+  <br>
