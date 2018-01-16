@@ -2536,3 +2536,66 @@
   * 例句：  While we were wavering, somebody else bought the house. 
   * 翻译：  就在我们犹豫不决的时候，别人把那栋房子买了下来。
   <br>
+
+---
+###
+
+- wharf
+  * 词义：  n. 码头
+  * 例句：  There were white sails around the wharf.
+  * 翻译：  码头周围白帆点点。
+  <br>
+
+- whereby
+  * 词义：  ad./conj. 借以，凭
+  * 例句：  Tom devised a plan whereby they might escape.
+  * 翻译：  汤姆想出了一个他们可借以逃跑的计划。
+  <br>
+
+- whirlwind
+  * 词义：  n.旋风，涡动，猛烈的势力
+  * 例句：  Anna was swept off her feet by his whirlwind courtship.
+  * 翻译：  他狂热的追求让安娜动了芳心。
+  <br>
+
+- wholesale
+  * 词义：  ad./ a.批发 n./v. 批发
+  * 例句：  This product is only sold by wholesale.
+  * 翻译：  这种产品只批发出售。
+  <br>
+
+- wield
+  * 词义：  v.支配，掌权
+  * 例句：  The military authority wielded political power of the country.
+  * 翻译：  军事当局掌控该国政权。
+  <br>
+
+- wither
+  * 词义：  v.枯萎，凋零，(使)消亡，(使)退缩
+  * 例句：  The leaves of the trees were beginning to wither.
+  * 翻译：  树叶开始凋零。
+  <br>
+
+- wrath
+  * 词义：  n.愤怒，大怒
+  * 例句：  Victor was white with wrath.
+  * 翻译：  维克托气得脸色发白。
+  <br>
+
+- yearn
+  * 词义：  v.(for) 盼望，向往，怀念
+  * 例句：  The busy workers yearned for a vacation.
+  * 翻译：  这些忙碌的工人渴望有一个假期。
+  <br>
+
+- yellowish
+  * 词义：  a.微黄的，发黄的
+  * 例句：  This amber is a hard yellowish brown gum.
+  * 翻译：  这块琥珀石块坚硬的微黄色树脂。
+  <br>
+
+- zest
+  * 词义：  n.滋味，趣味，热情，热心 v. 给...调味
+  * 例句：  Her cooking has a delicious zest.
+  * 翻译：  她做得饭很好吃。
+  <br>
