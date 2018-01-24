@@ -1,16 +1,12 @@
 {
   "name": "english-build-up",
   "version": "1.0.0",
-  "description": "- English learning and progress",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "description": "English learning and progress for chinese students",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/johnnynode/english-build-up.git"
   },
-  "author": "",
+  "author": "johnnynode",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/johnnynode/english-build-up/issues"
