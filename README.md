@@ -52,4 +52,4 @@
 - [wordList48](./words/wordList48.md)
 - [wordList49](./words/wordList49.md)
 - [wordList50](./words/wordList50.md)
-- [advanced](./words/advanced.md)
+- [Advanced](./words/advanced.md)
