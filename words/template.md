@@ -2,7 +2,6 @@
 >
 > [新东方单词在线阅读地址](http://download.dogwood.com.cn/online/kychlx/iPhone.html) ，希望这个链接一直都有效 :)
 
----
 ###
 
 -
