@@ -38,7 +38,7 @@
 - qualification
   * 词义：  n.资格，合格，技能 ；限定，条件 ； 合格证
   * 例句：  He has got the qualification for opening a pub.
-  * 翻译：  他弄到了开酒吧的合格证
+  * 翻译：  他弄到了开酒吧的合格证。
   <br>
 
 - worthy
@@ -66,13 +66,13 @@
 - liquid
   * 词义：  n.液体 a.液态的
   * 例句：  The first bubbles to escape from the liquid are a mixture of air and hydrogen.
-  * 翻译：  从该液体中最先逸出的是空气和氢的混合物
+  * 翻译：  从该液体中最先逸出的是空气和氢的混合物。
   <br>
 
 - sword
   * 词义：  n. 剑，刀
   * 例句：  The officer was wearing his sword.
-  * 翻译：  那个军官佩着剑
+  * 翻译：  那个军官佩着剑。
   <br>
 
 ---
@@ -95,13 +95,13 @@
 - exterior
   * 词义：  a. 外部的，外面的 n. 外部
   * 例句：  We are painting the exterior wall of the house.
-  * 翻译：  我们正在给房子的外墙刷漆
+  * 翻译：  我们正在给房子的外墙刷漆。
   <br>
 
 - preference
   * 词义：  n. 偏爱，喜爱； 优惠，优先选择
   * 例句：  The students who come earlier have the preference to the seats.
-  * 翻译：  先到的学生可以优先选择座位
+  * 翻译：  先到的学生可以优先选择座位。
   <br>
 
 - elbow
@@ -121,7 +121,7 @@
 - terrific
   * 词义：  a. 极好的；非常的，极度的
   * 例句：  Losing his job was a terrific blow to Tony.
-  * 翻译：  失去工作对托尼来说是一个非常大的打击
+  * 翻译：  失去工作对托尼来说是一个非常大的打击。
   <br>
 
 - thrill
@@ -242,7 +242,7 @@
 - inflation
   * 词义：  n. 通货膨胀
   * 例句：  In Britain, inflation is running half a percentage point below the rate predicted at the end of last year.
-  * 翻译：  英国的通货屏障率比去年年底预测的低0.5个百分点。
+  * 翻译：  英国的通货膨胀率比去年年底预测的低0.5个百分点。
   * 考点：  inflation rate 通货膨胀率 ; inflationary(a. 膨胀的;通货膨胀的)
   * 派生：  inflationary (a. 膨胀的,通货膨胀的)
   <br>
@@ -295,7 +295,7 @@
  * 词义：   n. 猫头鹰
  * 例句：   Out in the garden an owl hooted suddenly.
  * 翻译：   外面的花园里突然有一只猫头鹰呜呜地叫起来。
- * 参考： growl (n./v. 咆哮) ; howl (n./v. 嗥叫)
+ * 参考：   growl (n./v. 咆哮) ; howl (n./v. 嗥叫)
  <br>
 
 - denote
@@ -354,7 +354,7 @@
 -  dictate
     * 词义：  v. 口述，(使)听写; 命令
     * 例句：  The heir of the company always dictated his orders to the management.
-    * 翻译：  改公司的继承人，总是对企业的管理者指手画脚。
+    * 翻译：  该公司的继承人，总是对企业的管理者指手画脚。
     <br>
 
 -  lame
@@ -373,9 +373,9 @@
     <br>
 
 -  stiff
-    * 词义：  a. 硬的，僵直的; 拘谨的，呆板的; 艰难的，费劲的
+    * 词义：  a. 硬的,僵直的; 拘谨的,呆板的; 艰难的,费劲的
     * 例句：  GRE is a stiff examination for me.
-    * 翻译：  GRE 考试堵我来说难度很大。
+    * 翻译：  GRE 考试对我来说难度很大。
     * 派生：  stiffness (n. 僵硬， 坚硬)
     <br>
 
@@ -442,8 +442,7 @@
     
 -  incident
     * 词义：  n. 事件,事变  
-    * 短语：  a touching incident
-    * 翻译：  感人的事件
+    * 短语：  a touching incident 感人的事件
     * 考点：  tragic incident (惨剧)
     <br>
     
@@ -493,7 +492,7 @@
 -  prescribe
     * 词义：  vt. 指示,规定; 开处方,开(药) 
     * 例句：  As long as a doctor prescribes a drug for a legitimate medical purpose,the doctor has done nothing illegal even if the patient uses the drug to hasten death.
-    * 翻译：  只要医生依据合法的医药用途开药,就不算做了什么违法的事,即时病人拿这种药来加速死亡。
+    * 翻译：  只要医生依据合法的医药用途开药,就不算做了什么违法的事,即使病人拿这种药来加速死亡。
     <br>
     
 -  cape
