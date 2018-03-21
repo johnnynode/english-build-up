@@ -498,4 +498,4 @@
 -  cape
     * 词义：  n. 斗篷,披肩; 海角 
     * 例句：  In 1978,Naomi James became the first woman to sail solo around the world via Cape Horn.
-    * 翻译：  1978年,娜奥米·詹姆斯成为第一个肚子驾船绕过合恩角环游世界的女子。
+    * 翻译：  1978年,娜奥米·詹姆斯成为第一个独自驾船绕过合恩角环游世界的女子。
