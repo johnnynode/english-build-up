@@ -520,7 +520,7 @@
 
 -  undertake
 
-  * 词义：  vt. 承担，单人； 许诺，保证；
+  * 词义：  vt. 承担，担任； 许诺，保证；
   * 例句：  Mary will undertake the project of renovating her house on Saturday.
   * 翻译：  玛丽将在星期六着手翻新她的房子。
   * 派生：  undertaking (n. 企业，承诺)
