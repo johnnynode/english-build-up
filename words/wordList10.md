@@ -217,7 +217,7 @@
   <br>
 
 - deficit
-  * 词义：  n.赤子，逆差
+  * 词义：  n.赤字，逆差
   * 短语：  a budget deficit (赤字预算) // a trade deficit 贸易逆差
   <br>
 
@@ -320,7 +320,7 @@
 
 - pilgrim
   * 词义：  n.朝圣者，香客
-  * 例句：  My pilgrims travel to the cathedral in France every year.
+  * 例句：  Many pilgrims travel to the cathedral in France every year.
   * 翻译：  每年有许多朝圣者到法国的那座大教堂朝拜。
   <br>
 
