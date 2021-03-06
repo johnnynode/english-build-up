@@ -435,7 +435,7 @@
   <br>
 
 - centigrade
-  * 词义：  n.设施温度计，百度分； a.摄氏温度计的，百分度的
+  * 词义：  n.摄氏温度计，百分度； a.摄氏温度计的，百分度的
   * 例句：  Tom accidentally broke the centigrade themometer during the experiment.
   * 翻译：  汤姆在做实验时，不小心打破了摄氏温度计。
   <br>
