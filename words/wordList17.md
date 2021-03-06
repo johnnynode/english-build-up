@@ -93,7 +93,7 @@
   <br>
 
 - stimulate
-  * 词义：  vt.刺激，使兴奋；激励，故里；
+  * 词义：  vt.刺激，使兴奋；激励，鼓励；
   * 例句：  We can try massaging the feet to stimulate the flow.
   * 翻译：  我们可以试着通过按摩双足来刺激血液的流动。
   * 派生：  stimulation (n.刺激，鼓励，鼓舞) stimulant (n.刺激物)
@@ -175,7 +175,7 @@
   <br>
 
 - static / statical
-  * 词义：  a.静态的；精力地
+  * 词义：  a.静态的；静力的；静止的
   * 例句：  House prices have been static for several months in the city.
   * 翻译：  几个月来本市的房价一直很稳定。
   <br>
