@@ -32,7 +32,7 @@
   <br>
 
 - immerse
-  * 词义：  vt.你沉浸在，使陷入；使浸没
+  * 词义：  vt.使沉浸在，使陷入；使浸没
   * 例句：  The man immersed his face into the shower faucet.
   * 翻译：  那名男子把脸浸在淋浴头喷出的水里。
   <br>
