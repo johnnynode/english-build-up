@@ -438,7 +438,7 @@
   * 考点：  input-output system 输入输出系统 // input-output balance 投入和产出平衡  
   <br>
 
--subordinate
+- subordinate
   * 词义：  a.次要的，从属的，下级的； n.部署，下级
   * 例句：  The manager stared perplexedly at his subordinate and uttered a word or two of rough apology.
   * 翻译：  经理困惑地看着下属，用一两句话简单地道了歉。
