@@ -10,7 +10,7 @@
   * 翻译：  那名外教每周单独给汤姆上两次法语课。
   <br>
 
-- waterfall
+- chancellor
   * 词义：  n.大臣，总理，首席法官，大学校长  
   * 例句：  The chancellor of the court was accused of bribery.
   * 翻译：  改法院的首席法官被控受贿。
