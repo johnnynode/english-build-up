@@ -148,7 +148,7 @@
   <br>
 
 - infrastructure
-  * 词义：  n.基础结构，基础设
+  * 词义：  n.基础结构，基础设施
   * 例句：  Infrastructure is a country's fixed capital equipment, i.e. roads, railway, power-station, etc.
   * 翻译：  基础设施是一个国家的固定资产装备，即公路，铁路，发电站等设施。
   * 考点：  industrials infrastructure 工业基础设施 // the energy and telecom infrastructures 能源和电信基础设施
