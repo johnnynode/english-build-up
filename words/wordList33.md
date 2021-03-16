@@ -336,7 +336,7 @@
   <br>
 
 - unemployment
-  * 词义：  n.失业，实业人数
+  * 词义：  n.失业，失业人数
   * 例句：  The unemployment remained stubbornly high.
   * 翻译：  失业人数一直居高不下。
   * 参考：  unemployed (a.失业的)
@@ -468,14 +468,14 @@
   * 翻译：  我欣然地把车借给了我最好的朋友。
   <br>
 
--　sacred
+- sacred
   * 词义：  a.神圣的，宗教的，庄严的
   * 例句：  My divorce makes me question the sacred love.
   * 翻译：  离婚使我对神圣的爱情产生换衣。
   * 同义：  holy (a.神圣的) religious (a.宗教上的)
   * 反义：  profane (a.亵渎的)
   <br>
-  
+
 - auxiliary
   * 词义：  a.辅助的，补助的
   * 例句：  We have an auxiliary network.
