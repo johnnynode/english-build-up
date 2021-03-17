@@ -53,7 +53,7 @@
   <br>
 
 - memorial 
-  * 词义：  a.记忆的，几年的，追悼的 n. 纪念物，纪念碑，纪念馆
+  * 词义：  a.记忆的，纪念的，追悼的 n. 纪念物，纪念碑，纪念馆
   * 例句：  The memorial service will start at 9 a.m. tomorrow.
   * 翻译：  追悼仪式将于明早9点开始。
   <br>
