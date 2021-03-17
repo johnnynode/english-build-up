@@ -468,6 +468,12 @@
   * 翻译：  我欣然地把车借给了我最好的朋友。
   <br>
 
+- readily2
+  * 词义：  ad.容易地；乐意地，欣然地
+  * 例句：  I readily let my best friend borrow my car.
+  * 翻译：  我欣然地把车借给了我最好的朋友。
+  <br>
+
 - sacred
   * 词义：  a.神圣的，宗教的，庄严的
   * 例句：  My divorce makes me question the sacred love.
